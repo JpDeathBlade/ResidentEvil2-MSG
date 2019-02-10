@@ -1,0 +1,2412 @@
+﻿アイテムなし
+Search Completed
+Exploration terminée
+Sezione esplorata
+Komplett durchsucht
+Explorado
+Поиск завершен
+Szukanie zakończone
+Busca Concluída
+수색 완료
+搜索完成
+搜索完毕
+探索中
+Currently Searching
+Exploration en cours
+In esplorazione
+Wird durchsucht
+Explorando
+Ведется поиск...
+Szukanie w toku
+Busca em Andamento
+현재 수색 중
+正在搜索
+搜索中
+NO DATA
+No Info
+Aucune info
+Nessuna informazione
+Keine Info
+Sin información
+Нет информации
+Brak informacji
+Sem Informação
+정보 없음
+無資訊
+无信息
+敷地内
+Premises
+Magasin
+Negozio
+Gebäude
+Almacén
+Помещение
+Teren
+Imediações
+구내
+房舍
+房舍
+大通り
+City Streets
+Rues de la ville
+Strade della città
+Straße
+Calles
+Улицы города
+Ulice miasta
+Ruas da Cidade
+도시 거리
+城市街道
+城市街道
+メインホール
+Main Hall
+Hall principal
+Atrio principale
+Eingangshalle
+Sala principal
+Холл
+Główny hol
+Saguão Principal
+메인 홀
+大廳
+大厅
+メインホール
+Main Hall
+Hall principal
+Atrio principale
+Eingangshalle
+Sala principal
+Холл
+Główny hol
+Saguão Principal
+메인 홀
+大廳
+大厅
+メインホール
+Main Hall
+Hall principal
+Atrio principale
+Eingangshalle
+Sala principal
+Холл
+Główny hol
+Saguão Principal
+메인 홀
+大廳
+大厅
+正門
+Entrance
+Entrée
+Ingresso
+Eingang
+Entrada
+Вход
+Wejście
+Entrada
+입구
+入口
+入口
+受付
+Reception
+Réception
+Sportello<ENT>informazioni
+Empfang
+Recepción
+Приемная
+Recepcja
+Recepção
+리셉션
+櫃台
+接待处
+資料室
+Records Room
+Archives
+Archivio
+Aktenraum
+Sala de registros
+Комната записей
+Archiwum
+Sala de Registros
+기록실
+資料室
+档案室
+作戦会議室
+Operations Room
+Salle des<ENT>opérations
+Stanza del<ENT>briefing
+Besprechungszimmer
+Sala de operaciones
+Командный пункт
+Sala odpraw
+Sala de Operações
+작전실
+會議室
+指挥室
+備品保管庫
+Safety Deposit<ENT>Room
+Salle<ENT>des casiers
+Armadietti
+Schließfächer<ENTHYPH>raum
+Depósito de<ENT>seguridad
+Комната<ENT>хранения
+Pokój z depozytami
+Sala da<ENT>Caixa-Forte
+안전<ENT>금고실
+沒收品<ENT>保管室
+扣押物品<ENT>保管室
+西側オフィス
+West Office
+Bureau ouest
+Ufficio ala ovest
+Büro (Westseite)
+Oficina oeste
+Западный офис
+Zachodnie biuro
+Escritório Oeste
+서쪽 사무실
+西側辦公室
+西侧办公室
+暗室
+Dark<ENTHYPH>room
+Chambre<ENT>noire
+Camera<ENT>oscura
+Dunkelkammer
+Cuarto<ENT>oscuro
+Фотолаборатория
+Ciemnia
+Laboratório<ENTHYPH>Fotográfico
+암실
+暗房
+暗房
+非常階段
+Fire Escape
+Escalier<ENT>de secours
+Scale<ENT>antincendio
+Feuerleiter
+Salida de<ENT>emergencia
+Запасной выход
+Wyjście ewakuacyjne
+Saída de Emergência
+비상탈출로
+逃生梯
+防火梯
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_211_0
+ボイラー室
+Boiler Room
+Chaufferie
+Stanza<ENT>caldaie
+Heizraum
+Calderas
+Котельная
+Kotłownia
+Sala da Caldeira
+보일러실
+鍋爐室
+锅炉室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_213_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_214_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_215_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_216_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_301_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_303_0
+東側オフィス
+East Office
+Bureau est
+Ufficio ala est
+Büro (Ostseite)
+Oficina este
+Восточный офис
+Wschodnie biuro
+Escritório Leste
+동쪽 사무실
+東側辦公室
+东侧办公室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_305_0
+プレスルーム
+Press Room
+Salle de<ENT>conférence
+Sala conferenze
+Presseraum
+Sala de prensa
+Печатная
+Sala konferencyjna
+Sala da Imprensa
+기자실
+記者招待室
+记者室
+取調室
+Interrogation<ENT>Room
+Salle<ENT>d'interrogatoire
+Stanza degli<ENT>interrogatori
+Vernehmungs<ENTHYPH>raum
+Sala de<ENT>interrogaciones
+Комната<ENT>допросов
+Sala<ENT>przesłuchań
+Sala de<ENT>Interrogatório
+취조실<ENT>
+偵訊<ENT>室
+审讯<ENT>室
+被疑者確認室
+Observation<ENT>Room
+Salle<ENT>d'observation
+Stanza di<ENT>osservazione
+Beobachtungs<ENTHYPH>raum
+Sala de<ENT>observación
+Комната<ENT>наблюдения
+Sala<ENT>obserwacji
+Sala de<ENT>Observação
+관찰실<ENT>
+觀察<ENT>室
+指认<ENT>室
+宿直室
+Break Room
+<ENT>Salle<ENT>de pause
+Saletta
+Pausenraum
+<ENT>Sala de<ENT>descanso  
+Комната отдыха
+<ENT>Pomieszczenie<ENT>socjalne
+Sala de Descanso 
+휴게실
+休息室
+休息室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_310_0
+トイレ
+Bathroom
+Toilettes
+Bagno
+Toiletten
+Lavabos
+Туалет
+Łazienka
+Banheiro
+화장실
+廁所
+洗手间
+警備員室
+Watchman's<ENT>Room
+Salle du<ENT>gardien
+Guardiola 
+Raum der<ENT>Wache
+Cuarto del<ENT>vigilante
+Комната<ENT>смотрителя
+Stróżówka
+Sala da<ENT>Vigilância
+경비<ENT>사무실
+警衛<ENT>室
+警卫<ENT>室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_313_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_314_0
+シャワー室
+Shower Room
+Douches
+Docce
+Duschraum
+Duchas
+Душевая
+Prysznice
+Sala dos Chuveiros
+샤워실
+淋浴間
+淋浴室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_403_0
+S.T.A.R.S. オフィス
+S.T.A.R.S. Office
+Bureau du S.T.A.R.S.
+Ufficio S.T.A.R.S.
+S.T.A.R.S.-Büro
+Oficina de S.T.A.R.S.
+Офис S.T.A.R.S.
+Biuro S.T.A.R.S.
+Escritório<ENT>da S.T.A.R.S.
+S.T.A.R.S. 사무실
+S.T.A.R.S. 辦公室
+S.T.A.R.S. 办公室
+武器庫
+Armory
+Armurerie
+Armeria
+Rüstkammer
+Armería
+Оружейная
+Zbrojownia
+Arsenal
+무기고
+槍械室
+枪械室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_406_0
+ラウンジ
+Lounge
+Salon
+Lounge
+Aufenthaltsraum
+Sala de espera
+Зона отдыха
+Hol
+Salão
+라운지
+交誼廳
+交谊厅
+図書室
+Library
+Bibliothèque
+Biblioteca
+Bibliothek
+Biblioteca
+Библиотека
+Biblioteka
+Biblioteca
+도서관
+圖書室
+图书室
+リネン室
+Linen Room
+Buanderie
+Lavanderia
+Wäschekammer
+Almacén<ENT>de sábanas
+Прачечная
+Pralnia
+Rouparia
+세탁실
+洗衣間
+污衣间
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_410_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_411_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_412_0
+待合室
+Waiting Room
+Salle d'attente
+Sala<ENT>d'attesa
+Wartezimmer
+Sala de espera 
+Комната<ENT>ожидания
+Poczekalnia
+Sala de Espera
+대기실
+等待室
+等候室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_502_0
+美術室
+Art Room
+Salle d'art
+Magazzino<ENT>opere d'arte
+Kunstraum
+Sala de arte
+Галерея
+Pracownia plastyczna
+Sala de Arte
+예술품 보관실
+美術室
+美术室
+署長室
+Chief's Office
+Bureau du Chef
+Ufficio del<ENT>commissario
+Chefbüro
+Oficina del jefe
+Офис шефа
+Biuro komendanta
+Escritório do Chefe
+서장 사무실
+局長辦公室
+局长办公室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_505_0
+コレクションルーム
+Private Collection<ENT>Room
+Collection<ENT>privée
+Collezione<ENT>privata
+Privatsammlungs<ENTHYPH>zimmer
+Colección<ENT>privada
+Комната<ENT>c коллекциями
+Pokój z prywatną<ENT>kolekcją
+Sala da Coleção<ENT>Particular
+개인 컬렉션<ENT>보관실
+私人收藏<ENT>室
+私人<ENT>收藏室
+屋上
+Roof
+Toit
+Tetto
+Dach
+Tejado
+Крыша
+Dach
+Cobertura
+지붕
+屋頂
+天台
+非常階段
+Fire Escape
+Escalier de secours
+Scale<ENT>antincendio
+Feuerleiter
+Salida de emergencia
+Запасной выход
+Wyjście ewakuacyjne
+Saída de Emergência
+비상탈출로
+逃生梯
+防火梯
+図書室
+Library
+Bibliothèque
+Biblioteca
+Bibliothek
+Biblioteca
+Библиотека
+Biblioteka
+Biblioteca
+도서관
+圖書室
+图书室
+時計台
+Clock Tower
+Tour de l'horloge
+Torre dell'orologio
+Uhrturm
+Torre del reloj
+Часовая башня
+Wieża zegarowa
+Torre do Relógio
+시계탑
+鐘樓
+钟楼
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_603_0
+西倉庫
+West Storage Room
+Salle de stockage<ENT>ouest
+Magazzino ala ovest
+Lagerraum West
+Almacén oeste
+Западная кладовая
+Zachodni magazyn
+Almoxarifado Oeste
+서쪽 저장실
+西側倉庫
+西侧储藏室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_605_0
+バルコニー
+Balcony
+Terrasse
+Terrazzo
+Balkon
+Balcón
+Балкон
+Balkon
+Sacada
+발코니
+陽台
+露台
+東倉庫
+East Storage Room
+Salle de stockage<ENT>est
+Magazzino ala est
+Lagerraum Ost
+Almacén este
+Восточная кладовая
+Wschodni magazyn
+Almoxarifado Leste
+동쪽 저장실
+東側倉庫
+东侧储藏室
+コレクションルーム
+Private Collection Room
+Collection privée
+Collezione<ENT>privata
+Privatsammlungszimmer
+Colección privada
+Частная коллекция
+Pokój z prywatną<ENT>kolekcją
+Sala da Coleção<ENT>Particular
+개인 컬렉션 보관실
+私人收藏室
+私人收藏室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_610_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_650_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_701_0
+死体安置所
+Morgue
+Morgue
+Obitorio
+Leichenhalle
+Morgue
+Морг
+Kostnica
+Necrotério
+영안실
+驗屍室
+停尸房
+変電室
+Generator Room
+Salle du<ENT>générateur
+Stanza del<ENT>generatore
+Transformatorraum
+Generador
+Генераторная
+Pomieszczenie<ENT>z generatorami
+Sala do Gerador
+발전실
+發電機室
+发电机房
+射撃場
+Firing Range
+Stand de tir
+Poligono di tiro
+Schießstand
+Sala de tiro
+Стрельбище
+Strzelnica
+Campo de Tiro
+사격장
+靶場
+靶场
+駐車場
+Parking Garage
+Parking
+Parcheggio
+Tiefgarage
+Garaje
+Парковка
+Parking podziemny
+Estacionamento
+주차장
+停車場
+停车场
+犬舎
+Kennel
+Chenil
+Canile
+Zwinger
+Perrera
+Питомник
+Psiarnia
+Canil
+경찰견실
+犬舍
+犬舍
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_712_0
+留置場
+Jail
+Cellules
+Celle
+Zellen
+Celdas
+Изолятор
+Więzienie
+Prisão
+유치장
+拘留所
+拘留所
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_750_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Map_st4_751_0
+エレベーター管理室
+Elevator Controls<ENT>Room
+Commande de<ENT>l'ascenseur
+Sala controllo<ENT>ascensori
+Liftsteuerungs<ENTHYPH>raum
+Controles<ENT>del ascensor
+Комната управления<ENT>лифтом
+Sterownia windy
+Sala de Controle<ENT>do Elevador
+엘리베이터<ENT>제어실
+電梯<ENT>控制室
+电梯控制<ENT>室
+職員詰め所
+Guardroom
+Loge
+Guardiola
+Wache
+Sala de<ENT>guardia
+Комната охраны
+Wartownia
+Sala dos Guardas
+경비실
+守衛室
+守卫室
+隠し部屋
+Secret Room
+Salle secrète
+Stanza segreta
+Geheimraum
+Cuarto secreto
+Тайная комната
+Sekretne<ENT>pomieszczenie
+Sala Secreta
+비밀의 방
+密室
+密室
+地下階段
+Underground Stairs
+Escalier souterrain
+Scale sotterranei
+Untergrundtreppe
+Escaleras<ENT>subterráneas
+Лестница под землю
+Schody do podziemi
+Escada Subterrânea
+지하 계단
+地下樓梯
+地下楼梯
+機械室
+Machinery Room
+Salle des machines
+Sala macchine
+Maschinenraum
+Sala de máquinas
+Аппаратная
+Maszynownia
+Sala de Máquinas
+기계실
+機械室
+机械室
+作業員詰め所
+Operators Room
+Salle des<ENT>techniciens
+Stanza del<ENT>personale
+Arbeiter-Raum
+Sala del<ENT>operador
+Операторская
+Pomieszczenie<ENT>operatora
+Sala de Operações 
+운영자실
+操作員室
+操作员室
+ガンショップ
+Gun Shop
+Armurerie
+Negozio<ENT>di armi
+Waffenladen
+Armería
+Магазин оружия
+Sklep z bronią
+Loja de Armas
+총포상
+槍械店
+枪械店
+バスケットコート
+Basketball Court
+Terrain de basket
+Campetto da basket
+Basketballplatz
+Cancha de baloncesto
+Баскетбольная площадка
+Boisko do koszykówki
+Quadra de Basquete
+농구 코트
+籃球場
+篮球场
+孤児院前庭
+Orphanage Front Yard
+Cour de l'orphelinat
+Cortile orfanotrofio
+Waisenhaus – Vorderseite
+Patio frontal del orfanato
+Двор приюта
+Dziedziniec<ENT>sierocińca
+Frente do Orfanato
+고아원 앞마당
+孤兒院前院
+孤儿院前庭
+工事現場
+Construction Site
+Chantier
+Cantiere
+Baustelle
+Obras
+Стройплощадка
+Plac budowy
+Canteiro de Obras
+건설 현장
+建築工地
+工地
+旧水路
+Old Waterway
+Vieux canal
+Vecchio canale
+Alte Wasserrinne
+Canal viejo
+Старый канал
+Stary kanał
+Canal Antigo
+오래된 수로
+舊水道
+旧水道
+旧倉庫
+Old Storage Room
+Ancienne salle de stockage
+Vecchio magazzino
+Altes Lager
+Almacén viejo
+Старая кладовая
+Stary magazyn
+Almoxarifado<ENT>Antigo
+오래된 저장실
+舊倉庫
+旧储藏室
+ホール
+Front Hall
+Hall
+Salone<ENT>principale
+Eingangshalle 
+Salón<ENT>principal
+Холл 
+Główny hol 
+Saguão Frontal
+정문 홀
+前廳
+前厅
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_602_0
+院長室
+Director's Room
+Salle du directeur
+Stanza del<ENT>direttore
+Büro des Direktors
+Despacho del<ENT>director
+Кабинет директора
+Biuro dyrektora
+Sala do Diretor
+감독관실
+院長室
+院长室
+寝室
+Bedroom
+Chambre
+Camera da letto
+Schlafzimmer
+Dormitorio
+Спальня 
+Sypialnia
+Quarto
+침실
+臥室
+卧室
+乳児室
+Nursery
+Nurserie
+Stanza dei<ENT>neonati
+Kinderkrippe
+Enfermería
+Ясли
+Pokój dziecięcy
+Berçário
+육아실
+育嬰室
+育儿室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_608_0
+シャワー室
+Bathroom 
+Salle de bain
+Bagno
+Badezimmer
+Baño
+Туалет
+Łazienka
+Banheiro
+화장실
+廁所
+洗手间
+地下倉庫
+Basement
+Sous-sol
+Scantinato
+Keller
+Sótano
+Подвал
+Piwnica
+Porão
+지하실
+地下室
+地下室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_613_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_st1_614_0
+連絡通路
+Passage
+Passage 
+Impalcatura
+Gang 
+Pasaje
+Проход
+Przejście
+Passagem
+통로
+通道
+通道
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_602_0
+水門
+Water Gate
+Écluse
+Chiusa
+Schleuse
+Dique
+Шлюз
+Śluza
+Comporta
+수문
+水門
+水闸
+上層水路
+Upper Waterway
+Canal supérieur
+Canale superiore
+Oberer Kanal
+Canal superior
+Верхний канал
+Kanał wyższy
+Canal Superior
+수로 상부
+上層水道
+水道上层
+作業室
+Workroom
+Atelier
+Officina
+Arbeitsraum
+Despacho
+Мастерская
+Warsztat
+Sala de Trabalho
+작업실
+工作室
+工作室
+下層水路
+Lower Waterway
+Canal inférieur
+Canale inferiore
+Unterer Kanal
+Canal inferior
+Средний канал
+Kanał niższy
+Canal Inferior
+수로 하부
+下層水道
+水道下层
+作業室リフト
+Workroom<ENT>Lift
+Monte-charge<ENT>de l'atelier
+Montacarichi<ENT>officina
+Arbeitsraum<ENTHYPH>aufzug
+Ascensor<ENT>del despacho
+Лифт<ENT>мастерской
+Winda do<ENT>warsztatu
+Elevador para a<ENT>Sala de Trabalho
+작업실<ENT>리프트
+工作室<ENT>升降機
+工作室升降机
+注水室
+Water Injection<ENT>Chamber
+Salle d'injection<ENT>de l'eau
+Stanza<ENT>autoclave
+Wassereinspritzungs<ENTHYPH>kammer
+Cámara de<ENT>inyección de agua
+Камера подачи <ENT>воды
+Komora wtrysku<ENT>wody
+Sala de Injeção<ENT>de Água
+용수 주입실
+注水室
+注水室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_614_0
+作業員休憩室
+Workers'<ENT>Break Room
+Salle de<ENT>pause
+Sala pausa<ENT>dipendenti
+Arbeiter-<ENT>Pausenraum
+Sala de<ENT>descanso 
+Комната отдыха<ENT>рабочих
+Pomieszczenie<ENT>socjalne pracowników
+Sala de Descanso
+작업자<ENT>휴게실
+工人<ENT>休息室
+工人休息室
+事務所
+Office
+Bureau
+Ufficio
+Büro
+Oficina
+Офис
+Biuro
+Escritório
+사무실
+辦公室
+办公室
+下層水路
+Lower Waterway
+Canal inférieur
+Canale inferiore
+Unterer Kanal
+Canal inferior
+Средний канал
+Kanał niższy
+Canal Inferior
+수로 하부
+下層水道
+水道下层
+最下層水路
+Bottom Waterway
+Canal inférieur<ENT>secondaire
+Canale inferiore<ENT>secondario
+Unterster Kanal
+Desembocadura
+Нижний канал
+Kanał dolny
+Canal do Fundo
+수로 맨 아래
+底層水道
+水道底层
+資材置き場
+Supplies Storage Room
+Salle de stockage
+Magazzino scorte
+Vorratsraum
+Provisiones
+Кладовая с припасами
+Magazyn<ENT>z zaopatrzeniem
+Almoxarifado
+물품 보관실
+物資倉庫
+物资储藏室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_627_0
+処理プール室
+Treatment Pool Room
+Bassin de traitement
+Vasca di trattamento
+Aufbereitungraum
+Sala de tratamiento
+Комната с очистным бассейном
+Oczyszczalnia<ENT>ścieków
+Estação Tratamento
+치료실
+處理池室
+处理池室
+コントロール室
+Control Room
+Salle de contrôle
+Stanza di<ENT>controllo
+Steuerraum
+Sala de control
+Комната управления
+Sterownia
+Sala de Controle
+제어실
+控制室
+控制室
+ケーブルカー乗り場
+Cable Car Platform
+Plateforme<ENT>du funiculaire
+Piattaforma<ENT>funicolare
+Standseilbahngleis
+Plataforma del tranvía
+Канатная платформа
+Platforma kolejki
+Plataforma<ENT>do Bonde
+케이블카 플랫폼
+纜車月台
+缆车月台
+モニター室
+Monitor Room
+Salle de<ENT>surveillance
+Stanza di<ENT>monitoraggio
+Überwachungsraum
+Sala de monitores
+Мониторная
+Pokój monitoringu
+Sala dos Monitores
+모니터실
+監控室
+监控室
+浄水施設建設予定地
+Proposed Water<ENT>Purification Room
+Salle de purification<ENT>de l'eau
+Purificazione<ENT>acque
+Geplante Wasser<ENTHYPH>aufbereitung
+Depuradora
+Комната<ENT>очистки воды
+Pomieszczenie<ENT>prop. oczyszczalni
+Sala Proposta de<ENT>Purificação de Água
+임시 물<ENT>정화실
+水質淨化室<ENT>預定地
+水质净化室<ENT>预定位置
+主電源室
+Main Power Room
+Salle d'alimentation<ENT>principale
+Stanza del<ENT>generatore
+Hauptstromversorgung
+Suministro principal
+Главная щитовая
+Pomieszczenie<ENT>z głównym zasilaniem
+Sala de Força
+주 전력실
+主要電力機房
+主电源室
+ゴミ集積所
+Garbage Room
+Décharge
+Smaltimento<ENT>rifiuti
+Abfallkammer
+Vertedero
+Мусороприемник
+Pomieszczenie<ENT>na śmieci
+Sala de Lixo
+쓰레기 처리실
+垃圾集中室
+垃圾集中室
+ゴミ焼却施設
+Incinerator
+Incinérateur
+Inceneritore
+Verbrennungsanlage
+Incineradora
+Мусоросжигатель
+Spalarnia
+Incinerador
+소각로
+焚化爐
+焚化炉
+コントロール室前通路
+Control Room Hallway
+Couloir de la salle<ENT>de contrôle
+Corridoio sala contr.
+Steuerraum-Korridor
+Pasillo de sala de control
+Коридор в комнате управления
+Korytarz obok<ENT>sterowni
+Corredor da<ENT>Sala de Controle
+제어실 복도
+控制室走廊
+控制室走廊
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st3_652_0
+ノースエリア
+North Area
+Zone nord
+Area nord
+Nordbereich
+Área norte
+Северное крыло
+Północny obszar
+Área Norte
+북쪽 구역
+北區
+北区
+イーストエリア
+East Area
+Zone est
+Area est
+Ostbereich
+Área este
+Восточное крыло
+Wschodni obszar
+Área Leste
+동쪽 구역
+東區
+东区
+ウェストエリア
+West Area
+Zone ouest
+Area ovest
+Westbereich
+Área oeste
+Западное крыло
+Zachodni obszar
+Área Oeste
+서쪽 구역
+西區
+西区
+ケーブルカー乗り場
+Cable Car Platform
+Plateforme<ENT>du funiculaire
+Piattaforma<ENT>funicolare
+Standseilbahngleis
+Plataforma del tranvía
+Канатная платформа
+Platforma kolejki
+Plataforma<ENT>do Bonde
+케이블카 플랫폼
+纜車月台
+缆车月台
+守衛室
+Security Room
+Salle de<ENT>sécurité
+Stanza delle<ENT>guardie
+Wache 
+Sala de<ENT>seguridad
+Комната охраны 
+Pomieszczenie<ENT>ochrony
+Sala da Segurança
+보안실
+保全室
+门卫室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_104_0
+食堂
+Cafeteria
+Cafétéria
+Mensa
+Cafeteria
+Cafetería
+Столовая
+Kawiarnia
+Refeitório
+구내식당
+餐廳
+食堂
+厨房
+Kitchen
+Cuisine
+Cucine
+Küche
+Cocina
+Кухня
+Kuchnia
+Cozinha
+주방
+廚房
+厨房
+受付
+Reception
+Réception
+Reception
+Empfang
+Recepción
+Приемная
+Recepcja
+Recepção
+리셉션
+櫃台
+接待处
+メインシャフト
+Main Shaft
+Ascenseur<ENT>principal
+Ascensore principale
+Hauptschacht
+Eje principal
+Главная шахта
+Szyb główny
+Poço Principal
+메인 승강 통로
+主豎井
+主竖井
+仮眠室
+Nap Room
+Salle de sieste
+Stanza relax
+Schlafraum
+Camas
+Спальня
+Pokój wypoczynkowy
+Sala da Soneca
+수면실
+午休室
+午睡室
+ロビー
+Lobby
+Lobby
+Lobby
+Lobby
+Lobby
+Вестибюль
+Westybul
+Saguão
+로비
+大廳 
+大堂
+カンファレンスルーム
+Presentation<ENT>Room
+Salle de<ENT>conférence 
+Sala<ENT>presentazioni
+Konferenzraum
+Sala de<ENT>conferencias
+Переговорная<ENT>
+Pokój<ENT>okazań
+Sala de<ENT>Reuniões
+발표실
+簡報室
+简报室
+温室管理センター
+Greenhouse<ENT>Control Room
+Salle de contrôle<ENT>de la serre
+Sala di controllo<ENT>della serra
+Gewächshaus-<ENT>Steuerung
+Control del<ENT>invernadero
+Комната управления<ENT>оранжереей
+Sterownia szklarni
+Sala de Controle<ENT>da Estufa
+온실 제어실
+溫室控制室
+温室控制室
+温室
+Greenhouse
+Serre
+Serra
+Gewächshaus
+Invernadero
+Оранжерея
+Szklarnia
+Estufa
+온실
+溫室
+温室
+薬品実験室
+Drug Testing Lab
+Labo de test<ENT>des médicaments
+Laboratorio test<ENT>medicinali
+Medikamente-Testlabor
+Laboratorio<ENT>medicinal
+Испытательная лабор-я
+Laboratorium
+Laboratório de<ENT>Teste de Drogas
+약품 실험실
+藥物測試<ENT>實驗室
+药物测试实验室
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MAP_st5_125_0
+ラウンジ
+Lounge
+Salon
+Lounge
+Aufenthaltsraum
+Sala de descanso
+Зона отдыха
+Hol
+Salão
+라운지
+交誼廳
+交谊厅
+低温実験室
+Low-Temp Testing Lab
+Labo de test<ENT>basse température
+Laboratorio test<ENT>basse temperature
+Tieftemperatur-Testlabor
+Laboratorio inferior
+Низкотемп. испытат. лабор-я
+Laboratorium niskich<ENT>temperatur
+Laboratório de<ENT>Baixa Temperatura
+저온 실험실
+低溫測試實驗室
+低温测试实验室
+サーバールーム
+Server Room
+Salle des serveurs
+Stanza server
+Serverraum
+Servidores
+Серверная
+Serwerownia
+Sala do Servidor
+서버실
+伺服器機房
+服务器机房
+生体実験室
+Biotesting Lab
+Labo de test<ENT>biologique
+Zona test biologici
+Biotestlabor
+Laboratorio<ENT>biológico
+Лабор-я биотестирования
+Laboratorium<ENT>biologiczne
+Laboratório de<ENT>Testes Biológicos
+생물 실험실
+生物測試實驗室
+生物测试实验室
+生体培養槽
+Bioreactors Room
+Salle des<ENT>bioréacteurs
+Sala bioreattori
+Bioreaktorraum
+Biorreactores
+Биореакторная
+Pomieszczenie<ENT>z bioreaktorami
+Sala dos<ENT>Biorreatores
+바이오리액터실
+生物反應室
+生物反应器室
+P-4レベル実験室
+P-4 Level Testing Lab
+Labo de test<ENT>niveau P-4
+Zona test liv. P-4
+Testlabor P-4 
+Laboratorio de pruebas<ENT>de nivel P-4
+Испытат. лабор-я ур. П4
+Laboratorium P-4
+Laboratório de<ENT>Teste Nível P-4
+P-4 등급 실험실
+P-4 級測試實驗室
+P-4 级测试实验室
+モニター室
+Monitor Room
+Salle de<ENT>surveillance
+Stanza di monitoraggio
+Überwachungsraum
+Sala de monitores
+Мониторная
+Pokój monitoringu
+Sala dos Monitores
+모니터실
+監控室
+监控室
+ポンプ室
+Pump Room
+Salle de pompage
+Sala pompe
+Pumpenraum
+Sala de<ENT>bombeo
+Насосная
+Przepompownia
+Sala das Bombas
+펌프실
+幫浦室
+泵房
+ダクト
+Duct
+Passage
+Passaggio
+Gang
+Conducto
+Воздуховод
+Szyb
+Duto
+환기구
+通風管
+通风管
+ダクト
+Duct
+Passage
+Passaggio
+Gang
+Conducto
+Воздуховод
+Szyb
+Duto
+환기구
+通風管
+通风管
+リフト
+Lift
+Monte-charge
+Montacarichi
+Lift
+Ascensor
+Лифт
+Winda
+Elevador
+리프트
+升降機
+升降机
+ターンテーブル
+Turntable
+Plaque tournante
+Piattaforma<ENT>girevole
+Drehteller
+Plataforma giratoria
+Поворотный круг
+Obrotnica
+Plataforma Giratória
+턴테이블
+旋轉台
+旋转台
+脱出シャフト
+Escape Shaft
+Conduit<ENT>de secours
+Condotto<ENT>di fuga
+Fluchtschacht
+Escotilla de salida
+Аварийная шахта
+Szyb ewakuacyjny
+Poço de Emergência
+탈출 승강 통로
+逃生井
+逃生井
+プラットホーム
+Platform
+Quai
+Piattaforma
+Bahnsteig
+Plataforma
+Платформа
+Platforma
+Plataforma
+플랫폼
+平台
+月台
+貨物用車両
+Baggage Car
+Fourgon à bagages
+Carrozza bagagli
+Gepäckwagen
+Vagón de equipajes
+Багажный вагон
+Wagon bagażowy
+Vagão Bagageiro
+화물차
+行李車廂
+行李车厢

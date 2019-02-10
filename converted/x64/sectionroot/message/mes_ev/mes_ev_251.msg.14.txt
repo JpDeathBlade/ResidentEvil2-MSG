@@ -1,0 +1,493 @@
+﻿<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>ダメだ…</n>カードキーがいる<PAGE></n>来て<PAGE></n>ねえ 手伝って<PAGE></n>ホントにこっちなの？<PAGE></n>うん そのはずなんだけど…<PAGE></n>シェリー？<PAGE></n>ずいぶん捜したぞ シェリー<PAGE></n>こんな状況で一人で出かけるとは勇ましい<PAGE></n>手を挙げてひざをつけ<PAGE></n>冗談でしょ？<PAGE></n>ひざをつくんだ 今すぐ<PAGE></n>シェリー 手を縛れ<PAGE></n>なんでこんなこと…<PAGE></n>黙れ 縛るんだ<PAGE></n>いいのか？</n>言うとおりにしないと こいつは死ぬぞ<PAGE></n>どういうつもり？<PAGE></n>犯罪者から子供を守らないとな<PAGE></n>シェリー おいで<PAGE></n>何をする気？<PAGE></n>関係ないだろう<PAGE></n>その子を傷つけたら許さないから！<PAGE></n>シェリー こっちに来るんだ<PAGE></n>名前は？<PAGE></n>名前を言えと言ってるんだ<PAGE></n>クレア<PAGE></n>シェリー</n>私と一緒に来ないとクレアが死んでしまうぞ<PAGE></n>分かった！</n>行くから！<PAGE></n>ママのところへ連れてって<PAGE></n>もちろんだ<PAGE></n>信じちゃダメ！</n>ウソよ！<PAGE></n>クレアをぶたないで！<PAGE></n>俺のやり方に いちいち口を出すな<PAGE></n>やめて！　放して！　放して！<PAGE></n>しつけが なってないようだな</n>教えてやろう<PAGE></n>厳しく仕込んでやる<PAGE></n>放してよ！　放して！<PAGE></n>覚えてろ ゲス野郎！<PAGE></n>無事でいて…
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Dammit. We need a key card.<PAGE></n>Come on...<PAGE></n>Here, come help.<PAGE></n>And you're sure this is the way?<PAGE></n>This is how my mom took me last time.<PAGE></n>Sherry!?<PAGE></n>I've been looking everywhere for you, Sherry...<PAGE></n>Brave little girl to leave your house</n>in the middle of this mess...<PAGE></n>On the ground, hands behind your head.<PAGE></n>You can't be serious...<PAGE></n>On the ground. Now.<PAGE></n>Sherry, tie her hands.<PAGE></n>Why're you doing this?<PAGE></n>Shut up. Tie her.<PAGE></n>OK, then.</n>You tie her up now, or she dies.<PAGE></n>What's this all about?<PAGE></n>Child endangerment, for starters.<PAGE></n>Sherry, come here.<PAGE></n>What are you gonna do to her?<PAGE></n>None of your fucking business.<PAGE></n>If you hurt her, I swear to god,</n>my brother is S.T.A.R.S. and I will fucki—<PAGE></n>Sherry, get over here!<PAGE></n>What's your name?<PAGE></n>What's your fucking name!?<PAGE></n>Claire!<PAGE></n>Sherry, you come with me now</n>or say goodbye to Claire!<PAGE></n>OK, OK! I'll go...!<PAGE></n>You better be taking me to my mom.<PAGE></n>Absolutely.<PAGE></n>Don't listen to him! He's full of shit!<PAGE></n>Stop hurting her! Please!<PAGE></n>Don't tell me how to do my job.<PAGE></n>Stop! Let me go! Let me go!<PAGE></n>Obviously, nobody taught you manners!</n>We'll fix that.<PAGE></n>Oh yes, we will.<PAGE></n>Let me go! Let me go!<PAGE></n>I'LL GET YOU, YOU FUCKER!<PAGE></n>Stay safe, Sherry...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Mince. Il nous faut la carte.<PAGE></n>Allez...<PAGE></n>Hé, aide-moi.<PAGE></n>Tu es sûre que c'est par là ?<PAGE></n>On est déjà passées par là avec maman.<PAGE></n>Sherry ?<PAGE></n>Je t'ai cherchée partout, Sherry...<PAGE></n>C'était courageux de sortir de ta maison</n>au milieu de tout ce bazar...<PAGE></n>À terre, les mains derrière la tête.<PAGE></n>Attendez, c'est une blague ?<PAGE></n>À terre, j'ai dit ! Vite !<PAGE></n>Sherry, attache ses mains.<PAGE></n>Pourquoi vous faites ça ?<PAGE></n>La ferme. Ligote-la !<PAGE></n>Très bien...</n>Tu la ligotes tout de suite, ou alors elle crève.<PAGE></n>C'est quoi ces conneries ?<PAGE></n>Mise en danger d'enfant, pour commencer.<PAGE></n>Sherry, viens ici.<PAGE></n>Qu'allez-vous lui faire ?<PAGE></n>Toi ça te regarde pas.<PAGE></n>Mon frère est dans le S.T.A.R.S.</n>Si tu la touches, je te jure que je...<PAGE></n>Sherry, viens ici !<PAGE></n>C'est quoi ton nom ?<PAGE></n>Dis-moi ton putain de nom !<PAGE></n>Claire !<PAGE></n>Sherry, tu viens avec moi maintenant</n>ou tu peux dire adieu à Claire.<PAGE></n>OK, OK ! J'arrive !<PAGE></n>J'espère que vous m'emmenez voir ma mère.<PAGE></n>C'est promis.<PAGE></n>Ne l'écoute pas, c'est une ordure !<PAGE></n>Lui faites pas de mal ! Par pitié !<PAGE></n>J'ai pas d'ordre à recevoir d'une gamine !<PAGE></n>Arrêtez ! Lâchez-moi ! Lâchez-moi !<PAGE></n>Personne ne t'a enseigné les bonnes manières ?</n>On va y remédier.<PAGE></n>Ah tu vas voir.<PAGE></n>Lâchez-moi ! Lâchez-moi !<PAGE></n>Je t'aurai, enfoiré !<PAGE></n>Tiens bon, Sherry...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Merda. Ci serve una tessera.<PAGE></n>Forza!<PAGE></n>Dai, aiutami.<PAGE></n>Sicura si esca di qua?<PAGE></n>Mamma mi ha portata qui l'altra volta.<PAGE></n>Sherry?<PAGE></n>Ti ho cercata ovunque, Sherry...<PAGE></n>Sei una bimba coraggiosa per andartene</n>in giro da sola di notte.<PAGE></n>A terra, mani dietro la testa.<PAGE></n></n>Ma sta scherzando?<PAGE></n>Ho detto a terra. Ora!<PAGE></n>Sherry, legale i polsi.<PAGE></n>Perché fa questo?<PAGE></n>Zitta! Legala.<PAGE></n>Va bene... O la leghi subito, o lei muore.<PAGE></n>Che vuole fare?<PAGE></n>Per prima cosa, proteggo la bimba.<PAGE></n>Sherry, vieni.<PAGE></n>Che intenzioni ha?<PAGE></n>Non sono cazzi tuoi.<PAGE></n>Se le fai del male, giuro, mio fratello</n>è uno S.T.A.R.S. e ti...<PAGE></n>Sherry, vieni qui.<PAGE></n>Come ti chiami?<PAGE></n>Come cazzo ti chiami?<PAGE></n>Claire.<PAGE></n>Sherry, o vieni qui ora, o dici addio a Claire.<PAGE></n>Ok, ok! Va bene!<PAGE></n>Ma solo se mi porta dalla mamma.<PAGE></n>Assolutamente.<PAGE></n>Non ascoltarlo! Dice cazzate!<PAGE></n>La prego, basta farle male!<PAGE></n>Non provare a darmi degli ordini.<PAGE></n>Basta! Mi Lasci andare! Mi lasci andare!<PAGE></n>Sei proprio una bambina maleducata.</n>Ma rimedieremo...<PAGE></n>Oh sì, vedrai.<PAGE></n>Mi lasci andare! Mi lasci andare!<PAGE></n>Ti prenderò, bastardo!<PAGE></n>Resisti, Sherry...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Verdammt.</n>Geht nicht ohne Karte.<PAGE></n>Komm schon...<PAGE></n>Hilf doch mal.<PAGE></n>Und es geht sicher hier lang?<PAGE></n>So bin ich mit Mom letztes Mal gegangen.<PAGE></n>Sherry?!<PAGE></n>Ich hab überall nach dir gesucht, Sherry...<PAGE></n>Tapfere Kleine, gehst einfach raus,</n>inmitten von diesem Chaos...<PAGE></n>Auf den Boden, Hände hinter den Kopf.<PAGE></n>Das meinen Sie nicht ernst...<PAGE></n>Auf den Boden.</n>Jetzt.<PAGE></n>Sherry, fessel ihre Hände.<PAGE></n>Wieso tun Sie das?<PAGE></n>Sei still.</n>Tu es.<PAGE></n>Okay, dann...</n>Du gehorchst mir jetzt, oder sie ist tot.<PAGE></n>Was soll dieser Mist?<PAGE></n>Kindswohlgefährdung, fürs Erste.<PAGE></n>Sherry, komm her.<PAGE></n>Was wollen Sie mit ihr?<PAGE></n>Geht dich überhaupt nichts an.<PAGE></n>Wenn Sie ihr wehtun, ich schwör,</n>ich hol meinen Bruder von S.T.A.R.S. und wir...<PAGE></n>Sherry, hierher, sag ich!<PAGE></n>Wie heißt du?<PAGE></n>Wie heißt du, verdammt?!<PAGE></n>Claire!<PAGE></n>Sherry, du kommst jetzt mit mir...</n>oder sagst Lebwohl zu Claire.<PAGE></n>Okay, okay! Ich geh!<PAGE></n>Sie bringen mich besser zu meiner Mom.<PAGE></n>Natürlich.<PAGE></n>Hör nicht auf ihn!</n>Er lügt dich an!<PAGE></n>Stopp, hören Sie auf! Bitte!<PAGE></n>Du erklärst mir nicht meinen Job.<PAGE></n>Stopp!</n>Lass mich los! Lass mich los!<PAGE></n>Offensichtlich müssen wir dir erst Manieren beibringen!<PAGE></n>O ja, das werden wir.<PAGE></n>Lass mich los! Lass mich los!<PAGE></n>Ich krieg dich, du Arschloch!<PAGE></n>Sei vorsichtig, Sherry...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Mierda. Requiere una tarjeta.<PAGE></n>Vamos.<PAGE></n>Ven, ayuda.<PAGE></n>¿Seguro que es por aquí?<PAGE></n> Por aquí es donde vine con mi mamá.<PAGE></n>¡¿Sherry?!<PAGE></n>Te he estado buscando, Sherry.<PAGE></n>Tienes que ser muy valiente</n>para salir con todo este desastre...<PAGE></n>Al suelo y manos sobre la cabeza.<PAGE></n>No hablarás en serio...<PAGE></n>Al suelo. ¡Ahora!<PAGE></n>Sherry, ata sus manos.<PAGE></n>¿Por qué haces esto?<PAGE></n>Calla. Átala.<PAGE></n>Muy bien. O la atas ya, o morirá.<PAGE></n>¿De qué va esto?<PAGE></n>Secuestro de niños, para empezar.<PAGE></n>Sherry, ven.<PAGE></n>¿Qué vas a hacerle?<PAGE></n>No es asunto tuyo.<PAGE></n>Si le haces daño, mi hermano es de S.T.A.R.S. y...<PAGE></n>¡Sherry, ven aquí!<PAGE></n>¿Tu nombre?<PAGE></n>¿Cuál es tu puto nombre?<PAGE></n>Claire.<PAGE></n>Sherry, ven conmigo ya...</n>O dile adiós a Claire.<PAGE></n>¡Vale, vale! ¡Ya voy...!<PAGE></n>Espero que me lleves con mi mamá.<PAGE></n>Por supuesto.<PAGE></n>¡No le escuches! ¡Está mintiendo!<PAGE></n>¡No le hagas daño! ¡Por favor!<PAGE></n>No me digas cómo hacer mi trabajo.<PAGE></n>¡Para! ¡Déjame! ¡Déjame!<PAGE></n>¡Parece que nadie te ha enseñado modales!</n>Yo lo haré.<PAGE></n>Oh sí, verás.<PAGE></n>¡Déjame! ¡Déjame!<PAGE></n>¡Te cogeré, cabrón!<PAGE></n>Aguanta, Sherry.
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Черт. Нам нужна ключ-карта.<PAGE></n>Ну же...<PAGE></n>Эй, помоги.<PAGE></n>Уверена, что нам сюда?<PAGE></n>Мама в последний раз меня этим путем вела.<PAGE></n>Шерри?!<PAGE></n>Шерри... Я так долго тебя искал...<PAGE></n>Ты такая храбрая девочка...</n>Не испугалась всего, что тут творится.<PAGE></n>На землю! Руки за голову!<PAGE></n>Вы серьезно?..<PAGE></n>Лежать, я сказал.<PAGE></n>Шерри, свяжи ей руки.<PAGE></n>Зачем вы это делаете?<PAGE></n>Молчать. Свяжи ее.<PAGE></n>Понятно.</n>Либо ты ее свяжешь, либо она умрет.<PAGE></n>Что вообще происходит?<PAGE></n>Преднамеренное насилие над детьми, например.<PAGE></n>Шерри, подойди.<PAGE></n>Что вы хотите с ней сделать?<PAGE></n>Не твое собачье дело.<PAGE></n>Если она пострадает, клянусь, я...</n>Мой брат работает в S.T.A.R.S., и он...<PAGE></n>Шерри, ко мне!<PAGE></n>Как тебя зовут?<PAGE></n>Имя скажи, мать твою!<PAGE></n>Клэр!<PAGE></n>Шерри, ты пойдешь со мной</n>или можешь попрощаться с Клэр!<PAGE></n>Хорошо, хорошо! Я пойду!..<PAGE></n>Надеюсь, вы отведете меня к маме, а не то...<PAGE></n>Куда же еще.<PAGE></n>Не слушай этого ублюдка!<PAGE></n>Не мучай ее! Пожалуйста!<PAGE></n>Не указывай мне, как делать мою работу.<PAGE></n>Хватит! Отпустите! Пустите меня!<PAGE></n>У тебя совершенно отвратительные манеры.</n>Это нужно исправить.<PAGE></n>Этим и займемся.<PAGE></n>Пустите! Пустите!<PAGE></n>Я НАЙДУ ТЕБЯ, ТВАРЬ!<PAGE></n>Береги себя, Шерри...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Cholera, potrzebujemy karty magnetycznej.<PAGE></n>No dalej...<PAGE></n>Tutaj, chodź pomóc.<PAGE></n>To na pewno dobra droga?<PAGE></n>Tędy mama zabrała mnie ostatnim razem.<PAGE></n>Sherry!?<PAGE></n>Sherry, wszędzie cię szukałem...<PAGE></n>Dzielna dziewczynka, wychodzi z domu</n>w środku tego bajzlu...<PAGE></n>Na ziemię, ręce za głowę.<PAGE></n>To chyba jakiś żart...<PAGE></n>Na ziemię. Natychmiast.<PAGE></n>Sherry, zwiąż jej ręce.<PAGE></n>Dlaczego to robisz?<PAGE></n>Zamknij się. A ty wiąż.<PAGE></n>W takim razie...</n>Albo ją wiążesz, albo umiera.<PAGE></n>O co tutaj chodzi?<PAGE></n>Po pierwsze, narażenie dziecka na niebezpieczeństwo.<PAGE></n>Sherry, podejdź tutaj.<PAGE></n>Co masz zamiar z nią zrobić?<PAGE></n>Gówno cię to obchodzi.<PAGE></n>Jeśli ją skrzywdzisz, przysięgam... mój brat</n>należy do S.T.A.R.S. i cię zaje...<PAGE></n>Sherry, chodź tu!<PAGE></n>Jak się nazywasz?<PAGE></n>Przedstaw się, kurwa!<PAGE></n>Claire!<PAGE></n>Sherry, natychmiast chodź ze mną</n>albo pożegnaj się z Claire!<PAGE></n>OK, dobrze! Pójdę...!<PAGE></n>Ale lepiej zabierz mnie do mamy.<PAGE></n>Jasne.<PAGE></n>Nie słuchaj go! Kłamie jak pies!<PAGE></n>Przestań ją krzywdzić! Proszę!<PAGE></n>Nie ucz mnie, jak mam wykonywać obowiązki.<PAGE></n>Przestań! Puść mnie! Puszczaj!<PAGE></n>Widzę, że nikt nie nauczył cię manier!</n>Wkrótce to naprawimy.<PAGE></n>O tak, naprawimy.<PAGE></n>Puszczaj mnie! Puść!<PAGE></n>DORWĘ CIĘ, GNOJU!<PAGE></n>Uważaj na siebie, Sherry...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>Droga. A gente precisa de um cartão.<PAGE></n>Vem cá...<PAGE></n>Aqui, me ajuda.<PAGE></n>Tem certeza que é por aqui?<PAGE></n>Foi como a minha mãe me trouxe da última vez.<PAGE></n>Sherry?<PAGE></n>Procurei você por toda parte, Sherry...<PAGE></n>É uma garotinha muito corajosa pra sair</n>de casa no meio dessa bagunça...<PAGE></n>No chão, mãos na cabeça.<PAGE></n>Fala sério...<PAGE></n>No chão. Já.<PAGE></n>Sherry, amarra as mãos dela.<PAGE></n>Por que você tá fazendo isso?<PAGE></n>Cala a boca. Amarra ela.<PAGE></n>Então tá.</n>Amarra ela agora, senão ela morre.<PAGE></n>Pra que isso?<PAGE></n>Pra começar, negligência infantil.<PAGE></n>Sherry, vem aqui.<PAGE></n>O que você vai fazer com ela?<PAGE></n>Não é da sua conta, porra.<PAGE></n>Se você machucar ela, juro por Deus,</n>meu irmão é da S.T.A.R.S. e eu vou...<PAGE></n>Sherry, vem já pra cá!<PAGE></n>Qual é o seu nome?<PAGE></n>Qual é o seu nome, porra?!<PAGE></n>Claire!<PAGE></n>Sherry, se você não vier comigo agora,</n>pode dizer adeus pra Claire!<PAGE></n>Tá bom, tá bom! Eu vou!<PAGE></n>Acho bom você me levar pra minha mãe.<PAGE></n>Claro.<PAGE></n>Não acredita nele! Ele é um mentiroso!<PAGE></n>Para de machucar ela! Por favor!<PAGE></n>Não me diz como fazer meu trabalho.<PAGE></n>Para! Me solta! Me solta!<PAGE></n>Tá na cara que você não tem bons modos!</n>Vamos dar um jeito nisso.<PAGE></n>Ah, vamos, sim.<PAGE></n>Me solta! Me solta!<PAGE></n>VOU TE PEGAR, SEU BABACA!<PAGE></n>Fica bem, Sherry...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>젠장. 키 카드가 필요해...<PAGE></n>제발...<PAGE></n>여기, 좀 도와줘.<PAGE></n>이 길이 확실하니?<PAGE></n>저번에 엄마랑 같이 왔어요.<PAGE></n>셰리!?<PAGE></n>계속 찾았단다, 셰리...<PAGE></n>이런 난장판에서 집을 떠날</n>생각을 하다니 참 용감하기도 하지...<PAGE></n>무릎 꿇어, 손은 머리에 대고.<PAGE></n>진심은 아니시겠죠…<PAGE></n>무릎 꿇으라고. 당장.<PAGE></n>셰리, 이 여자 손을 묶으렴.<PAGE></n>왜 이러시는 거예요?<PAGE></n>입 다물어. 묶기나 해.<PAGE></n>그렇다면, 좋아. 지금 당장</n>묶지 않으면, 이 여자를 죽이겠어.<PAGE></n>대체 이게 뭐하는 거야?<PAGE></n>처음은 가볍게 아동 치상부터 시작하려고.<PAGE></n>셰리, 이리 와.<PAGE></n>셰리에게 뭘 하려는 거야?<PAGE></n>네년이 신경 쓸 일은 아니지.<PAGE></n>걜 다치게 하면, 가만 두지 않겠어.</n>우리 오빠는 S.T.A.R.S. 소속이라고...<PAGE></n>셰리, 이리 오라니까!<PAGE></n>이름이 뭐야?<PAGE></n>씨발, 이름이 뭐냐니까!?<PAGE></n>클레어!<PAGE></n>셰리, 나랑 같이 가지 않으면</n>클레어랑은 작별 인사를 하게 될 거야!<PAGE></n>알겠어요! 갈게요...!<PAGE></n>우리 엄마한테 데려다 주세요.<PAGE></n>당연하지.<PAGE></n>그 사람 말 듣지 마! 나쁜 사람이야!<PAGE></n>언니를 때리지 말아요! 제발요!<PAGE></n>내 일은 내가 알아서 해.<PAGE></n>그만! 놔 줘요! 놔 달라고요!<PAGE></n>예의라고는 배우지 못한 모양이군!</n>버릇 좀 고쳐줘야겠네.<PAGE></n>그래, 그래야겠어.<PAGE></n>이거 놔! 놓으라고!<PAGE></n>끝장내 주겠어, 이 개자식!<PAGE></n>조심하렴, 셰리...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>可惡，我們需要門禁卡...<PAGE></n>得想想辦法...<PAGE></n>過來幫我一起。<PAGE></n>你確定是這邊嗎？<PAGE></n>我媽媽上次就是帶我走這邊。<PAGE></n>雪莉？！<PAGE></n>雪莉，我找了你好久呢...<PAGE></n>真是個勇敢的小女孩，</n>在這種混亂中還敢出來亂跑...<PAGE></n>跪下，雙手抱頭。<PAGE></n>你不是認真的吧...<PAGE></n>跪下。立即。<PAGE></n>雪莉，把她的手綁起來。<PAGE></n>你為什麼要這樣做？<PAGE></n>閉嘴。她綁起來。<PAGE></n>好吧。</n>你不把她綁起來，我就殺了她。<PAGE></n>到底為什麼要這樣？<PAGE></n>讓孩童暴露在危險中，你是第一個。</n><PAGE></n>雪莉，過來。<PAGE></n>你要對她做什麼？<PAGE></n>不關你的事。<PAGE></n>要是你敢傷害她，我發誓，</n>我哥是 S.T.A.R.S. 隊員，我們絕對會把你...<PAGE></n>雪莉，快給我過來這裡！<PAGE></n>你叫什麼名字？<PAGE></n>你他媽的叫什麼名字！？<PAGE></n>克蕾兒！<PAGE></n>雪莉，現在就跟我走，</n>否則就跟克蕾兒永別吧！<PAGE></n>好，好！我跟你走！<PAGE></n>你要帶我去找我媽媽。<PAGE></n>當然。<PAGE></n>別相信他！他是在胡說八道！<PAGE></n>別再傷害她了！求求你！<PAGE></n>我怎麼工作，輪不到你指指點點。<PAGE></n>住手！放開我！放我走！<PAGE></n>顯然沒人教過你規矩！</n>我就來好好教你。<PAGE></n>沒錯，我會好好教你的。<PAGE></n>放開我！你放開我！<PAGE></n>你這王八蛋，我一定會逮到你！<PAGE></n>雪莉，你一定要沒事啊...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>可恶，我们需要钥匙卡。<PAGE></n>得想想办法...<PAGE></n>来，帮帮我。<PAGE></n>你确定这方向没错？<PAGE></n>妈妈上次是这样带我走的。<PAGE></n>雪莉！？<PAGE></n>真是让我好找啊，雪莉...<PAGE></n>一个小姑娘在这种情况下出门，</n>你也太勇敢了。<PAGE></n>跪下，双手放在脑后。<PAGE></n>你不是来真的吧...<PAGE></n>快点跪下。<PAGE></n>雪莉，把她的手绑起来。<PAGE></n>你为什么要这样做？<PAGE></n>闭嘴，把她绑起来。<PAGE></n>好吧，听好了。</n>把她绑起来，不然我当场杀了她。<PAGE></n>到底为什么要做这种事？<PAGE></n>你让儿童暴露在危险中，这是第一个。<PAGE></n>雪莉，过来。<PAGE></n>你要对她做什么？<PAGE></n>关你屁事。<PAGE></n>如果你敢伤害她，我发誓...</n>我哥哥是 S.T.A.R.S. 队员，我们一定会把你...<PAGE></n>雪莉，快过来！<PAGE></n>你叫什么名字？<PAGE></n>我叫你报上名字！<PAGE></n>克莱尔！<PAGE></n>雪莉，乖乖跟我来，</n>不然就跟克莱尔永别吧！<PAGE></n>不、不要！我跟你走...<PAGE></n>你要带我去找我妈妈...<PAGE></n>那当然。<PAGE></n>别相信他！他在撒谎！<PAGE></n>不要再伤害她了！求求你！<PAGE></n>我的工作不需要你指指点点。<PAGE></n>住手！放开我！放开我！<PAGE></n>显然没人教过你规矩！</n>需要好好教训一下。<PAGE></n>没错，一定要教训。<PAGE></n>放开我！放开我！<PAGE></n>我不会放过你的，混蛋！<PAGE></n>千万别出事呀，雪莉...
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+<TIME 1.18, 3.99><TIME 6.04, 7.06><TIME 9.71, 11.08><TIME 19.93, 21.79><TIME 22.01, 23.78><TIME 23.8, 25.15><TIME 27.59, 29.72><TIME 30.8, 34.49><TIME 37.03, 38.93><TIME 39.21, 40.8><TIME 42.05, 44.28><TIME 48.4, 50.75><TIME 51.45, 52.1><TIME 52.11, 54.44><TIME 56.37, 60.97><TIME 67.6, 68.98><TIME 69.29, 71.6><TIME 75.31, 78.0><TIME 78.08, 79.01><TIME 79.02, 80.5><TIME 80.52, 83.0><TIME 84.01, 86.14><TIME 88.65, 90.0><TIME 92.35, 94.51><TIME 94.81, 96.24><TIME 96.34, 101.07><TIME 101.09, 102.92><TIME 104.42, 106.65><TIME 106.93, 107.99><TIME 108.02, 110.34><TIME 112.01, 113.96><TIME 114.0, 116.5><TIME 116.54, 120.02><TIME 120.08, 123.29><TIME 123.32, 124.29><TIME 124.3, 127.29><TIME 127.31, 129.35><TIME 140.03, 142.19>
+ダメだ…</n>カードキーがいる
+Dammit. We need a key card.
+Mince. Il nous faut la carte.
+Merda. Ci serve una tessera.
+Verdammt.</n>Geht nicht ohne Karte.
+Mierda. Requiere una tarjeta.
+Черт. Нам нужна ключ-карта.
+Cholera, potrzebujemy karty magnetycznej.
+Droga. A gente precisa de um cartão.
+젠장. 키 카드가 필요해...
+可惡，我們需要門禁卡...
+可恶，我们需要钥匙卡。
+来て
+Come on...
+Allez...
+Forza!
+Komm schon...
+Vamos.
+Ну же...
+No dalej...
+Vem cá...
+제발...
+得想想辦法...
+得想想办法...
+ねえ 手伝って
+Here, come help.
+Hé, aide-moi.
+Dai, aiutami.
+Hilf doch mal.
+Ven, ayuda.
+Эй, помоги.
+Tutaj, chodź pomóc.
+Aqui, me ajuda.
+여기, 좀 도와줘.
+過來幫我一起。
+来，帮帮我。
+ホントにこっちなの？
+And you're sure this is the way?
+Tu es sûre que c'est par là ?
+Sicura si esca di qua?
+Und es geht sicher hier lang?
+¿Seguro que es por aquí?
+Уверена, что нам сюда?
+To na pewno dobra droga?
+Tem certeza que é por aqui?
+이 길이 확실하니?
+你確定是這邊嗎？
+你确定这方向没错？
+うん そのはずなんだけど…
+This is how my mom took me last time.
+On est déjà passées par là avec maman.
+Mamma mi ha portata qui l'altra volta.
+So bin ich mit Mom letztes Mal gegangen.
+ Por aquí es donde vine con mi mamá.
+Мама в последний раз меня этим путем вела.
+Tędy mama zabrała mnie ostatnim razem.
+Foi como a minha mãe me trouxe da última vez.
+저번에 엄마랑 같이 왔어요.
+我媽媽上次就是帶我走這邊。
+妈妈上次是这样带我走的。
+シェリー？
+Sherry!?
+Sherry ?
+Sherry?
+Sherry?!
+¡¿Sherry?!
+Шерри?!
+Sherry!?
+Sherry?
+셰리!?
+雪莉？！
+雪莉！？
+ずいぶん捜したぞ シェリー
+I've been looking everywhere for you, Sherry...
+Je t'ai cherchée partout, Sherry...
+Ti ho cercata ovunque, Sherry...
+Ich hab überall nach dir gesucht, Sherry...
+Te he estado buscando, Sherry.
+Шерри... Я так долго тебя искал...
+Sherry, wszędzie cię szukałem...
+Procurei você por toda parte, Sherry...
+계속 찾았단다, 셰리...
+雪莉，我找了你好久呢...
+真是让我好找啊，雪莉...
+こんな状況で一人で出かけるとは勇ましい
+Brave little girl to leave your house</n>in the middle of this mess...
+C'était courageux de sortir de ta maison</n>au milieu de tout ce bazar...
+Sei una bimba coraggiosa per andartene</n>in giro da sola di notte.
+Tapfere Kleine, gehst einfach raus,</n>inmitten von diesem Chaos...
+Tienes que ser muy valiente</n>para salir con todo este desastre...
+Ты такая храбрая девочка...</n>Не испугалась всего, что тут творится.
+Dzielna dziewczynka, wychodzi z domu</n>w środku tego bajzlu...
+É uma garotinha muito corajosa pra sair</n>de casa no meio dessa bagunça...
+이런 난장판에서 집을 떠날</n>생각을 하다니 참 용감하기도 하지...
+真是個勇敢的小女孩，</n>在這種混亂中還敢出來亂跑...
+一个小姑娘在这种情况下出门，</n>你也太勇敢了。
+手を挙げてひざをつけ
+On the ground, hands behind your head.
+À terre, les mains derrière la tête.
+A terra, mani dietro la testa.
+Auf den Boden, Hände hinter den Kopf.
+Al suelo y manos sobre la cabeza.
+На землю! Руки за голову!
+Na ziemię, ręce za głowę.
+No chão, mãos na cabeça.
+무릎 꿇어, 손은 머리에 대고.
+跪下，雙手抱頭。
+跪下，双手放在脑后。
+冗談でしょ？
+You can't be serious...
+Attendez, c'est une blague ?
+</n>Ma sta scherzando?
+Das meinen Sie nicht ernst...
+No hablarás en serio...
+Вы серьезно?..
+To chyba jakiś żart...
+Fala sério...
+진심은 아니시겠죠…
+你不是認真的吧...
+你不是来真的吧...
+ひざをつくんだ 今すぐ
+On the ground. Now.
+À terre, j'ai dit ! Vite !
+Ho detto a terra. Ora!
+Auf den Boden.</n>Jetzt.
+Al suelo. ¡Ahora!
+Лежать, я сказал.
+Na ziemię. Natychmiast.
+No chão. Já.
+무릎 꿇으라고. 당장.
+跪下。立即。
+快点跪下。
+シェリー 手を縛れ
+Sherry, tie her hands.
+Sherry, attache ses mains.
+Sherry, legale i polsi.
+Sherry, fessel ihre Hände.
+Sherry, ata sus manos.
+Шерри, свяжи ей руки.
+Sherry, zwiąż jej ręce.
+Sherry, amarra as mãos dela.
+셰리, 이 여자 손을 묶으렴.
+雪莉，把她的手綁起來。
+雪莉，把她的手绑起来。
+なんでこんなこと…
+Why're you doing this?
+Pourquoi vous faites ça ?
+Perché fa questo?
+Wieso tun Sie das?
+¿Por qué haces esto?
+Зачем вы это делаете?
+Dlaczego to robisz?
+Por que você tá fazendo isso?
+왜 이러시는 거예요?
+你為什麼要這樣做？
+你为什么要这样做？
+黙れ 縛るんだ
+Shut up. Tie her.
+La ferme. Ligote-la !
+Zitta! Legala.
+Sei still.</n>Tu es.
+Calla. Átala.
+Молчать. Свяжи ее.
+Zamknij się. A ty wiąż.
+Cala a boca. Amarra ela.
+입 다물어. 묶기나 해.
+閉嘴。她綁起來。
+闭嘴，把她绑起来。
+いいのか？</n>言うとおりにしないと こいつは死ぬぞ
+OK, then.</n>You tie her up now, or she dies.
+Très bien...</n>Tu la ligotes tout de suite, ou alors elle crève.
+Va bene... O la leghi subito, o lei muore.
+Okay, dann...</n>Du gehorchst mir jetzt, oder sie ist tot.
+Muy bien. O la atas ya, o morirá.
+Понятно.</n>Либо ты ее свяжешь, либо она умрет.
+W takim razie...</n>Albo ją wiążesz, albo umiera.
+Então tá.</n>Amarra ela agora, senão ela morre.
+그렇다면, 좋아. 지금 당장</n>묶지 않으면, 이 여자를 죽이겠어.
+好吧。</n>你不把她綁起來，我就殺了她。
+好吧，听好了。</n>把她绑起来，不然我当场杀了她。
+どういうつもり？
+What's this all about?
+C'est quoi ces conneries ?
+Che vuole fare?
+Was soll dieser Mist?
+¿De qué va esto?
+Что вообще происходит?
+O co tutaj chodzi?
+Pra que isso?
+대체 이게 뭐하는 거야?
+到底為什麼要這樣？
+到底为什么要做这种事？
+犯罪者から子供を守らないとな
+Child endangerment, for starters.
+Mise en danger d'enfant, pour commencer.
+Per prima cosa, proteggo la bimba.
+Kindswohlgefährdung, fürs Erste.
+Secuestro de niños, para empezar.
+Преднамеренное насилие над детьми, например.
+Po pierwsze, narażenie dziecka na niebezpieczeństwo.
+Pra começar, negligência infantil.
+처음은 가볍게 아동 치상부터 시작하려고.
+讓孩童暴露在危險中，你是第一個。</n>
+你让儿童暴露在危险中，这是第一个。
+シェリー おいで
+Sherry, come here.
+Sherry, viens ici.
+Sherry, vieni.
+Sherry, komm her.
+Sherry, ven.
+Шерри, подойди.
+Sherry, podejdź tutaj.
+Sherry, vem aqui.
+셰리, 이리 와.
+雪莉，過來。
+雪莉，过来。
+何をする気？
+What are you gonna do to her?
+Qu'allez-vous lui faire ?
+Che intenzioni ha?
+Was wollen Sie mit ihr?
+¿Qué vas a hacerle?
+Что вы хотите с ней сделать?
+Co masz zamiar z nią zrobić?
+O que você vai fazer com ela?
+셰리에게 뭘 하려는 거야?
+你要對她做什麼？
+你要对她做什么？
+関係ないだろう
+None of your fucking business.
+Toi ça te regarde pas.
+Non sono cazzi tuoi.
+Geht dich überhaupt nichts an.
+No es asunto tuyo.
+Не твое собачье дело.
+Gówno cię to obchodzi.
+Não é da sua conta, porra.
+네년이 신경 쓸 일은 아니지.
+不關你的事。
+关你屁事。
+その子を傷つけたら許さないから！
+If you hurt her, I swear to god,</n>my brother is S.T.A.R.S. and I will fucki—
+Mon frère est dans le S.T.A.R.S.</n>Si tu la touches, je te jure que je...
+Se le fai del male, giuro, mio fratello</n>è uno S.T.A.R.S. e ti...
+Wenn Sie ihr wehtun, ich schwör,</n>ich hol meinen Bruder von S.T.A.R.S. und wir...
+Si le haces daño, mi hermano es de S.T.A.R.S. y...
+Если она пострадает, клянусь, я...</n>Мой брат работает в S.T.A.R.S., и он...
+Jeśli ją skrzywdzisz, przysięgam... mój brat</n>należy do S.T.A.R.S. i cię zaje...
+Se você machucar ela, juro por Deus,</n>meu irmão é da S.T.A.R.S. e eu vou...
+걜 다치게 하면, 가만 두지 않겠어.</n>우리 오빠는 S.T.A.R.S. 소속이라고...
+要是你敢傷害她，我發誓，</n>我哥是 S.T.A.R.S. 隊員，我們絕對會把你...
+如果你敢伤害她，我发誓...</n>我哥哥是 S.T.A.R.S. 队员，我们一定会把你...
+シェリー こっちに来るんだ
+Sherry, get over here!
+Sherry, viens ici !
+Sherry, vieni qui.
+Sherry, hierher, sag ich!
+¡Sherry, ven aquí!
+Шерри, ко мне!
+Sherry, chodź tu!
+Sherry, vem já pra cá!
+셰리, 이리 오라니까!
+雪莉，快給我過來這裡！
+雪莉，快过来！
+名前は？
+What's your name?
+C'est quoi ton nom ?
+Come ti chiami?
+Wie heißt du?
+¿Tu nombre?
+Как тебя зовут?
+Jak się nazywasz?
+Qual é o seu nome?
+이름이 뭐야?
+你叫什麼名字？
+你叫什么名字？
+名前を言えと言ってるんだ
+What's your fucking name!?
+Dis-moi ton putain de nom !
+Come cazzo ti chiami?
+Wie heißt du, verdammt?!
+¿Cuál es tu puto nombre?
+Имя скажи, мать твою!
+Przedstaw się, kurwa!
+Qual é o seu nome, porra?!
+씨발, 이름이 뭐냐니까!?
+你他媽的叫什麼名字！？
+我叫你报上名字！
+クレア
+Claire!
+Claire !
+Claire.
+Claire!
+Claire.
+Клэр!
+Claire!
+Claire!
+클레어!
+克蕾兒！
+克莱尔！
+シェリー</n>私と一緒に来ないとクレアが死んでしまうぞ
+Sherry, you come with me now</n>or say goodbye to Claire!
+Sherry, tu viens avec moi maintenant</n>ou tu peux dire adieu à Claire.
+Sherry, o vieni qui ora, o dici addio a Claire.
+Sherry, du kommst jetzt mit mir...</n>oder sagst Lebwohl zu Claire.
+Sherry, ven conmigo ya...</n>O dile adiós a Claire.
+Шерри, ты пойдешь со мной</n>или можешь попрощаться с Клэр!
+Sherry, natychmiast chodź ze mną</n>albo pożegnaj się z Claire!
+Sherry, se você não vier comigo agora,</n>pode dizer adeus pra Claire!
+셰리, 나랑 같이 가지 않으면</n>클레어랑은 작별 인사를 하게 될 거야!
+雪莉，現在就跟我走，</n>否則就跟克蕾兒永別吧！
+雪莉，乖乖跟我来，</n>不然就跟克莱尔永别吧！
+分かった！</n>行くから！
+OK, OK! I'll go...!
+OK, OK ! J'arrive !
+Ok, ok! Va bene!
+Okay, okay! Ich geh!
+¡Vale, vale! ¡Ya voy...!
+Хорошо, хорошо! Я пойду!..
+OK, dobrze! Pójdę...!
+Tá bom, tá bom! Eu vou!
+알겠어요! 갈게요...!
+好，好！我跟你走！
+不、不要！我跟你走...
+ママのところへ連れてって
+You better be taking me to my mom.
+J'espère que vous m'emmenez voir ma mère.
+Ma solo se mi porta dalla mamma.
+Sie bringen mich besser zu meiner Mom.
+Espero que me lleves con mi mamá.
+Надеюсь, вы отведете меня к маме, а не то...
+Ale lepiej zabierz mnie do mamy.
+Acho bom você me levar pra minha mãe.
+우리 엄마한테 데려다 주세요.
+你要帶我去找我媽媽。
+你要带我去找我妈妈...
+もちろんだ
+Absolutely.
+C'est promis.
+Assolutamente.
+Natürlich.
+Por supuesto.
+Куда же еще.
+Jasne.
+Claro.
+당연하지.
+當然。
+那当然。
+信じちゃダメ！</n>ウソよ！
+Don't listen to him! He's full of shit!
+Ne l'écoute pas, c'est une ordure !
+Non ascoltarlo! Dice cazzate!
+Hör nicht auf ihn!</n>Er lügt dich an!
+¡No le escuches! ¡Está mintiendo!
+Не слушай этого ублюдка!
+Nie słuchaj go! Kłamie jak pies!
+Não acredita nele! Ele é um mentiroso!
+그 사람 말 듣지 마! 나쁜 사람이야!
+別相信他！他是在胡說八道！
+别相信他！他在撒谎！
+クレアをぶたないで！
+Stop hurting her! Please!
+Lui faites pas de mal ! Par pitié !
+La prego, basta farle male!
+Stopp, hören Sie auf! Bitte!
+¡No le hagas daño! ¡Por favor!
+Не мучай ее! Пожалуйста!
+Przestań ją krzywdzić! Proszę!
+Para de machucar ela! Por favor!
+언니를 때리지 말아요! 제발요!
+別再傷害她了！求求你！
+不要再伤害她了！求求你！
+俺のやり方に いちいち口を出すな
+Don't tell me how to do my job.
+J'ai pas d'ordre à recevoir d'une gamine !
+Non provare a darmi degli ordini.
+Du erklärst mir nicht meinen Job.
+No me digas cómo hacer mi trabajo.
+Не указывай мне, как делать мою работу.
+Nie ucz mnie, jak mam wykonywać obowiązki.
+Não me diz como fazer meu trabalho.
+내 일은 내가 알아서 해.
+我怎麼工作，輪不到你指指點點。
+我的工作不需要你指指点点。
+やめて！　放して！　放して！
+Stop! Let me go! Let me go!
+Arrêtez ! Lâchez-moi ! Lâchez-moi !
+Basta! Mi Lasci andare! Mi lasci andare!
+Stopp!</n>Lass mich los! Lass mich los!
+¡Para! ¡Déjame! ¡Déjame!
+Хватит! Отпустите! Пустите меня!
+Przestań! Puść mnie! Puszczaj!
+Para! Me solta! Me solta!
+그만! 놔 줘요! 놔 달라고요!
+住手！放開我！放我走！
+住手！放开我！放开我！
+Ahh...let me go! Let me go! Ahhh...! [NOT USED]
+Ah ! Lâchez-moi ! Lâchez-moi !
+¡Déjame! ¡Déjame!
+Ай... Пустите! Пустите! А-а-а!.. 
+Aaa… puszczaj mnie! Puść! Aaa…! [NOT USED]
+Ahh... me solta! Me solta! Ahhh!
+아... 놔줘요! 놔 달라고요! 아...! [NOT USED]
+啊... 放開我！你放開我！啊...！
+啊... 放开我！放开我！啊！[NOT USED]
+しつけが なってないようだな</n>教えてやろう
+Obviously, nobody taught you manners!</n>We'll fix that.
+Personne ne t'a enseigné les bonnes manières ?</n>On va y remédier.
+Sei proprio una bambina maleducata.</n>Ma rimedieremo...
+Offensichtlich müssen wir dir erst Manieren beibringen!
+¡Parece que nadie te ha enseñado modales!</n>Yo lo haré.
+У тебя совершенно отвратительные манеры.</n>Это нужно исправить.
+Widzę, że nikt nie nauczył cię manier!</n>Wkrótce to naprawimy.
+Tá na cara que você não tem bons modos!</n>Vamos dar um jeito nisso.
+예의라고는 배우지 못한 모양이군!</n>버릇 좀 고쳐줘야겠네.
+顯然沒人教過你規矩！</n>我就來好好教你。
+显然没人教过你规矩！</n>需要好好教训一下。
+厳しく仕込んでやる
+Oh yes, we will.
+Ah tu vas voir.
+Oh sì, vedrai.
+O ja, das werden wir.
+Oh sí, verás.
+Этим и займемся.
+O tak, naprawimy.
+Ah, vamos, sim.
+그래, 그래야겠어.
+沒錯，我會好好教你的。
+没错，一定要教训。
+放してよ！　放して！
+Let me go! Let me go!
+Lâchez-moi ! Lâchez-moi !
+Mi lasci andare! Mi lasci andare!
+Lass mich los! Lass mich los!
+¡Déjame! ¡Déjame!
+Пустите! Пустите!
+Puszczaj mnie! Puść!
+Me solta! Me solta!
+이거 놔! 놓으라고!
+放開我！你放開我！
+放开我！放开我！
+覚えてろ ゲス野郎！
+I'LL GET YOU, YOU FUCKER!
+Je t'aurai, enfoiré !
+Ti prenderò, bastardo!
+Ich krieg dich, du Arschloch!
+¡Te cogeré, cabrón!
+Я НАЙДУ ТЕБЯ, ТВАРЬ!
+DORWĘ CIĘ, GNOJU!
+VOU TE PEGAR, SEU BABACA!
+끝장내 주겠어, 이 개자식!
+你這王八蛋，我一定會逮到你！
+我不会放过你的，混蛋！
+無事でいて…
+Stay safe, Sherry...
+Tiens bon, Sherry...
+Resisti, Sherry...
+Sei vorsichtig, Sherry...
+Aguanta, Sherry.
+Береги себя, Шерри...
+Uważaj na siebie, Sherry...
+Fica bem, Sherry...
+조심하렴, 셰리...
+雪莉，你一定要沒事啊...
+千万别出事呀，雪莉...

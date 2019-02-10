@@ -1,0 +1,408 @@
+﻿<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>動くな<PAGE></n>何もしない<PAGE></n>動くなって言ってんだろうが！<PAGE></n>ここを通り抜けたいだけだ</n>銃を下ろしてくれ<PAGE></n>うるさい…！<PAGE></n>さっさと向こうを向いて</n>今 来た扉から出て行け！<PAGE></n>その子 症状が出てる<PAGE></n>黙れ</n>娘のことは お前には関係ないだろ<PAGE></n>銃を捨てて<PAGE></n>よせ！　やめろ！<PAGE></n>そこをどいて</n>その子が変わる前に処理しないと<PAGE></n>処理だと？</n>俺の娘なんだぞ<PAGE></n>エイダ もういいだろう<PAGE></n>エマ そこを出るなと言ったろ<PAGE></n>パパ？<PAGE></n>ああ ここにいる</n>パパだ　いいな？<PAGE></n>あの連中に やられたんだ</n>家族みんな…<PAGE></n>あんた警官だろ？　なんでこんなことになったんだ？</n>なんで俺たちがこんな目に遭う！？　なあ！<PAGE></n>俺たちの天使だったのに…<PAGE></n>マ…マ？<PAGE></n>ママは眠ってるんだ</n>いいね？<PAGE></n>そろそろ お前も寝かさないとな<PAGE></n>…エマ<PAGE></n>さっさと行けよ</n>娘と二人にしてくれ<PAGE></n>彼には真実を知る権利がある<PAGE></n>違うか？<PAGE></n>何が起きてるのか教えてくれ</n>こんなこと止めないと<PAGE></n>あんな人たちを救いたくて</n>俺は警官になったんだ<PAGE></n>私の任務はアンブレラを止めることなの</n>命がけになる<PAGE></n>この町を救うためなら何だってやる
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Don't move!<PAGE></n>I'm not going to hurt you—<PAGE></n>I said DON'T MOVE!<PAGE></n>I'm just passing through.</n>I'm going to ask you to lower that weapon.<PAGE></n>Like hell you are!<PAGE></n>You're going to turn around, and go</n>right back out the way you came in.<PAGE></n>I think your daughter needs help, sir.<PAGE></n>Don't tell me how to deal with my daughter.<PAGE></n>Drop it!<PAGE></n>No! Wait!<PAGE></n>Step aside. We need to terminate her before she turns.<PAGE></n>"Terminate"? That's my fucking daughter!<PAGE></n>Ada...</n>Just let them be.<PAGE></n>Emma, sweetheart, I told you to stay put...<PAGE></n>Daddy...?<PAGE></n>Yeah, Emmie. Daddy's here.</n>I'm here, OK?<PAGE></n>Those fuckin' things outside...</n>Look what they did to us.<PAGE></n>You're a cop. You're supposed to know</n>something—how did this happen!? HUH!?<PAGE></n>She was our sweet little angel...<PAGE></n>Mommy...?<PAGE></n>Mommy's sleeping, honey, OK?<PAGE></n>And I'm gonna put you to bed too, OK?<PAGE></n>...Emma.<PAGE></n>Just go...</n>Just give us some privacy.<PAGE></n>You know, it's one thing to</n>keep the truth from me!<PAGE></n>...But why him?<PAGE></n>I want to find out what's happening here.</n>And stop whoever's behind it.<PAGE></n>Helping people like them...</n>that's why I joined the force.<PAGE></n>My mission is to take down Umbrella's entire operation.</n>We may not make it out.<PAGE></n>Whatever it takes to save this city...count me in.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Bouge pas !<PAGE></n>Je veux pas vous faire de mal.<PAGE></n>J'ai dit, bouge pas !<PAGE></n>Je veux juste passer.</n>Je vais vous demander de baisser cette arme.<PAGE></n>Et puis quoi encore ?<PAGE></n>Tu vas te retourner, et repartir gentiment d'où tu viens.<PAGE></n>Je crois que votre fille a besoin d'aide.<PAGE></n>Ne me dis pas ce dont ma fille a besoin.<PAGE></n>Posez ça !<PAGE></n>Non ! Arrêtez !<PAGE></n>Écartez-vous. Il faut la supprimer avant qu'elle ne se transforme.<PAGE></n>"La supprimer" ? C'est de ma fille qu'il s'agit !<PAGE></n>Ada... Laisse-les tranquilles.<PAGE></n>Emma ? Ma puce, je t'ai dit de rester au lit...<PAGE></n>Pa... pa... ?<PAGE></n>Oui, c'est papa.</n>Je suis là. D'accord ?<PAGE></n>Ces saloperies dehors...</n>Regardez ce qu'ils nous ont fait.<PAGE></n>Tu es un flic. Tu sais sûrement quelque chose !</n>Alors, comment c'est arrivé ? Hein ?!<PAGE></n>C'était notre petit ange...<PAGE></n>Ma... man ?<PAGE></n>Maman fait dodo, ma puce. D'accord ?<PAGE></n>Et je vais bientôt te mettre au lit aussi. D'accord ?<PAGE></n>Emma...<PAGE></n>Partez... Laissez-nous un peu seuls.<PAGE></n>Écoute, me cacher la vérité, c'est une chose...<PAGE></n>Mais pourquoi à lui ?<PAGE></n>Je veux savoir ce qui se passe ici.</n>Et j'arrêterai les coupables.<PAGE></n>Aider des gens comme eux...</n>Voilà pourquoi je me suis engagé.<PAGE></n>Ma mission est de mettre un terme aux opérations</n>d'Umbrella. Pas sûre qu'on s'en sorte.<PAGE></n>Je suis prêt à tout pour sauver cette ville. Compte sur moi.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Non muoverti!<PAGE></n>Non le farò niente...<PAGE></n>Ho detto, non... muoverti!<PAGE></n>Voglio solo passare.</n>La prego di abbassare l'arma.<PAGE></n>Stai zitto!<PAGE></n>Adesso ti giri, e torni indietro.<PAGE></n>A sua figlia servono cure.<PAGE></n>Non dirmi come trattare mia figlia.<PAGE></n>Buttalo!<PAGE></n>No! Aspetta!<PAGE></n>Spostati. Va eliminata prima che si trasformi.<PAGE></n>"Eliminata"? È la mia bambina, cazzo!<PAGE></n>Ada... Lasciamo stare.<PAGE></n>Emma! Tesoro, ti ho detto di stare dentro...<PAGE></n>Pa... pà?<PAGE></n>Sì, cara. Papà è qui. Sono qui, ok?<PAGE></n>Quelle cazzo di cose là fuori...</n>Guardate che hanno fatto.<PAGE></n>Sei un poliziotto. Dovresti sapere perché</n>e come diavolo è potuto succedere? Eh?<PAGE></n>Era il nostro angioletto...<PAGE></n>Mam... ma?<PAGE></n>Mamma dorme, tesoro. Ok?<PAGE></n>E ora farai la nanna anche tu, ok?<PAGE></n>Emma?<PAGE></n>Andate via! Lasciateci in pace!<PAGE></n>Senta, va bene tenere all'oscuro me...<PAGE></n>... ma perché lui?<PAGE></n>Voglio scoprire che succede qui.</n>E fermare chi c'è dietro.<PAGE></n>Aiutare persone così...</n>Per questo sono entrato in polizia!</n><PAGE></n>Io devo fermare l'operazione della Umbrella.</n>Potremmo morire.<PAGE></n>Voglio salvare questa città...  Io ci sto.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Nicht bewegen!<PAGE></n>Ich werd Ihnen nichts tun...<PAGE></n>Ich sagte: Nicht bewegen!<PAGE></n>Ich möchte nur hier durch.</n>Ich bitte Sie, jetzt die Waffe zu senken.<PAGE></n>Die Hölle tu ich!<PAGE></n>Sie dreh'n sich jetzt um und geh'n so</n>wieder raus, wie Sie gekommen sind.<PAGE></n>Ich glaube, Ihre Tochter braucht Hilfe, Sir.<PAGE></n>Sagen Sie mir nichts über meine Tochter.<PAGE></n>Weg damit!<PAGE></n>Nein! Warte!<PAGE></n>Zur Seite.</n>Wir müssen sie eliminieren, bevor sie mutiert.<PAGE></n>"Eliminieren"?</n>Das ist meine verfluchte Tochter!<PAGE></n>Ada...</n>Lass sie einfach.<PAGE></n>Emma, Süße, du solltest doch drinbleiben...<PAGE></n>Daddy?<PAGE></n>Ja, Daddy ist hier.</n>Ich bin hier. Okay?<PAGE></n>Die verfluchten Dinger da draußen...</n>Das tun die uns an.<PAGE></n>Sie sind Cop. Sie müssen doch was wissen.</n>Wie ist das passiert? Hm?<PAGE></n>Sie war unser kleiner Engel.<PAGE></n>Mommy...?<PAGE></n>Mommy schläft schon, Kleines. Okay?<PAGE></n>Und ich bring dich jetzt auch ins Bettchen, okay?<PAGE></n>Emma.<PAGE></n>Gehen Sie...</n>Lassen Sie uns allein, bitte.<PAGE></n>Weißt du, ist okay,</n>wenn du mir die Wahrheit verschweigst,<PAGE></n>aber wieso ihm?<PAGE></n>Ich will rausfinden, was hier passiert.</n>Und die Verantwortlichen aufhalten.<PAGE></n>Solchen Menschen zu helfen...</n>dafür bin ich Polizist.<PAGE></n>Meine Mission besteht darin, Umbrella völlig</n>auszuschalten. Wir überleben vielleicht nicht.<PAGE></n>Was auch nötig ist, die Stadt zu retten...</n>ich bin dabei.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>¡Alto!<PAGE></n>No le haré daño...<PAGE></n>¡He dicho: No te muevas!<PAGE></n>Solo estoy de paso.</n>Debo pedirle que baje el arma.<PAGE></n>¡Ni de coña!<PAGE></n>Vas a volverte y a irte por donde viniste.<PAGE></n>Su hija necesita ayuda.<PAGE></n>No me digas lo que hacer con mi hija.<PAGE></n>Suéltela.<PAGE></n>¡No! ¡Espera!<PAGE></n>Apártese. Hay que eliminarla antes de que se transforme.<PAGE></n>¿"Eliminarla"? ¡Es mi hija, joder!<PAGE></n>Ada... Deja que se vayan.<PAGE></n>Emma, cariño, te dije que esperases.<PAGE></n>¿Papi?<PAGE></n>Papá ya está aquí... Aquí, ¿vale?<PAGE></n>Esas cosas de hay ahí fuera...</n>Lo que han hecho...<PAGE></n>Eres poli...</n>¡Eres poli, tendrías que saber cómo ha pasado todo esto!<PAGE></n>Era nuestro ángel...<PAGE></n>¿Mamá?<PAGE></n>Mamá duerme, cielo, ¿vale?<PAGE></n>Y tú vas a dormir también, ¿vale?<PAGE></n>Emma.<PAGE></n>Fuera... Dejadnos en paz.<PAGE></n>Sabes, una cosa es ocultarme la verdad...<PAGE></n>¿Pero a él?<PAGE></n>Quiero saber qué está pasando.</n>Y parar al responsable.<PAGE></n>Ayudar a gente así...</n>Para eso me uní al cuerpo.<PAGE></n>Mi misión es acabar con esta operación de Umbrella.</n>Y podríamos morir.<PAGE></n>Lo que sea por salvar la ciudad. Cuenta conmigo.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Стоять!<PAGE></n>Я не причиню вам вреда...<PAGE></n>А ну СТОЯТЬ!<PAGE></n>Я просто проходил мимо.</n>Пожалуйста, опустите оружие.<PAGE></n>Не дождешься!<PAGE></n>Сейчас ты развернешься и уйдешь туда,</n>откуда явился.<PAGE></n>Думаю, вашей дочери нужна помощь, сэр.<PAGE></n>Не указывай мне, как обращаться с дочерью.<PAGE></n>Бросай!<PAGE></n>Нет! Стой!<PAGE></n>Отойди. Надо прикончить ее, пока не стала монстром.<PAGE></n>Прикончить? Черт, это же моя дочь!<PAGE></n>Ада...</n>Оставь их.<PAGE></n>Эмма, дорогая, я же просил ждать там...<PAGE></n>Папа?..<PAGE></n>Да, Эмми. Папа с тобой.</n>Я здесь, слышишь?<PAGE></n>Эти чертовы твари снаружи...</n>Смотри, что они с нами сделали.<PAGE></n>Ты коп. Ты должен что-то</n>знать. Почему это случилось? А?!<PAGE></n>Она была нашим ангелочком...<PAGE></n>Мама?..<PAGE></n>Мама спит, милая, слышишь?<PAGE></n>И тебе тоже пора в кроватку.<PAGE></n>Эмма...<PAGE></n>Уйдите...</n>Просто оставьте нас одних.<PAGE></n>Ладно, одно дело —</n>скрывать правду от меня!<PAGE></n>...Но от него-то зачем?<PAGE></n>Я хочу понять, что тут творится.</n>И остановить того, кто за этим стоит.<PAGE></n>Помогать людям вроде него...</n>Для этого я пошел в полицию.<PAGE></n>Моя задача — сорвать все планы Umbrella.</n>Мы можем погибнуть.<PAGE></n>Если это нужно для спасения города... я с тобой.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Nie ruszaj się!<PAGE></n>Nie zrobię panu krzywdy...<PAGE></n>Powiedziałem, NIE RUSZAJ SIĘ!<PAGE></n>Tylko tędy przechodzę.</n>Proszę opuścić broń.<PAGE></n>Ta, jasne!<PAGE></n>Zaraz zrobisz w tył zwrot</n>i wrócisz, skąd przyszedłeś.<PAGE></n>Myślę, że pana córka potrzebuje pomocy.<PAGE></n>Nie mów mi, czego potrzebuje moja córka.<PAGE></n>Rzuć broń!<PAGE></n>Nie! Czekaj!<PAGE></n>Odsuń się. Musimy ją wyeliminować, zanim się przemieni.<PAGE></n>„Wyeliminować”? Kurwa, to moja córka!<PAGE></n>Ada...</n>Zostaw ich.<PAGE></n>Emma, kochanie, miałaś tam zostać...<PAGE></n>Tatuś...?<PAGE></n>Tak, Emmie. Jestem tu.</n>Jestem przy tobie, dobrze?<PAGE></n>Te pieprzone potwory...</n>Zobacz, co nam zrobiły.<PAGE></n>Jesteś gliniarzem. Musisz coś wiedzieć...</n>Jak do tego doszło?! CO?!<PAGE></n>Była naszym małym aniołkiem...<PAGE></n>Mama...?<PAGE></n>Mamusia śpi, słoneczko, rozumiesz?<PAGE></n>Ciebie też zaraz położymy do łóżeczka, dobrze?<PAGE></n>...Emma.<PAGE></n>Idźcie już...</n>Zostawcie nas samych.<PAGE></n>Mogę zrozumieć,</n>że okłamali mnie!<PAGE></n>...Ale jego?<PAGE></n>Chce się dowiedzieć, co tu jest grane.</n>I powstrzymać tych, którzy za tym stoją.<PAGE></n>Chciałem pomagać ludziom, takim jak oni...</n>Dlatego zostałem policjantem.<PAGE></n>Moja misja polega na udaremnieniu działań Umbrelli.</n>Możemy nie wyjść z tego cało.<PAGE></n>Zrobię wszystko, by uratować miasto... Wchodzę w to.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>Parado!<PAGE></n>Não vou te machucar...<PAGE></n>Eu disse PARADO!<PAGE></n>Tô só de passagem.</n>Só vou pedir pra você baixar essa arma.<PAGE></n>De passagem coisa nenhuma!<PAGE></n>Você vai é dar meia-volta</n>e voltar por onde veio.<PAGE></n>Acho que a sua filha precisa de ajuda, senhor.<PAGE></n>Não vem me dizer como cuidar da minha filha.<PAGE></n>Larga a arma!<PAGE></n>Não! Espera!<PAGE></n>Se afasta. Ela precisa ser executada antes de se transformar.<PAGE></n>"Executada"? É a minha filha, porra!<PAGE></n>Ada...</n>Deixa eles em paz.<PAGE></n>Emma querida, eu falei pra você não sair.<PAGE></n>Papai?<PAGE></n>Isso, Emma. Papai tá aqui.</n>Eu tô aqui, tá bem?<PAGE></n>Essas merdas que tem por aí...</n>Olha só o que fizeram com a gente.<PAGE></n>Você é da polícia. Deve saber de alguma coisa!</n>Como isso aconteceu?! HEIN?!<PAGE></n>Ela era o nosso anjinho...<PAGE></n>Mamãe?<PAGE></n>Mamãe foi dormir, querida. Tá bem?<PAGE></n>E eu vou te colocar na cama também, que tal?<PAGE></n>Emma...<PAGE></n>Vão embora...</n>Deixa a gente sozinho.<PAGE></n>Sabe, uma coisa é esconder</n>a verdade de mim!<PAGE></n>Mas por que dele também?<PAGE></n>Eu só quero descobrir o que tá acontecendo.</n>E impedir quem tá por trás disso tudo.<PAGE></n>Ajudar gente como eles...</n>Foi pra isso que eu entrei pra polícia.<PAGE></n>Minha missão é acabar com toda a operação da Umbrella.</n>Talvez a gente não sobreviva.<PAGE></n>O que for preciso para salvar essa cidade...</n>Pode contar comigo.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>움직이지 마!<PAGE></n>해치려는 게 아닙니다—<PAGE></n>꼼짝 말라고 했어!<PAGE></n>그냥 지나가는 겁니다.</n>무기는 내려놓으시죠.<PAGE></n>퍽이나 그러겠지!<PAGE></n>지금 당장 뒤돌아서,</n>왔던 곳으로 돌아가도록 해.<PAGE></n>따님에게 도움이 필요해 보이는데요.<PAGE></n>내 딸 일은 내가 알아서 해.<PAGE></n>무기를 버려!<PAGE></n>안 돼! 잠깐!<PAGE></n>물러서요.</n>변이되기 전에 제거해야 하니까.<PAGE></n>"제거"라고? 저애는 내 딸이야!<PAGE></n>에이다…</n>그냥 둬.<PAGE></n>엠마, 우리 아가.</n>가만히 있으라고 했잖니...<PAGE></n>아빠...?<PAGE></n>그래, 엠마. 아빠 여기 있다.</n>여기 있어, 알겠지?<PAGE></n>저 밖에 빌어먹을 것들이...</n>우리에게 무슨 짓을 했는지 좀 봐.<PAGE></n>당신 경찰이잖아. 뭐 좀 알고 있겠지.</n>어쩌다 이렇게 된 거야?! 어!?<PAGE></n>우리 착하고 예쁜 딸이...<PAGE></n>엄마...?<PAGE></n>엄마는 자고 있어, 아가야, 응?<PAGE></n>우리 딸도 잘 시간이야. 아빠가 재워줄게. 응?<PAGE></n>...엠마.<PAGE></n>그냥 가…</n>그냥 우리끼리 있게 해줘.<PAGE></n>이봐, 나 역시</n>진실을 모르긴 하지만,<PAGE></n>...저 사람은 왜 저런 일을 겪어야 하지?<PAGE></n>도대체 무슨 일인지 알고 싶어.</n>그 배후를 저지하고 싶고.<PAGE></n>저런 사람들을 도와주는 거...</n>그게 내가 경찰이 된 이유니까.<PAGE></n>내 임무는 엄브렐러를 완전히 무너뜨리는 거야.</n>목숨을 걸어야겠지.<PAGE></n>이 도시를 지키기 위해서라면야... 나도 함께 하겠어.
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>不准動！<PAGE></n>我不會傷害你的...<PAGE></n>我說不准動！<PAGE></n>我只是路過而已。</n>請你放下武器。<PAGE></n>我才不相信你！<PAGE></n>給我轉身，然後從你</n>進來的方向走出去。<PAGE></n>先生，你的女兒需要協助。<PAGE></n>別告訴我該怎麼照顧自己的女兒。<PAGE></n>把槍放下！<PAGE></n>不要！慢著！<PAGE></n>讓開。我們得在她變化前解決她。<PAGE></n>「解決」？她是我的女兒！<PAGE></n>艾達...</n>別插手了。<PAGE></n>艾瑪，親愛的，我叫你不要出來的...<PAGE></n>爸爸？<PAGE></n>對，艾瑪。爸爸在這裡。</n>我在這，別擔心。<PAGE></n>外面那些該死的東西...</n>看看它們對我們做了什麼。<PAGE></n>你是警察。你應該知道些什麼，</n>到底為什麼會發生這種事！？<PAGE></n>這孩子是我們的天使...<PAGE></n>媽咪？<PAGE></n>親愛的，媽媽已經睡著了。<PAGE></n>我也帶你上床去睡了，好嗎？<PAGE></n>艾瑪。<PAGE></n>你們走吧...</n>讓我們兩人獨處。<PAGE></n>我跟你說，你對我隱瞞真相</n>是一回事！<PAGE></n>... 但為何這樣對他？<PAGE></n>我要查出這裡背後的真相，</n>並阻止這件事的罪魁禍首。<PAGE></n>幫助像他們這樣的人...</n>是我成為警察的原因。<PAGE></n>我的任務是將保護傘公司的運作破壞殆盡。</n>我們可能會無法全身而退。<PAGE></n>只要能拯救這座城市... 我就願意合作。
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>不许动！<PAGE></n>我不会伤害你的...<PAGE></n>我说了不许动！<PAGE></n>我只是路过而已。</n>希望你可以放下武器。<PAGE></n>我会信你才怪！<PAGE></n>给我转过身去，</n>从哪里来就回哪里去。<PAGE></n>先生，我认为你的女儿需要帮助。<PAGE></n>不用你告诉我怎么照顾女儿。<PAGE></n>把枪放下！<PAGE></n>不！等等！<PAGE></n>让开。我们必须在她变化前解决她。<PAGE></n>“解决”？她是我的女儿！<PAGE></n>艾达...</n>别插手了。<PAGE></n>艾玛，亲爱的。我都叫你别出来了...<PAGE></n>爸爸？<PAGE></n>对，艾米。爸爸在这里。</n>我陪着你呢，知道吗？<PAGE></n>外面那些该死的东西...</n>看看它们对我们做了什么。<PAGE></n>你是警察，你应该知道些什么。</n>为什么发生这种事，为什么！？<PAGE></n>她是我们的小天使呀...<PAGE></n>妈咪？<PAGE></n>亲爱的，妈妈睡着了。<PAGE></n>爸爸现在也要哄你睡觉了，好不好？<PAGE></n>艾玛。<PAGE></n>你们走吧...</n>让我们两个独处。<PAGE></n>我跟你说，不把真相告诉我</n>是一回事！<PAGE></n>但为什么这样对他？<PAGE></n>我要找出事件的真相，</n>阻止这个罪魁祸首！<PAGE></n>就是为了帮助像他们这样的人...</n>我才会成为警察。<PAGE></n>我的任务是瓦解保护伞公司的所有运作。</n>或许我们没法全身而退。<PAGE></n>只要能拯救这座城市... 要我做什么都行。
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+<TIME 0.74, 1.74><TIME 1.77, 2.55><TIME 2.58, 4.89><TIME 4.93, 7.69><TIME 7.71, 9.13><TIME 9.23, 12.6><TIME 16.16, 18.09><TIME 18.52, 22.25><TIME 22.47, 23.48><TIME 25.10, 26.5><TIME 26.86, 30.61><TIME 31.22, 36.19><TIME 37.48, 41.2><TIME 43.8, 48.38><TIME 50.33, 52.22><TIME 52.73, 57.05><TIME 61.48, 68.04><TIME 70.41, 78.28><TIME 82.3, 84.03><TIME 86.01, 87.96><TIME 90.33, 93.4><TIME 95.61, 98.78><TIME 100.77, 101.8><TIME 118.61, 123.64><TIME 132.81, 136.02><TIME 136.17, 137.33><TIME 143.68, 147.62><TIME 148.39, 152.17><TIME 159.16, 165.48><TIME 167.23, 171.11>
+動くな
+Don't move!
+Bouge pas !
+Non muoverti!
+Nicht bewegen!
+¡Alto!
+Стоять!
+Nie ruszaj się!
+Parado!
+움직이지 마!
+不准動！
+不许动！
+何もしない
+I'm not going to hurt you—
+Je veux pas vous faire de mal.
+Non le farò niente...
+Ich werd Ihnen nichts tun...
+No le haré daño...
+Я не причиню вам вреда...
+Nie zrobię panu krzywdy...
+Não vou te machucar...
+해치려는 게 아닙니다—
+我不會傷害你的...
+我不会伤害你的...
+動くなって言ってんだろうが！
+I said DON'T MOVE!
+J'ai dit, bouge pas !
+Ho detto, non... muoverti!
+Ich sagte: Nicht bewegen!
+¡He dicho: No te muevas!
+А ну СТОЯТЬ!
+Powiedziałem, NIE RUSZAJ SIĘ!
+Eu disse PARADO!
+꼼짝 말라고 했어!
+我說不准動！
+我说了不许动！
+ここを通り抜けたいだけだ</n>銃を下ろしてくれ
+I'm just passing through.</n>I'm going to ask you to lower that weapon.
+Je veux juste passer.</n>Je vais vous demander de baisser cette arme.
+Voglio solo passare.</n>La prego di abbassare l'arma.
+Ich möchte nur hier durch.</n>Ich bitte Sie, jetzt die Waffe zu senken.
+Solo estoy de paso.</n>Debo pedirle que baje el arma.
+Я просто проходил мимо.</n>Пожалуйста, опустите оружие.
+Tylko tędy przechodzę.</n>Proszę opuścić broń.
+Tô só de passagem.</n>Só vou pedir pra você baixar essa arma.
+그냥 지나가는 겁니다.</n>무기는 내려놓으시죠.
+我只是路過而已。</n>請你放下武器。
+我只是路过而已。</n>希望你可以放下武器。
+うるさい…！
+Like hell you are!
+Et puis quoi encore ?
+Stai zitto!
+Die Hölle tu ich!
+¡Ni de coña!
+Не дождешься!
+Ta, jasne!
+De passagem coisa nenhuma!
+퍽이나 그러겠지!
+我才不相信你！
+我会信你才怪！
+さっさと向こうを向いて</n>今 来た扉から出て行け！
+You're going to turn around, and go</n>right back out the way you came in.
+Tu vas te retourner, et repartir gentiment d'où tu viens.
+Adesso ti giri, e torni indietro.
+Sie dreh'n sich jetzt um und geh'n so</n>wieder raus, wie Sie gekommen sind.
+Vas a volverte y a irte por donde viniste.
+Сейчас ты развернешься и уйдешь туда,</n>откуда явился.
+Zaraz zrobisz w tył zwrot</n>i wrócisz, skąd przyszedłeś.
+Você vai é dar meia-volta</n>e voltar por onde veio.
+지금 당장 뒤돌아서,</n>왔던 곳으로 돌아가도록 해.
+給我轉身，然後從你</n>進來的方向走出去。
+给我转过身去，</n>从哪里来就回哪里去。
+その子 症状が出てる
+I think your daughter needs help, sir.
+Je crois que votre fille a besoin d'aide.
+A sua figlia servono cure.
+Ich glaube, Ihre Tochter braucht Hilfe, Sir.
+Su hija necesita ayuda.
+Думаю, вашей дочери нужна помощь, сэр.
+Myślę, że pana córka potrzebuje pomocy.
+Acho que a sua filha precisa de ajuda, senhor.
+따님에게 도움이 필요해 보이는데요.
+先生，你的女兒需要協助。
+先生，我认为你的女儿需要帮助。
+黙れ</n>娘のことは お前には関係ないだろ
+Don't tell me how to deal with my daughter.
+Ne me dis pas ce dont ma fille a besoin.
+Non dirmi come trattare mia figlia.
+Sagen Sie mir nichts über meine Tochter.
+No me digas lo que hacer con mi hija.
+Не указывай мне, как обращаться с дочерью.
+Nie mów mi, czego potrzebuje moja córka.
+Não vem me dizer como cuidar da minha filha.
+내 딸 일은 내가 알아서 해.
+別告訴我該怎麼照顧自己的女兒。
+不用你告诉我怎么照顾女儿。
+銃を捨てて
+Drop it!
+Posez ça !
+Buttalo!
+Weg damit!
+Suéltela.
+Бросай!
+Rzuć broń!
+Larga a arma!
+무기를 버려!
+把槍放下！
+把枪放下！
+よせ！　やめろ！
+No! Wait!
+Non ! Arrêtez !
+No! Aspetta!
+Nein! Warte!
+¡No! ¡Espera!
+Нет! Стой!
+Nie! Czekaj!
+Não! Espera!
+안 돼! 잠깐!
+不要！慢著！
+不！等等！
+ ※使ってないセリフ※「待ってくれ！」
+Wait!
+Attendez !
+Warte!
+¡Espera!
+Стой!
+Czekaj!
+Espera!
+기다려!
+慢著！
+等等！
+そこをどいて</n>その子が変わる前に処理しないと
+Step aside. We need to terminate her before she turns.
+Écartez-vous. Il faut la supprimer avant qu'elle ne se transforme.
+Spostati. Va eliminata prima che si trasformi.
+Zur Seite.</n>Wir müssen sie eliminieren, bevor sie mutiert.
+Apártese. Hay que eliminarla antes de que se transforme.
+Отойди. Надо прикончить ее, пока не стала монстром.
+Odsuń się. Musimy ją wyeliminować, zanim się przemieni.
+Se afasta. Ela precisa ser executada antes de se transformar.
+물러서요.</n>변이되기 전에 제거해야 하니까.
+讓開。我們得在她變化前解決她。
+让开。我们必须在她变化前解决她。
+処理だと？</n>俺の娘なんだぞ
+"Terminate"? That's my fucking daughter!
+"La supprimer" ? C'est de ma fille qu'il s'agit !
+"Eliminata"? È la mia bambina, cazzo!
+"Eliminieren"?</n>Das ist meine verfluchte Tochter!
+¿"Eliminarla"? ¡Es mi hija, joder!
+Прикончить? Черт, это же моя дочь!
+„Wyeliminować”? Kurwa, to moja córka!
+"Executada"? É a minha filha, porra!
+"제거"라고? 저애는 내 딸이야!
+「解決」？她是我的女兒！
+“解决”？她是我的女儿！
+エイダ もういいだろう
+Ada...</n>Just let them be.
+Ada... Laisse-les tranquilles.
+Ada... Lasciamo stare.
+Ada...</n>Lass sie einfach.
+Ada... Deja que se vayan.
+Ада...</n>Оставь их.
+Ada...</n>Zostaw ich.
+Ada...</n>Deixa eles em paz.
+에이다…</n>그냥 둬.
+艾達...</n>別插手了。
+艾达...</n>别插手了。
+エマ そこを出るなと言ったろ
+Emma, sweetheart, I told you to stay put...
+Emma ? Ma puce, je t'ai dit de rester au lit...
+Emma! Tesoro, ti ho detto di stare dentro...
+Emma, Süße, du solltest doch drinbleiben...
+Emma, cariño, te dije que esperases.
+Эмма, дорогая, я же просил ждать там...
+Emma, kochanie, miałaś tam zostać...
+Emma querida, eu falei pra você não sair.
+엠마, 우리 아가.</n>가만히 있으라고 했잖니...
+艾瑪，親愛的，我叫你不要出來的...
+艾玛，亲爱的。我都叫你别出来了...
+パパ？
+Daddy...?
+Pa... pa... ?
+Pa... pà?
+Daddy?
+¿Papi?
+Папа?..
+Tatuś...?
+Papai?
+아빠...?
+爸爸？
+爸爸？
+ああ ここにいる</n>パパだ　いいな？
+Yeah, Emmie. Daddy's here.</n>I'm here, OK?
+Oui, c'est papa.</n>Je suis là. D'accord ?
+Sì, cara. Papà è qui. Sono qui, ok?
+Ja, Daddy ist hier.</n>Ich bin hier. Okay?
+Papá ya está aquí... Aquí, ¿vale?
+Да, Эмми. Папа с тобой.</n>Я здесь, слышишь?
+Tak, Emmie. Jestem tu.</n>Jestem przy tobie, dobrze?
+Isso, Emma. Papai tá aqui.</n>Eu tô aqui, tá bem?
+그래, 엠마. 아빠 여기 있다.</n>여기 있어, 알겠지?
+對，艾瑪。爸爸在這裡。</n>我在這，別擔心。
+对，艾米。爸爸在这里。</n>我陪着你呢，知道吗？
+あの連中に やられたんだ</n>家族みんな…
+Those fuckin' things outside...</n>Look what they did to us.
+Ces saloperies dehors...</n>Regardez ce qu'ils nous ont fait.
+Quelle cazzo di cose là fuori...</n>Guardate che hanno fatto.
+Die verfluchten Dinger da draußen...</n>Das tun die uns an.
+Esas cosas de hay ahí fuera...</n>Lo que han hecho...
+Эти чертовы твари снаружи...</n>Смотри, что они с нами сделали.
+Te pieprzone potwory...</n>Zobacz, co nam zrobiły.
+Essas merdas que tem por aí...</n>Olha só o que fizeram com a gente.
+저 밖에 빌어먹을 것들이...</n>우리에게 무슨 짓을 했는지 좀 봐.
+外面那些該死的東西...</n>看看它們對我們做了什麼。
+外面那些该死的东西...</n>看看它们对我们做了什么。
+あんた警官だろ？　なんでこんなことになったんだ？</n>なんで俺たちがこんな目に遭う！？　なあ！
+You're a cop. You're supposed to know</n>something—how did this happen!? HUH!?
+Tu es un flic. Tu sais sûrement quelque chose !</n>Alors, comment c'est arrivé ? Hein ?!
+Sei un poliziotto. Dovresti sapere perché</n>e come diavolo è potuto succedere? Eh?
+Sie sind Cop. Sie müssen doch was wissen.</n>Wie ist das passiert? Hm?
+Eres poli...</n>¡Eres poli, tendrías que saber cómo ha pasado todo esto!
+Ты коп. Ты должен что-то</n>знать. Почему это случилось? А?!
+Jesteś gliniarzem. Musisz coś wiedzieć...</n>Jak do tego doszło?! CO?!
+Você é da polícia. Deve saber de alguma coisa!</n>Como isso aconteceu?! HEIN?!
+당신 경찰이잖아. 뭐 좀 알고 있겠지.</n>어쩌다 이렇게 된 거야?! 어!?
+你是警察。你應該知道些什麼，</n>到底為什麼會發生這種事！？
+你是警察，你应该知道些什么。</n>为什么发生这种事，为什么！？
+※使ってないセリフ※</n>「(エイダとレオンを睨む)</n>ただの十歳だよ、ちくしょう・・・」
+"(glares at Leon and Ada)</n>She's ten goddamn years old..."
+Solo tiene diez años...
+«(смотрит на Леона и Аду)</n>Ей же, блин, всего десять лет...»
+„(spogląda gniewnie na Leona i Adę)</n>Ona ma dopiero dziesięć lat...”
+"(encarando Leon e Ada)</n>Ela tem dez anos, cacete..."
+"(레온과 에이다를 보며)</n>아직 10살밖에 안 됐어..."
+「（怒目瞪視里昂和艾達）</n>天殺的，她才十歲...」
+“（怒视里昂和艾达）</n>可恶，她才十岁...”
+俺たちの天使だったのに…
+She was our sweet little angel...
+C'était notre petit ange...
+Era il nostro angioletto...
+Sie war unser kleiner Engel.
+Era nuestro ángel...
+Она была нашим ангелочком...
+Była naszym małym aniołkiem...
+Ela era o nosso anjinho...
+우리 착하고 예쁜 딸이...
+這孩子是我們的天使...
+她是我们的小天使呀...
+マ…マ？
+Mommy...?
+Ma... man ?
+Mam... ma?
+Mommy...?
+¿Mamá?
+Мама?..
+Mama...?
+Mamãe?
+엄마...?
+媽咪？
+妈咪？
+ママは眠ってるんだ</n>いいね？
+Mommy's sleeping, honey, OK?
+Maman fait dodo, ma puce. D'accord ?
+Mamma dorme, tesoro. Ok?
+Mommy schläft schon, Kleines. Okay?
+Mamá duerme, cielo, ¿vale?
+Мама спит, милая, слышишь?
+Mamusia śpi, słoneczko, rozumiesz?
+Mamãe foi dormir, querida. Tá bem?
+엄마는 자고 있어, 아가야, 응?
+親愛的，媽媽已經睡著了。
+亲爱的，妈妈睡着了。
+そろそろ お前も寝かさないとな
+And I'm gonna put you to bed too, OK?
+Et je vais bientôt te mettre au lit aussi. D'accord ?
+E ora farai la nanna anche tu, ok?
+Und ich bring dich jetzt auch ins Bettchen, okay?
+Y tú vas a dormir también, ¿vale?
+И тебе тоже пора в кроватку.
+Ciebie też zaraz położymy do łóżeczka, dobrze?
+E eu vou te colocar na cama também, que tal?
+우리 딸도 잘 시간이야. 아빠가 재워줄게. 응?
+我也帶你上床去睡了，好嗎？
+爸爸现在也要哄你睡觉了，好不好？
+…エマ
+...Emma.
+Emma...
+Emma?
+Emma.
+Emma.
+Эмма...
+...Emma.
+Emma...
+...엠마.
+艾瑪。
+艾玛。
+さっさと行けよ</n>娘と二人にしてくれ
+Just go...</n>Just give us some privacy.
+Partez... Laissez-nous un peu seuls.
+Andate via! Lasciateci in pace!
+Gehen Sie...</n>Lassen Sie uns allein, bitte.
+Fuera... Dejadnos en paz.
+Уйдите...</n>Просто оставьте нас одних.
+Idźcie już...</n>Zostawcie nas samych.
+Vão embora...</n>Deixa a gente sozinho.
+그냥 가…</n>그냥 우리끼리 있게 해줘.
+你們走吧...</n>讓我們兩人獨處。
+你们走吧...</n>让我们两个独处。
+彼には真実を知る権利がある
+You know, it's one thing to</n>keep the truth from me!
+Écoute, me cacher la vérité, c'est une chose...
+Senta, va bene tenere all'oscuro me...
+Weißt du, ist okay,</n>wenn du mir die Wahrheit verschweigst,
+Sabes, una cosa es ocultarme la verdad...
+Ладно, одно дело —</n>скрывать правду от меня!
+Mogę zrozumieć,</n>że okłamali mnie!
+Sabe, uma coisa é esconder</n>a verdade de mim!
+이봐, 나 역시</n>진실을 모르긴 하지만,
+我跟你說，你對我隱瞞真相</n>是一回事！
+我跟你说，不把真相告诉我</n>是一回事！
+違うか？
+...But why him?
+Mais pourquoi à lui ?
+... ma perché lui?
+aber wieso ihm?
+¿Pero a él?
+...Но от него-то зачем?
+...Ale jego?
+Mas por que dele também?
+...저 사람은 왜 저런 일을 겪어야 하지?
+... 但為何這樣對他？
+但为什么这样对他？
+何が起きてるのか教えてくれ</n>こんなこと止めないと
+I want to find out what's happening here.</n>And stop whoever's behind it.
+Je veux savoir ce qui se passe ici.</n>Et j'arrêterai les coupables.
+Voglio scoprire che succede qui.</n>E fermare chi c'è dietro.
+Ich will rausfinden, was hier passiert.</n>Und die Verantwortlichen aufhalten.
+Quiero saber qué está pasando.</n>Y parar al responsable.
+Я хочу понять, что тут творится.</n>И остановить того, кто за этим стоит.
+Chce się dowiedzieć, co tu jest grane.</n>I powstrzymać tych, którzy za tym stoją.
+Eu só quero descobrir o que tá acontecendo.</n>E impedir quem tá por trás disso tudo.
+도대체 무슨 일인지 알고 싶어.</n>그 배후를 저지하고 싶고.
+我要查出這裡背後的真相，</n>並阻止這件事的罪魁禍首。
+我要找出事件的真相，</n>阻止这个罪魁祸首！
+あんな人たちを救いたくて</n>俺は警官になったんだ
+Helping people like them...</n>that's why I joined the force.
+Aider des gens comme eux...</n>Voilà pourquoi je me suis engagé.
+Aiutare persone così...</n>Per questo sono entrato in polizia!</n>
+Solchen Menschen zu helfen...</n>dafür bin ich Polizist.
+Ayudar a gente así...</n>Para eso me uní al cuerpo.
+Помогать людям вроде него...</n>Для этого я пошел в полицию.
+Chciałem pomagać ludziom, takim jak oni...</n>Dlatego zostałem policjantem.
+Ajudar gente como eles...</n>Foi pra isso que eu entrei pra polícia.
+저런 사람들을 도와주는 거...</n>그게 내가 경찰이 된 이유니까.
+幫助像他們這樣的人...</n>是我成為警察的原因。
+就是为了帮助像他们这样的人...</n>我才会成为警察。
+私の任務はアンブレラを止めることなの</n>命がけになる
+My mission is to take down Umbrella's entire operation.</n>We may not make it out.
+Ma mission est de mettre un terme aux opérations</n>d'Umbrella. Pas sûre qu'on s'en sorte.
+Io devo fermare l'operazione della Umbrella.</n>Potremmo morire.
+Meine Mission besteht darin, Umbrella völlig</n>auszuschalten. Wir überleben vielleicht nicht.
+Mi misión es acabar con esta operación de Umbrella.</n>Y podríamos morir.
+Моя задача — сорвать все планы Umbrella.</n>Мы можем погибнуть.
+Moja misja polega na udaremnieniu działań Umbrelli.</n>Możemy nie wyjść z tego cało.
+Minha missão é acabar com toda a operação da Umbrella.</n>Talvez a gente não sobreviva.
+내 임무는 엄브렐러를 완전히 무너뜨리는 거야.</n>목숨을 걸어야겠지.
+我的任務是將保護傘公司的運作破壞殆盡。</n>我們可能會無法全身而退。
+我的任务是瓦解保护伞公司的所有运作。</n>或许我们没法全身而退。
+この町を救うためなら何だってやる
+Whatever it takes to save this city...count me in.
+Je suis prêt à tout pour sauver cette ville. Compte sur moi.
+Voglio salvare questa città...  Io ci sto.
+Was auch nötig ist, die Stadt zu retten...</n>ich bin dabei.
+Lo que sea por salvar la ciudad. Cuenta conmigo.
+Если это нужно для спасения города... я с тобой.
+Zrobię wszystko, by uratować miasto... Wchodzę w to.
+O que for preciso para salvar essa cidade...</n>Pode contar comigo.
+이 도시를 지키기 위해서라면야... 나도 함께 하겠어.
+只要能拯救這座城市... 我就願意合作。
+只要能拯救这座城市... 要我做什么都行。

@@ -1,0 +1,392 @@
+﻿１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV298_0010_pl0000
+おい！</n>話は終わってないぞ！
+Hey! I'm not done talking to you!
+Hé ! Mais qu'est-ce que je dois faire ?
+Ehi! Non abbiamo finito!
+Hey! Ich hab noch nicht ausgeredet!
+¡Eh! ¡No hemos terminado de hablar!
+Эй! Я с тобой еще не закончил!
+Hej! Nie skończyłem rozmowy!
+Ei! Ainda tô falando com você!
+이봐! 아직 말 안 끝났어!
+喂！我話還沒說完呢！
+喂！我话还没说完呢！
+一体何が…？
+Ugh... What in the world...?
+Oh, quelle horreur...
+Che cosa diavolo...
+Was in aller Welt?
+¿Cómo es posible...?
+Уф... Какого дьявола?..
+Ych... Co do cholery...?
+Ugh... Mas o que é isso?!
+윽... 도대체 어떻게 된...?
+呃... 這是什麼啊...？
+呃... 这什么鬼啊...？
+マービン…</n>そんな… クソッ！
+Marvin... Aw, no...</n>Dammit!
+Marvin ! Oh non...</n>Merde !
+Marvin! Oh, no.. Merda!
+Marvin... Oh, nein.</n>Verdammt!
+Marvin... Oh no... Joder.
+Марвин... О нет...</n>Черт!
+Marvin... O, nie...</n>Niech to!
+Marvin... Ah, não...</n>Droga!
+경감님... 아, 안 돼...</n>젠장!
+馬文... 噢，不...</n>可惡！
+马文... 噢，不...</n>可恶！
+必ず止めてみせる…</n>約束します
+I'll stop this, lieutenant... I promise.
+J'accomplirai ma mission, Lieutenant... Coûte que coûte.
+Metterò fine a tutto questo... Glielo prometto.
+Ich beende das, Lieutenant.</n>Versprochen.
+Voy a detener esto, teniente... Lo prometo.
+Я покончу с этим, лейтенант... Обещаю.
+Położę temu kres, poruczniku... Obiecuję.
+Vou acabar com isso, tenente... Prometo.
+제가 멈추겠습니다, 경감님...</n>반드시.
+我一定會阻止這一切的，副隊長... 我保證。
+警长，我会阻止这一切的... 我保证。
+こいつは始末書ものだな
+Hope I don't have to write a report on this...
+J'espère ne pas avoir à écrire un rapport là-dessus...
+Spero di non doverci scrivere un rapporto.
+Hoffentlich muss ich darüber keinen Bericht schreiben.
+Espero no tener que hacer un informe de esto...
+Надеюсь, мне не придется писать об этом рапорт...
+Mam nadzieję, że nie będę musiał pisać o tym w raporcie...
+Espero que eu não tenha que botar essa parte no relatório...
+보고서 올릴 필요가 없다면 좋겠군...
+希望我不用為了這個寫報告...
+希望我不用为了这个写报告...
+おい 何なんだ！
+Jesus Christ...!
+Oh la vache !
+Cristo santo!
+Oh, mein Gott!
+No puedo creerlo.
+Господи!..
+Jezu Chryste...!
+Minha nossa!
+하나님 맙소사...!
+老天爺啊...！
+我的老天...！
+離れておくか
+Better get moving.
+Je peux pas rester ici...
+Devo andarmene.
+Besser weg hier.
+Mejor que siga...
+Лучше уходить отсюда...
+Lepiej stąd spadać.
+É melhor seguir em frente.
+움직여야겠어.
+我最好快走。
+我最好快离开。
+不死身なのか
+This thing won't die!
+Ce truc est increvable !
+Questo non vuole morire.
+Das Ding stirbt nicht!
+Esta cosa no muere.
+А эта тварь живучая!
+To coś nie chce umrzeć!
+Essa coisa não morre!
+도무지 죽지를 않는군!
+這玩意怎麼死不了！
+这家伙怎么死不了！
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV309_0020_pl0000
+ふむ… 何を探ってるんだ？
+Hmm... What are they after?
+Hmm... Qu'est-ce qu'ils cherchent ?
+Cosa stanno cercando?
+Hinter was sind die her? 
+¿Qué están buscando?
+Хм... Что им нужно?
+Hmm... O co im chodzi?
+Hmm... O que será que eles querem?
+흠... 뭘 캐내려는 거지?
+唔... 他們到底在找什麼？
+嗯... 他们到底在找什么？
+ヤバそうだ
+That's not good.
+Ça, ça craint.
+Si mette male.
+Das ist nicht gut.
+Esto no va bien.
+Это плохо.
+Niedobrze.
+Isso não é bom.
+좋지 않은데.
+這可不妙。
+这下不妙。
+いい加減にしてくれ
+Gimme a break.
+Oh c'est pas vrai !
+E dateci un taglio!
+Ach, komm schon.
+Venga ya.
+Да хорош...
+No nie.
+Ah, dá um tempo.
+그만 좀 하지.
+饒了我吧。
+饶了我吧。
+まずはシャッターを開けて
+We might want to open the shutter.
+Et si on ouvrait la grille ?
+Vogliamo aprire la serranda?
+Wir sollten vielleicht das Tor aufmachen.
+¿Abrimos la persiana?
+Возможно, придется поднять заграждение.
+Chyba trzeba otworzyć rolety.
+Talvez seja uma boa ideia abrir o portão.
+셔터를 열어야겠는데.
+我們是不是該開鐵捲門了？
+我们是不是该把安全门打开？
+早くシャッターを開けなさい
+Open the damn shutter already!
+Ouvre cette foutue grille !
+Apri la cazzo di serranda!
+Öffne endlich das verdammte Tor!
+Abre la maldita persiana.
+Может, уже поднимешь чертово заграждение?
+Otwórz wreszcie te cholerne rolety!
+Abre logo essa merda de portão!
+얼른 좀 열지 그래!
+快點開鐵捲門啦！
+快点把安全门打开！
+あそこよ
+Over there!
+Là-bas !
+Guarda là.
+Da drüben!
+Por allí.
+Сюда!
+Tam!
+Ali!
+저기예요!
+過去那裡！
+过去那里！
+鍵かかってる
+It's locked...
+C'est verrouillé...
+È bloccata.
+Verschlossen.
+Cerrado.
+Заперто...
+Zamknięte...
+Tá trancado...
+잠겨 있어요...
+鎖住了...
+锁住了...
+閉まってる
+It's closed...
+C'est fermé...
+È chiusa.
+Es ist zu.
+Cerrada.
+Закрыто...
+Zamknięte...
+Tá fechado...
+닫혀 있어요...
+是關著的...
+它是关着的...
+いいわ まずはカードキーね</n>そのあと あいつに借りを返す
+OK... Key card first, then that asshole gets what's coming to him.
+OK... D'abord la carte d'accès,</n>et ensuite je vais faire payer cet enfoiré.
+Ok... Prima trovo la tessera, poi penserò a quello stronzo.
+Okay... Erst die Karte und dann bekommt</n>das Arschloch, was er verdient.
+Vale, primero la tarjeta, y después</n>ese cabrón se va a enterar.
+Ладно... Сначала карта доступа, а потом уже этот ублюдок.
+Dobra... najpierw karta magnetyczna,</n>a później rozprawimy się z tym dupkiem.
+Tá... Primeiro o cartão de acesso, depois aquele maldito vai ver só.
+좋아... 우선은 키 카드야</n>그런 다음 그 개자식을 손보자고.
+好吧，先找門禁卡，再來跟那個混球算帳。
+好吧... 先找钥匙卡，然后再跟那个混球算帐。
+さっきのヤツ こっちから来たけど…
+Must be where that guy came from...
+Ce type a dû venir de là...
+Deve essere passato da qui.
+Der Typ kam bestimmt von hier...
+Debe de ser por donde vino ese.
+Должно быть, он прошел здесь...
+Ten gość przyszedł pewnie stamtąd...
+Deve ser de onde aquele cara veio...
+이쪽에서 온 게 분명해...
+那傢伙一定就是從這裡過來的...
+那个家伙一定就是从这里过来的...
+神様 そんな…</n>マービン…
+Oh god, no... Marvin...
+Oh mon Dieu, non... Marvin...
+Mio Dio, no... Marvin...
+O Gott, nein... Marvin...
+Oh Dios, no... Marvin...
+Боже мой, нет... Марвин...
+O Boże, nie... Marvin...
+Ah, não, meu Deus... Marvin...
+세상에, 안 돼... 마빈...
+天啊，怎麼會... 馬文...
+天啊... 怎么会... 马文...
+Shit!
+Merde !
+Merda!
+Scheiße!
+¡Joder!
+Черт!
+Cholera!
+Merda!
+젠장!
+該死！
+可恶！
+ごめんなさい
+I'm sorry.
+Je suis désolée.
+Mi dispiace.
+Tut mir so leid.
+Lo siento.
+Прости.
+Przepraszam.
+Sinto muito.
+미안해요.
+對不起。
+对不起。
+大成功
+That worked.
+Ça a marché.
+Ha funzionato!
+Hat geklappt.
+Funcionó.
+Получилось.
+Podziałało.
+Deu certo.
+됐다.
+成功了。
+成功了。
+やめて 来ないで！
+Jesus... Stay back!
+Reste où tu es !
+Dio santo!
+Bleib zurück!
+¡Quieto!
+Господи... Не подходи!
+Jezu... Do tyłu!
+Minha nossa... Fica longe!
+이런... 물러서요!
+天哪... 別靠近！
+天啊... 退后！
+今のうちに離れなきゃ
+OK...better move it.
+Bon... Restons pas là.
+Ok... Meglio muoversi.
+Okay. Jetzt schnell weg.
+Vale... Hay que seguir.
+Так... Пора уходить.
+Dobra... trzeba stąd spadać.
+Tá... é melhor sair daqui.
+그래… 비키는 게 좋을 거다.
+好... 該走了。
+好... 该走了。
+なんでまだ動いてるの？
+Why won't he just stay down!?
+Pourquoi est-ce qu'il est encore debout ?
+Come fa a muoversi ancora?
+Warum bleibt er nicht liegen?
+¿Por qué no se muere ya?
+Почему он никак не сдохнет?!
+Nie mógłby już tak zostać?!
+Por que ele insiste em levantar?!
+그냥 좀 쓰러져 있지!?
+他怎麼就是不肯乖乖躺著！？
+他为什么就是不肯乖乖躺下！？
+えっ… あいつ署長だったの…！？
+That...bastard is the police chief!?
+Ce salaud est le chef de la police !?
+Quel bastardo è il commissario di polizia?
+Der Mistkerl ist der Polizeichef?
+¡¿Ese cabrón es el jefe de policía...?!
+Эта... сволочь — шеф полиции?!
+Ten... łajdak jest szefem policji?!
+Aquele... desgraçado é o chefe de polícia?!
+저... 개자식이 경찰서장이라고!?
+那... 混帳是警察局長！？
+那混帐... 是警察局长！？
+見つけた</n>カードキーだ
+Thank god...the key card.
+Super... la carte d'accès.
+Finalmente! La tessera magnetica.
+Gott sei dank, die Schlüsselkarte.
+Gracias a Dios... La tarjeta.
+Слава богу... Карта доступа.
+Dzięki Bogu... karta magnetyczna.
+Graças a Deus... o cartão de acesso.
+다행이다... 키 카드야.
+太好了... 是門禁卡。
+太好了... 是钥匙卡。
+なんだかクリスらしくないわ
+This does not sound like Chris...
+Ça ne ressemble pas du tout à Chris...
+Non sembra affatto lo stile di Chris.
+Das hört sich nicht nach Chris an.
+Chris nunca hablaría así...
+Это не похоже на Криса...
+To niepodobne do Chrisa...
+Não parece coisa que o Chris escreveria...
+오빠가 쓴 거 같지 않은데...
+這感覺不像克里斯會說的話...
+这感觉不像克里斯会说的话...

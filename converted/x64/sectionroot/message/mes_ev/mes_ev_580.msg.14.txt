@@ -1,0 +1,144 @@
+﻿<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>まだ追いかけっこを続けるつもり？<PAGE></n>ゲームは終わりよ</n>あなたの負け<PAGE></n>聞いていい？</n>旦那さんは元気かしら？<PAGE></n>まさかGを独り占めするために</n>殺したとか？<PAGE></n>面白い考えね<PAGE></n>あなたが協力しないなら</n>NESTに向かうだけよ<PAGE></n>やれるものならやってみなさい<PAGE></n>え？　ウソ…<PAGE></n><PAGE></n><PAGE></n>肝心なときにいないのね…
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Enough with this cat and mouse game.<PAGE></n>The game is over. You lost.<PAGE></n>Tell me: Is your husband still alive?<PAGE></n>Or did you kill him, so you could take credit for G?<PAGE></n>Interesting theory...<PAGE></n>If you don't cooperate, I'll get a sample from the NEST.<PAGE></n>Over my dead body.<PAGE></n>Oh, shit...<PAGE></n><PAGE></n><PAGE></n>Where's Leon when I need him...?
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Ça suffit de jouer au chat et à la souris.<PAGE></n>La partie est finie. Vous avez perdu.<PAGE></n>Dites-moi... Votre mari est encore vivant ?<PAGE></n>Ou vous l'avez tué pour vous attribuer le mérite du virus G ?<PAGE></n>Théorie intéressante...<PAGE></n>Si vous ne coopérez pas, j'obtiendrai un échantillon du NEST.<PAGE></n>Il faudra d'abord me tuer.<PAGE></n>Eh, merde...<PAGE></n><PAGE></n><PAGE></n>Où est Leon quand on a besoin de lui ?
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Basta giocare a nascondino.<PAGE></n>E va bene. Cambiamo gioco!<PAGE></n>Dimmi, tuo marito è ancora vivo...<PAGE></n>... o l'hai ucciso, per prenderti il merito del G?<PAGE></n>Teoria interessante.<PAGE></n>Se non collabori, otterrò un campione dal NEST.<PAGE></n>Non finché sarò viva.<PAGE></n>Cazzo!<PAGE></n><PAGE></n><PAGE></n>Dov'è Leon quando serve?
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Schluss mit dem Katz- und Maus-Spiel.<PAGE></n>Das Spiel ist aus. Verloren!<PAGE></n>Sagen Sie mir:</n>Ist Ihr Mann noch am Leben?<PAGE></n>Oder ist er eliminiert</n>und Sie ernten die Lorbeeren für G?<PAGE></n>Interessante Theorie...<PAGE></n>Wenn Sie nicht kooperieren,</n>hol ich eine Probe vom NEST.<PAGE></n>Nur über meine Leiche.<PAGE></n>Scheiße...<PAGE></n><PAGE></n><PAGE></n>Wo ist Leon, wenn ich ihn brauche...
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Basta de este juego absurdo.<PAGE></n>Acabó el juego. Y has perdido.<PAGE></n>Dime: ¿sigue vivo tu marido?<PAGE></n>¿O lo mataste por la autoría del G?<PAGE></n>Teoría interesante...<PAGE></n>Si no cooperas, cogeré una muestra de NEST.<PAGE></n>Sobre mi cadáver.<PAGE></n>Mierda...<PAGE></n><PAGE></n><PAGE></n>¿Dónde está Leon...?
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Хватит играть в кошки-мышки.<PAGE></n>Игра окончена. Вы проиграли.<PAGE></n>Скажите, ваш муж еще жив?<PAGE></n>Или вы убили его, чтобы получить лавры за Г-вирус?<PAGE></n>Любопытная теория...<PAGE></n>Если вы не будете сотрудничать — возьму образец из «NEST».<PAGE></n>Только через мой труп.<PAGE></n>О черт...<PAGE></n><PAGE></n><PAGE></n>Где Леон, когда он так нужен?..
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Dość już tej zabawy w kotka i myszkę.<PAGE></n>Zabawa skończona. Przegrałaś.<PAGE></n>Powiedz mi: czy twój mąż jeszcze żyje?<PAGE></n>Czy może go zabiłaś, żeby zgarnąć laury za wirusa G?<PAGE></n>Ciekawa teoria...<PAGE></n>Jeśli nie zechcesz współpracować, pobiorę próbkę z Gniazda.<PAGE></n>Po moim trupie.<PAGE></n>O, cholera...<PAGE></n><PAGE></n><PAGE></n>Gdzie jest Leon, kiedy go potrzebuję...?
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>Chega desse jogo de gato e rato.<PAGE></n>O jogo acabou. E você perdeu.<PAGE></n>Me conta: o seu marido ainda tá vivo?<PAGE></n>Ou você matou ele, só pra roubar o crédito pelo G?<PAGE></n>Que teoria interessante...<PAGE></n>Se você não cooperar, eu pego uma amostra no NEST.<PAGE></n>Só por cima do meu cadáver.<PAGE></n>Merda.<PAGE></n><PAGE></n><PAGE></n>Cadê o Leon quando eu preciso dele...
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>쫓고 쫓는 게임은 이제 그만 하지.<PAGE></n>게임은 끝났어. 당신은 졌고.<PAGE></n>말해봐.</n>당신 남편은 아직 살아 있어?<PAGE></n>혹시, 혼자 G를 차지하려고</n>죽여버린 건가?<PAGE></n>흥미로운 이론이네...<PAGE></n>당신이 협조하지 않겠다면, 표본은 네스트에서 구하면 돼.<PAGE></n>내 눈에 흙이 들어가기 전까진</n>어림도 없지.<PAGE></n>아, 젠장...<PAGE></n><PAGE></n><PAGE></n>이럴 때 레온은 어디 있는 거야...?
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>貓捉老鼠的遊戲到此為止。<PAGE></n>遊戲結束了。你輸了。<PAGE></n>告訴我，你丈夫還活著嗎？<PAGE></n>還是你殺了他，把 G 的成果據為己有？<PAGE></n>真是個有趣的推論...<PAGE></n>如果你不合作，我會去 NEST 取得樣本。<PAGE></n>我死也要阻止你。<PAGE></n>喔，糟糕...<PAGE></n><PAGE></n><PAGE></n>里昂，你在哪？我需要你...
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>猫抓老鼠的游戏到此为止。<PAGE></n>游戏结束，你输了。<PAGE></n>告诉我，你丈夫还活着吗？<PAGE></n>还是你把他杀了，独占 G 病毒的成果？<PAGE></n>这个推论真有趣...<PAGE></n>如果你不合作，我就去母巢拿样本。<PAGE></n>我拼了命也要阻止你。<PAGE></n>喔，糟糕...<PAGE></n><PAGE></n><PAGE></n>里昂，你在哪？我需要你...
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+<TIME 6.96, 9.84><TIME 10.5, 13.5><TIME 16.14, 19.86><TIME 20.98, 24.09><TIME 24.45, 25.75><TIME 28.34, 31.87><TIME 32.76, 34.6><TIME 45.98, 47.17><TIME 47.81, 48.99><TIME 59.5, 60.62><TIME 64.14, 66.34>
+まだ追いかけっこを続けるつもり？
+Enough with this cat and mouse game.
+Ça suffit de jouer au chat et à la souris.
+Basta giocare a nascondino.
+Schluss mit dem Katz- und Maus-Spiel.
+Basta de este juego absurdo.
+Хватит играть в кошки-мышки.
+Dość już tej zabawy w kotka i myszkę.
+Chega desse jogo de gato e rato.
+쫓고 쫓는 게임은 이제 그만 하지.
+貓捉老鼠的遊戲到此為止。
+猫抓老鼠的游戏到此为止。
+ゲームは終わりよ</n>あなたの負け
+The game is over. You lost.
+La partie est finie. Vous avez perdu.
+E va bene. Cambiamo gioco!
+Das Spiel ist aus. Verloren!
+Acabó el juego. Y has perdido.
+Игра окончена. Вы проиграли.
+Zabawa skończona. Przegrałaś.
+O jogo acabou. E você perdeu.
+게임은 끝났어. 당신은 졌고.
+遊戲結束了。你輸了。
+游戏结束，你输了。
+聞いていい？</n>旦那さんは元気かしら？
+Tell me: Is your husband still alive?
+Dites-moi... Votre mari est encore vivant ?
+Dimmi, tuo marito è ancora vivo...
+Sagen Sie mir:</n>Ist Ihr Mann noch am Leben?
+Dime: ¿sigue vivo tu marido?
+Скажите, ваш муж еще жив?
+Powiedz mi: czy twój mąż jeszcze żyje?
+Me conta: o seu marido ainda tá vivo?
+말해봐.</n>당신 남편은 아직 살아 있어?
+告訴我，你丈夫還活著嗎？
+告诉我，你丈夫还活着吗？
+まさかGを独り占めするために</n>殺したとか？
+Or did you kill him, so you could take credit for G?
+Ou vous l'avez tué pour vous attribuer le mérite du virus G ?
+... o l'hai ucciso, per prenderti il merito del G?
+Oder ist er eliminiert</n>und Sie ernten die Lorbeeren für G?
+¿O lo mataste por la autoría del G?
+Или вы убили его, чтобы получить лавры за Г-вирус?
+Czy może go zabiłaś, żeby zgarnąć laury za wirusa G?
+Ou você matou ele, só pra roubar o crédito pelo G?
+혹시, 혼자 G를 차지하려고</n>죽여버린 건가?
+還是你殺了他，把 G 的成果據為己有？
+还是你把他杀了，独占 G 病毒的成果？
+面白い考えね
+Interesting theory...
+Théorie intéressante...
+Teoria interessante.
+Interessante Theorie...
+Teoría interesante...
+Любопытная теория...
+Ciekawa teoria...
+Que teoria interessante...
+흥미로운 이론이네...
+真是個有趣的推論...
+这个推论真有趣...
+「フッ…」
+(small nasal laugh)</n>"Hmph..."
+(короткий гнусавый смешок)</n>«Хмм...»
+(krótki nosowy śmiech)</n>„Hmm...”
+(risada nasal)</n>"Hunf..."
+(코웃음)</n>"흠..."
+（微弱的笑聲）</n>「嗯...」
+（微弱的笑声）</n>“嗯...”
+あなたが協力しないなら</n>NESTに向かうだけよ
+If you don't cooperate, I'll get a sample from the NEST.
+Si vous ne coopérez pas, j'obtiendrai un échantillon du NEST.
+Se non collabori, otterrò un campione dal NEST.
+Wenn Sie nicht kooperieren,</n>hol ich eine Probe vom NEST.
+Si no cooperas, cogeré una muestra de NEST.
+Если вы не будете сотрудничать — возьму образец из «NEST».
+Jeśli nie zechcesz współpracować, pobiorę próbkę z Gniazda.
+Se você não cooperar, eu pego uma amostra no NEST.
+당신이 협조하지 않겠다면, 표본은 네스트에서 구하면 돼.
+如果你不合作，我會去 NEST 取得樣本。
+如果你不合作，我就去母巢拿样本。
+やれるものならやってみなさい
+Over my dead body.
+Il faudra d'abord me tuer.
+Non finché sarò viva.
+Nur über meine Leiche.
+Sobre mi cadáver.
+Только через мой труп.
+Po moim trupie.
+Só por cima do meu cadáver.
+내 눈에 흙이 들어가기 전까진</n>어림도 없지.
+我死也要阻止你。
+我拼了命也要阻止你。
+え？　ウソ…
+Oh, shit...
+Eh, merde...
+Cazzo!
+Scheiße...
+Mierda...
+О черт...
+O, cholera...
+Merda.
+아, 젠장...
+喔，糟糕...
+喔，糟糕...
+肝心なときにいないのね…
+Where's Leon when I need him...?
+Où est Leon quand on a besoin de lui ?
+Dov'è Leon quando serve?
+Wo ist Leon, wenn ich ihn brauche...
+¿Dónde está Leon...?
+Где Леон, когда он так нужен?..
+Gdzie jest Leon, kiedy go potrzebuję...?
+Cadê o Leon quando eu preciso dele...
+이럴 때 레온은 어디 있는 거야...?
+里昂，你在哪？我需要你...
+里昂，你在哪？我需要你...

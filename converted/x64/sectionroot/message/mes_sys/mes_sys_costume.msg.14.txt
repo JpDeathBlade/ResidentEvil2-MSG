@@ -1,0 +1,572 @@
+﻿NORMAL SET
+Normal Outfits
+Tenues normales
+Costumi standard
+Normale Outfits
+Trajes normales
+Обычные костюмы
+Normalne stroje
+Trajes Normais
+일반 의상
+一般服裝
+一般服装
+ALTERNATIVE SET
+Alternative Outfits
+Tenues alternatives
+Costumi alternativi
+Alternative Outfits
+Trajes alternativos
+Альтерн. костюмы
+Stroje alternatywne
+Trajes Alternativos
+대체 의상
+替換服裝
+替代服装
+CUSTOM
+Unlocked Outfits
+Tenues débloquées
+Costumi sbloccati
+Anpassen
+Trajes desbloqueados
+Разблокированные костюмы
+Odblokowane stroje
+Trajes Desbloqueados
+잠금 해제 가능 의상
+已解除鎖定的服裝
+已解锁的服装
+STORY SET
+Story Outfits
+Tenues du mode Campagne
+Costumi storia
+Kampagnen-Outfits
+Trajes modo historia
+Сюжетные костюмы
+Stroje (tryb fabularny)
+Trajes da História
+스토리 의상
+劇情服裝
+剧情服装
+レオン
+Leon
+Leon
+Leon
+Leon
+Leon
+Леон
+Leon
+Leon
+레온
+里昂
+里昂
+クレア
+Claire
+Claire
+Claire
+Claire
+Claire
+Клэр
+Claire
+Claire
+클레어
+克蕾兒
+克莱尔
+エイダ
+Ada
+Ada
+Ada
+Ada
+Ada
+Ада
+Ada
+Ada
+에이다
+艾達
+艾达
+シェリー
+Sherry
+Sherry
+Sherry
+Sherry
+Sherry
+Шерри
+Sherry
+Sherry
+셰리
+雪莉
+雪莉
+シナリオに応じて変化する通常コスチュームに変更します
+Characters will wear their regular clothes throughout the story.
+Les personnages porteront leurs tenues normales tout au long de l'histoire.
+I personaggi avranno i loro vestiti standard durante la storia.
+Charaktere tragen in der Kampagne ihre normale Kleidung.
+Los personajes llevarán su ropa normal durante la historia.
+В сюжетной кампании персонажи будут одеты в обычную одежду.
+Podczas gry postacie będą miały na sobie zwykłe stroje.
+Os personagens vestirão os trajes normais durante a história.
+캐릭터가 스토리를 진행하는 동안 일반 복장을 착용합니다.
+角色將在劇情中以一般服裝登場。
+角色们在剧情中将穿着一般服装登场。
+シナリオに応じて変化するクラシックコスチュームに変更します
+Characters will wear their alternative outfits throughout the story.
+Les personnages porteront leurs tenues alternatives tout au long de l'histoire.
+I personaggi avranno i loro vestiti alternativi durante la storia.
+Charaktere tragen in der Kampagne ihre alternativen Outfits.
+Los personajes llevarán sus trajes alternativos durante la historia.
+В сюжетной кампании персонажи будут одеты в альтернативные костюмы.
+Podczas gry postacie będą miały na sobie alternatywne stroje.
+Os personagens vestirão os trajes alternativos durante a história.
+캐릭터가 스토리를 진행하는 동안 대체 의상을 착용합니다.
+角色將在劇情中以替換服裝登場。
+角色们在剧情中将穿着替代服装登场。
+キャラクターごとのコスチュームを変更します
+Individually change each character's outfit.
+Changer la tenue d'un personnage.
+Cambia i vestiti di ogni personaggio.
+Outfit der Charaktere anpassen.
+Cambia el aspecto de cada personaje individualmente.
+Сменить костюм для каждого из персонажей.
+Możesz zmienić strój każdej z postaci.
+Trocar o traje de cada personagem individualmente.
+각 캐릭터의 복장을 변경합니다.
+個別改變每位角色的服裝。
+个别更换每位角色的服装。
+選択したコスチュームに変更します
+Change character into the selected outfit.
+Sélectionner une tenue.
+Usa il costume selezionato per il personaggio.
+Dem Charakter das ausgewählte Outfit anziehen.
+Cambia el traje del personaje seleccionado.
+Переодеть персонажа в выбранный костюм.
+Przebierz postać w wybrany strój.
+Botar traje selecionado no personagem.
+선택한 의상으로 캐릭터 복장을 변경합니다.
+將角色服裝更換為所選擇的服裝。
+将角色的服装变更为所选服装。
+レオン : NORMAL CUSTOM
+Leon (Normal Custom)
+Leon (Choix de la tenue normale)
+Leon - Costumi Standard
+Leon - Normal (anpassbar)
+Leon (Normales seleccionables)
+Леон (обычный уникальный костюм)
+Leon (normalny — specjalny)
+Leon (Normal Alternativo)
+레온(일반 커스텀)
+里昂（一般自訂）
+里昂（一般自定义）
+クレア : NORMAL CUSTOM
+Claire (Normal Custom)
+Claire (Choix de la tenue normale)
+Claire - Costumi Standard
+Claire - Normal (anpassbar)
+Claire (Normales seleccionables)
+Клэр (обычный уникальный костюм)
+Claire (normalny — specjalny)
+Claire (Normal Alternativo)
+클레어(일반 커스텀)
+克蕾兒（一般自訂）
+克莱尔（一般自定义）
+レオン : ALTERNATIVE SET
+Leon (Alternative)
+Leon (Tenues alternatives)
+Leon - Costumi alternativi
+Leon - Alternative Outfits
+Leon (Trajes alternativos)
+Леон (альтернативный костюм)
+Leon (alternatywny)
+Leon (Alternativo)
+레온(대체)
+里昂（替換）
+里昂（替代）
+クレア : ALTERNATIVE SET
+Claire (Alternative)
+Claire (Tenues alternatives)
+Claire - Costumi alternativi
+Claire - Alternative Outfits
+Claire (Trajes alternativos)
+Клэр (альтернативный костюм)
+Claire (alternatywny)
+Claire (Alternativo)
+클레어(대체)
+克蕾兒（替換）
+克莱尔（替代）
+エイダ : NORMAL CUSTOM
+Ada (Normal Custom)
+Ada (Choix de la tenue normale)
+Ada - Costumi classici
+Ada - Normal (anpassbar)
+Ada (Normales seleccionables)
+Ада (обычный уникальный костюм)
+Ada (normalny — specjalny)
+Ada (Normal Alternativo)
+에이다(일반 커스텀)
+艾達（一般自訂）
+艾达（一般自定义）
+シェリー : NORMAL CUSTOM
+Sherry (Normal Custom)
+Sherry (Choix de la tenue normale)
+Sherry - Costumi standard
+Sherry - Normal (anpassbar)
+Sherry (Normales seleccionables)
+Шерри (обычный уникальный костюм)
+Sherry (normalny — specjalny)
+Sherry (Normal Alternativo)
+셰리(일반 커스텀)
+雪莉（一般自訂）
+雪莉（一般自定义）
+レオン : CLASSIC CUSTOM
+Leon (Classic Custom)
+Leon (Choix de la tenue classique)
+Leon - Costumi classici
+Leon - Klassisch (anpassbar)
+Leon (Alternativos seleccionables)
+Леон (классический уникальный костюм)
+Leon (klasyczny — specjalny)
+Leon (Clássico Alternativo)
+레온(클래식 커스텀)
+里昂（經典自訂）
+里昂（经典自定义）
+クレア : CLASSIC CUSTOM
+Claire (Classic Custom)
+Claire (Choix de la tenue classique)
+Claire - Costumi classici
+Claire - Klassisch (anpassbar)
+Claire (Alternativos seleccionables)
+Клэр (классический уникальный костюм)
+Claire (klasyczny — specjalny)
+Claire (Clássico Alternativo)
+클레어(클래식 커스텀)
+克蕾兒（經典自訂）
+克莱尔（经典自定义）
+シェリー : CLASSIC CUSTOM
+Sherry (Classic Custom)
+Sherry (Choix de la tenue classique)
+Sherry - Costumi classici
+Sherry - Klassisch (anpassbar)
+Sherry (Alternativos seleccionables)
+Шерри (классический уникальный костюм)
+Sherry (klasyczny — specjalny)
+Sherry (Clássico Alternativo)
+셰리(클래식 커스텀)
+雪莉（經典自訂）
+雪莉（经典自定义）
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards03
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Costume_Rewards04
+NORMAL SET
+Normal
+Tenues normales
+Standard
+Normale Outfits
+Normal
+Обычный
+Normalny
+Normal
+일반
+一般
+一般
+ALTERNATIVE SET
+Alternative
+Tenues alternatives
+Alternativo
+Alternative Outfits
+Alternativo
+Альтернативный
+Alternatywny
+Alternativo
+대체
+替換
+替代
+CASUAL
+Casual
+Décontracté
+Casual
+Freizeit
+Informal
+Обычный
+Zwykły
+Casual
+캐주얼
+便服
+便服
+POLICE
+Police
+Uniforme
+Poliziotto
+Polizist
+Policía
+Полицейский
+Policyjny
+Policial
+경찰복
+警服
+警察服
+POLICE（ケガ）
+Police (Injured)
+Uniforme (blessé)
+Poliziotto (ferito)
+Polizist (verletzt)
+Policía (herido)
+Полицейский (ранение)
+Policyjny (rany)
+Policial (Ferido)
+경찰복(부상)
+警服（負傷）
+警察服（负伤）
+CLASSIC POLICE
+Classic Police
+Uniforme classique
+Poliziotto classico
+Klassischer Polizist
+Policía clásico
+Классический полицейский
+Klasyczny policyjny
+Policial Clássico
+클래식 경찰복
+經典警服
+经典警察服
+CLASSIC POLICE（ケガ）
+Classic Police (Injured)
+Uniforme classique (blessé)
+Poliziotto classico (ferito)
+Klassischer Polizist (verletzt)
+Policía clásico (herido)
+Классический полицейский (ранение)
+Klasyczny policyjny (rany)
+Policial Clássico (Ferido)
+일반 경찰복(부상)
+經典警服（負傷）
+经典警察服（负伤）
+JACKET
+Jacket
+Veste
+Giacca
+Jacke
+Chaqueta
+Куртка
+Kurtka
+Jaqueta
+재킷
+外套
+外套
+TANK TOP
+Tank Top
+Débardeur
+Canotta
+Top
+Camiseta
+Майка
+Bezrękawnik
+Regata
+탱크톱
+無袖上衣
+背心
+CLASSIC JACKET
+Classic Jacket
+Veste classique
+Giacca classica
+Klassische Jacke
+Chaqueta clásica
+Классическая куртка
+Klasyczna kurtka
+Casaco Clássico
+클래식 재킷
+經典外套
+经典外套
+CLASSIC TANK TOP
+Classic Tank Top
+Débardeur classique
+Canotta classica
+Klassisches Top
+Camiseta clásica
+Классическая майка
+Klasyczny bezrękawnik
+Regata Clássica
+클래식 탱크톱
+經典無袖上衣
+经典背心
+COAT
+Trench Coat
+Imper
+Impermeabile
+Trenchcoat
+Gabardina
+Пальто
+Trencz
+Sobretudo
+트렌치코트
+風衣
+风衣
+DRESS
+Cocktail Dress
+Robe de soirée
+Abito da cocktail
+Cocktailkleid
+Vestido de noche
+Вечернее платье
+Sukienka koktajlowa
+Vestido de Gala
+칵테일 드레스
+小禮服
+小礼服
+DRESS（ケガ）
+Cocktail Dress (Injured)
+Robe de soirée (blessée)
+Abito da cocktail (ferita)
+Cocktailkleid (verletzt)
+Vestido de noche (herida)
+Вечернее платье (ранение)
+Sukienka koktaj. (rany)
+Vestido de Gala (Ferida)
+칵테일 드레스(부상)
+小禮服（負傷）
+小礼服（负伤）
+SCHOOL UNIFORM
+School Uniform
+Uniforme
+Uniforme scolastica
+Schuluniform
+Uniforme
+Школьная форма
+Mundurek szkolny
+Uniforme
+교복
+學校制服
+学校制服
+SCHOOL UNIFORM（発症）
+School Uniform (Infected)
+Uniforme (infectée)
+Uniforme scolastica (infetta)
+Schuluniform (infiziert)
+Uniforme (infectada)
+Школьная форма (заражение)
+Mundurek szkolny (wirus)
+Uniforme (Infectada)
+교복(감염)
+學校制服（感染）
+学校制服（感染）
+JACKET（発症）
+Jacket (Infected)
+Veste (infectée)
+Giacca (infetta)
+Jacke (infiziert)
+Chaqueta (infectada)
+Куртка (заражение)
+Kurtka (wirus)
+Casaco (Infectada)
+재킷(감염)
+外套（感染）
+外套（感染）
+JACKET
+Jacket
+Veste
+Giacca
+Jacke
+Chaqueta
+Куртка
+Kurtka
+Casaco
+재킷
+外套
+外套
+CLASSIC SCHOOL UNIFORM
+Classic School Uniform
+Uniforme classique
+Uniforme scolastica classica
+Klassische Schuluniform
+Uniforme clásico
+Классическая школьная форма
+Klasyczny mundurek szkol.
+Uniforme Clássico
+클래식 교복
+經典學校制服
+经典学校制服
+CLASSIC SCHOOL UNIFORM（発症）
+Classic School Uniform (Infected)
+Uniforme classique (infectée)
+Uniforme scolastica classica (infetta)
+Klassische Schuluniform (infiziert)
+Uniforme clásico (inf.)
+Класс. школьная форма (заражение)
+Klasyczny mundurek szkolny (wirus)
+Uniforme Clássico (Infectada)
+클래식 교복(감염)
+經典學校制服（感染）
+经典学校制服（感染）
+CLASSIC JACKET（発症）
+Classic Jacket (Infected)
+Veste classique (infectée)
+Giacca classica (infetta)
+Klassische Jacke (infiziert)
+Chaqueta clásica (inf.)
+Классическая куртка (заражение)
+Klasyczna kurtka (wirus)
+Casaco Clássico (Infec.)
+클래식 재킷(감염)
+經典外套（感染）
+经典外套（感染）
+CLASSIC JACKET
+Classic Jacket
+Veste classique
+Giacca classica
+Klassische Jacke
+Chaqueta clásica
+Классическая куртка
+Klasyczna kurtka
+Casaco Clássico
+클래식 재킷
+經典外套
+经典外套

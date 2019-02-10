@@ -1,0 +1,48 @@
+﻿枯死剤の製法
+Herbicide Synthesis
+Synthèse d'herbicide
+Sintetizzazione erbicida
+Unkrautvernichter-Synthese
+Síntesis del herbicida
+Синтез гербицида
+Synteza środka chwastobójczego
+Síntese de Herbicida
+제초제 합성
+除草劑合成方法
+除草剂合成方法
+＜プラント43<COL FILE_EMP>枯死剤</COLOR>の製法＞</n>1. 空のカートリッジを薬液充填機にセット。</n>2. UMB No.21(P-ε)を規定量注入。</n>3. 急速に<COL FILE_EMP>冷却</COLOR>する。
+Plant 43 <COL FILE_EMP>Herbicide</COLOR> Synthesis</n>1. Place an empty cartridge into the</n>    Solution Dispenser</n>2. Add the required amount of UMB No.21 (P-ε)</n>3. <COL FILE_EMP>Cool</COLOR> immediately
+Synthèse d'<COL FILE_EMP>herbicide</COLOR> pour plante 43</n>1. Placer une cartouche vide dans le distributeur</n>   de solution</n>2. Injecter le volume nécessaire d'UMB N°21 (P-ε) </n>3. <COL FILE_EMP>Refroidir</COLOR> immédiatement
+Pianta 43 - Sintetizzazione <COL FILE_EMP>erbicida</COLOR></n>1. Posizionare un contenitore vuoto</n>    nella macchina di riempimento</n>2. Aggiungere la quantità necessaria di</n>    UMB n. 21 (P-ε)</n>3. <COL FILE_EMP>Raffreddare</COLOR> immediatamente
+<COL FILE_EMP>Unkrautvernichter-</COLOR>Synthese für Gewächs 43</n>1. Leere Kartusche im</n>    Lösungsausgeber platzieren</n>2. Erforderliche Menge UMB Nr. 21 (P-ε) einfüllen</n>3. Umgehend <COL FILE_EMP>kühlen</COLOR>
+Síntesis del <COL FILE_EMP>herbicida</COLOR> de la planta 43:</n>1. Pon un cartucho vacío en el</n>    dispensador de tratamiento</n>2. Añade la cantidad requerida de UMB N.º 21 (P-ε)</n>3. <COL FILE_EMP>Enfríalo</COLOR> inmediatamente
+Образец 43. Синтез <COL FILE_EMP>гербицида</COLOR></n>1. Поместить пустой картридж</n>    в распылитель растворов</n>2. Добавить необходимое </n>     количество UMB № 21 (P-ε)</n>3. Немедленно <COL FILE_EMP>охладить</COLOR>
+Sadzonka 43: synteza <COL FILE_EMP>środka chwastobójczego</COLOR></n>1. Umieścić pusty pojemnik w</n>    dozowniku roztworów.</n>2. Dodać potrzebną ilość UMB nr 21 (P-ε).</n>3. Natychmiast <COL FILE_EMP>schłodzić</COLOR>.
+Síntese de Herbicida <COL FILE_EMP>Herbicida</COLOR> — Planta 43</n>1. Insira um contêiner vazio</n>no Dispensador de Solução</n>2. Adicione a quantidade</n>necessária de UMB No.21 (P-ε)</n>3. <COL FILE_EMP>Refrigere</COLOR> o composto imediatamente.
+43번 식물 <COL FILE_EMP>제초제</COLOR> 합성</n>1. 빈 카트리지를 용액 주입기에</n>    넣는다</n>2. 필요한 양만큼 UMB No.21(P-ε)을 추가한다</n>3. 즉시 <COL FILE_EMP>냉각</COLOR>시킨다
+43 號植物<COL FILE_EMP>除草劑</COLOR>合成方法</n>1. 將空的貯藏罐放進農藥噴灑器</n>2. 加入所需劑量的 UMB 21 號（P-ε）</n>3. 立即<COL FILE_EMP>冷卻</COLOR>
+43 号植物 <COL FILE_EMP>除草剂</COLOR> 合成</n>1. 将空罐放入试剂调配器</n>2. 加入所需剂量的 UMB 21 号（P-ε）</n>3. 立即<COL FILE_EMP>冷却</COLOR>
+プラント43の成長速度は驚異的であり、</n>万一の事態が起きた場合、制御は困難である。</n>非常時には、上記製法を用いて精製した枯死剤を</n>散布し、被害を最小限に留めること。
+Plant 43 exhibits astounding growth. If something</n>unfortunate were to occur, it may be hard to</n>control. In the event of an unforeseen incident,</n>manufacture the herbicide using the instructions</n>above in order to minimize damage.
+La croissance de la plante 43 est phénoménale.</n>Si jamais un incident venait à se produire,</n>elle pourrait échapper à notre contrôle. Si</n>c'était le cas, fabriquez l'herbicide à l'aide</n>des instructions ci-dessus pour minimiser les</n>dégâts.
+La pianta 43 mostra una crescita stupefacente.</n>Se dovesse verificarsi un qualche imprevisto,</n>potrebbe essere difficile da controllare.</n>In caso di incidente sintetizzare l'erbicida</n>seguendo le istruzioni precedenti, così da</n>limitare i danni.
+Gewächs 43 zeigt beeindruckendes Wachstum.</n>Sollte etwas Unerfreuliches geschehen, wäre es</n>schwer zu kontrollieren. Im Fall eines</n>unvorhergesehenen Vorfalls sollte nach den</n>obenstehenden Anweisungen ein Unkrautvernichter</n>hergestellt werden, um den Schaden möglichst</n>gering zu halten.
+La planta 43 muestra un crecimiento asombroso.</n>Si ocurriera una desgracia, sería difícil controlarla.</n>En caso de un incidente imprevisto,</n>hay que crear un herbicida siguiendo las</n>instrucciones anteriores para minimizar el daño.
+Образец 43 растет с невероятной скоростью.</n>Если произойдет какой-то инцидент,</n>он может выйти из-под контроля.</n>В случае непредвиденных обстоятельств</n>создайте гербицид с помощью инструкции,</n>чтобы свести к минимуму возможный ущерб.
+Sadzonka 43 rośnie w zdumiewającym tempie.</n>Gdyby wydarzył się nieszczęśliwy wypadek, jej opanowanie może być trudne.</n>W przypadku nieprzewidzianego zdarzenia należy</n>przygotować środek chwastobójczy zgodnie</n>z powyższymi instrukcjami, aby zminimalizować szkody.
+A Planta 43 está apresentando um crescimento</n>impressionante. Se houver algum imprevisto</n>infeliz, pode ser difícil controlá-la. Caso</n>haja um incidente, produza o herbicida a partir</n>das instruções acima para minimizar os danos.
+43번 식물은 엄청난 성장세를 보이고 있습니다.</n>만약 불행한 사고라도 발생한다면 통제가</n>어려울 수 있습니다. 예측하지 못한 사건이</n>발생할 경우, 위 지침에 따라 제초제를 제작해</n>피해를 최소화해야 합니다.
+43 號植物顯現出令人驚訝的成長。</n>如果發生不幸，情況可能難以控制。</n>若發生意外事件，請根據以上指示</n>製作除草劑，以將傷害減到最低。
+43 号植物展现出惊人的生长力。</n>如果发生不幸，情况可能会难以控制。</n>万一发生意外事件，请使用上述步骤</n>制造除草剂，将损伤降至最低。</n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

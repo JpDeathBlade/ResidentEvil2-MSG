@@ -1,0 +1,636 @@
+﻿<TIME 4.1, 5.48><TIME 6.81, 8.51>クソッ！<PAGE></n>間に合うか…！？<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>Shit!<PAGE></n>Gotta get outta here!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>Merde !<PAGE></n>Il faut que je me tire d'ici !<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>Merda!<PAGE></n>Devo andarmene!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>Mist!<PAGE></n>Nichts wie raus hier!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>¡Mierda!<PAGE></n>¡Tengo que salir!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>Черт!<PAGE></n>Надо выбираться отсюда!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>Szlag!<PAGE></n>Muszę stąd uciekać!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>Merda!<PAGE></n>Eu tenho que sair daqui!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>젠장!<PAGE></n>여길 빠져나가야 하는데!<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>該死！<PAGE></n>我得逃出這裡！<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>该死！<PAGE></n>我得离开这里！<PAGE>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 4.1, 5.48><TIME 6.81, 8.51>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>もう忘れないとな…<PAGE></n>レオン！
+<TIME 18.08, 20.0><TIME 40.86, 42.01>I can't believe I actually miss her...<PAGE></n>Leon!?
+<TIME 18.08, 20.0><TIME 40.86, 42.01>J'arrive pas à croire qu'elle me manque...<PAGE></n>Leon !
+<TIME 18.08, 20.0><TIME 40.86, 42.01>Incredibile, mi manca...<PAGE></n>Leon!
+<TIME 18.08, 20.0><TIME 40.86, 42.01>Unglaublich, aber ich vermisse sie...<PAGE></n>Leon!
+<TIME 18.08, 20.0><TIME 40.86, 42.01>No me creo que la eche de menos...<PAGE></n>¿Leon?
+<TIME 18.08, 20.0><TIME 40.86, 42.01>Не думал, что буду по ней скучать...<PAGE></n>Леон?!
+<TIME 18.08, 20.0><TIME 40.86, 42.01>Nie wierzę, że mi jej brakuje...<PAGE></n>Leon?!
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>Não acredito que eu tô sentindo falta dela...<PAGE></n>Leon?!
+<TIME 18.08, 20.0><TIME 40.86, 42.01>에이다가 보고 싶다니 믿을 수가 없군...<PAGE></n>레온!?
+<TIME 18.08, 20.0><TIME 40.86, 42.01>真不敢相信我竟然有點想念她...<PAGE></n>里昂！？
+<TIME 18.08, 20.0><TIME 40.86, 42.01>真不敢相信我竟然有点想念她...<PAGE></n>里昂！？
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 18.08, 20.0><TIME 40.86, 42.01>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>クレア<PAGE></n>やったな<PAGE></n>私が言った通りね
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>Hey...<PAGE></n>We made it...<PAGE></n>Just like I said we would.
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>Hé !<PAGE></n>On a réussi...<PAGE></n>Tu vois, je te l'avais dit.
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>Ehi!<PAGE></n>È fatta!<PAGE></n>Te l'avevo detto, no?
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>Hey...<PAGE></n>Geschafft.<PAGE></n>Hab ich dir doch gesagt!
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05><PAGE></n>Lo logramos.<PAGE></n>Tal y como te dije.
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05><PAGE></n>У нас получилось...<PAGE></n>Я же говорила.
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05><PAGE></n>Udało nam się...<PAGE></n>Dokładnie tak, jak mówiłam.
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05><PAGE></n>A gente conseguiu.<PAGE></n>Bem como eu falei.
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05><PAGE></n>우리 모두 살아남았군요...<PAGE></n>내가 말한 대로 말이에요.
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05><PAGE></n>我們成功了...<PAGE></n>就跟我說的一樣。
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05><PAGE></n>我们成功了...<PAGE></n>就跟我那时候说的一样。
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.00, 2.00><TIME 2.72, 3.99><TIME 4.28, 6.05>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>やったな<PAGE></n>私が言った通りね<PAGE></n>この子は？<PAGE></n>シェリーよ<PAGE></n>よろしく<PAGE></n>何だ？<PAGE></n>今のは？<PAGE></n>分からない<PAGE></n>見てくる</n>その子を頼む
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>We made it...<PAGE></n>Just like I said we would.<PAGE></n>Who's this?<PAGE></n>This is Sherry.<PAGE></n>OK.<PAGE></n>Jesus.<PAGE></n>What was that?<PAGE></n>I don't know...<PAGE></n>I'll go. You take care of Sherry.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>On a réussi...<PAGE></n>Tu vois, je te l'avais dit.<PAGE></n>C'est qui ?<PAGE></n>Voici Sherry.<PAGE></n>Salut.<PAGE></n>La vache !<PAGE></n>C'était quoi ?<PAGE></n>J'en sais rien...<PAGE></n>Je vais voir. Occupe-toi de Sherry.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>È fatta!<PAGE></n>Te l'avevo detto, no?<PAGE></n>Lei chi è?<PAGE></n>Lei è Sherry.<PAGE></n>Ciao.<PAGE></n>Cristo.<PAGE></n>Cos'è stato?<PAGE></n>Non lo so.<PAGE></n>Vado io. Tu bada a Sherry.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>Geschafft.<PAGE></n>Hab ich dir doch gesagt!<PAGE></n>Wer ist das?<PAGE></n>Das ist Sherry.<PAGE></n>Okay.<PAGE></n>Scheiße.<PAGE></n>Was war das?<PAGE></n>Keine Ahnung...<PAGE></n>Ich gehe.</n>Du kümmerst dich um Sherry.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>Lo logramos.<PAGE></n>Tal y como te dije.<PAGE></n>¿Y ella?<PAGE></n>Esta es Sherry.<PAGE></n>Hola.<PAGE></n>Dios.<PAGE></n>¿Qué fue eso?<PAGE></n>No sé...<PAGE></n>Voy yo. Cuida de Sherry.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>У нас получилось...<PAGE></n>Я же говорила.<PAGE></n>А это кто?<PAGE></n>Это Шерри.<PAGE></n>Понятно.<PAGE></n>Господи...<PAGE></n>Что это было?<PAGE></n>Не знаю...<PAGE></n>Пойду посмотрю. Ты позаботься о Шерри.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>Udało nam się...<PAGE></n>Dokładnie tak, jak mówiłam.<PAGE></n>Kto to?<PAGE></n>To Sherry.<PAGE></n>OK.<PAGE></n>Jezu.<PAGE></n>Co to było?<PAGE></n>Nie wiem...<PAGE></n>Idę. Ty zajmij się Sherry.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>A gente conseguiu.<PAGE></n>Bem como eu falei.<PAGE></n>Quem é essa?<PAGE></n>É a Sherry.<PAGE></n>Certo.<PAGE></n>Caramba.<PAGE></n>O que foi isso?<PAGE></n>Não sei.<PAGE></n>Vou dar uma olhada. Toma conta da Sherry.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>우리 모두 살아남았군요...<PAGE></n>내가 말한 대로 말이에요.<PAGE></n>이 아이는 누구죠?<PAGE></n>셰리라고 해요.<PAGE></n>그렇군요.<PAGE></n>맙소사.<PAGE></n>방금 뭐였죠?<PAGE></n>나도 모르겠어요...<PAGE></n>내가 가볼게요. 당신은 셰리를 돌봐줘요.
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>我們成功了...<PAGE></n>就跟我說的一樣。<PAGE></n>這是誰？<PAGE></n>她是雪莉。<PAGE></n>好。<PAGE></n>天哪。<PAGE></n>怎麼回事？<PAGE></n>不知道...<PAGE></n>我去看看，你照顧雪莉。
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>我们成功了...<PAGE></n>就跟我那时候说的一样。<PAGE></n>这是谁？<PAGE></n>她是雪莉。<PAGE></n>好。<PAGE></n>天啊。<PAGE></n>那是怎么一回事？<PAGE></n>不清楚...<PAGE></n>我去看看，你照顾雪莉。
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+<TIME 0.33, 1.5><TIME 1.9, 3.71><TIME 4.06, 5.43><TIME 6.77, 7.93><TIME 8.0, 9.3><TIME 10.39, 11.51><TIME 11.9, 13.01><TIME 13.03, 14.36><TIME 14.52, 16.75>
+クソッ！
+Shit!
+Merde !
+Merda!
+Mist!
+¡Mierda!
+Черт!
+Szlag!
+Merda!
+젠장!
+該死！
+该死！
+間に合うか…！？
+Gotta get outta here!
+Il faut que je me tire d'ici !
+Devo andarmene!
+Nichts wie raus hier!
+¡Tengo que salir!
+Надо выбираться отсюда!
+Muszę stąd uciekać!
+Eu tenho que sair daqui!
+여길 빠져나가야 하는데!
+我得逃出這裡！
+我得离开这里！
+もう忘れないとな…
+I can't believe I actually miss her...
+J'arrive pas à croire qu'elle me manque...
+Incredibile, mi manca...
+Unglaublich, aber ich vermisse sie...
+No me creo que la eche de menos...
+Не думал, что буду по ней скучать...
+Nie wierzę, że mi jej brakuje...
+Não acredito que eu tô sentindo falta dela...
+에이다가 보고 싶다니 믿을 수가 없군...
+真不敢相信我竟然有點想念她...
+真不敢相信我竟然有点想念她...
+レオン！
+Leon!?
+Leon !
+Leon!
+Leon!
+¿Leon?
+Леон?!
+Leon?!
+Leon?!
+레온!?
+里昂！？
+里昂！？
+クレア
+Hey...
+Hé !
+Ehi!
+Hey...
+良かった 無事で
+It's so good to see you. 
+Je suis si contente !
+Che bello rivederti.
+Ist so gut, dich zu sehen.
+Me alegro de verte.
+Как же я рада тебя видеть. 
+Tak miło cię widzieć. 
+Que bom te ver. 
+만나서 너무 반갑네요.
+見到你真好。 
+见到你真好。 
+大丈夫だって言ったろ？
+I told you we'd make it, didn't I?
+Je t'avais dit qu'on s'en sortirait.
+Te l'ho detto che ce l'avremmo fatta!
+Hab doch gesagt, wir schaffen's, oder?
+Te dije que lo conseguiríamos, ¿no?
+Я же говорил, что мы выживем.
+A nie mówiłem, że nam się uda?
+Eu falei que a gente ia conseguir, não falei?
+내가 뭐랬어요, 우리 모두 살아남을 거라고 했죠?
+就跟你說我們會成功的，對吧？
+就跟你说我们都会没事的，对吧？
+そうね
+You did.
+C'est vrai.
+È vero.
+Hast du.
+Lo hiciste.
+Говорил.
+Mówiłeś.
+Falou mesmo.
+그랬죠.
+你的確說過。
+你的确说过。
+この子は？
+Who's this?
+C'est qui ?
+Lei chi è?
+Wer ist das?
+¿Y ella?
+А это кто?
+Kto to?
+Quem é essa?
+이 아이는 누구죠?
+這是誰？
+这是谁？
+シェリーよ
+This is Sherry.
+Voici Sherry.
+Lei è Sherry.
+Das ist Sherry.
+Esta es Sherry.
+Это Шерри.
+To Sherry.
+É a Sherry.
+셰리라고 해요.
+她是雪莉。
+她是雪莉。
+よろしく
+OK.
+Salut.
+Ciao.
+Okay.
+Hola.
+Понятно.
+OK.
+Certo.
+그렇군요.
+好。
+好。
+何だ？
+Jesus.
+La vache !
+Cristo.
+Scheiße.
+Dios.
+Господи...
+Jezu.
+Caramba.
+맙소사.
+天哪。
+天啊。
+今のは？
+What was that?
+C'était quoi ?
+Cos'è stato?
+Was war das?
+¿Qué fue eso?
+Что это было?
+Co to było?
+O que foi isso?
+방금 뭐였죠?
+怎麼回事？
+那是怎么一回事？
+分からない
+I don't know...
+J'en sais rien...
+Non lo so.
+Keine Ahnung...
+No sé...
+Не знаю...
+Nie wiem...
+Não sei.
+나도 모르겠어요...
+不知道...
+不清楚...
+見てくる</n>その子を頼む
+I'll go. You take care of Sherry.
+Je vais voir. Occupe-toi de Sherry.
+Vado io. Tu bada a Sherry.
+Ich gehe.</n>Du kümmerst dich um Sherry.
+Voy yo. Cuida de Sherry.
+Пойду посмотрю. Ты позаботься о Шерри.
+Idę. Ty zajmij się Sherry.
+Vou dar uma olhada. Toma conta da Sherry.
+내가 가볼게요. 당신은 셰리를 돌봐줘요.
+我去看看，你照顧雪莉。
+我去看看，你照顾雪莉。
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>クレア！<PAGE></n>大丈夫よ　もう<PAGE></n>出発しましょう
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Claire!<PAGE></n>It's OK, I'm here.<PAGE></n>We are getting outta here!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Claire !<PAGE></n>Tout va bien, je suis là.<PAGE></n>On fiche le camp d'ici.
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Claire!<PAGE></n>Tutto ok. Sono qui.<PAGE></n>Ora ce ne andiamo!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Claire!<PAGE></n>Ist okay, ich bin hier.<PAGE></n>Jetzt kommen wir hier raus!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>¡Claire!<PAGE></n>Tranquila, estoy bien.<PAGE></n>¡Nos vamos de aquí!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Клэр!<PAGE></n>Все хорошо. Я с тобой.<PAGE></n>Уходим отсюда!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Claire!<PAGE></n>W porządku, jestem przy tobie.<PAGE></n>Wydostaniemy się stąd!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>Claire!<PAGE></n>Tá tudo bem! Eu tô aqui.<PAGE></n>A gente vai sair daqui!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>클레어!<PAGE></n>이제 괜찮아. 내가 있잖아.<PAGE></n>어서 여기서 빠져나가자!
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>克蕾兒！<PAGE></n>沒事了，我在這。<PAGE></n>我們要逃出這裡了！
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>克莱尔！<PAGE></n>没事的，我在呢。<PAGE></n>我们要逃出这里了！
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 11.47, 12.96><TIME 12.97, 15.28><TIME 16.12, 17.7>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>ここを出たら何がしたい？<PAGE></n>クレアのうちに行きたい<PAGE></n>いいよ</n>シャワーも浴びたいしね<PAGE></n>だね<PAGE></n>やだ におう？</n>ホントだ<PAGE></n>クレア<PAGE></n>レオン！<PAGE></n>良かった 無事で<PAGE></n>大丈夫だって言ったろ？<PAGE></n>そうね
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>So what's the first thing you wanna do when we get outta here?<PAGE></n>I want to see where you live.<PAGE></n>Good, cause I...need to take a shower.<PAGE></n>Yeah...<PAGE></n>Really? That bad...oh, yeah...<PAGE></n>Claire.<PAGE></n>Leon!<PAGE></n>It's so good to see you. <PAGE></n>I told you we'd make it, didn't I?<PAGE></n>You did.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>Alors dis-moi, qu'est-ce que tu veux faire une fois dehors ?<PAGE></n>Je veux voir ta maison.<PAGE></n>Ah, ça tombe bien... J'ai besoin d'une douche.<PAGE></n>Ouais...<PAGE></n>Vraiment ? À ce point ? Hmm... Ah ouais...<PAGE></n>Claire.<PAGE></n>Leon !<PAGE></n>Je suis si contente !<PAGE></n>Je t'avais dit qu'on s'en sortirait.<PAGE></n>C'est vrai.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>La prima cosa che farai una volta fuori da qui?<PAGE></n>Voglio vedere casa tua.<PAGE></n>Bene... Perché a me... serve una doccia.<PAGE></n>Sì.<PAGE></n>Davvero? Così tanto? Già...<PAGE></n>Claire.<PAGE></n>Leon!<PAGE></n>Che bello rivederti.<PAGE></n>Te l'ho detto che ce l'avremmo fatta!<PAGE></n>È vero.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>Also, was willst du als Erstes tun,</n>wenn wir hier raus sind?<PAGE></n>Ich will sehen, wo du wohnst.<PAGE></n>Gut, denn ich... brauch dringend 'ne Dusche.<PAGE></n>Ja.<PAGE></n>Wirklich? So übel... oh, ja...<PAGE></n>Claire.<PAGE></n>Leon!<PAGE></n>Ist so gut, dich zu sehen.<PAGE></n>Hab doch gesagt, wir schaffen's, oder?<PAGE></n>Hast du.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>¿Qué quieres hacer cuando salgamos de aquí?<PAGE></n>Quiero ver dónde vives.<PAGE></n>Bien, porque yo... Necesito una ducha.<PAGE></n>Sí...<PAGE></n>¿Sí? Tan mal... Oh, sí...<PAGE></n>¡Claire!<PAGE></n>¡Leon!<PAGE></n>Me alegro de verte.<PAGE></n>Te dije que lo conseguiríamos, ¿no?<PAGE></n>Lo hiciste.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>Чем хочешь заняться, как только мы отсюда выберемся?<PAGE></n>Хочу узнать, где ты живешь.<PAGE></n>Здорово, потому что мне... срочно нужно в душ.<PAGE></n>Ага...<PAGE></n>Правда? Все так плохо? Уф, да уж...<PAGE></n>Клэр.<PAGE></n>Леон!<PAGE></n>Как же я рада тебя видеть. <PAGE></n>Я же говорил, что мы выживем.<PAGE></n>Говорил.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>Co pierwsze trzeba zrobić,</n>aby się stąd wydostać?<PAGE></n>Chcę zobaczyć, gdzie mieszkasz.<PAGE></n>Dobrze, bo... muszę wziąć prysznic.<PAGE></n>Tak...<PAGE></n>Serio? Aż tak źle... no tak...<PAGE></n>Claire.<PAGE></n>Leon!<PAGE></n>Tak miło cię widzieć. <PAGE></n>A nie mówiłem, że nam się uda?<PAGE></n>Mówiłeś.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>Então, o que você vai querer fazer assim que a gente sair daqui?<PAGE></n>Eu quero ver onde você mora.<PAGE></n>Ótimo. Porque eu... tô precisando de um banho.<PAGE></n>Verdade.<PAGE></n>Jura? Tá ruim assim? É, tá sim.<PAGE></n>Claire.<PAGE></n>Leon!<PAGE></n>Que bom te ver. <PAGE></n>Eu falei que a gente ia conseguir, não falei?<PAGE></n>Falou mesmo.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>여기서 나가면 제일 먼저 뭐가 하고 싶어?<PAGE></n>언니 집에 가보고 싶어요.<PAGE></n>좋은 생각이네, 나도... 샤워부터 해야겠어.<PAGE></n>그건 맞아요...<PAGE></n>진짜? 그렇게 심해... 아, 그러네...<PAGE></n>클레어.<PAGE></n>레온!<PAGE></n>만나서 너무 반갑네요.<PAGE></n>내가 뭐랬어요, 우리 모두 살아남을 거라고 했죠?<PAGE></n>그랬죠.
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>所以你出去後第一件事想做什麼？<PAGE></n>我想看看你住的地方。<PAGE></n>很好，因為我... 也需要洗個澡。<PAGE></n>的確...<PAGE></n>真的嗎？我聞起來這麼糟？ 噢，是真的...<PAGE></n>克蕾兒。<PAGE></n>里昂！<PAGE></n>見到你真好。 <PAGE></n>就跟你說我們會成功的，對吧？<PAGE></n>你的確說過。
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>离开这里之后，你想做的第一件事是什么呀？<PAGE></n>我想看看你住的地方。<PAGE></n>很好，因为我... 也需要洗个澡。<PAGE></n>的确...<PAGE></n>真的吗？我闻起来有那么糟吗... 哎呀，真的呢...<PAGE></n>克莱尔。<PAGE></n>里昂！<PAGE></n>见到你真好。 <PAGE></n>就跟你说我们都会没事的，对吧？<PAGE></n>你的确说过。
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 21.13, 23.72><TIME 27.4, 29.34><TIME 30.05, 34.59><TIME 34.71, 36.01><TIME 36.19, 39.53><TIME 41.43, 42.3><TIME 42.32, 43.77><TIME 44.82, 46.58><TIME 46.64, 48.12><TIME 48.59, 49.72>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>良かった 無事で<PAGE></n>大丈夫だって言ったろ？<PAGE></n>そうね<PAGE></n>この子は？<PAGE></n>彼女はシェリーよ<PAGE></n>よろしく<PAGE></n>何だ？<PAGE></n>今のは？<PAGE></n>分からない<PAGE></n>シェリーをお願い</n>見てくる
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>It's so good to see you. <PAGE></n>I told you we'd make it, didn't I?<PAGE></n>You did.<PAGE></n>Who's this?<PAGE></n>This...? This is Sherry.<PAGE></n>OK.<PAGE></n>Jesus...<PAGE></n>What was that?<PAGE></n>I don't know.<PAGE></n>You stay here with Sherry.</n>I'm gonna go check it out.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Je suis si contente !<PAGE></n>Je t'avais dit qu'on s'en sortirait.<PAGE></n>C'est vrai.<PAGE></n>C'est qui ?<PAGE></n>Je te présente Sherry.<PAGE></n>Salut.<PAGE></n>La vache !<PAGE></n>C'était quoi ?<PAGE></n>Je sais pas...<PAGE></n>Reste avec Sherry. Je vais jeter un œil.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Che bello rivederti.<PAGE></n>Te l'ho detto che ce l'avremmo fatta!<PAGE></n>È vero.<PAGE></n>Lei chi è?<PAGE></n>Lei è... È Sherry.<PAGE></n>Ciao.<PAGE></n>Cristo!<PAGE></n>Cos'è stato?<PAGE></n>Non lo so.<PAGE></n>Rimani qui Sherry. Vado a controllare.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Ist so gut, dich zu sehen.<PAGE></n>Hab doch gesagt, wir schaffen's, oder?<PAGE></n>Hast du.<PAGE></n>Wer ist das?<PAGE></n>Das? Das ist Sherry.<PAGE></n>Okay.<PAGE></n>Scheiße.<PAGE></n>Was war das?<PAGE></n>Keine Ahnung.<PAGE></n>Du bleibst hier bei Sherry.</n>Ich geh mal nachschauen.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Me alegro de verte.<PAGE></n>Te dije que lo conseguiríamos, ¿no?<PAGE></n>Lo hiciste.<PAGE></n>¿Y ella?<PAGE></n>¿Esta? Esta es Sherry.<PAGE></n>Hola.<PAGE></n>Dios.<PAGE></n>¿Qué fue eso?<PAGE></n>No sé...<PAGE></n>Quédate con Sherry.</n>Voy a comprobarlo.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Как же я рада тебя видеть. <PAGE></n>Я же говорил, что мы выживем.<PAGE></n>Говорил.<PAGE></n>А это кто?<PAGE></n>Это?.. Это Шерри.<PAGE></n>Понятно.<PAGE></n>Господи...<PAGE></n>Что это было?<PAGE></n>Не знаю.<PAGE></n>Останься с Шерри.</n>Я проверю.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Tak miło cię widzieć. <PAGE></n>A nie mówiłem, że nam się uda?<PAGE></n>Mówiłeś.<PAGE></n>Kto to?<PAGE></n>To...? To Sherry.<PAGE></n>OK.<PAGE></n>Jezu...<PAGE></n>Co to było?<PAGE></n>Nie wiem.<PAGE></n>Zostań tu z Sherry.</n>Sprawdzę to.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>Que bom te ver. <PAGE></n>Eu falei que a gente ia conseguir, não falei?<PAGE></n>Falou mesmo.<PAGE></n>Quem é essa?<PAGE></n>Essa? É a Sherry.<PAGE></n>Certo.<PAGE></n>Caramba!<PAGE></n>O que foi isso?<PAGE></n>Não sei.<PAGE></n>Fica aqui com a Sherry.</n>Eu vou lá dar uma olhada.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>만나서 너무 반갑네요.<PAGE></n>내가 뭐랬어요, 우리 모두 살아남을 거라고 했죠?<PAGE></n>그랬죠.<PAGE></n>이 아이는 누구죠?<PAGE></n>이 아이...? 셰리라고 해요.<PAGE></n>그렇군요.<PAGE></n>맙소사...<PAGE></n>방금 뭐였죠?<PAGE></n>나도 모르겠어요.<PAGE></n>여기서 셰리랑 같이 있어요.</n>내가 가서 확인해볼게요.
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>見到你真好。 <PAGE></n>就跟你說我們會成功的，對吧？<PAGE></n>你的確說過。<PAGE></n>這是誰？<PAGE></n>她嗎...？她是雪莉。<PAGE></n>好。<PAGE></n>天哪...<PAGE></n>怎麼回事？<PAGE></n>我不知道。<PAGE></n>你和雪莉待在這，</n>我去看看情況。
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>见到你真好。 <PAGE></n>就跟你说我们都会没事的，对吧？<PAGE></n>你的确说过。<PAGE></n>这是谁？<PAGE></n>这孩子吗？她是雪莉。<PAGE></n>好。<PAGE></n>天啊...<PAGE></n>那是怎么一回事？<PAGE></n>不清楚。<PAGE></n>你留下来陪雪莉。</n>我去看看情况。
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 0.08, 1.84><TIME 1.89, 3.49><TIME 3.83, 4.5><TIME 4.52, 5.74><TIME 6.8, 8.87><TIME 8.9, 10.22><TIME 11.25, 12.59><TIME 13.37, 14.35><TIME 14.37, 15.7><TIME 16.2, 18.54>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>ここを出たら何がしたい？<PAGE></n>クレアのうちに行きたい<PAGE></n>いいよ</n>シャワーも浴びたいしね<PAGE></n>だね<PAGE></n>やだ におう？</n>ホントだ<PAGE></n>クレア<PAGE></n>レオン！
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>So what's the first thing you wanna do when we get outta here?<PAGE></n>I want to see where you live.<PAGE></n>Good, cause I...need to take a shower.<PAGE></n>Yeah...<PAGE></n>Really? That bad...oh, yeah...<PAGE></n>Claire.<PAGE></n>Leon!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>Alors dis-moi, qu'est-ce que tu veux faire une fois dehors ?<PAGE></n>Je veux voir ta maison.<PAGE></n>Ah, ça tombe bien... J'ai besoin d'une douche.<PAGE></n>Ouais...<PAGE></n>Vraiment ? À ce point ? Hmm... Ah ouais...<PAGE></n>Claire.<PAGE></n>Leon !
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>La prima cosa che farai una volta fuori da qui?<PAGE></n>Voglio vedere casa tua.<PAGE></n>Bene... Perché a me... serve una doccia.<PAGE></n>Sì.<PAGE></n>Davvero? Così tanto? Già...<PAGE></n>Claire.<PAGE></n>Leon!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>Also, was willst du als Erstes tun,</n>wenn wir hier raus sind?<PAGE></n>Ich will sehen, wo du wohnst.<PAGE></n>Gut, denn ich... brauch dringend 'ne Dusche.<PAGE></n>Ja.<PAGE></n>Wirklich? So übel... oh, ja...<PAGE></n>Claire.<PAGE></n>Leon!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>¿Qué quieres hacer cuando salgamos de aquí?<PAGE></n>Quiero ver dónde vives.<PAGE></n>Bien, porque yo... Necesito una ducha.<PAGE></n>Sí...<PAGE></n>¿Sí? Tan mal... Oh, sí...<PAGE></n>¡Claire!<PAGE></n>¡Leon!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>Чем хочешь заняться, как только мы отсюда выберемся?<PAGE></n>Хочу узнать, где ты живешь.<PAGE></n>Здорово, потому что мне... срочно нужно в душ.<PAGE></n>Ага...<PAGE></n>Правда? Все так плохо? Уф, да уж...<PAGE></n>Клэр.<PAGE></n>Леон!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>Co pierwsze trzeba zrobić,</n>aby się stąd wydostać?<PAGE></n>Chcę zobaczyć, gdzie mieszkasz.<PAGE></n>Dobrze, bo... muszę wziąć prysznic.<PAGE></n>Tak...<PAGE></n>Serio? Aż tak źle... no tak...<PAGE></n>Claire.<PAGE></n>Leon!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>Então, o que você vai querer fazer assim que a gente sair daqui?<PAGE></n>Eu quero ver onde você mora.<PAGE></n>Ótimo. Porque eu... tô precisando de um banho.<PAGE></n>Verdade.<PAGE></n>Jura? Tá ruim assim? É, tá sim.<PAGE></n>Claire.<PAGE></n>Leon!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>여기서 나가면 제일 먼저 뭐가 하고 싶어?<PAGE></n>언니 집에 가보고 싶어요.<PAGE></n>좋은 생각이네, 나도... 샤워부터 해야겠어.<PAGE></n>그건 맞아요...<PAGE></n>진짜? 그렇게 심해... 아, 그러네...<PAGE></n>클레어.<PAGE></n>레온!
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>所以你出去後第一件事想做什麼？<PAGE></n>我想看看你住的地方。<PAGE></n>很好，因為我... 也需要洗個澡。<PAGE></n>的確...<PAGE></n>真的嗎？我聞起來這麼糟？ 噢，是真的...<PAGE></n>克蕾兒。<PAGE></n>里昂！
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>离开这里之后，你想做的第一件事是什么呀？<PAGE></n>我想看看你住的地方。<PAGE></n>很好，因为我... 也需要洗个澡。<PAGE></n>的确...<PAGE></n>真的吗？我闻起来有那么糟吗... 哎呀，真的呢...<PAGE></n>克莱尔。<PAGE></n>里昂！
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+<TIME 21.13, 24.02><TIME 27.41, 29.24><TIME 30.05, 34.7><TIME 34.74, 35.98><TIME 36.2, 39.5><TIME 41.46, 42.27><TIME 42.31, 43.62>
+クレア！
+Claire!
+Claire !
+Claire!
+Claire!
+¡Claire!
+Клэр!
+Claire!
+Claire!
+클레어!
+克蕾兒！
+克莱尔！
+大丈夫よ　もう
+It's OK, I'm here.
+Tout va bien, je suis là.
+Tutto ok. Sono qui.
+Ist okay, ich bin hier.
+Tranquila, estoy bien.
+Все хорошо. Я с тобой.
+W porządku, jestem przy tobie.
+Tá tudo bem! Eu tô aqui.
+이제 괜찮아. 내가 있잖아.
+沒事了，我在這。
+没事的，我在呢。
+出発しましょう
+We are getting outta here!
+On fiche le camp d'ici.
+Ora ce ne andiamo!
+Jetzt kommen wir hier raus!
+¡Nos vamos de aquí!
+Уходим отсюда!
+Wydostaniemy się stąd!
+A gente vai sair daqui!
+어서 여기서 빠져나가자!
+我們要逃出這裡了！
+我们要逃出这里了！
+<BLANL ※使わない　「よし…」>
+Alright...
+Alors...
+Ok...
+Vale...
+Ладно...
+W porządku...
+Certo...
+됐어...
+好...
+好...
+ここを出たら何がしたい？
+So what's the first thing you wanna do when we get outta here?
+Alors dis-moi, qu'est-ce que tu veux faire une fois dehors ?
+La prima cosa che farai una volta fuori da qui?
+Also, was willst du als Erstes tun,</n>wenn wir hier raus sind?
+¿Qué quieres hacer cuando salgamos de aquí?
+Чем хочешь заняться, как только мы отсюда выберемся?
+Co pierwsze trzeba zrobić,</n>aby się stąd wydostać?
+Então, o que você vai querer fazer assim que a gente sair daqui?
+여기서 나가면 제일 먼저 뭐가 하고 싶어?
+所以你出去後第一件事想做什麼？
+离开这里之后，你想做的第一件事是什么呀？
+クレアのうちに行きたい
+I want to see where you live.
+Je veux voir ta maison.
+Voglio vedere casa tua.
+Ich will sehen, wo du wohnst.
+Quiero ver dónde vives.
+Хочу узнать, где ты живешь.
+Chcę zobaczyć, gdzie mieszkasz.
+Eu quero ver onde você mora.
+언니 집에 가보고 싶어요.
+我想看看你住的地方。
+我想看看你住的地方。
+いいよ</n>シャワーも浴びたいしね
+Good, cause I...need to take a shower.
+Ah, ça tombe bien... J'ai besoin d'une douche.
+Bene... Perché a me... serve una doccia.
+Gut, denn ich... brauch dringend 'ne Dusche.
+Bien, porque yo... Necesito una ducha.
+Здорово, потому что мне... срочно нужно в душ.
+Dobrze, bo... muszę wziąć prysznic.
+Ótimo. Porque eu... tô precisando de um banho.
+좋은 생각이네, 나도... 샤워부터 해야겠어.
+很好，因為我... 也需要洗個澡。
+很好，因为我... 也需要洗个澡。
+だね
+Yeah...
+Ouais...
+Sì.
+Ja.
+Sí...
+Ага...
+Tak...
+Verdade.
+그건 맞아요...
+的確...
+的确...
+やだ におう？</n>ホントだ
+Really? That bad...oh, yeah...
+Vraiment ? À ce point ? Hmm... Ah ouais...
+Davvero? Così tanto? Già...
+Wirklich? So übel... oh, ja...
+¿Sí? Tan mal... Oh, sí...
+Правда? Все так плохо? Уф, да уж...
+Serio? Aż tak źle... no tak...
+Jura? Tá ruim assim? É, tá sim.
+진짜? 그렇게 심해... 아, 그러네...
+真的嗎？我聞起來這麼糟？ 噢，是真的...
+真的吗？我闻起来有那么糟吗... 哎呀，真的呢...
+クレア
+Claire.
+Claire.
+Claire.
+Claire.
+¡Claire!
+Клэр.
+Claire.
+Claire.
+클레어.
+克蕾兒。
+克莱尔。
+レオン！
+Leon!
+Leon !
+Leon!
+Leon!
+¡Leon!
+Леон!
+Leon!
+Leon!
+레온!
+里昂！
+里昂！
+やったな
+We made it...
+On a réussi...
+È fatta!
+Geschafft.
+Lo logramos.
+У нас получилось...
+Udało nam się...
+A gente conseguiu.
+우리 모두 살아남았군요...
+我們成功了...
+我们成功了...
+私が言った通りね
+Just like I said we would.
+Tu vois, je te l'avais dit.
+Te l'avevo detto, no?
+Hab ich dir doch gesagt!
+Tal y como te dije.
+Я же говорила.
+Dokładnie tak, jak mówiłam.
+Bem como eu falei.
+내가 말한 대로 말이에요.
+就跟我說的一樣。
+就跟我那时候说的一样。
+この子は？
+Who's this?
+C'est qui ?
+Lei chi è?
+Wer ist das?
+¿Y ella?
+А это кто?
+Kto to?
+Quem é essa?
+이 아이는 누구죠?
+這是誰？
+这是谁？
+彼女はシェリーよ
+This...? This is Sherry.
+Je te présente Sherry.
+Lei è... È Sherry.
+Das? Das ist Sherry.
+¿Esta? Esta es Sherry.
+Это?.. Это Шерри.
+To...? To Sherry.
+Essa? É a Sherry.
+이 아이...? 셰리라고 해요.
+她嗎...？她是雪莉。
+这孩子吗？她是雪莉。
+よろしく
+OK.
+Salut.
+Ciao.
+Okay.
+Hola.
+Понятно.
+OK.
+Certo.
+그렇군요.
+好。
+好。
+何だ？
+Jesus...
+La vache !
+Cristo!
+Scheiße.
+Dios.
+Господи...
+Jezu...
+Caramba!
+맙소사...
+天哪...
+天啊...
+今のは？
+What was that?
+C'était quoi ?
+Cos'è stato?
+Was war das?
+¿Qué fue eso?
+Что это было?
+Co to było?
+O que foi isso?
+방금 뭐였죠?
+怎麼回事？
+那是怎么一回事？
+分からない
+I don't know.
+Je sais pas...
+Non lo so.
+Keine Ahnung.
+No sé...
+Не знаю.
+Nie wiem.
+Não sei.
+나도 모르겠어요.
+我不知道。
+不清楚。
+シェリーをお願い</n>見てくる
+You stay here with Sherry.</n>I'm gonna go check it out.
+Reste avec Sherry. Je vais jeter un œil.
+Rimani qui Sherry. Vado a controllare.
+Du bleibst hier bei Sherry.</n>Ich geh mal nachschauen.
+Quédate con Sherry.</n>Voy a comprobarlo.
+Останься с Шерри.</n>Я проверю.
+Zostań tu z Sherry.</n>Sprawdzę to.
+Fica aqui com a Sherry.</n>Eu vou lá dar uma olhada.
+여기서 셰리랑 같이 있어요.</n>내가 가서 확인해볼게요.
+你和雪莉待在這，</n>我去看看情況。
+你留下来陪雪莉。</n>我去看看情况。

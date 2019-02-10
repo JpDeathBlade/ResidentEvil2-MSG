@@ -1,0 +1,420 @@
+﻿Ｋ12に到着</n>回収地点の詳細を<PAGE></n>なるほど</n>「死神」と呼ばれるわけだ<PAGE></n>回収地点の指示を<PAGE></n>安心しな死神さん<PAGE></n>ラクーン市警正門に向かってる</n>そこでピックアップだ<PAGE></n>了解
+I'm at Point K12. Need info on my extraction.<PAGE></n>Guess there's no keeping down the Grim Reaper, huh?<PAGE></n>My extraction point!<PAGE></n>Relax, Mr. Reaper.<PAGE></n>I'm headed towards the front gate of R.P.D.</n>Pick you up there.<PAGE></n>Got it.
+Je suis au point K12.</n>Donne-moi des infos sur mon extraction.<PAGE></n>On se débarrasse pas comme ça de la Faucheuse, hein ?<PAGE></n>Mon point d'extraction !<PAGE></n>Relax, ange de la mort.<PAGE></n>Je me dirige vers l'entrée principale du commissariat.</n>Je te retrouve là-bas.<PAGE></n>Compris.
+Sono al punto K12. Richiedo informazioni sull'estrazione.<PAGE></n>Nessuno può fare fuori Mr. Morte, eh?<PAGE></n>Il punto di estrazione?<PAGE></n>Rilassati, Mr. Morte.<PAGE></n>Mi dirigo al cancello principale della centrale.</n>Ti aspetto lì.<PAGE></n>Roger.
+Ich bin an Punkt K12.</n>Brauche Infos zu meiner Evakuierung.<PAGE></n>Schätze, Gevatter Tod ist nicht unterzukriegen, was?<PAGE></n>Die Koordinaten.<PAGE></n>Locker, Mr. Tod.<PAGE></n>Bin unterwegs zum Haupttor des R.P.D.</n>Sammle dich da ein.<PAGE></n>Roger.
+Estoy en K12. Necesito una extracción.<PAGE></n>No se puede hacer esperar al Grim Reaper, ¿eh?<PAGE></n>¿Mi punto de extracción...?<PAGE></n>Relájate, Mr. Reaper.<PAGE></n>Voy a la entrada frontal del R.P.D.</n>Te recojo allí.<PAGE></n>Vale.
+Я в точке K12. Когда и где ждать эвакуации?<PAGE></n>Похоже, Мрачного жнеца не остановить, да?<PAGE></n>Где ждать эвакуации?!<PAGE></n>Расслабьтесь, мистер Жнец.<PAGE></n>Я направляюсь к главным воротам полицейского участка.</n>Подберу тебя там.<PAGE></n>Понял.
+Jestem w punkcie K12. Potrzebuję danych do ewakuacji.<PAGE></n>Ponury żniwiarz jest trochę nerwowy, co?<PAGE></n>Podaj punkt ewakuacyjny!<PAGE></n>Spokojnie, panie żniwiarzu.<PAGE></n>Lecę do frontowej bramy R.P.D.</n>Tam cię odbiorę.<PAGE></n>Dobra.
+Tô no Ponto K12. Preciso de informações sobre a extração.<PAGE></n>Pelo jeito, o Ceifador não relaxa nunca, hein?<PAGE></n>Meu ponto de extração!<PAGE></n>Calma, sr. Ceifador.<PAGE></n>Tô indo pro portão frontal do R.P.D.</n>Te pego lá.<PAGE></n>Beleza!
+여긴 K12 지점이다. 내 구출 작전 현황을 알려주기 바란다.<PAGE></n>사신을 없앤다는 건 아무래도 불가능한가 보군?<PAGE></n>구출 지점이나 얘기해!<PAGE></n>진정해, 사신 양반.<PAGE></n>R.P.D.의 정문으로 향하는 중이다.</n>거기서 만나지.<PAGE></n>알겠다.
+我在 K12 位置。我需要撤離用的資訊。<PAGE></n>看來死神真的勢不可擋，對吧？<PAGE></n>告訴我撤離地點！<PAGE></n>死神先生，放輕鬆。<PAGE></n>我正前往拉昆市警局的大門。</n>在那裡接你。<PAGE></n>收到。
+我的位置是 K12。我需要撤离用的信息。<PAGE></n>看来死神真的势不可挡，对吧？<PAGE></n>告诉我撤离地点！<PAGE></n>死神先生，放轻松。<PAGE></n>我正前往浣熊市警察局的大门。</n>在那里接你。<PAGE></n>收到。
+こちらナイトホーク</n>アルファ　応答しろ
+This is Nighthawk. Come in, Alpha.
+Ici Nighthawk.</n>Alpha, répondez.
+Qui Nighthawk.</n>Rispondi, Alpha.
+Nighthawk hier.</n>Bitte kommen, Alpha.
+Aquí Nighthawk. Adelante, Alpha.
+Это Полуночник. Альфа, ответьте.
+Tu Nighthawk. Alfa, zgłoś się.
+Aqui é o Gavião. Responda, Alpha.
+나이트호크다. 나와라, 알파.
+夜鷹呼叫阿爾發。
+夜鹰呼叫一号。
+アルファ　聞こえるか
+Alpha, do you read?
+Alpha, vous me recevez ?
+Alpha, mi ricevi?
+Alpha, hört ihr mich?
+Alpha, ¿me reciben?
+Альфа, как слышите?
+Alfa, słyszysz mnie?
+Alpha, na escuta?
+알파, 들리나?
+阿爾發，是否聽見？
+一号，是否听见？
+ナイトホーク</n>こちらアルファチーム　ハンクだ
+Nighthawk, this is Hunk from Alpha Team.
+Nighthawk, ici Hunk de l'équipe Alpha.
+Nighthawk, qui è Hunk della squadra Alpha.
+Nighthawk, hier Hunk vom Alpha-Team.
+Nighthawk, aquí Hunk del equipo Alpha.
+Полуночник, это Ханк из отряда Альфа.
+Nighthawk, tu Hunk z oddziału Alfa.
+Gavião, aqui é o Hunk da Equipe Alpha.
+나이트호크, 알파 팀의 헝크다.
+夜鷹，我是阿爾發小隊的漢克。
+夜鹰，我是一号小队的汉克。
+てっきり全滅したかと思ってた</n>ずっと捜してたんだが…
+Man, I thought you were all wiped out.</n>I've been trying to—
+Wow, je croyais que vous étiez tous morts.</n>J'essayais de...
+Diavolo, credevo vi avessero fatto fuori.</n>Ho provato a...
+Mann, dachte schon, ihr wurdet komplett ausgelöscht.</n>Hab versucht...
+Joder, pensaba que os habían aniquilado.</n>He estado tratando de...
+Черт, я думал, вас всех завалили.</n>Я пытался...
+Człowieku, myślałem, że już po was.</n>Próbowałem...
+Cara, eu achei que vocês tinham sido dizimados.</n>Eu tentei...
+세상에, 전멸한 줄 알았는데.</n>지금까지 찾고—
+哇，我以為你們全軍覆沒了。</n>我一直想要...
+哇，我以为你们全军覆没了。</n>我一直想要...
+Ｋ12に到着</n>回収地点の詳細を
+I'm at Point K12. Need info on my extraction.
+Je suis au point K12.</n>Donne-moi des infos sur mon extraction.
+Sono al punto K12. Richiedo informazioni sull'estrazione.
+Ich bin an Punkt K12.</n>Brauche Infos zu meiner Evakuierung.
+Estoy en K12. Necesito una extracción.
+Я в точке K12. Когда и где ждать эвакуации?
+Jestem w punkcie K12. Potrzebuję danych do ewakuacji.
+Tô no Ponto K12. Preciso de informações sobre a extração.
+여긴 K12 지점이다. 내 구출 작전 현황을 알려주기 바란다.
+我在 K12 位置。我需要撤離用的資訊。
+我的位置是 K12。我需要撤离用的信息。
+なるほど</n>「死神」と呼ばれるわけだ
+Guess there's no keeping down the Grim Reaper, huh?
+On se débarrasse pas comme ça de la Faucheuse, hein ?
+Nessuno può fare fuori Mr. Morte, eh?
+Schätze, Gevatter Tod ist nicht unterzukriegen, was?
+No se puede hacer esperar al Grim Reaper, ¿eh?
+Похоже, Мрачного жнеца не остановить, да?
+Ponury żniwiarz jest trochę nerwowy, co?
+Pelo jeito, o Ceifador não relaxa nunca, hein?
+사신을 없앤다는 건 아무래도 불가능한가 보군?
+看來死神真的勢不可擋，對吧？
+看来死神真的势不可挡，对吧？
+回収地点の指示を
+My extraction point!
+Mon point d'extraction !
+Il punto di estrazione?
+Die Koordinaten.
+¿Mi punto de extracción...?
+Где ждать эвакуации?!
+Podaj punkt ewakuacyjny!
+Meu ponto de extração!
+구출 지점이나 얘기해!
+告訴我撤離地點！
+告诉我撤离地点！
+安心しな死神さん
+Relax, Mr. Reaper.
+Relax, ange de la mort.
+Rilassati, Mr. Morte.
+Locker, Mr. Tod.
+Relájate, Mr. Reaper.
+Расслабьтесь, мистер Жнец.
+Spokojnie, panie żniwiarzu.
+Calma, sr. Ceifador.
+진정해, 사신 양반.
+死神先生，放輕鬆。
+死神先生，放轻松。
+ラクーン市警正門に向かってる</n>そこでピックアップだ
+I'm headed towards the front gate of R.P.D.</n>Pick you up there.
+Je me dirige vers l'entrée principale du commissariat.</n>Je te retrouve là-bas.
+Mi dirigo al cancello principale della centrale.</n>Ti aspetto lì.
+Bin unterwegs zum Haupttor des R.P.D.</n>Sammle dich da ein.
+Voy a la entrada frontal del R.P.D.</n>Te recojo allí.
+Я направляюсь к главным воротам полицейского участка.</n>Подберу тебя там.
+Lecę do frontowej bramy R.P.D.</n>Tam cię odbiorę.
+Tô indo pro portão frontal do R.P.D.</n>Te pego lá.
+R.P.D.의 정문으로 향하는 중이다.</n>거기서 만나지.
+我正前往拉昆市警局的大門。</n>在那裡接你。
+我正前往浣熊市警察局的大门。</n>在那里接你。
+了解
+Got it.
+Compris.
+Roger.
+Roger.
+Vale.
+Понял.
+Dobra.
+Beleza!
+알겠다.
+收到。
+收到。
+何してるんだ ハンク</n>遅いじゃないか<PAGE></n>玄関が封鎖された</n>迂回路を探す<PAGE></n>気をつけろ</n>上の奴らがラクーンシティへの滅菌作戦を命じた<PAGE></n>早く脱出しないと あんたも消されるぞ<PAGE></n>分かった
+What the hell, Hunk? You're late for extraction.<PAGE></n>Front door's blocked. Gotta find another way out.<PAGE></n>Heads up, guys at the top just ordered</n>a full clean up on Raccoon City.<PAGE></n>So move fast, or you can kiss your ass goodbye.<PAGE></n>Got it.
+Qu'est-ce que tu fous, Hunk ?</n>Tu es en retard pour l'extraction.<PAGE></n>L'entrée est bloquée.</n>Je vais devoir trouver une autre issue.<PAGE></n>Au fait, les gros bonnets ont ordonné</n>le nettoyage complet de Raccoon City.<PAGE></n>Alors magne-toi si tu veux pas avoir le cul qui brille.<PAGE></n>Compris.
+Che cazzo, Hunk! Sei in ritardo.<PAGE></n>La porta principale è bloccata.</n>Devo trovare un'altra via d'uscita.<PAGE></n>Ci sono novità, ai piani alti vogliono disinfettare Raccoon City.<PAGE></n>Quindi sbrigati, o puoi dire addio alle chiappe.<PAGE></n>Roger.
+Was zur Hölle, Hunk?</n>Du verpasst deine Evakuierung.<PAGE></n>Vordertür ist blockiert.</n>Muss einen anderen Weg finden.<PAGE></n>Aufgepasst – Befehl von ganz oben ist jetzt</n>die komplette Auslöschung von Raccoon City.<PAGE></n>Mach schnell, oder dein Arsch wird mit ausgelöscht.<PAGE></n>Okay.
+¿Qué coño, Hunk?</n>Llegas tarde a la extracción.<PAGE></n>La puerta frontal está bloqueada.</n>Necesito otra salida.<PAGE></n>Te informo: han ordenado</n>una limpieza total de Raccoon City.<PAGE></n>Así que date prisa o será tu final.<PAGE></n>Vale.
+Какого черта, Ханк? Ты опоздал на эвакуацию.<PAGE></n>Парадная дверь заблокирована. Нужно найти другой путь.<PAGE></n>Внимание! Командование только что приказало</n>полностью зачистить Раккун-Сити.<PAGE></n>Так что поспеши, или тебя тоже зачистят.<PAGE></n>Понял.
+Co do cholery, Hunk? Spóźniłeś się na ewakuację.<PAGE></n>Drzwi frontowe są zablokowane. Muszę znaleźć inne wyjście.<PAGE></n>Posłuchaj. Góra właśnie zarządziła pełną</n>rozwałkę Racoon City.<PAGE></n>Sprężaj się, żeby uratować dupsko.<PAGE></n>Jasne.
+Porra, Hunk! Você tá atrasado pra extração.<PAGE></n>A porta da frente tá bloqueada. Eu preciso achar outra saída.<PAGE></n>Atenção, os mandachuvas acabaram de ordenar</n>uma limpeza completa em Raccoon City.<PAGE></n>Então agiliza, senão pode dar adeus à tua vida.<PAGE></n>Beleza!
+어떻게 된 거지, 헝크? 늦었잖아.<PAGE></n>정문이 막혀 있어. 다른 길을 찾아야 한다.<PAGE></n>조심하라고, 윗분들이 방금</n>라쿤 시티를 싹 청소하라고 지시했으니까.<PAGE></n>빨리 움직여, 안 그러면 이 세상을 뜨게 될 테니까.<PAGE></n>알겠다.
+漢克，搞什麼？你錯過撤離時間了。<PAGE></n>大門被堵住了。得找另一條路。<PAGE></n>注意，上層的傢伙剛剛下令了，</n>要徹底清理拉昆市。<PAGE></n>所以動作快，否則就下一世再見。</n><PAGE></n>收到。
+汉克，搞什么？你错过撤离时间了。<PAGE></n>大门被堵住了。得找另一条路。<PAGE></n>注意，上层的人刚刚下令了，</n>要彻底清理浣熊市。<PAGE></n>所以动作快，不然就等着屁股开花。<PAGE></n>收到。
+何してるんだ ハンク</n>遅いじゃないか
+What the hell, Hunk? You're late for extraction.
+Qu'est-ce que tu fous, Hunk ?</n>Tu es en retard pour l'extraction.
+Che cazzo, Hunk! Sei in ritardo.
+Was zur Hölle, Hunk?</n>Du verpasst deine Evakuierung.
+¿Qué coño, Hunk?</n>Llegas tarde a la extracción.
+Какого черта, Ханк? Ты опоздал на эвакуацию.
+Co do cholery, Hunk? Spóźniłeś się na ewakuację.
+Porra, Hunk! Você tá atrasado pra extração.
+어떻게 된 거지, 헝크? 늦었잖아.
+漢克，搞什麼？你錯過撤離時間了。
+汉克，搞什么？你错过撤离时间了。
+玄関が封鎖された</n>迂回路を探す
+Front door's blocked. Gotta find another way out.
+L'entrée est bloquée.</n>Je vais devoir trouver une autre issue.
+La porta principale è bloccata.</n>Devo trovare un'altra via d'uscita.
+Vordertür ist blockiert.</n>Muss einen anderen Weg finden.
+La puerta frontal está bloqueada.</n>Necesito otra salida.
+Парадная дверь заблокирована. Нужно найти другой путь.
+Drzwi frontowe są zablokowane. Muszę znaleźć inne wyjście.
+A porta da frente tá bloqueada. Eu preciso achar outra saída.
+정문이 막혀 있어. 다른 길을 찾아야 한다.
+大門被堵住了。得找另一條路。
+大门被堵住了。得找另一条路。
+気をつけろ</n>上の奴らがラクーンシティへの滅菌作戦を命じた
+Heads up, guys at the top just ordered</n>a full clean up on Raccoon City.
+Au fait, les gros bonnets ont ordonné</n>le nettoyage complet de Raccoon City.
+Ci sono novità, ai piani alti vogliono disinfettare Raccoon City.
+Aufgepasst – Befehl von ganz oben ist jetzt</n>die komplette Auslöschung von Raccoon City.
+Te informo: han ordenado</n>una limpieza total de Raccoon City.
+Внимание! Командование только что приказало</n>полностью зачистить Раккун-Сити.
+Posłuchaj. Góra właśnie zarządziła pełną</n>rozwałkę Racoon City.
+Atenção, os mandachuvas acabaram de ordenar</n>uma limpeza completa em Raccoon City.
+조심하라고, 윗분들이 방금</n>라쿤 시티를 싹 청소하라고 지시했으니까.
+注意，上層的傢伙剛剛下令了，</n>要徹底清理拉昆市。
+注意，上层的人刚刚下令了，</n>要彻底清理浣熊市。
+早く脱出しないと あんたも消されるぞ
+So move fast, or you can kiss your ass goodbye.
+Alors magne-toi si tu veux pas avoir le cul qui brille.
+Quindi sbrigati, o puoi dire addio alle chiappe.
+Mach schnell, oder dein Arsch wird mit ausgelöscht.
+Así que date prisa o será tu final.
+Так что поспеши, или тебя тоже зачистят.
+Sprężaj się, żeby uratować dupsko.
+Então agiliza, senão pode dar adeus à tua vida.
+빨리 움직여, 안 그러면 이 세상을 뜨게 될 테니까.
+所以動作快，否則就下一世再見。</n>
+所以动作快，不然就等着屁股开花。
+分かった
+Got it.
+Compris.
+Roger.
+Okay.
+Vale.
+Понял.
+Jasne.
+Beleza!
+알겠다.
+收到。
+收到。
+ハンク！　時間がない！<PAGE></n>行け ナイトホーク</n>離脱しろ<PAGE></n>置いていくわけにはいかない<PAGE></n>ここは戦場だ</n>運命は自ら切り開け<PAGE></n>ちくしょう…
+Hunk! Time's up!<PAGE></n>Go, Nighthawk. Get out.<PAGE></n>I'm not gonna just leave you—<PAGE></n>This is war...survival's your responsibility. <PAGE></n>Goddamn it...
+Hunk ! On n'a plus le temps !<PAGE></n>Pars, Nighthawk. Va-t'en.<PAGE></n>Hors de question que je te laisse...<PAGE></n>C'est la guerre. Ici, chacun est responsable de sa survie.<PAGE></n>Eh merde...
+Hunk! Non c'è tempo!<PAGE></n>Vai Nighthawk. Vattene.<PAGE></n>Non posso lasciarti qui...<PAGE></n>Questa è una guerra.</n>Ognuno pensa alla propria sopravvivenza.<PAGE></n>Porca troia...
+Hunk! Zeit ist um!<PAGE></n>Geh, Nighthawk. Hau ab.<PAGE></n>Ich kann dich doch nicht einfach...<PAGE></n>Wir sind im Krieg.</n>Überleben ist deine Verantwortung.<PAGE></n>Verdammt...
+¡Hunk! ¡No hay tiempo!<PAGE></n>Ve, Nighthawk. Sálvate.<PAGE></n>No voy a dejarte...<PAGE></n>Es la guerra; sobrevivir es tu responsabilidad.<PAGE></n>Maldita sea...
+Ханк! Время вышло!<PAGE></n>Взлетай, Полуночник. Спасайся.<PAGE></n>Я тебя так не брошу...<PAGE></n>Это война... и у тебя лишь одна задача — выжить. <PAGE></n>Чтоб тебя...
+Hunk! Nie ma już czasu!<PAGE></n>Zabieraj się stąd, Nighthawk. Już.<PAGE></n>Nie mogę cię tak zostawić...<PAGE></n>To jest wojna... masz obowiązek przeżyć. <PAGE></n>Niech to diabli...
+Hunk! Acabou o seu tempo!<PAGE></n>Vai, Gavião. Sai daqui.<PAGE></n>Não vou deixar você...<PAGE></n>A gente tá em guerra... A sua responsabilidade é sobreviver. <PAGE></n>Mas que droga...
+헝크! 시간 됐어!<PAGE></n>가라, 나이트호크. 나가.<PAGE></n>자네를 남겨두고 그냥 갈 순 없지<PAGE></n>이건 전쟁이야... 생존은 스스로 책임져야지. <PAGE></n>이런 젠장...
+漢克！時間到了！<PAGE></n>快走，夜鷹。快離開。<PAGE></n>我不能把你丟在這裡...<PAGE></n>這是戰爭... 生存是你的責任。 <PAGE></n>可惡...
+汉克！时间到了！<PAGE></n>快走，夜鹰。快离开。<PAGE></n>我不能就这样丢下你...<PAGE></n>这是战争... 生存是你的责任。 <PAGE></n>可恶...
+ハンク！　時間がない！
+Hunk! Time's up!
+Hunk ! On n'a plus le temps !
+Hunk! Non c'è tempo!
+Hunk! Zeit ist um!
+¡Hunk! ¡No hay tiempo!
+Ханк! Время вышло!
+Hunk! Nie ma już czasu!
+Hunk! Acabou o seu tempo!
+헝크! 시간 됐어!
+漢克！時間到了！
+汉克！时间到了！
+行け ナイトホーク</n>離脱しろ
+Go, Nighthawk. Get out.
+Pars, Nighthawk. Va-t'en.
+Vai Nighthawk. Vattene.
+Geh, Nighthawk. Hau ab.
+Ve, Nighthawk. Sálvate.
+Взлетай, Полуночник. Спасайся.
+Zabieraj się stąd, Nighthawk. Już.
+Vai, Gavião. Sai daqui.
+가라, 나이트호크. 나가.
+快走，夜鷹。快離開。
+快走，夜鹰。快离开。
+置いていくわけにはいかない
+I'm not gonna just leave you—
+Hors de question que je te laisse...
+Non posso lasciarti qui...
+Ich kann dich doch nicht einfach...
+No voy a dejarte...
+Я тебя так не брошу...
+Nie mogę cię tak zostawić...
+Não vou deixar você...
+자네를 남겨두고 그냥 갈 순 없지
+我不能把你丟在這裡...
+我不能就这样丢下你...
+ここは戦場だ</n>運命は自ら切り開け
+This is war...survival's your responsibility. 
+C'est la guerre. Ici, chacun est responsable de sa survie.
+Questa è una guerra.</n>Ognuno pensa alla propria sopravvivenza.
+Wir sind im Krieg.</n>Überleben ist deine Verantwortung.
+Es la guerra; sobrevivir es tu responsabilidad.
+Это война... и у тебя лишь одна задача — выжить. 
+To jest wojna... masz obowiązek przeżyć. 
+A gente tá em guerra... A sua responsabilidade é sobreviver. 
+이건 전쟁이야... 생존은 스스로 책임져야지. 
+這是戰爭... 生存是你的責任。 
+这是战争... 生存是你的责任。 
+ちくしょう…
+Goddamn it...
+Eh merde...
+Porca troia...
+Verdammt...
+Maldita sea...
+Чтоб тебя...
+Niech to diabli...
+Mas que droga...
+이런 젠장...
+可惡...
+可恶...
+<PAGE></n>なるほど</n>「死神」と呼ばれるわけだ<PAGE></n><PAGE></n>安心しな死神さん<PAGE></n>ラクーン市警正門に向かってる</n>そこでピックアップだ<PAGE></n>
+<PAGE></n>Guess there's no keeping down the Grim Reaper, huh?<PAGE></n><PAGE></n>Relax, Mr. Reaper.<PAGE></n>I'm headed towards the front gate of R.P.D.</n>Pick you up there.<PAGE></n>
+<PAGE></n>On se débarrasse pas comme ça de la Faucheuse, hein ?<PAGE></n><PAGE></n>Relax, ange de la mort.<PAGE></n>Je me dirige vers l'entrée principale du commissariat.</n>Je te retrouve là-bas.<PAGE></n>
+<PAGE></n>Nessuno può fare fuori Mr. Morte, eh?<PAGE></n><PAGE></n>Rilassati Mr. Morte.<PAGE></n>Mi dirigo al cancello principale della centrale.</n>Ti aspetto lì.<PAGE></n>
+<PAGE></n>Schätze, Gevatter Tod ist nicht unterzukriegen, was?<PAGE></n><PAGE></n>Locker, Mr. Tod.<PAGE></n>Bin unterwegs zum Haupttor des R.P.D.</n>Sammle dich da ein.<PAGE></n>
+<PAGE></n>No se puede hacer esperar al Grim Reaper, ¿eh?<PAGE></n><PAGE></n>Relájate, Mr. Reaper.<PAGE></n>Voy a la entrada frontal del R.P.D.</n>Te recojo allí.<PAGE></n>
+<PAGE></n>Похоже, Мрачного жнеца не остановить, да?<PAGE></n><PAGE></n>Расслабьтесь, мистер Жнец.<PAGE></n>Я направляюсь к главным воротам полицейского участка.</n>Подберу тебя там.<PAGE></n>
+<PAGE></n>Ponury żniwiarz jest trochę nerwowy, co?<PAGE></n><PAGE></n>Spokojnie, panie żniwiarzu.<PAGE></n>Lecę do frontowej bramy R.P.D.</n>Tam cię odbiorę.<PAGE></n>
+<PAGE></n>Pelo jeito, o Ceifador não relaxa nunca, hein?<PAGE></n><PAGE></n>Calma, sr. Ceifador.<PAGE></n>Tô indo pro portão frontal do R.P.D.</n>Te pego lá.<PAGE></n>
+<PAGE></n>사신을 없앤다는 건 아무래도 불가능한가 보군?<PAGE></n><PAGE></n>진정해, 사신 양반.<PAGE></n>R.P.D.의 정문으로 향하는 중이다.</n>거기서 만나지.<PAGE></n>
+<PAGE></n>看來死神真的勢不可擋，對吧？<PAGE></n><PAGE></n>死神先生，放輕鬆。<PAGE></n>我正前往拉昆市警局的大門。</n>在那裡接你。<PAGE></n>
+<PAGE></n>看来死神真的势不可挡，对吧？<PAGE></n><PAGE></n>死神先生，放轻松。<PAGE></n>我正前往浣熊市警察局的大门。</n>在那里接你。<PAGE></n>
+なるほど</n>「死神」と呼ばれるわけだ
+Guess there's no keeping down the Grim Reaper, huh?
+On se débarrasse pas comme ça de la Faucheuse, hein ?
+Nessuno può fare fuori Mr. Morte, eh?
+Schätze, Gevatter Tod ist nicht unterzukriegen, was?
+No se puede hacer esperar al Grim Reaper, ¿eh?
+Похоже, Мрачного жнеца не остановить, да?
+Ponury żniwiarz jest trochę nerwowy, co?
+Pelo jeito, o Ceifador não relaxa nunca, hein?
+사신을 없앤다는 건 아무래도 불가능한가 보군?
+看來死神真的勢不可擋，對吧？
+看来死神真的势不可挡，对吧？
+安心しな死神さん
+Relax, Mr. Reaper.
+Relax, ange de la mort.
+Rilassati Mr. Morte.
+Locker, Mr. Tod.
+Relájate, Mr. Reaper.
+Расслабьтесь, мистер Жнец.
+Spokojnie, panie żniwiarzu.
+Calma, sr. Ceifador.
+진정해, 사신 양반.
+死神先生，放輕鬆。
+死神先生，放轻松。
+ラクーン市警正門に向かってる</n>そこでピックアップだ
+I'm headed towards the front gate of R.P.D.</n>Pick you up there.
+Je me dirige vers l'entrée principale du commissariat.</n>Je te retrouve là-bas.
+Mi dirigo al cancello principale della centrale.</n>Ti aspetto lì.
+Bin unterwegs zum Haupttor des R.P.D.</n>Sammle dich da ein.
+Voy a la entrada frontal del R.P.D.</n>Te recojo allí.
+Я направляюсь к главным воротам полицейского участка.</n>Подберу тебя там.
+Lecę do frontowej bramy R.P.D.</n>Tam cię odbiorę.
+Tô indo pro portão frontal do R.P.D.</n>Te pego lá.
+R.P.D.의 정문으로 향하는 중이다.</n>거기서 만나지.
+我正前往拉昆市警局的大門。</n>在那裡接你。
+我正前往浣熊市警察局的大门。</n>在那里接你。
+何してるんだ ハンク</n>遅いじゃないか<PAGE></n><PAGE></n>気をつけろ</n>上の奴らがラクーンシティへの滅菌作戦を命じた<PAGE></n>早く脱出しないと あんたも消されるぞ<PAGE></n>
+What the hell, Hunk? You're late for extraction.<PAGE></n><PAGE></n>Heads up, guys at the top just ordered</n>a full clean up on Raccoon City.<PAGE></n>So move fast, or you can kiss your ass goodbye.<PAGE></n>
+Qu'est-ce que tu fous, Hunk ?</n>Tu es en retard pour l'extraction.<PAGE></n><PAGE></n>Au fait, les gros bonnets ont ordonné</n>le nettoyage complet de Raccoon City.<PAGE></n>Alors magne-toi si tu veux pas avoir le cul qui brille.<PAGE></n>
+Che cazzo, Hunk! Sei in ritardo.<PAGE></n><PAGE></n>Ci sono novità, ai piani alti vogliono disinfettare Raccoon City.<PAGE></n>Quindi sbrigati, o puoi dire addio alle chiappe.<PAGE></n>
+Was zur Hölle, Hunk?</n>Du verpasst deine Evakuierung.<PAGE></n><PAGE></n>Aufgepasst – Befehl von ganz oben ist jetzt</n>die komplette Auslöschung von Raccoon City.<PAGE></n>Mach schnell, oder dein Arsch wird mit ausgelöscht.<PAGE></n>
+¿Qué coño, Hunk?</n>Llegas tarde a la extracción.<PAGE></n><PAGE></n>Te informo: han ordenado</n>una limpieza total de Raccoon City.<PAGE></n>Así que date prisa o será tu final.<PAGE></n>
+Какого черта, Ханк? Ты опоздал на эвакуацию.<PAGE></n><PAGE></n>Внимание! Командование только что приказало</n>полностью зачистить Раккун-Сити.<PAGE></n>Так что поспеши, или тебя тоже зачистят.<PAGE></n>
+Co do cholery, Hunk? Spóźniłeś się na ewakuację.<PAGE></n><PAGE></n>Posłuchaj. Góra właśnie zarządziła</n>pełną rozwałkę Raccoon City.<PAGE></n>Sprężaj się, żeby uratować dupsko.<PAGE></n>
+Porra, Hunk! Você tá atrasado pra extração.<PAGE></n><PAGE></n>Atenção, os mandachuvas acabaram de ordenar</n>uma limpeza completa em Raccoon City.<PAGE></n>Então agiliza, senão pode dar adeus à tua vida.<PAGE></n>
+어떻게 된 거지, 헝크? 늦었잖아.<PAGE></n><PAGE></n>조심하라고, 윗분들이 방금</n>라쿤 시티를 싹 청소하라고 지시했으니까.<PAGE></n>빨리 움직여, 안 그러면 이 세상을 뜨게 될 테니까.<PAGE></n>
+漢克，搞什麼？你錯過撤離時間了。<PAGE></n><PAGE></n>注意，上層的傢伙剛剛下令了，</n>要徹底清理拉昆市。<PAGE></n>所以動作快，否則就誰也救你不到。<PAGE></n>
+汉克，搞什么？你错过撤离时间了。<PAGE></n><PAGE></n>注意，上层的人刚刚下令了，</n>要彻底清理浣熊市。<PAGE></n>所以动作快，不然就等着屁股开花。<PAGE></n>
+何してるんだ ハンク</n>遅いじゃないか
+What the hell, Hunk? You're late for extraction.
+Qu'est-ce que tu fous, Hunk ?</n>Tu es en retard pour l'extraction.
+Che cazzo, Hunk! Sei in ritardo.
+Was zur Hölle, Hunk?</n>Du verpasst deine Evakuierung.
+¿Qué coño, Hunk?</n>Llegas tarde a la extracción.
+Какого черта, Ханк? Ты опоздал на эвакуацию.
+Co do cholery, Hunk? Spóźniłeś się na ewakuację.
+Porra, Hunk! Você tá atrasado pra extração.
+어떻게 된 거지, 헝크? 늦었잖아.
+漢克，搞什麼？你錯過撤離時間了。
+汉克，搞什么？你错过撤离时间了。
+気をつけろ</n>上の奴らがラクーンシティへの滅菌作戦を命じた
+Heads up, guys at the top just ordered</n>a full clean up on Raccoon City.
+Au fait, les gros bonnets ont ordonné</n>le nettoyage complet de Raccoon City.
+Ci sono novità, ai piani alti vogliono disinfettare Raccoon City.
+Aufgepasst – Befehl von ganz oben ist jetzt</n>die komplette Auslöschung von Raccoon City.
+Te informo: han ordenado</n>una limpieza total de Raccoon City.
+Внимание! Командование только что приказало</n>полностью зачистить Раккун-Сити.
+Posłuchaj. Góra właśnie zarządziła</n>pełną rozwałkę Raccoon City.
+Atenção, os mandachuvas acabaram de ordenar</n>uma limpeza completa em Raccoon City.
+조심하라고, 윗분들이 방금</n>라쿤 시티를 싹 청소하라고 지시했으니까.
+注意，上層的傢伙剛剛下令了，</n>要徹底清理拉昆市。
+注意，上层的人刚刚下令了，</n>要彻底清理浣熊市。
+早く脱出しないと あんたも消されるぞ
+So move fast, or you can kiss your ass goodbye.
+Alors magne-toi si tu veux pas avoir le cul qui brille.
+Quindi sbrigati, o puoi dire addio alle chiappe.
+Mach schnell, oder dein Arsch wird mit ausgelöscht.
+Así que date prisa o será tu final.
+Так что поспеши, или тебя тоже зачистят.
+Sprężaj się, żeby uratować dupsko.
+Então agiliza, senão pode dar adeus à tua vida.
+빨리 움직여, 안 그러면 이 세상을 뜨게 될 테니까.
+所以動作快，否則就誰也救你不到。
+所以动作快，不然就等着屁股开花。
+ハンク！　時間がない！<PAGE></n><PAGE></n>置いていくわけにはいかない<PAGE></n><PAGE></n>ちくしょう…
+Hunk! Time's up!<PAGE></n><PAGE></n>I'm not gonna just leave you—<PAGE></n><PAGE></n>Goddamn it...
+Hunk ! On n'a plus le temps !<PAGE></n><PAGE></n>Hors de question que je te laisse...<PAGE></n><PAGE></n>Eh merde...
+Hunk! Non c'è tempo!<PAGE></n><PAGE></n>Non posso lasciarti qui.<PAGE></n><PAGE></n>Porca troia.
+Hunk! Zeit ist um!<PAGE></n><PAGE></n>Ich kann dich doch nicht einfach...<PAGE></n><PAGE></n>Verdammt...
+¡Hunk! ¡No hay tiempo!<PAGE></n><PAGE></n>No voy a dejarte...<PAGE></n><PAGE></n>Maldita sea...
+Ханк! Время вышло!<PAGE></n><PAGE></n>Я тебя так не брошу...<PAGE></n><PAGE></n>Чтоб тебя...
+Hunk! Nie ma już czasu!<PAGE></n><PAGE></n>Nie mogę cię tak zostawić...<PAGE></n><PAGE></n>Niech to diabli...
+Hunk! Acabou o seu tempo!<PAGE></n><PAGE></n>Não vou deixar você...<PAGE></n><PAGE></n>Mas que droga...
+헝크! 시간 됐어!<PAGE></n><PAGE></n>자네를 남겨두고 그냥 갈 순 없지<PAGE></n><PAGE></n>이런 젠장...
+漢克！時間到了！<PAGE></n><PAGE></n>我不能把你丟在這裡...<PAGE></n><PAGE></n>可惡...
+汉克！时间到了！<PAGE></n><PAGE></n>我不能就这样丢下你...<PAGE></n><PAGE></n>可恶...
+ハンク！　時間がない！
+Hunk! Time's up!
+Hunk ! On n'a plus le temps !
+Hunk! Non c'è tempo!
+Hunk! Zeit ist um!
+¡Hunk! ¡No hay tiempo!
+Ханк! Время вышло!
+Hunk! Nie ma już czasu!
+Hunk! Acabou o seu tempo!
+헝크! 시간 됐어!
+漢克！時間到了！
+汉克！时间到了！
+置いていくわけにはいかない
+I'm not gonna just leave you—
+Hors de question que je te laisse...
+Non posso lasciarti qui.
+Ich kann dich doch nicht einfach...
+No voy a dejarte...
+Я тебя так не брошу...
+Nie mogę cię tak zostawić...
+Não vou deixar você...
+자네를 남겨두고 그냥 갈 순 없지
+我不能把你丟在這裡...
+我不能就这样丢下你...
+ちくしょう…
+Goddamn it...
+Eh merde...
+Porca troia.
+Verdammt...
+Maldita sea...
+Чтоб тебя...
+Niech to diabli...
+Mas que droga...
+이런 젠장...
+可惡...
+可恶...

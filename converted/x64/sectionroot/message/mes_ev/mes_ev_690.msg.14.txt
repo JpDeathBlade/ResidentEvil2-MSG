@@ -1,0 +1,325 @@
+﻿<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>シェリー？</n>ママはここよ<PAGE></n>シェリー</n>ねえ 聞こえる！？<PAGE></n>大変…<PAGE></n>シェリー？<PAGE></n>クレア…？<PAGE></n>シェリー 大丈夫？<PAGE></n>何をしてるの！？<PAGE></n>助けに来たの<PAGE></n>シェリーは感染してる…</n>もう救えないのよ　<PAGE></n>何言ってるの！？<PAGE></n>母親でしょ？</n>こっちに来なさいよ！<PAGE></n>あなたには分からないわ<PAGE></n>ウィリアムはまだ生きてる</n>私が止めないと…<PAGE></n>これ以上 話しても無駄ね！<PAGE></n>待って！　もしかしたら治療できるかもしれない…</n>研究所で　そう遠くないわ<PAGE></n>ママ…？<PAGE></n>時間がないの</n>大勢の命が かかってる<PAGE></n>シェリー…</n>あなたを愛してるわ　<PAGE></n>さようなら<PAGE></n>冗談じゃないわ<PAGE></n>大丈夫よ</n>私が助けてあげるから<PAGE></n>ど… どうして… 助けてくれるの？<PAGE></n>ほっとけないでしょ<PAGE></n>ありがとう
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Sherry? Mommy's here...<PAGE></n>Sherry! Sherry, can you hear me!?<PAGE></n>Oh, no...<PAGE></n>Sherry?<PAGE></n>Claire...?<PAGE></n>Sherry... Are you alright?<PAGE></n>What are you doing!?<PAGE></n>I'm here to help.<PAGE></n>Sherry's been implanted...</n>She can't be saved.<PAGE></n>Are you fucking kidding me!?<PAGE></n>You're her mother. Get in here!<PAGE></n>You don't understand.<PAGE></n>William is still out there, and if I don't stop him—<PAGE></n>This conversation is over!<PAGE></n>Wait! Wait...I...I can treat her...in my lab.</n>It's not far away.<PAGE></n>Mommy...?<PAGE></n>There's not enough time... Millions of lives are at stake.<PAGE></n>Sherry...</n>Mommy loves you, sweetie...<PAGE></n>Goodbye.<PAGE></n>Are you fucking kidding me!?<PAGE></n>Sherry, don't worry.</n>I will get you whatever you need, OK?<PAGE></n>Wh-Why are you doing this?<PAGE></n>Because I care.<PAGE></n>Thank you, Claire.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Sherry ? Maman est là...<PAGE></n>Sherry ! Sherry, est-ce que tu m'entends ?<PAGE></n> Oh, non...<PAGE></n>Sherry ?<PAGE></n>Claire ?<PAGE></n>Sherry... Est-ce que ça va ?<PAGE></n>Qu'est-ce que tu fais ?<PAGE></n>Je viens l'aider.<PAGE></n>Sherry a reçu l'embryon...</n>On ne peut pas la sauver.<PAGE></n>Non mais vous vous foutez de moi ?<PAGE></n>Vous êtes sa mère. Alors venez ici !<PAGE></n>Tu ne comprends pas.<PAGE></n>William est toujours en vie. Et si je ne l'arrête pas...<PAGE></n>Ça suffit, j'en ai assez entendu !<PAGE></n>Attends ! Attends... Je peux la soigner... dans mon labo.</n>C'est pas loin d'ici.<PAGE></n>Maman... ?<PAGE></n>On n'a pas le temps... Des millions de vies sont en jeu.<PAGE></n>Sherry...</n>Maman t'aime, trésor...<PAGE></n>Adieu.<PAGE></n>C'est pas possible, je rêve ?<PAGE></n>Sherry, t'en fais pas.</n>Je vais trouver ce dont tu as besoin.<PAGE></n>Pourquoi... tu fais tout ça ?<PAGE></n>Je tiens à toi.<PAGE></n>Merci, Claire.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Sherry? La mamma è qui.<PAGE></n>Sherry? Sherry, puoi sentirmi?<PAGE></n>Oh, no...<PAGE></n>Sherry?<PAGE></n>Claire...<PAGE></n>Sherry... stai bene?<PAGE></n>Che stai facendo?<PAGE></n>Provo a salvarla.<PAGE></n>Ha l'embrione impiantato...</n>Non può essere salvata.<PAGE></n>Mi prende per il culo?<PAGE></n>È sua madre. Venga subito qui!<PAGE></n>Tu non puoi capire.<PAGE></n>William è ancora là fuori, e se non riesco a fermarlo...<PAGE></n>E va bene, farò da sola!<PAGE></n>Aspetta! Aspetta... Posso curarla...</n>Nel laboratorio. Non è lontano.<PAGE></n>Mamma...<PAGE></n>Non c'è più tempo... Riguarda milioni di vite.<PAGE></n>Sherry... Mamma ti vuole bene...<PAGE></n>Addio.<PAGE></n>Ma stiamo scherzando?<PAGE></n>Sherry, tranquilla. Farò tutto il possibile, ok?<PAGE></n>Perché... lo stai facendo?<PAGE></n>Perché tengo a te.<PAGE></n>Grazie, Claire.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Sherry? Mommy ist hier...<PAGE></n>Sherry! Sherry, hörst du mich?!<PAGE></n>Oh, nein...<PAGE></n>Sherry?<PAGE></n>Claire?<PAGE></n>Alles okay?<PAGE></n>Was tust du da?!<PAGE></n>Ich will ihr helfen.<PAGE></n>Sherry bekam es implantiert...</n>Ist nicht mehr zu retten.<PAGE></n>Ich hoffe, Sie verarschen mich!<PAGE></n>Sie sind ihre Mutter.</n>Also rein hier!<PAGE></n>Du verstehst das nicht.<PAGE></n>William ist da draußen, </n>und wenn ich ihn nicht stoppe...<PAGE></n>Dieses Gespräch ist vorbei!<PAGE></n>Warte! Warte... ich... ich kann etwas tun...</n>in meinem Labor. Es ist nicht weit.<PAGE></n>Mommy?<PAGE></n>Es ist nicht genug Zeit...</n>Millionen Leben sind in Gefahr.<PAGE></n>Sherry...</n>Mommy liebt dich, Süße...<PAGE></n>Lebwohl.<PAGE></n>Ich hoffe, die verarscht mich!<PAGE></n>Sherry, keine Sorge.</n>Ich hol dir alles, was nötig ist, okay?<PAGE></n>W-Wieso tust du das?<PAGE></n>Weil's richtig ist.<PAGE></n>Danke, Claire
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>¿Sherry? Mamá está aquí...<PAGE></n>¡Sherry! ¡¿Sherry, me oyes?!<PAGE></n>Oh, no...<PAGE></n>¿Sherry?<PAGE></n>¿Claire...?<PAGE></n>Sherry... ¿Estás bien?<PAGE></n>¡¿Qué estás haciendo?!<PAGE></n>Vengo a ayudar.<PAGE></n>Sherry tiene un implante...</n>No puedes salvarla.<PAGE></n>¡¿Estás de coña?!<PAGE></n>Eres su madre. ¡Ven aquí!<PAGE></n>No lo entiendes.<PAGE></n>William sigue ahí fuera, y si no le detengo...<PAGE></n>¡Se acabó la conversación!<PAGE></n>¡Espera! Espera... Puedo tratarla... en mi laboratorio.</n>No está lejos.<PAGE></n>¿Mami...?<PAGE></n>No hay tiempo. O morirán millones.<PAGE></n>Sherry... Mamá te quiere mucho...<PAGE></n>Adiós.<PAGE></n>Maldita sea.<PAGE></n>Sherry, tranquila.</n>Te conseguiré lo que necesites.<PAGE></n>¿Por qué me ayudas?<PAGE></n>Porque me importas.<PAGE></n>Gracias, Claire.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Шерри? Мама с тобой...<PAGE></n>Шерри! Шерри, ты меня слышишь?!<PAGE></n>О нет...<PAGE></n>Шерри?<PAGE></n>Клэр?..<PAGE></n>Шерри... Ты в порядке?<PAGE></n>Что ты делаешь?!<PAGE></n>Я хочу помочь.<PAGE></n>Шерри заражена...</n>Ее уже не спасти.<PAGE></n>Что? Ты шутишь?!<PAGE></n>Ты же ее мать. Быстро иди сюда!<PAGE></n>Ты не понимаешь.<PAGE></n>Уильям все еще где-то там, и если его не остановить...<PAGE></n>Разговор окончен!<PAGE></n>Стой! Стой... Я... Я могу помочь ей... В лаборатории.</n>Это недалеко.<PAGE></n>Мамочка?..<PAGE></n>У нас мало времени... На кону миллионы жизней.<PAGE></n>Шерри...</n>Мама очень тебя любит, милая...<PAGE></n>Прощай.<PAGE></n>Черт тебя дери, ты что, шутишь?!<PAGE></n>Шерри, не беспокойся.</n>Я добуду все необходимое, слышишь меня?<PAGE></n>П-почему ты это делаешь?<PAGE></n>Потому что мне не наплевать.<PAGE></n>Спасибо, Клэр.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Sherry? Mama już tu jest...<PAGE></n>Sherry! Sherry, słyszysz mnie!?<PAGE></n>O, nie...<PAGE></n>Sherry?<PAGE></n>Claire...?<PAGE></n>Sherry... Wszystko w porządku?<PAGE></n>Co ty wyprawiasz!?<PAGE></n>Pomagam.<PAGE></n>Sherry ma wszczep...</n>Nie uratujesz jej.<PAGE></n>Żartujesz, kurwa!?<PAGE></n>Jesteś jej matką. Natychmiast tu przyjdź!<PAGE></n>Nie rozumiesz.<PAGE></n>William ciągle tu jest. Jeśli go nie powstrzymam...<PAGE></n>Mam dość tej rozmowy!<PAGE></n>Zaczekaj! Mogę się nią zająć... w moim laboratorium.</n>To niedaleko.<PAGE></n>Mama...?<PAGE></n>Nie ma czasu... Miliony ludzi są w niebezpieczeństwie.<PAGE></n>Sherry...</n>Mama cię kocha, skarbie...<PAGE></n>Żegnaj.<PAGE></n>Żartujesz, kurwa?!<PAGE></n>Sherry, nie bój się.</n>Zdobędę wszystko, czego potrzebujesz, okej?<PAGE></n>Dla... dlaczego to robisz?<PAGE></n>Bo mi na tobie zależy.<PAGE></n>Dziękuję, Claire.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>Sherry? A mamãe tá aqui...<PAGE></n>Sherry! Tá me ouvindo, Sherry?!<PAGE></n>Ah, não...<PAGE></n>Sherry?<PAGE></n>Claire?<PAGE></n>Sherry... você tá bem?<PAGE></n>O que você tá fazendo?!<PAGE></n>Eu vim ajudar.<PAGE></n>Ele botou um implante na Sherry...</n>Não tem mais jeito.<PAGE></n>Porra, tá de brincadeira?!<PAGE></n>Você é a mãe dela. Vem logo pra cá!<PAGE></n>Você não entende!<PAGE></n>O William ainda tá por aí, e, se eu não impedi-lo...<PAGE></n>Não quero mais saber!<PAGE></n>Espera! Espera... Eu posso tratar ela... no meu laboratório.</n>É aqui perto.<PAGE></n>Mamãe?<PAGE></n>Não dá tempo... Tem milhões de vidas em jogo.<PAGE></n>Sherry...</n>A mamãe te ama, querida...<PAGE></n>Adeus.<PAGE></n>Porra, sério mesmo?!<PAGE></n>Sherry, fica tranquila.</n>Vou arranjar tudo o que você precisar, tá bom?<PAGE></n>Por que você t-tá fazendo isso?<PAGE></n>Porque eu me importo com você.<PAGE></n>Obrigada, Claire.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>셰리? 엄마 여깄어...<PAGE></n>셰리! 셰리, 엄마 목소리 들리니!?<PAGE></n>아, 안 돼...<PAGE></n>셰리?<PAGE></n>클레어...?<PAGE></n>셰리... 괜찮니?<PAGE></n>여긴 무슨 일이지!?<PAGE></n>도와주러 왔죠.<PAGE></n>셰리는 벌써 이식이 끝난 상태야...</n>구하기엔 이미 늦었어.<PAGE></n>지금 장난해요...?<PAGE></n>당신이 엄마잖아요. 이리 와요!<PAGE></n>당신은 이해 못 해.<PAGE></n>윌리엄이 아직 저 어딘가에 있다고, 내가 못 막으면—<PAGE></n>대화는 이쯤 하죠!<PAGE></n>잠깐! 잠깐...내...내가 치료할 수 있어... 내 실험실에서.</n>그렇게 멀지 않아.<PAGE></n>엄마...?<PAGE></n>시간이 없어... 수백만 명의 목숨이 위태로운 상황이야.<PAGE></n>셰리...</n>엄마는 널 사랑한단다...<PAGE></n>그럼 안녕.<PAGE></n>지금 장난해!?<PAGE></n>셰리, 걱정하지 마.</n>네게 필요한 걸 내가 구해줄 테니까, 알았지?<PAGE></n>왜..왜 이렇게 까지 하는 거예요?<PAGE></n>걱정되니까.<PAGE></n>고마워요, 언니.
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>雪莉？媽咪在這裡...<PAGE></n>雪莉！雪莉，你聽得到我說話嗎？！<PAGE></n>噢，不...<PAGE></n>雪莉？<PAGE></n>克蕾兒？<PAGE></n>雪莉，你還好嗎？<PAGE></n>你在做什麼？！<PAGE></n>我是來幫忙的。<PAGE></n>雪莉被植入了...</n>她沒救了。<PAGE></n>你在說什麼鬼話？！<PAGE></n>你是她母親，快點過來！<PAGE></n>你不懂。<PAGE></n>威廉還在這裡，要是我不阻止他...<PAGE></n>你不用再說了！<PAGE></n>等一下！等一下，我可以治療她... 到我的實驗室來。</n>不遠。<PAGE></n>媽咪？<PAGE></n>時間不夠... 幾百萬條人命危在旦夕。<PAGE></n>雪莉...</n>媽咪愛你，寶貝...<PAGE></n>再見。<PAGE></n>你在說什麼鬼話？！<PAGE></n>雪莉，別擔心。</n>我會盡全力救你，知道嗎？<PAGE></n>你、你為什麼要這樣做？<PAGE></n>因為我在乎你。<PAGE></n>克蕾兒，謝謝你。
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>雪莉？妈咪在这里...<PAGE></n>雪莉！雪莉，你听得见我的声音吗！？<PAGE></n>糟糕...<PAGE></n>雪莉？<PAGE></n>克莱尔...？<PAGE></n>雪莉... 你还好吗？<PAGE></n>你在做什么！？<PAGE></n>我是来帮忙的。<PAGE></n>雪莉已经被植入...</n>她没救了。<PAGE></n>你在开什么玩笑！？<PAGE></n>你是她妈妈呀。快过来！<PAGE></n>你不明白。<PAGE></n>威廉还活着，要是我不阻止他的话...<PAGE></n>我跟你无话好说了！<PAGE></n>等等！等一下... 我... 我能治疗她... 到我的实验室去。</n>离这里不远。<PAGE></n>妈咪？<PAGE></n>时间紧急... 上百万人的性命危在旦夕。<PAGE></n>雪莉...</n>妈咪爱你，宝贝...<PAGE></n>再见。<PAGE></n>你在开什么玩笑！？<PAGE></n>雪莉，不要担心。</n>我会想办法帮你的，知道吗？<PAGE></n>你、你为什么要这样做？<PAGE></n>因为我关心你。<PAGE></n>克莱尔，谢谢你。
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+<TIME 2.0, 5.15><TIME 5.7, 9.39><TIME 11.84, 12.74><TIME 14.89, 15.98><TIME 16.79, 17.92><TIME 18.62, 20.13><TIME 26.45, 28.04><TIME 28.74, 30.05><TIME 33.88, 39.0><TIME 39.28, 40.68><TIME 40.68, 42.92><TIME 42.93, 44.53><TIME 45.41, 48.54><TIME 48.71, 50.77><TIME 52.89, 60.24><TIME 62.33, 64.08><TIME 68.63, 72.99><TIME 74.94, 78.73><TIME 81.05, 82.63><TIME 86.81, 88.86><TIME 89.48, 92.73><TIME 93.37, 96.51><TIME 97.13, 98.55><TIME 99.87, 101.63>
+シェリー？</n>ママはここよ
+Sherry? Mommy's here...
+Sherry ? Maman est là...
+Sherry? La mamma è qui.
+Sherry? Mommy ist hier...
+¿Sherry? Mamá está aquí...
+Шерри? Мама с тобой...
+Sherry? Mama już tu jest...
+Sherry? A mamãe tá aqui...
+셰리? 엄마 여깄어...
+雪莉？媽咪在這裡...
+雪莉？妈咪在这里...
+シェリー</n>ねえ 聞こえる！？
+Sherry! Sherry, can you hear me!?
+Sherry ! Sherry, est-ce que tu m'entends ?
+Sherry? Sherry, puoi sentirmi?
+Sherry! Sherry, hörst du mich?!
+¡Sherry! ¡¿Sherry, me oyes?!
+Шерри! Шерри, ты меня слышишь?!
+Sherry! Sherry, słyszysz mnie!?
+Sherry! Tá me ouvindo, Sherry?!
+셰리! 셰리, 엄마 목소리 들리니!?
+雪莉！雪莉，你聽得到我說話嗎？！
+雪莉！雪莉，你听得见我的声音吗！？
+大変…
+Oh, no...
+ Oh, non...
+Oh, no...
+Oh, nein...
+Oh, no...
+О нет...
+O, nie...
+Ah, não...
+아, 안 돼...
+噢，不...
+糟糕...
+シェリー？
+Sherry?
+Sherry ?
+Sherry?
+Sherry?
+¿Sherry?
+Шерри?
+Sherry?
+Sherry?
+셰리?
+雪莉？
+雪莉？
+クレア…？
+Claire...?
+Claire ?
+Claire...
+Claire?
+¿Claire...?
+Клэр?..
+Claire...?
+Claire?
+클레어...?
+克蕾兒？
+克莱尔...？
+シェリー 大丈夫？
+Sherry... Are you alright?
+Sherry... Est-ce que ça va ?
+Sherry... stai bene?
+Alles okay?
+Sherry... ¿Estás bien?
+Шерри... Ты в порядке?
+Sherry... Wszystko w porządku?
+Sherry... você tá bem?
+셰리... 괜찮니?
+雪莉，你還好嗎？
+雪莉... 你还好吗？
+何をしてるの！？
+What are you doing!?
+Qu'est-ce que tu fais ?
+Che stai facendo?
+Was tust du da?!
+¡¿Qué estás haciendo?!
+Что ты делаешь?!
+Co ty wyprawiasz!?
+O que você tá fazendo?!
+여긴 무슨 일이지!?
+你在做什麼？！
+你在做什么！？
+助けに来たの
+I'm here to help.
+Je viens l'aider.
+Provo a salvarla.
+Ich will ihr helfen.
+Vengo a ayudar.
+Я хочу помочь.
+Pomagam.
+Eu vim ajudar.
+도와주러 왔죠.
+我是來幫忙的。
+我是来帮忙的。
+「あなたは私に手伝ってくれる？それとも？」
+Are you going to help or what?
+¿Vas a ayudar o no?
+Ты поможешь или как?
+Zamierzasz mi pomóc, czy jak?
+Você vai ajudar ou o quê?
+당신은 도와줄 거예요 말 거예요?
+你到底有沒有要幫忙？
+你到底要不要帮忙？
+シェリーは感染してる…</n>もう救えないのよ　
+Sherry's been implanted...</n>She can't be saved.
+Sherry a reçu l'embryon...</n>On ne peut pas la sauver.
+Ha l'embrione impiantato...</n>Non può essere salvata.
+Sherry bekam es implantiert...</n>Ist nicht mehr zu retten.
+Sherry tiene un implante...</n>No puedes salvarla.
+Шерри заражена...</n>Ее уже не спасти.
+Sherry ma wszczep...</n>Nie uratujesz jej.
+Ele botou um implante na Sherry...</n>Não tem mais jeito.
+셰리는 벌써 이식이 끝난 상태야...</n>구하기엔 이미 늦었어.
+雪莉被植入了...</n>她沒救了。
+雪莉已经被植入...</n>她没救了。
+何言ってるの！？
+Are you fucking kidding me!?
+Non mais vous vous foutez de moi ?
+Mi prende per il culo?
+Ich hoffe, Sie verarschen mich!
+¡¿Estás de coña?!
+Что? Ты шутишь?!
+Żartujesz, kurwa!?
+Porra, tá de brincadeira?!
+지금 장난해요...?
+你在說什麼鬼話？！
+你在开什么玩笑！？
+母親でしょ？</n>こっちに来なさいよ！
+You're her mother. Get in here!
+Vous êtes sa mère. Alors venez ici !
+È sua madre. Venga subito qui!
+Sie sind ihre Mutter.</n>Also rein hier!
+Eres su madre. ¡Ven aquí!
+Ты же ее мать. Быстро иди сюда!
+Jesteś jej matką. Natychmiast tu przyjdź!
+Você é a mãe dela. Vem logo pra cá!
+당신이 엄마잖아요. 이리 와요!
+你是她母親，快點過來！
+你是她妈妈呀。快过来！
+あなたには分からないわ
+You don't understand.
+Tu ne comprends pas.
+Tu non puoi capire.
+Du verstehst das nicht.
+No lo entiendes.
+Ты не понимаешь.
+Nie rozumiesz.
+Você não entende!
+당신은 이해 못 해.
+你不懂。
+你不明白。
+ウィリアムはまだ生きてる</n>私が止めないと…
+William is still out there, and if I don't stop him—
+William est toujours en vie. Et si je ne l'arrête pas...
+William è ancora là fuori, e se non riesco a fermarlo...
+William ist da draußen, </n>und wenn ich ihn nicht stoppe...
+William sigue ahí fuera, y si no le detengo...
+Уильям все еще где-то там, и если его не остановить...
+William ciągle tu jest. Jeśli go nie powstrzymam...
+O William ainda tá por aí, e, se eu não impedi-lo...
+윌리엄이 아직 저 어딘가에 있다고, 내가 못 막으면—
+威廉還在這裡，要是我不阻止他...
+威廉还活着，要是我不阻止他的话...
+これ以上 話しても無駄ね！
+This conversation is over!
+Ça suffit, j'en ai assez entendu !
+E va bene, farò da sola!
+Dieses Gespräch ist vorbei!
+¡Se acabó la conversación!
+Разговор окончен!
+Mam dość tej rozmowy!
+Não quero mais saber!
+대화는 이쯤 하죠!
+你不用再說了！
+我跟你无话好说了！
+待って！　もしかしたら治療できるかもしれない…</n>研究所で　そう遠くないわ
+Wait! Wait...I...I can treat her...in my lab.</n>It's not far away.
+Attends ! Attends... Je peux la soigner... dans mon labo.</n>C'est pas loin d'ici.
+Aspetta! Aspetta... Posso curarla...</n>Nel laboratorio. Non è lontano.
+Warte! Warte... ich... ich kann etwas tun...</n>in meinem Labor. Es ist nicht weit.
+¡Espera! Espera... Puedo tratarla... en mi laboratorio.</n>No está lejos.
+Стой! Стой... Я... Я могу помочь ей... В лаборатории.</n>Это недалеко.
+Zaczekaj! Mogę się nią zająć... w moim laboratorium.</n>To niedaleko.
+Espera! Espera... Eu posso tratar ela... no meu laboratório.</n>É aqui perto.
+잠깐! 잠깐...내...내가 치료할 수 있어... 내 실험실에서.</n>그렇게 멀지 않아.
+等一下！等一下，我可以治療她... 到我的實驗室來。</n>不遠。
+等等！等一下... 我... 我能治疗她... 到我的实验室去。</n>离这里不远。
+ママ…？
+Mommy...?
+Maman... ?
+Mamma...
+Mommy?
+¿Mami...?
+Мамочка?..
+Mama...?
+Mamãe?
+엄마...?
+媽咪？
+妈咪？
+時間がないの</n>大勢の命が かかってる
+There's not enough time... Millions of lives are at stake.
+On n'a pas le temps... Des millions de vies sont en jeu.
+Non c'è più tempo... Riguarda milioni di vite.
+Es ist nicht genug Zeit...</n>Millionen Leben sind in Gefahr.
+No hay tiempo. O morirán millones.
+У нас мало времени... На кону миллионы жизней.
+Nie ma czasu... Miliony ludzi są w niebezpieczeństwie.
+Não dá tempo... Tem milhões de vidas em jogo.
+시간이 없어... 수백만 명의 목숨이 위태로운 상황이야.
+時間不夠... 幾百萬條人命危在旦夕。
+时间紧急... 上百万人的性命危在旦夕。
+シェリー…</n>あなたを愛してるわ　
+Sherry...</n>Mommy loves you, sweetie...
+Sherry...</n>Maman t'aime, trésor...
+Sherry... Mamma ti vuole bene...
+Sherry...</n>Mommy liebt dich, Süße...
+Sherry... Mamá te quiere mucho...
+Шерри...</n>Мама очень тебя любит, милая...
+Sherry...</n>Mama cię kocha, skarbie...
+Sherry...</n>A mamãe te ama, querida...
+셰리...</n>엄마는 널 사랑한단다...
+雪莉...</n>媽咪愛你，寶貝...
+雪莉...</n>妈咪爱你，宝贝...
+さようなら
+Goodbye.
+Adieu.
+Addio.
+Lebwohl.
+Adiós.
+Прощай.
+Żegnaj.
+Adeus.
+그럼 안녕.
+再見。
+再见。
+冗談じゃないわ
+Are you fucking kidding me!?
+C'est pas possible, je rêve ?
+Ma stiamo scherzando?
+Ich hoffe, die verarscht mich!
+Maldita sea.
+Черт тебя дери, ты что, шутишь?!
+Żartujesz, kurwa?!
+Porra, sério mesmo?!
+지금 장난해!?
+你在說什麼鬼話？！
+你在开什么玩笑！？
+大丈夫よ</n>私が助けてあげるから
+Sherry, don't worry.</n>I will get you whatever you need, OK?
+Sherry, t'en fais pas.</n>Je vais trouver ce dont tu as besoin.
+Sherry, tranquilla. Farò tutto il possibile, ok?
+Sherry, keine Sorge.</n>Ich hol dir alles, was nötig ist, okay?
+Sherry, tranquila.</n>Te conseguiré lo que necesites.
+Шерри, не беспокойся.</n>Я добуду все необходимое, слышишь меня?
+Sherry, nie bój się.</n>Zdobędę wszystko, czego potrzebujesz, okej?
+Sherry, fica tranquila.</n>Vou arranjar tudo o que você precisar, tá bom?
+셰리, 걱정하지 마.</n>네게 필요한 걸 내가 구해줄 테니까, 알았지?
+雪莉，別擔心。</n>我會盡全力救你，知道嗎？
+雪莉，不要担心。</n>我会想办法帮你的，知道吗？
+ど… どうして… 助けてくれるの？
+Wh-Why are you doing this?
+Pourquoi... tu fais tout ça ?
+Perché... lo stai facendo?
+W-Wieso tust du das?
+¿Por qué me ayudas?
+П-почему ты это делаешь?
+Dla... dlaczego to robisz?
+Por que você t-tá fazendo isso?
+왜..왜 이렇게 까지 하는 거예요?
+你、你為什麼要這樣做？
+你、你为什么要这样做？
+ほっとけないでしょ
+Because I care.
+Je tiens à toi.
+Perché tengo a te.
+Weil's richtig ist.
+Porque me importas.
+Потому что мне не наплевать.
+Bo mi na tobie zależy.
+Porque eu me importo com você.
+걱정되니까.
+因為我在乎你。
+因为我关心你。
+ありがとう
+Thank you, Claire.
+Merci, Claire.
+Grazie, Claire.
+Danke, Claire
+Gracias, Claire.
+Спасибо, Клэр.
+Dziękuję, Claire.
+Obrigada, Claire.
+고마워요, 언니.
+克蕾兒，謝謝你。
+克莱尔，谢谢你。

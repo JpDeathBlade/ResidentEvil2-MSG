@@ -1,0 +1,48 @@
+﻿ラクーン君からのお願い
+A Message From Mr. Raccoon
+Message de Mr. Raccoon
+Un messaggio da Mr. Raccoon
+Eine Nachricht von Mr. Raccoon
+Un mensaje de Mr. Raccoon
+Сообщение от м-ра Енота
+Wiadomość od Pana Szopa
+Mensagem do Mr. Raccoon
+미스터 라쿤의 메시지
+浣熊先生想說的話
+浣熊先生的来信
+ラクーンシティのよい子のみんな、</n>いつも動物園に遊びに来てくれてありがとう！</n></n>今日はラクーン君から大切なお願いがあるんだ。</n>みんなは大人気の「<COL FILE_EMP>ラクーン君人形</COLOR >」は知ってるよね？</n>意地悪な人たちの間で、あのお人形を<COL FILE_EMP>射撃の的</COLOR >にする</n>遊びが流行してるんだって。</n>僕、すごく悲しいよ……。
+Howdy boys and girls! It's your pal from the</n>Raccoon City Zoo! It's always great to see you!</n></n>Today, I want to talk about something really</n>important to me. You know my popular</n><COL FILE_EMP>Mr. Raccoon toys</COLOR>? Well, I heard some bad kids</n>have been using them for <COL FILE_EMP>target practice</COLOR>,</n>but that makes me really sad...
+Salut tout le monde ! C'est votre copain du zoo</n>de Raccoon City ! C'est toujours un plaisir de</n>vous retrouver !</n></n>Aujourd'hui, je vais vous parler de quelque</n>chose qui me tient à cœur. Vous connaissez les</n><COL FILE_EMP>jouets Mr. Raccoon</COLOR> ? Eh bien, j'ai entendu dire</n>que certains garnements les utilisaient pour</n><COL FILE_EMP>s'entraîner au tir</COLOR>, et ça, ça me rend très</n>triste...
+Ciao, bambini e bambine! Sono io, il vostro</n>amico dello Zoo di Raccoon City! Tutto bene?</n></n>Oggi voglio parlarvi di una cosa che mi sta</n>davvero a cuore. Conoscete i favolosi <COL FILE_EMP>pupazzi di</n>Mr. Raccoon</COLOR>, vero? Beh, un uccellino mi ha detto</n>che ora va di moda usarli per il <COL FILE_EMP>tiro al bersaglio</COLOR></n>e la cosa mi rende davvero molto triste...
+Hallo, Jungs und Mädels! Hier ist euer Freund</n>aus dem Raccoon City Zoo. Schön, euch zu sehen!</n>Heute möchte ich über etwas reden, das mir sehr</n>am Herzen liegt. Ihr kennt doch meine beliebten</n><COL FILE_EMP>Mr.-Raccoon-Figuren</COLOR>, oder? </n>Also ich hab gehört, dass einige böse Kinder sie</n><COL FILE_EMP>für Schießübungen</COLOR> benutzen, aber das macht mich</n>sehr traurig...
+¿Cómo va eso, peques? ¡Soy vuestro colega</n>del Zoo de Raccoon City! ¡Encantado!</n></n>Hoy quiero hablaros de algo muy</n>importante para mí. Conocéis los populares</n><COL FILE_EMP>muñecos de Mr. Raccoon</COLOR>, ¿no? Bien, he oído</n>que algunos chicos traviesos lo usan para <COL FILE_EMP>prácticas</n>de tiro</COLOR>, y eso me pone muy triste...
+Здорово, мальчишки и девчонки! Это ваш друг,</n>енот из зоопарка Раккун-Сити! Рад встрече!</n></n>Хочу рассказать вам кое-что очень важное.</n>Видели мои <COL FILE_EMP>куклы мистера Енота</COLOR>,</n>которые всем так нравятся? </n>Так вот, я узнал, что непослушные</n>дети стали использовать их в качестве <COL FILE_EMP>мишеней</COLOR>,</n>и мне от этого очень грустно...
+Czołem chłopcy i dziewczęta! To ja, Wasz kumpel</n>z zoo w Raccoon City! Miło Was widzieć!</n></n>Dziś chcę pomówić z Wami o bardzo ważnej dla</n>mnie sprawie. Słyszeliście o <COL FILE_EMP>zabawkach Pana</n>Szopa</COLOR>? Słyszałem, że niegrzeczne dzieci ćwiczą</n>na nich <COL FILE_EMP>strzelanie do celu</COLOR> i to właśnie</n>tak mnie smuci...
+Olá, meninos e meninas! É o seu amigão do</n>Zoológico de Raccoon City! Que bom ver vocês!</n></n>Hoje, eu quero falar de uma coisa muito</n>importante para mim. Sabem os famosos <COL FILE_EMP>bonecos</n>do Mr. Raccoon</COLOR>? Então, ouvi dizer que uns meninos levados</n>estão usando eles para praticar <COL FILE_EMP>tiro ao</n>alvo</COLOR>, mas fico bem triste com isso...
+우리 친구들, 안녕! 라쿤 시티</n>동물원 아저씨예요! 또 만나서 반갑군요!</n></n>오늘은 아주 중요한 이야기를 할 거예요. 다들</n>그 유명한 <COL FILE_EMP>미스터 라쿤 인형</COLOR> 알죠?</n>요즘 나쁜 아이들이 그 인형을</n><COL FILE_EMP>표적으로 사용한다는 얘기가 들려요.</n></COLOR>그래서 아저씨는 무척 슬퍼요...
+男孩女孩們，你們好！我是你們來自</n>拉昆市動物園的好朋友！能見到你們真好！</n></n>今天，我想要談一件對我來說非常</n>重要的事。各位都知道我大受歡迎的</n><COL FILE_EMP>浣熊先生玩偶</COLOR>對吧？可是，我聽說一些</n>壞小孩會拿這些玩偶進行<COL FILE_EMP>射擊練習</COLOR>，</n>讓我覺得好難過…
+各位小子和姑娘们，大家好！这位是来自</n>浣熊市动物园的朋友！很高兴见到你！</n></n>今天，我想谈谈一些对我真的很重要的事。</n>你们都知道我大受欢迎的<COL FILE_EMP>浣熊先生娃娃</COLOR>玩偶，</n>对吗？可是我听说有一些坏小孩会拿这些</n>玩偶来进行<COL FILE_EMP>射击练习</COLOR>，这让我好难过...</n>
+よい子のみんなは、絶対、マネしないでね！</n>とってもとっても危ないよ！</n></n>それじゃまた、動物園で会おうね！</n></n><RIGHT>ラクーン動物園マスコット　ラクーン君より
+Good little kids wouldn't be that mean, right?</n>Plus it's super, super dangerous, so just don't</n>do it!</n></n>Anyway, see you at the zoo!</n></n><RIGHT>Mr. Raccoon out!
+Les gentils enfants ne feraient jamais une</n>chose pareille, n'est-ce pas ? Et puis c'est</n>très dangereux, alors ne faites pas ça !</n></n>À bientôt au zoo !</n></n><RIGHT>Mr. Raccoon
+Ma dei bravi bambini non farebbero mai</n>una cosa simile, vero? È super mega ultra</n>pericoloso. Non fatelo, mi raccomando!</n>Ci vediamo allo zoo!</n></n><RIGHT>Un abbraccione dal vostro Mr. Raccoon!
+Liebe kleine Kinder würden doch nicht</n>so gemein sein, oder?</n>Das ist nämlich total megagefährlich,</n>also lasst das bitte schön bleiben!</n></n>Wir sehen uns im Zoo!</n></n>Mr. Raccoon Over!
+Los niños buenos no harían algo</n>así en la vida real, ¿verdad? Porque es</n>muy, muy peligroso, ¡así que no lo hagáis!</n></n>¡Eso es todo! ¡Nos vemos en el zoo!</n></n><RIGHT>Mr. Raccoon
+Хорошие детки не будут так обижать куклы,</n>ведь правда? К тому же это очень-очень опасно!</n>Никогда так не поступайте!</n></n>Словом, увидимся в зоопарке!</n></n><RIGHT>До встречи!
+Grzeczne dzieciaczki nie powinny tak robić,</n>prawda? To bardzo, ale to bardzo niebezpieczne,</n>dlatego nie róbcie tak!</n></n>To by było na tyle! Do zobaczenia w zoo!</n></n><RIGHT>Pan Szop się odmeldowuje!
+Só que crianças boazinhas não fariam</n>nada assim, né? É superperigoso,</n>então nem pensem nisso!</n></n>Bem, então vejo vocês no zoológico!</n></n><RIGHT>Mr. Raccoon
+착한 어린이는 그런 행동을 하면 못써요.</n>잘 알고 있죠? 정말 정말 위험한 일이니</n>절대 하지 마세요!</n></n>그럼! 동물원에서 만나요!</n></n><RIGHT>미스터 라쿤은 이만!
+好孩子不會這麼不乖，對不對啊？</n>而且這樣非常非常危險，</n>千萬不要這麼做喔！</n></n>總之，我們動物園見！</n></n><RIGHT>浣熊先生說完了！
+好孩子是不会做这样的事，对不对啊？</n>而且这真的非常非常危险，千万别那么做喔！</n></n>总之，我们动物园见！</n></n><RIGHT>浣熊先生下台一鞠躬！</n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

@@ -1,0 +1,441 @@
+﻿<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0010_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0011_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0030_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0040_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0041_pl0000_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+<COLOR FF0000>#Rejected#</COLOR> EV030_0050_pl7500_14
+ID削除候補
+ID削除候補
+ID削除候補
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>じっとしてろ！<PAGE></n>どうかしましたか？<PAGE></n>大丈夫だ　下がってろ<PAGE></n>おい！　やめろ！</n>離れるんだ！<PAGE></n>助けて…<PAGE></n>何なんだ！？
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>Stop moving!<PAGE></n>Officer, you need help?<PAGE></n>Stay back, sir, I got this.<PAGE></n>Hey, hey!</n>Get off him, right now!<PAGE></n>Help me...<PAGE></n>What the fuck...!?
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>Arrête de bouger !<PAGE></n>Est-ce que tout va bien ?<PAGE></n>Reculez monsieur, je m'en occupe.<PAGE></n>Hé ! Hé !</n>Lâche-le tout de suite !<PAGE></n>Au secours...<PAGE></n>Oh putain...
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>E sta' fermo!<PAGE></n>Agente, che succede?<PAGE></n>Stia indietro, non si avvicini.<PAGE></n>Ehi, ehi! Lascialo! Lascialo stare!<PAGE></n>Aiuto!<PAGE></n>Ma che cazzo...
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>Komm runter!<PAGE></n>Officer, soll ich helfen?<PAGE></n>Zurückbleiben, Sir, nicht näher.<PAGE></n>Hey, hey!</n>Weg von ihm, sofort!<PAGE></n>Hilfe...<PAGE></n>Was zum Teufel?!
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>¡He dicho quieto!<PAGE></n>¿Necesita ayuda?<PAGE></n>Aléjese, yo me ocupo.<PAGE></n>¡Eh, eh! ¡Apártese, ahora!<PAGE></n>Ayuda...<PAGE></n>¡Pero qué...!
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>Не дергайся!<PAGE></n>Офицер, вам помочь?<PAGE></n>Все под контролем, сэр.<PAGE></n>Эй, эй!</n>А ну слезь с него!<PAGE></n>Помоги...<PAGE></n>Что за хрень?..
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>Nie ruszaj się!<PAGE></n>Pomóc panu?<PAGE></n>Proszę nie podchodzić, poradzę sobie.<PAGE></n>Hej, hej!</n>Zostaw go, już!<PAGE></n>Pomóż mi...<PAGE></n>Co do kurwy...?!
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>Para de se mexer!<PAGE></n>Precisa de ajuda, policial?<PAGE></n>Pra trás, senhor! Deixa comigo!<PAGE></n>Ei, ei!</n>Sai já de cima dele!<PAGE></n>Socorro...<PAGE></n>Que porra é essa?!
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>움직이지 말아요!<PAGE></n>도움이 필요합니까?<PAGE></n>물러서요, 내가 해결할 테니!<PAGE></n>이봐, 이봐!</n>떨어져, 당장!<PAGE></n>도와줘...<PAGE></n>젠장, 저게 뭐야...!?
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>別動！<PAGE></n>警官，需要幫忙嗎？<PAGE></n>先生，別靠近，我會處理。<PAGE></n>喂，喂！</n>快放開他！立即！<PAGE></n>救救我...<PAGE></n>什麼鬼！？
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>不许动！<PAGE></n>警官，需要帮忙吗？<PAGE></n>先生，请你退后，我会处理。<PAGE></n>喂！</n>放开他，立刻放开！<PAGE></n>救命...<PAGE></n>这是什么东西！？
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+<TIME 2.20, 2.80><TIME 3.00, 3.90><TIME 4.50, 5.80><TIME 8.00, 11.30><TIME 12.00, 13.00><TIME 15.00, 16.00>
+じっとしてろ！
+Stop moving!
+Arrête de bouger !
+E sta' fermo!
+Komm runter!
+¡He dicho quieto!
+Не дергайся!
+Nie ruszaj się!
+Para de se mexer!
+움직이지 말아요!
+別動！
+不许动！
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+<COLOR FF0000>#Rejected#</COLOR> EV030_0020_pl7500
+どうかしましたか？
+Officer, you need help?
+Est-ce que tout va bien ?
+Agente, che succede?
+Officer, soll ich helfen?
+¿Necesita ayuda?
+Офицер, вам помочь?
+Pomóc panu?
+Precisa de ajuda, policial?
+도움이 필요합니까?
+警官，需要幫忙嗎？
+警官，需要帮忙吗？
+大丈夫だ　下がってろ
+Stay back, sir, I got this.
+Reculez monsieur, je m'en occupe.
+Stia indietro, non si avvicini.
+Zurückbleiben, Sir, nicht näher.
+Aléjese, yo me ocupo.
+Все под контролем, сэр.
+Proszę nie podchodzić, poradzę sobie.
+Pra trás, senhor! Deixa comigo!
+물러서요, 내가 해결할 테니!
+先生，別靠近，我會處理。
+先生，请你退后，我会处理。
+おい！　やめろ！</n>離れるんだ！
+Hey, hey!</n>Get off him, right now!
+Hé ! Hé !</n>Lâche-le tout de suite !
+Ehi, ehi! Lascialo! Lascialo stare!
+Hey, hey!</n>Weg von ihm, sofort!
+¡Eh, eh! ¡Apártese, ahora!
+Эй, эй!</n>А ну слезь с него!
+Hej, hej!</n>Zostaw go, już!
+Ei, ei!</n>Sai já de cima dele!
+이봐, 이봐!</n>떨어져, 당장!
+喂，喂！</n>快放開他！立即！
+喂！</n>放开他，立刻放开！
+何なんだ！？
+What the fuck...!?
+Oh putain...
+Ma che cazzo...
+Was zum Teufel?!
+¡Pero qué...!
+Что за хрень?..
+Co do kurwy...?!
+Que porra é essa?!
+젠장, 저게 뭐야...!?
+什麼鬼！？
+这是什么东西！？
+助けて…
+Help me...
+Au secours...
+Aiuto!
+Hilfe...
+Ayuda...
+Помоги...
+Pomóż mi...
+Socorro...
+도와줘...
+救救我...
+救命...
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>じっとしてろ！<PAGE></n>あの… 大丈夫ですか？<PAGE></n>大丈夫だ　下がって<PAGE></n>何なの！？<PAGE></n>離れて！</n>聞こえないの？　早く離れて！　　　</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>I said hold still!<PAGE></n>Excuse me, is everything OK?<PAGE></n>Stay back ma'am, I got this.<PAGE></n>Oh my god!<PAGE></n>Get off him!</n>I said GET OFF HIM!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>Bouge pas, je te dis !<PAGE></n>Excusez-moi, mais tout va bien ?<PAGE></n>N'approchez pas, je m'en occupe.<PAGE></n>Oh mon Dieu...<PAGE></n>Lâche-le !</n>J'ai dit lâche-le !</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>Sta' fermo, ho detto!<PAGE></n>Ehi, cosa sta succedendo?<PAGE></n>Stia indietro, non si avvicini.<PAGE></n>Oh mio Dio!<PAGE></n>Lascialo andare! Lascialo subito!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>Ich sagte, halt still!<PAGE></n>Entschuldigung, ist alles in Ordnung?<PAGE></n>Zurückbleiben, Ma'am, nicht näher.<PAGE></n>Oh, mein Gott!<PAGE></n>Weg von ihm!</n>Ich sagte, weg von ihm!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>¡He dicho quieto!<PAGE></n>¿Perdone, ocurre algo?<PAGE></n>Atrás señorita, yo me ocupo.<PAGE></n>¡Dios mío!<PAGE></n>¡Suéltale! ¡He dicho que lo sueltes!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>А ну замри!<PAGE></n>Извините, у вас все в порядке?<PAGE></n>Все под контролем, мэм.<PAGE></n>О боже!<PAGE></n>Слезь с него!</n>СЛЕЗЬ С НЕГО, сказала!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>Powiedziałem, nie ruszaj się!<PAGE></n>Przepraszam? Wszystko gra?<PAGE></n>Proszę nie podchodzić, poradzę sobie.<PAGE></n>O Boże!<PAGE></n>Zostaw go!</n>Powiedziałam, ZOSTAW GO!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>Eu falei pra ficar parado!<PAGE></n>Com licença, tá tudo bem?<PAGE></n>Pra trás, moça! Deixa comigo!<PAGE></n>Meu Deus!<PAGE></n>Sai de cima dele!</n>Mandei SAIR DE CIMA DELE!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>가만히 있으라고 했잖아!<PAGE></n>저기, 괜찮으세요?<PAGE></n>물러서세요. 제가 해결하겠습니다.<PAGE></n>세상에!<PAGE></n>떨어져!</n>떨어지라고!</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>我說不准動！<PAGE></n>抱歉，我可以幫忙嗎？<PAGE></n>女士，別靠近，我會處理。<PAGE></n>我的天啊！<PAGE></n>放開他！</n>快放開他！</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>我说了不许动！<PAGE></n>不好意思，出了什么事吗？<PAGE></n>女士，请你退后，我会处理。<PAGE></n>天啊！<PAGE></n>放开他！</n>我说了放开他！</n>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+<TIME 1.67, 2.8><TIME 2.81, 4.48><TIME 4.54, 6.0><TIME 8.45, 9.81><TIME 12.67, 17.01>
+じっとしてろ！
+I said hold still!
+Bouge pas, je te dis !
+Sta' fermo, ho detto!
+Ich sagte, halt still!
+¡He dicho quieto!
+А ну замри!
+Powiedziałem, nie ruszaj się!
+Eu falei pra ficar parado!
+가만히 있으라고 했잖아!
+我說不准動！
+我说了不许动！
+ID削除候補
+Stop moving!
+Arrête de bouger !
+E sta' fermo!
+Komm runter!
+Не дергайся!
+Nie ruszaj się!
+Para de se mexer!
+움직이지 마!
+別動！
+不许动！
+あの… 大丈夫ですか？
+Excuse me, is everything OK?
+Excusez-moi, mais tout va bien ?
+Ehi, cosa sta succedendo?
+Entschuldigung, ist alles in Ordnung?
+¿Perdone, ocurre algo?
+Извините, у вас все в порядке?
+Przepraszam? Wszystko gra?
+Com licença, tá tudo bem?
+저기, 괜찮으세요?
+抱歉，我可以幫忙嗎？
+不好意思，出了什么事吗？
+大丈夫だ　下がって
+Stay back ma'am, I got this.
+N'approchez pas, je m'en occupe.
+Stia indietro, non si avvicini.
+Zurückbleiben, Ma'am, nicht näher.
+Atrás señorita, yo me ocupo.
+Все под контролем, мэм.
+Proszę nie podchodzić, poradzę sobie.
+Pra trás, moça! Deixa comigo!
+물러서세요. 제가 해결하겠습니다.
+女士，別靠近，我會處理。
+女士，请你退后，我会处理。
+ID削除候補
+Fuck! Help me!
+Putain ! Au secours !
+Aiuto!
+Scheiße! Hilf mir!
+¡Ayuda...!
+Черт! Помогите!
+Kurwa! Pomóż mi!
+Caralho! Socorro!
+젠장! 살려줘!
+該死！救救我！
+可恶！救我！
+ID削除候補
+何なの！？
+Oh my god!
+Oh mon Dieu...
+Oh mio Dio!
+Oh, mein Gott!
+¡Dios mío!
+О боже!
+O Boże!
+Meu Deus!
+세상에!
+我的天啊！
+天啊！
+ID削除候補
+離れて！</n>聞こえないの？　早く離れて！　　　
+Get off him!</n>I said GET OFF HIM!
+Lâche-le !</n>J'ai dit lâche-le !
+Lascialo andare! Lascialo subito!
+Weg von ihm!</n>Ich sagte, weg von ihm!
+¡Suéltale! ¡He dicho que lo sueltes!
+Слезь с него!</n>СЛЕЗЬ С НЕГО, сказала!
+Zostaw go!</n>Powiedziałam, ZOSTAW GO!
+Sai de cima dele!</n>Mandei SAIR DE CIMA DELE!
+떨어져!</n>떨어지라고!
+放開他！</n>快放開他！
+放开他！</n>我说了放开他！
+ID削除候補

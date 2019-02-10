@@ -1,0 +1,48 @@
+﻿業務連絡「分電盤の故障について」
+Memo: "Jail Power Panel"
+Panneau électrique des cellules
+Nota: "Quadro elettrico celle"
+Notiz: Gefängnis-Schaltschrank
+Nota: panel de la cárcel
+Памятка: «Электрощиток тюрьмы»
+„Panel zasilający areszt”
+Recado: "Painel da Cadeia"
+쪽지: “교도소 전력 패널”
+備忘錄：「監獄電力面板」
+备忘录：“监狱电源板”
+分電盤の部品が故障しました。</n>担当者は、至急交換をお願いします。</n></n>皆も知っての通り、留置場の電気設備は古く、</n><COL FILE_EMP>特注部品</COLOR>にしか対応していません。</n>特注部品の予備は<COL FILE_EMP>変電室</COLOR>に保管されています。
+The power panel is out. Can the person in</n>charge of it please take care of it ASAP!?</n></n>I assume everyone knows, but since the jail's</n>power panel is old as hell, we're gonna need</n>those custom <COL FILE_EMP>power panel parts</COLOR> no one makes</n>anymore. There should be a few in the <COL FILE_EMP>generator room</COLOR>.
+Le panneau électrique est HS. Est-ce que le</n>responsable pourrait régler ça et VITE ?</n></n>Tout le monde doit le savoir, mais vu l'âge du</n>panneau électrique des cellules, on va avoir</n>besoin de <COL FILE_EMP>pièces</COLOR> que plus personne ne fabrique.</n>Il doit y en avoir dans la <COL FILE_EMP>salle du générateur</COLOR>.
+Il quadro elettrico è fuori uso. Potrebbe il</n>responsabile occuparsene al più presto?!</n></n>Come è ormai noto, il quadro elettrico delle celle</n>è un residuato bellico e credo ci serviranno quei</n><COL FILE_EMP>componenti per quadro elettrico</COLOR> fuori produzione.</n>Alcuni dovrebbero trovarsi nella <COL FILE_EMP>sala del generatore</COLOR>.
+Der Schaltschrank ist defekt. Könnte sich die</n>zuständige Person schleunigst darum kümmern?!</n></n>Dürfte zwar allen bekannt sein, aber da der</n>Schaltschrank höllisch alt ist, brauchen wir</n><COL FILE_EMP>Schaltschrankteile</COLOR>, die nicht mehr</n>hergestellt werden. Im <COL FILE_EMP>Transformatorraum</COLOR></n>müssten noch ein paar herumliegen.
+No hay energía en el panel. ¡¿Puede la persona</n>a cargo arreglarlo cuanto antes?!</n></n>Supongo que todos lo sabéis, pero como el panel</n>de energía de la cárcel es viejo de narices, se</n>necesitan <COL FILE_EMP>piezas de panel eléctrico</COLOR> que ya nadie</n>fabrica. Debería haber algunas en la <COL FILE_EMP>sala del generador</COLOR>.
+Электрощиток сдох. Найдите главного —</n>пусть побыстрее с ним разберется.</n></n>Полагаю, это ни для кого не секрет,</n>но электрощиток тюрьмы — жуткое старье,</n>и нам потребуются особые <COL FILE_EMP>детали электрощитка</COLOR>,</n>которые никто не производит.</n>Впрочем, их еще можно найти в <COL FILE_EMP>генераторной</COLOR>.
+Panel zasilający nie działa. Czy osoba</n>odpowiedzialna może się tym niezwłocznie zająć?</n></n>Zakładam, że wszyscy to wiedzą, ale ponieważ</n>panel zasilający areszt jest cholernie stary,</n>trzeba będzie wymienić te specjalne <COL FILE_EMP>kostki</n>z obwodami</COLOR>, których już nie produkują. Powinny</n>być jeszcze w <COL FILE_EMP>generatorowni</COLOR>.
+O painel de força pifou. Será que o responsável</n>pode dar um jeito nisso pra ontem?!</n></n>Acho que todo mundo já sabe, mas como</n>a caixa de força da cadeia é velha pra caramba,</n>vamos precisar desses <COL FILE_EMP>componentes de painel</COLOR></n>personalizados que ninguém mais fabrica.</n>Deve ter alguns na <COL FILE_EMP>sala do gerador</COLOR>.
+전력 패널이 고장났군요. 담당자는</n>최대한 빨리 고쳐주시겠습니까!?</n></n>다들 알고 있겠지만 수용소 전력 패널이</n>너무 낡아서 상태가 최악입니다.</n>맞춤 <COL FILE_EMP>전력 패널 부품</COLOR>이 필요한데</n>더 이상 생산을 하는 곳이 없다고 하네요.</n>아마 <COL FILE_EMP>발전실</COLOR>에 몇 개 있을 겁니다.
+電力面板失靈了。</n>負責的人可以趕快把它修好嗎！？</n></n>我猜每個人都會修，但是因為監獄裡的電力面板</n>老舊至極，我們會需要已經停產的特製<COL FILE_EMP>電力面板零件</COLOR>。</n><COL FILE_EMP>發電機房</COLOR>裡面應該可以找到一些。
+电源板坏了。相关负责人</n>请尽快把它修好吧！</n></n>我想每个人都知道这监狱里的电源板</n>已经老旧到不行了，我们需要的那些改装</n><COL FILE_EMP>电源板零件</COLOR>，市面已经没人在生产了。</n><COL FILE_EMP>发电机房</COLOR>应该还有一些。
+補足：</n>変電室に、特注部品が1つしか保管されていないとの</n>連絡を受けました。</n><COL FILE_EMP>時計台</COLOR>の修繕に来ている業者が同じ部品を持っている</n>はずなので、ぶんどって――失礼、提供をお願いして</n>ください。
+Addendum:</n>I got word that there's only one of those</n>power panel parts in the generator room.</n>The guy that's here to fix the bell in the</n><COL FILE_EMP>clock tower</COLOR> should have another, so</n>someone swipe—I mean, ask him nicely for</n>it, please.
+Addendum :</n>On me signale qu'il n'y a qu'une seule</n>de ces pièces dans la salle du générateur.</n>Le type venu réparer la cloche dans la <COL FILE_EMP>tour</n>de l'horloge</COLOR> doit en avoir une autre.</n>Il faut que quelqu'un lui pique... euh,</n>lui demande gentiment.
+Addendum:</n>ho saputo che nella sala del generatore c'è</n>solo uno di quei componenti. Il tizio venuto</n>a riparare la campana della <COL FILE_EMP>torre dell'orologio</COLOR></n>dovrebbe averne un altro.</n>Qualcuno può fregarg... chiederglielo cortesemente?
+Nachtrag:</n>Mir wurde gesagt, dass im Transformatorraum</n>nur noch eins dieser Schaltschrankteile ist.</n>Der Typ, der die Glocke des <COL FILE_EMP>Uhrenturms</COLOR></n>reparieren soll, müsste noch eins haben,</n>also nehmt es ihm – ich meine, bittet ihn</n>höflich darum.
+Adenda:</n>Solo queda una de las piezas del panel eléctrico</n>en la sala del generador. El chico que ha venido</n>a arreglar la campana de la <COL FILE_EMP>torre del reloj</COLOR></n>debería tener otra, así que quitádsela.</n>Quiero decir, pedídsela por favor.
+Дополнение:</n>Судя по всему, в генераторной всего одна</n>деталь электрощитка. Еще одна должна быть</n>у парня, что пришел чинить <COL FILE_EMP>часовую башню</COLOR>,</n>так что кто-нибудь соприте... в смысле,</n>попросите ее у него, пожалуйста.
+Dopisek:</n>Podobno w generatorowni została ostatnia kostka</n>z obwodami. Jeszcze jedną ma gość, który</n>zajmuje się naprawą dzwonu na <COL FILE_EMP>wieży</n>zegarowej</COLOR>. Niech mu ją ktoś zakosi — to</n>znaczy grzecznie poprosi, by ją oddał.
+Adendo:</n>Fiquei sabendo que só tem um dos tais</n>componentes do painel na sala do gerador.</n>O cara que veio consertar o sino da <COL FILE_EMP>torre</n>do relógio</COLOR> deve ter outro, então dá pra</n>alguém surrupiar... digo, pedir que ele</n>dê o componente pra gente, por favor?
+추신:</n>발전실에는 전력 패널 부품이 하나밖에 없다는군요.</n><COL FILE_EMP>시계탑</COLOR> 종을 고치러 온 사람에게</n>하나 더 있을 겁니다.</n>그러니까 누가 좀 슬쩍... 아니,</n>정중하게 좀 달라고 부탁하세요.
+補充：</n>我剛得知在發電機房裡只找到一個特殊零件。</n>去<COL FILE_EMP>鐘樓</COLOR>修理鐘的那個人，應該會有另一個零件。</n>誰去騙他，不，禮貌地向他開口要求零件吧。
+附录：</n>有人说那些电源板零件，发电机房只剩</n>下一件。来修<COL FILE_EMP>钟楼</COLOR>时钟的那个家伙</n>应该还有另一件，所以有人要去偷来吗...</n>我的意思是态度良好的去向他借来。</n></n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

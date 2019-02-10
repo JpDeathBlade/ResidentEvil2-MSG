@@ -1,0 +1,248 @@
+﻿<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>来たか こっちだ</n>見てみろ<PAGE></n>よかった！　無事だったか<PAGE></n>知り合いか？<PAGE></n>ああ クレアだ</n>一緒に来た<PAGE></n>あの場所だったら…</n>2階から行け…　東だ…<PAGE></n>了解<PAGE></n>感謝します 警部補
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>There you are...</n>Come here, take a look.<PAGE></n>Yes! I knew she'd make it.<PAGE></n>You know her?<PAGE></n>Yeah, name's Claire.</n>I came into town with her.<PAGE></n>You can get to that courtyard</n>through the second floor...east side.<PAGE></n>I'm on it.<PAGE></n>Thanks, Lieutenant.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>Te voilà...</n>Approche, regarde.<PAGE></n>C'est elle ! Elle s'en est sortie.<PAGE></n>Tu la connais ?<PAGE></n>Oui, elle s'appelle Claire.</n>On est arrivés ici ensemble.<PAGE></n>Tu peux accéder à cette cour via l'étage supérieur, côté est.<PAGE></n>Compris.<PAGE></n>Merci, Lieutenant.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>Eccoti! Vieni, guarda qua.<PAGE></n>Lo sapevo! Ce l'ha fatta!<PAGE></n>La conosci?<PAGE></n>Sì. Si chiama Claire. Sono arrivato con lei.<PAGE></n>Puoi raggiungere il cortile dal piano di sopra, ala est.<PAGE></n>Capito.<PAGE></n>Grazie, tenente.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>Da bist du ja...</n>Komm her, siehst du das?<PAGE></n>Ja! Wusste, sie schafft's.<PAGE></n>Du kennst sie?<PAGE></n>Ja, sie heißt Claire.</n>Ich kam mit ihr in die Stadt.<PAGE></n>Du gelangst zu dem Hof da</n>die Stufen hoch, Ostseite.<PAGE></n>In Ordnung.<PAGE></n>Danke, Lieutenant.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>Has vuelto... Ven, mira.<PAGE></n>¡Sí! Lo ha conseguido.<PAGE></n>¿La conoces?<PAGE></n>Sí, se llama Claire.</n>Vino conmigo a la ciudad.<PAGE></n>Puedes ir a esa entrada por</n>la segunda planta, lado este.<PAGE></n>De acuerdo.<PAGE></n>Gracias, teniente.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>Ну наконец-то...</n>Подойди, взгляни-ка.<PAGE></n>Да! Я знал, что у нее получится.<PAGE></n>Вы знакомы?<PAGE></n>Да, это Клэр.</n>Мы вместе приехали в город.<PAGE></n>Во двор можно попасть</n>через второй этаж... по восточной стороне.<PAGE></n>Понял.<PAGE></n>Спасибо, лейтенант.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>O, jesteś...</n>Chodź, zobacz.<PAGE></n>Świetnie! Wiedziałem, że da radę.<PAGE></n>Znasz ją?<PAGE></n>Tak, to Claire.</n>Przyjechałem z nią do miasta.<PAGE></n>Na ten dziedziniec można się dostać,</n>przechodząc przez piętro... wschodnią stroną.<PAGE></n>Tak zrobię.<PAGE></n>Dziękuję, poruczniku.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>Ah, você voltou...</n>Vem aqui ver uma coisa.<PAGE></n>Isso! Eu sabia que ela ia conseguir.<PAGE></n>Você conhece ela?<PAGE></n>Conheço, é a Claire.</n>A gente chegou junto na cidade.<PAGE></n>Dá pra chegar naquele pátio</n>pelo segundo andar... ala leste.<PAGE></n>Deixa comigo.<PAGE></n>Obrigado, tenente.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>왔군…</n>이리 와, 이것 좀 보라고.<PAGE></n>좋아! 해낼 줄 알았다니까.<PAGE></n>아는 사람인가?<PAGE></n>네, 클레어라고 합니다.</n>이 동네까지 같이 왔죠.<PAGE></n>2층… 동편을 통해</n>저기까지 갈 수 있어.<PAGE></n>알겠어요.<PAGE></n>고맙습니다, 경감님.
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>你來了...</n>過來看看這個。<PAGE></n>太好了！我就知道她行的。<PAGE></n>你們認識？<PAGE></n>對，她叫克蕾兒。</n>我們一起進城的。<PAGE></n>你可以從二樓的... 東側</n>走到那個庭院。<PAGE></n>我知道了。<PAGE></n>副隊長，謝了。
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>你来了...</n>过来看看这个。<PAGE></n>太棒了！我知道她一定会平安无事。<PAGE></n>你认识她吗？<PAGE></n>是的，她叫克莱尔。</n>我是跟她一起来到浣熊市的。<PAGE></n>你可以从二楼的...</n>东侧走到中庭。<PAGE></n>知道了。<PAGE></n>谢谢你，警长。
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+<TIME 3.02, 6.43><TIME 8.7, 11.17><TIME 11.68, 13.12><TIME 13.38, 16.42><TIME 16.96, 22.52><TIME 25.21, 26.06><TIME 27.71, 29.23>
+来たか こっちだ</n>見てみろ
+There you are...</n>Come here, take a look.
+Te voilà...</n>Approche, regarde.
+Eccoti! Vieni, guarda qua.
+Da bist du ja...</n>Komm her, siehst du das?
+Has vuelto... Ven, mira.
+Ну наконец-то...</n>Подойди, взгляни-ка.
+O, jesteś...</n>Chodź, zobacz.
+Ah, você voltou...</n>Vem aqui ver uma coisa.
+왔군…</n>이리 와, 이것 좀 보라고.
+你來了...</n>過來看看這個。
+你来了...</n>过来看看这个。
+よかった！　無事だったか
+Yes! I knew she'd make it.
+C'est elle ! Elle s'en est sortie.
+Lo sapevo! Ce l'ha fatta!
+Ja! Wusste, sie schafft's.
+¡Sí! Lo ha conseguido.
+Да! Я знал, что у нее получится.
+Świetnie! Wiedziałem, że da radę.
+Isso! Eu sabia que ela ia conseguir.
+좋아! 해낼 줄 알았다니까.
+太好了！我就知道她行的。
+太棒了！我知道她一定会平安无事。
+知り合いか？
+You know her?
+Tu la connais ?
+La conosci?
+Du kennst sie?
+¿La conoces?
+Вы знакомы?
+Znasz ją?
+Você conhece ela?
+아는 사람인가?
+你們認識？
+你认识她吗？
+ああ クレアだ</n>一緒に来た
+Yeah, name's Claire.</n>I came into town with her.
+Oui, elle s'appelle Claire.</n>On est arrivés ici ensemble.
+Sì. Si chiama Claire. Sono arrivato con lei.
+Ja, sie heißt Claire.</n>Ich kam mit ihr in die Stadt.
+Sí, se llama Claire.</n>Vino conmigo a la ciudad.
+Да, это Клэр.</n>Мы вместе приехали в город.
+Tak, to Claire.</n>Przyjechałem z nią do miasta.
+Conheço, é a Claire.</n>A gente chegou junto na cidade.
+네, 클레어라고 합니다.</n>이 동네까지 같이 왔죠.
+對，她叫克蕾兒。</n>我們一起進城的。
+是的，她叫克莱尔。</n>我是跟她一起来到浣熊市的。
+あの場所だったら…</n>2階から行け…　東だ…
+You can get to that courtyard</n>through the second floor...east side.
+Tu peux accéder à cette cour via l'étage supérieur, côté est.
+Puoi raggiungere il cortile dal piano di sopra, ala est.
+Du gelangst zu dem Hof da</n>die Stufen hoch, Ostseite.
+Puedes ir a esa entrada por</n>la segunda planta, lado este.
+Во двор можно попасть</n>через второй этаж... по восточной стороне.
+Na ten dziedziniec można się dostać,</n>przechodząc przez piętro... wschodnią stroną.
+Dá pra chegar naquele pátio</n>pelo segundo andar... ala leste.
+2층… 동편을 통해</n>저기까지 갈 수 있어.
+你可以從二樓的... 東側</n>走到那個庭院。
+你可以从二楼的...</n>东侧走到中庭。
+了解
+I'm on it.
+Compris.
+Capito.
+In Ordnung.
+De acuerdo.
+Понял.
+Tak zrobię.
+Deixa comigo.
+알겠어요.
+我知道了。
+知道了。
+感謝します 警部補
+Thanks, Lieutenant.
+Merci, Lieutenant.
+Grazie, tenente.
+Danke, Lieutenant.
+Gracias, teniente.
+Спасибо, лейтенант.
+Dziękuję, poruczniku.
+Obrigado, tenente.
+고맙습니다, 경감님.
+副隊長，謝了。
+谢谢你，警长。
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>来たか こっちだ<PAGE></n>何？<PAGE></n>見てみろ<PAGE></n>無事だったのね<PAGE></n>知り合いか？<PAGE></n>ええ レオンよ</n>確か…レオン・ケネディ<PAGE></n>あぁ 新入りか</n>見た顔だと思った<PAGE></n>あの場所なら2階の…</n>東側から行ける<PAGE></n>分かった</n>ありがとうマービン
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>There you are... Come here.<PAGE></n>What is it?<PAGE></n>Take a look.<PAGE></n>Oh my god, he made it?<PAGE></n>You know him?<PAGE></n>Yeah. It's Leon...uhh, Kennedy, I think?<PAGE></n>Ah, the rookie.</n>Thought he looked familiar.<PAGE></n>You can make it to that courtyard</n>through the second floor, east side.<PAGE></n>OK. Thanks Marvin, I'm on it.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>Te voilà... Approche.<PAGE></n>Qu'est-ce qu'il y a ?<PAGE></n>Regarde ça.<PAGE></n>C'est pas vrai, il est vivant ?<PAGE></n>Tu le connais ?<PAGE></n>Oui. C'est Leon... Kennedy, je crois.<PAGE></n>Ah, le nouveau...</n>Il me disait quelque chose.<PAGE></n>Tu peux accéder à cette cour via</n>l'étage supérieur, côté est.<PAGE></n>OK. Merci Marvin. J'y vais.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>Eccoti! Vieni qui.<PAGE></n>Cosa c'è?<PAGE></n>Da' un'occhiata.<PAGE></n>Oh mio Dio, ce l'ha fatta?<PAGE></n>Lo conosci?<PAGE></n>Sì. È Leon... Kennedy, mi pare.<PAGE></n>Ah... la recluta.</n>Mi sembrava familiare.<PAGE></n>Puoi raggiungere quel cortile</n>dal piano di sopra, ala est.<PAGE></n>Ok. Grazie Marvin, vado.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>Da bist du ja...</n>Komm her.<PAGE></n>Was ist los?<PAGE></n>Siehst du das?<PAGE></n>Oh, mein Gott, er lebt noch?<PAGE></n>Du kennst ihn?<PAGE></n>Ja, das ist Leon... äh, Kennedy, oder so.<PAGE></n>Ah, der Neue.</n>Kam mir gleich bekannt vor.<PAGE></n>Du kommst zu dem Hof da</n>die Stufen hoch, Ostseite.<PAGE></n>Okay. Danke, bin unterwegs.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>Has vuelto... Ven...<PAGE></n>¿Qué tienes?<PAGE></n>Mira esto.<PAGE></n>Oh Dios, ¿lo consiguió?<PAGE></n>¿Lo conoces?<PAGE></n>Sí. Es Leon... umm, Kennedy. Creo.<PAGE></n>El nuevo. Ya me sonaba.<PAGE></n>Puedes llegar a esa entrada por</n>la segunda planta, lado este.<PAGE></n>Vale. Voy a por él.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>Ну наконец-то... Подойди-ка...<PAGE></n>Что такое?<PAGE></n>Взгляни.<PAGE></n>Боже, у него получилось?<PAGE></n>Вы знакомы?<PAGE></n>Да! Это Леон... э-э... Кеннеди, кажется?<PAGE></n>А, новенький.</n>Не зря он мне знакомым показался.<PAGE></n>Во двор можно попасть</n>через второй этаж, по восточной стороне.<PAGE></n>Поняла. Спасибо, Марвин. Я пошла.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>O, jesteś... Chodź...<PAGE></n>Co jest?<PAGE></n>Spójrz.<PAGE></n>O, Boże, udało mu się?<PAGE></n>Znasz go?<PAGE></n>Tak. To Leon... yyy, Kennedy, zdaje się?<PAGE></n>Aaa, nowy.</n>Wyglądał jakoś znajomo.<PAGE></n>Na ten dziedziniec można się dostać,</n>przechodząc przez piętro, wschodnią stroną.<PAGE></n>OK. Dzięki, Marvin. Tak zrobię.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>Você voltou... Vem aqui...<PAGE></n>O que foi?<PAGE></n>Dá uma olhada.<PAGE></n>Minha nossa, ele conseguiu?<PAGE></n>Você conhece ele?<PAGE></n>Conheço. É o Leon... hmm, Kennedy, acho.<PAGE></n>Ah, o novato.</n>Bem que ele não pareceu estranho.<PAGE></n>Dá pra chegar naquele pátio</n>pelo segundo andar, ala leste.<PAGE></n>Certo. Obrigada, Marvin, eu cuido disso.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>왔군요… 이리 와 보세요…<PAGE></n>무슨 일이죠?<PAGE></n>이걸 봐요.<PAGE></n>세상에, 잘 왔네!?<PAGE></n>아는 사람입니까?<PAGE></n>네, 레온... 어, 케네디였을걸요?<PAGE></n>아... 그 신입이군.</n>어디서 봤다 했는데.<PAGE></n>2층 동쪽을 통해</n>저기까지 갈 수 있어요.<PAGE></n>네. 고마워요, 마빈.
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>你來了... 過來這理...<PAGE></n>什麼事？<PAGE></n>你看看。<PAGE></n>天啊，他還活著？<PAGE></n>你們認識？<PAGE></n>是啊。他是里昂... 呃，甘迺迪的樣子？<PAGE></n>啊，是那個新來的。</n>難怪很眼熟。<PAGE></n>你可以從東側的二樓</n>抵達那個中庭。<PAGE></n>好。馬文，謝謝，我這就去。
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>你来了... 过来这里...<PAGE></n>这是什么？<PAGE></n>你看看。<PAGE></n>天啊，他还活着？<PAGE></n>你认识他吗？<PAGE></n>是的，他是里昂... 好像姓肯尼迪？<PAGE></n>啊，原来是那个新人。</n>难怪他看起来很眼熟。<PAGE></n>你可以从二楼的</n>东侧抵达中庭。<PAGE></n>好的。马文，谢谢你。我现在就去。
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+<TIME 3.7, 5.84><TIME 6.35, 7.1><TIME 7.49, 8.44><TIME 9.47, 10.88><TIME 11.46, 12.2><TIME 12.25, 15.65><TIME 16.56, 19.86><TIME 20.91, 25.16><TIME 25.3, 27.41>
+来たか こっちだ
+There you are... Come here.
+Te voilà... Approche.
+Eccoti! Vieni qui.
+Da bist du ja...</n>Komm her.
+Has vuelto... Ven...
+Ну наконец-то... Подойди-ка...
+O, jesteś... Chodź...
+Você voltou... Vem aqui...
+왔군요… 이리 와 보세요…
+你來了... 過來這理...
+你来了... 过来这里...
+何？
+What is it?
+Qu'est-ce qu'il y a ?
+Cosa c'è?
+Was ist los?
+¿Qué tienes?
+Что такое?
+Co jest?
+O que foi?
+무슨 일이죠?
+什麼事？
+这是什么？
+見てみろ
+Take a look.
+Regarde ça.
+Da' un'occhiata.
+Siehst du das?
+Mira esto.
+Взгляни.
+Spójrz.
+Dá uma olhada.
+이걸 봐요.
+你看看。
+你看看。
+無事だったのね
+Oh my god, he made it?
+C'est pas vrai, il est vivant ?
+Oh mio Dio, ce l'ha fatta?
+Oh, mein Gott, er lebt noch?
+Oh Dios, ¿lo consiguió?
+Боже, у него получилось?
+O, Boże, udało mu się?
+Minha nossa, ele conseguiu?
+세상에, 잘 왔네!?
+天啊，他還活著？
+天啊，他还活着？
+知り合いか？
+You know him?
+Tu le connais ?
+Lo conosci?
+Du kennst ihn?
+¿Lo conoces?
+Вы знакомы?
+Znasz go?
+Você conhece ele?
+아는 사람입니까?
+你們認識？
+你认识他吗？
+ええ レオンよ</n>確か…レオン・ケネディ
+Yeah. It's Leon...uhh, Kennedy, I think?
+Oui. C'est Leon... Kennedy, je crois.
+Sì. È Leon... Kennedy, mi pare.
+Ja, das ist Leon... äh, Kennedy, oder so.
+Sí. Es Leon... umm, Kennedy. Creo.
+Да! Это Леон... э-э... Кеннеди, кажется?
+Tak. To Leon... yyy, Kennedy, zdaje się?
+Conheço. É o Leon... hmm, Kennedy, acho.
+네, 레온... 어, 케네디였을걸요?
+是啊。他是里昂... 呃，甘迺迪的樣子？
+是的，他是里昂... 好像姓肯尼迪？
+あぁ 新入りか</n>見た顔だと思った
+Ah, the rookie.</n>Thought he looked familiar.
+Ah, le nouveau...</n>Il me disait quelque chose.
+Ah... la recluta.</n>Mi sembrava familiare.
+Ah, der Neue.</n>Kam mir gleich bekannt vor.
+El nuevo. Ya me sonaba.
+А, новенький.</n>Не зря он мне знакомым показался.
+Aaa, nowy.</n>Wyglądał jakoś znajomo.
+Ah, o novato.</n>Bem que ele não pareceu estranho.
+아... 그 신입이군.</n>어디서 봤다 했는데.
+啊，是那個新來的。</n>難怪很眼熟。
+啊，原来是那个新人。</n>难怪他看起来很眼熟。
+あの場所なら2階の…</n>東側から行ける
+You can make it to that courtyard</n>through the second floor, east side.
+Tu peux accéder à cette cour via</n>l'étage supérieur, côté est.
+Puoi raggiungere quel cortile</n>dal piano di sopra, ala est.
+Du kommst zu dem Hof da</n>die Stufen hoch, Ostseite.
+Puedes llegar a esa entrada por</n>la segunda planta, lado este.
+Во двор можно попасть</n>через второй этаж, по восточной стороне.
+Na ten dziedziniec można się dostać,</n>przechodząc przez piętro, wschodnią stroną.
+Dá pra chegar naquele pátio</n>pelo segundo andar, ala leste.
+2층 동쪽을 통해</n>저기까지 갈 수 있어요.
+你可以從東側的二樓</n>抵達那個中庭。
+你可以从二楼的</n>东侧抵达中庭。
+分かった</n>ありがとうマービン
+OK. Thanks Marvin, I'm on it.
+OK. Merci Marvin. J'y vais.
+Ok. Grazie Marvin, vado.
+Okay. Danke, bin unterwegs.
+Vale. Voy a por él.
+Поняла. Спасибо, Марвин. Я пошла.
+OK. Dzięki, Marvin. Tak zrobię.
+Certo. Obrigada, Marvin, eu cuido disso.
+네. 고마워요, 마빈.
+好。馬文，謝謝，我這就去。
+好的。马文，谢谢你。我现在就去。

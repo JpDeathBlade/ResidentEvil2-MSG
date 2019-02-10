@@ -1,0 +1,124 @@
+﻿<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>どこへ行く気だ？<PAGE></n>大人しくしてろと言っただろう<PAGE></n>聞き分けの悪い子だ<PAGE></n>こっちに来ないで お願い<PAGE></n>しつけってものを教えてやる<PAGE></n><PAGE></n>ふざけやがって…！<PAGE></n>タダで済むと思うな…！<PAGE></n>クソガキが！
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Where you going, Sherry?<PAGE></n>I told you to stay put.<PAGE></n>You need to learn to listen.<PAGE></n>Leave me alone! Just, please...<PAGE></n>Time to teach some manners.<PAGE></n><PAGE></n>You little bitch...!<PAGE></n>You are gonna pay for this...!<PAGE></n>You little shit!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Où tu vas, Sherry ?<PAGE></n>Je t'ai dit de rester tranquille.<PAGE></n>Il faut que tu apprennes à écouter.<PAGE></n>Laissez-moi tranquille ! Je vous en supplie !<PAGE></n>Je vais t'apprendre les bonnes manières.<PAGE></n><PAGE></n>Sale petite conne !<PAGE></n>Tu vas me le payer !<PAGE></n>Petite peste !
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Che fai, Sherry?<PAGE></n>Ti avevo detto di stare buona.<PAGE></n>Devi ubbidire agli adulti.<PAGE></n>Mi lasci stare! La prego!<PAGE></n>Ora dovrò punirti.<PAGE></n><PAGE></n>Brutta mocciosa!<PAGE></n>Pagherai per questo!<PAGE></n>Stronzetta!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Wo willst du hin, Sherry?<PAGE></n>Du solltest doch dableiben.<PAGE></n>Du musst lernen, zuzuhören.<PAGE></n>Lassen Sie mich! Nur, bitte...<PAGE></n>Muss dir Manieren beibringen.<PAGE></n><PAGE></n>Du kleines Miststück!<PAGE></n>Dafür wirst du bezahlen!<PAGE></n>Du kleine Kröte!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>¿Adónde vas, Sherry?<PAGE></n>Te dije que esperases.<PAGE></n>Vas a aprender a escuchar.<PAGE></n>¡Déjame en paz! Por favor...<PAGE></n>Voy a enseñarte modales.<PAGE></n><PAGE></n>¡Cría estúpida!<PAGE></n>¡Me las vas a pagar!<PAGE></n>¡Maldita niña!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Куда собралась, Шерри?<PAGE></n>Говорил же: сиди на месте.<PAGE></n>Нужно учиться послушанию.<PAGE></n>Не трогайте меня! Прошу...<PAGE></n>Пора преподать тебе урок.<PAGE></n><PAGE></n>Ах ты стерва!<PAGE></n>Ты за это заплатишь!<PAGE></n>Мелкая тварь!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Gdzie się wybierasz, Sherry?<PAGE></n>Kazałem ci zostać na miejscu.<PAGE></n>Musisz nauczyć się posłuszeństwa.<PAGE></n>Niech mnie pan zostawi! Proszę...<PAGE></n>Pora nauczyć cię dobrych manier.<PAGE></n><PAGE></n>Ty mała suko...!<PAGE></n>Zapłacisz mi za to...!<PAGE></n>Ty mała szmato!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>Tá indo aonde, Sherry?<PAGE></n>Eu falei pra não sair do quarto.<PAGE></n>Você precisa aprender a obedecer.<PAGE></n>Me deixa em paz! Por favor...<PAGE></n>Hora de te ensinar a se comportar.<PAGE></n><PAGE></n>Sua vaca!<PAGE></n>Você vai pagar por isso!<PAGE></n>Sua merdinha!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>어디 가는 거냐, 셰리?<PAGE></n>가만히 있으라 했을 텐데.<PAGE></n>말을 듣는 방법을 좀 배워야겠구나.<PAGE></n>건드리지 말아요! 그냥, 제발...<PAGE></n>예절 교육 좀 받아야겠어.<PAGE></n><PAGE></n>저 쪼끄만 년이...!<PAGE></n>가만 두지 않겠어...!<PAGE></n>이 쪼끄만 게!
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>雪莉，你要去哪？<PAGE></n>我叫你別亂跑。<PAGE></n>你得學會乖乖聽話。<PAGE></n>別過來！求求你...<PAGE></n>該教你一些規矩了。<PAGE></n><PAGE></n>你這壞女孩！<PAGE></n>我要給你好看！<PAGE></n>你這混帳！
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>雪莉，你要去哪里？<PAGE></n>我都叫你别乱跑了。<PAGE></n>你得学会听话。<PAGE></n>别管我！拜托...<PAGE></n>该教你点规矩了。<PAGE></n><PAGE></n>你这个坏女孩！<PAGE></n>我不会放过你的！<PAGE></n>你这个小混蛋！
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+<TIME 4.7, 6.09><TIME 8.01, 10.0><TIME 12.49, 14.23><TIME 15.04, 18.11><TIME 18.4, 20.23><TIME 20.91, 24.0><TIME 24.6, 26.24><TIME 27.28, 28.77><TIME 29.27, 31.36>
+どこへ行く気だ？
+Where you going, Sherry?
+Où tu vas, Sherry ?
+Che fai, Sherry?
+Wo willst du hin, Sherry?
+¿Adónde vas, Sherry?
+Куда собралась, Шерри?
+Gdzie się wybierasz, Sherry?
+Tá indo aonde, Sherry?
+어디 가는 거냐, 셰리?
+雪莉，你要去哪？
+雪莉，你要去哪里？
+大人しくしてろと言っただろう
+I told you to stay put.
+Je t'ai dit de rester tranquille.
+Ti avevo detto di stare buona.
+Du solltest doch dableiben.
+Te dije que esperases.
+Говорил же: сиди на месте.
+Kazałem ci zostać na miejscu.
+Eu falei pra não sair do quarto.
+가만히 있으라 했을 텐데.
+我叫你別亂跑。
+我都叫你别乱跑了。
+聞き分けの悪い子だ
+You need to learn to listen.
+Il faut que tu apprennes à écouter.
+Devi ubbidire agli adulti.
+Du musst lernen, zuzuhören.
+Vas a aprender a escuchar.
+Нужно учиться послушанию.
+Musisz nauczyć się posłuszeństwa.
+Você precisa aprender a obedecer.
+말을 듣는 방법을 좀 배워야겠구나.
+你得學會乖乖聽話。
+你得学会听话。
+こっちに来ないで お願い
+Leave me alone! Just, please...
+Laissez-moi tranquille ! Je vous en supplie !
+Mi lasci stare! La prego!
+Lassen Sie mich! Nur, bitte...
+¡Déjame en paz! Por favor...
+Не трогайте меня! Прошу...
+Niech mnie pan zostawi! Proszę...
+Me deixa em paz! Por favor...
+건드리지 말아요! 그냥, 제발...
+別過來！求求你...
+别管我！拜托...
+しつけってものを教えてやる
+Time to teach some manners.
+Je vais t'apprendre les bonnes manières.
+Ora dovrò punirti.
+Muss dir Manieren beibringen.
+Voy a enseñarte modales.
+Пора преподать тебе урок.
+Pora nauczyć cię dobrych manier.
+Hora de te ensinar a se comportar.
+예절 교육 좀 받아야겠어.
+該教你一些規矩了。
+该教你点规矩了。
+ふざけやがって…！
+You little bitch...!
+Sale petite conne !
+Brutta mocciosa!
+Du kleines Miststück!
+¡Cría estúpida!
+Ах ты стерва!
+Ty mała suko...!
+Sua vaca!
+저 쪼끄만 년이...!
+你這壞女孩！
+你这个坏女孩！
+タダで済むと思うな…！
+You are gonna pay for this...!
+Tu vas me le payer !
+Pagherai per questo!
+Dafür wirst du bezahlen!
+¡Me las vas a pagar!
+Ты за это заплатишь!
+Zapłacisz mi za to...!
+Você vai pagar por isso!
+가만 두지 않겠어...!
+我要給你好看！
+我不会放过你的！
+クソガキが！
+You little shit!
+Petite peste !
+Stronzetta!
+Du kleine Kröte!
+¡Maldita niña!
+Мелкая тварь!
+Ty mała szmato!
+Sua merdinha!
+이 쪼끄만 게!
+你這混帳！
+你这个小混蛋！

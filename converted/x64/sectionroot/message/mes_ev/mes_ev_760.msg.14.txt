@@ -1,0 +1,424 @@
+﻿<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>君のことを考えてた<PAGE></n>あら私もよ</n>心配してたの<PAGE></n>俺たちはいいチームだ</n>聞きたいことがある<PAGE></n>これで出られる</n>ウィルスは？　手に入った？<PAGE></n>もちろん<PAGE></n>確認させて</n>早く出ましょう<PAGE></n>アネットに会った</n>話を聞いたよ<PAGE></n>君はFBIじゃないと<PAGE></n>あぁ レオン<PAGE></n>大人しく渡せばよかったのに<PAGE></n>俺だって… 君を信じたかったが――<PAGE></n>ダメだった<PAGE></n>こんな結末になって残念<PAGE></n>俺は君にとって… 捨て駒だったんだな？<PAGE></n>これが私の仕事なの<PAGE></n>俺もそうだ　銃を捨てろ<PAGE></n>君を逮捕する<PAGE></n>G-ウィルスを渡してレオン<PAGE></n>殺したくないの<PAGE></n><PAGE></n>さあ 撃てよ</n>できるものならな<PAGE></n>エイダ！<PAGE></n>誰にも渡さないわ<PAGE></n>レオン<PAGE></n>頑張れ もう少しだ<PAGE></n>あぁ クソッ！<PAGE></n>もういいわ<PAGE></n>諦めるな<PAGE></n>もういいのよ<PAGE></n>ダメだ<PAGE></n>生き延びて レオン<PAGE></n>エイダ！
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>I was just thinking about you.<PAGE></n>That makes two of us.</n>I was getting worried.<PAGE></n>Y'know we make a good team,</n>but I gotta ask you something.<PAGE></n>The way's clear. Please, tell me you got it.<PAGE></n>Oh, I got it.<PAGE></n>Let me verify the G sample and we'll get the hell out of here.<PAGE></n>Before we do that...I ran into Annette.<PAGE></n>She claims you're not FBI.<PAGE></n>Oh, Leon...<PAGE></n>Why couldn't you just hand over the sample?<PAGE></n>Because I realized, as much as</n>I wanted to trust you...<PAGE></n>I didn't.<PAGE></n>I really hoped it wouldn't end up like this.<PAGE></n>So that's all this was...</n>I was just some pawn to you?<PAGE></n>Look, I am just doing my job.<PAGE></n>And I'm doing mine, so drop that damn gun!<PAGE></n>I'm taking you in.<PAGE></n>Hand over the sample, Leon.<PAGE></n>I don't wanna hurt you.<PAGE></n><PAGE></n>Then you shoot me, but I don't think you can.<PAGE></n>Ada!<PAGE></n>No one gets that sample now.<PAGE></n>Leon...<PAGE></n>Hold on... I think I can...<PAGE></n>Agh! Shit!<PAGE></n>Forget it.<PAGE></n>Shut up—I've got you!<PAGE></n>It's not worth it.<PAGE></n>Don't do this...<PAGE></n>Take care of yourself, Leon.<PAGE></n>No!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>Justement, je pensais à toi.<PAGE></n>On est deux alors !</n>Je commençais à m'inquiéter.<PAGE></n>On forme une bonne équipe...</n>mais j'ai quelque chose à te demander.<PAGE></n>La voie est libre. Allez, dis-moi que tu l'as.<PAGE></n>Oh, je l'ai.<PAGE></n>Laisse-moi vérifier l'échantillon et on fiche le camp.<PAGE></n>Mais d'abord... J'ai croisé Annette.<PAGE></n>Elle dit que tu n'es pas du FBI.<PAGE></n>Oh, Leon...<PAGE></n>Pourquoi tu m'as pas juste donné l'échantillon ?<PAGE></n>J'ai compris que même si je voulais te faire confiance...<PAGE></n>Je pouvais pas.<PAGE></n>J'espérais ne pas avoir à en arriver là.<PAGE></n>Donc c'était ça ?</n>J'étais qu'un pion pour toi ?<PAGE></n>Je ne fais que mon travail.<PAGE></n>Et moi le mien, alors pose cette arme !<PAGE></n>Tu viens avec moi.<PAGE></n>Donne-moi l'échantillon, Leon.<PAGE></n>Je ne veux pas te blesser.<PAGE></n><PAGE></n>Vas-y, tire ! Je pense pas que t'en sois capable.<PAGE></n>Ada !<PAGE></n>Personne n'aura cet échantillon maintenant.<PAGE></n>Leon...<PAGE></n>Attends ! Je peux...<PAGE></n>Oh merde !<PAGE></n>Lâche-moi.<PAGE></n>Tais-toi ! Je te tiens !<PAGE></n>Ça sert à rien.<PAGE></n>Fais pas ça...<PAGE></n>Fais attention à toi, Leon.<PAGE></n>Non !
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>	Stavo giusto pensando a te.<PAGE></n>E io a te. Mi stavo preoccupando.<PAGE></n>Siamo una bella squadra... Ma ho una domanda.<PAGE></n>La via è libera. Ti prego, dimmi che ce l'hai.<PAGE></n>Oh, ma certo.<PAGE></n>Controllo se è il campione giusto e possiamo andare.<PAGE></n>Sì, ma prima... Ho incontrato Annette.<PAGE></n>Dice che non sei dell'FBI.<PAGE></n>Oh, Leon...<PAGE></n>Perché non vuoi darmi il campione?<PAGE></n>Ho provato, e credevo di potermi fidare.<PAGE></n>Mi dispiace.</n><PAGE></n>Speravo davvero non finisse così.<PAGE></n>Allora è vero... Ero solo una pedina per te?<PAGE></n>Faccio solo il mio lavoro.<PAGE></n>E io il mio! Abbassa quella cazzo di arma!<PAGE></n>Sei in arresto!<PAGE></n>Dammi subito il campione, Leon!<PAGE></n>O ti farai male.<PAGE></n><PAGE></n>Sparami, allora. Se ne sei capace.<PAGE></n>Ada!<PAGE></n>Nessuno avrà mai il campione.<PAGE></n>Leon!<PAGE></n>Resisti! Posso farcela!<PAGE></n>Merda!<PAGE></n>Lasciami.<PAGE></n>Zitta! Ti tengo!<PAGE></n>Non me lo merito.<PAGE></n>Non farlo!<PAGE></n>Buona fortuna, Leon.<PAGE></n>No!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>Ich hab gerade an dich gedacht.<PAGE></n>Dann sind wir schon zwei.</n>Ich war schon in Sorge.<PAGE></n>Wir sind ein gutes Team,</n>aber ich muss dich was fragen.<PAGE></n>Der Weg ist frei.</n>Bitte, sag mir, du hast es.<PAGE></n>Oh, ich hab's.<PAGE></n>Lass mich die G-Probe prüfen</n>und dann nichts wie raus hier.<PAGE></n>Aber vorher...</n>Ich stieß auf Annette.<PAGE></n>Sie sagt, du bist nicht vom FBI.<PAGE></n>Oh, Leon...<PAGE></n>Wieso konntest du sie mir nicht einfach geben?<PAGE></n>Weil ich erkannt hab,</n>so sehr ich dir vertrauen will...<PAGE></n>... ich tu's nicht.<PAGE></n>Ich hab wirklich gehofft,</n>dass es nicht so endet.<PAGE></n>Mehr war das also nicht?</n>Ich war nur Mittel zum Zweck?<PAGE></n>Ich mach doch nur meinen Job.<PAGE></n>Und ich mach meinen –</n>also weg mit der Knarre!<PAGE></n>Du bist verhaftet!<PAGE></n>Gib mir die Probe, Leon.<PAGE></n>Ich will dir nicht wehtun.<PAGE></n><PAGE></n>Dann erschieß mich,</n>wenn du glaubst, du kannst es.<PAGE></n>Ada!<PAGE></n>Jetzt kriegt niemand die Probe.<PAGE></n>Leon...<PAGE></n>Festhalten.</n>Ich glaub, ich kann...<PAGE></n>Scheiße!<PAGE></n>Vergiss es.<PAGE></n>Sei still – ich hab dich!<PAGE></n>Das ist es nicht wert.<PAGE></n>Tu das nicht...<PAGE></n>Pass gut auf dich auf, Leon.<PAGE></n>Nein!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>Justo estaba pensando en ti.<PAGE></n>Pues ya somos dos.</n>Estaba preocupada.<PAGE></n>Hacemos buen equipo,</n>pero quiero saber algo.<PAGE></n>Podemos irnos. Por favor, dime que lo tienes.<PAGE></n>Oh, lo tengo.<PAGE></n>Deja que verifique la muestra y nos largamos de aquí.<PAGE></n>Antes de eso... Hablé con Annette.<PAGE></n>Dice que no eres del FBI.<PAGE></n>Oh, Leon...<PAGE></n>¿Por qué no me has dado la muestra?<PAGE></n>Porque he visto que quería confiar en ti...<PAGE></n>Y no puedo.<PAGE></n>Esperaba que no tuviera que acabar así.<PAGE></n>Así que al final...</n>¿Solo era un peón para ti?<PAGE></n>Solo hago mi trabajo.<PAGE></n>Y yo el mío... ¡Así que baja el arma!<PAGE></n>Estás arrestada.<PAGE></n>Dame la muestra, Leon.<PAGE></n>No quiero herirte.<PAGE></n><PAGE></n>Pues dispara. No creo que puedas.<PAGE></n>¡Ada!<PAGE></n>Nadie conseguirá la muestra.<PAGE></n>Leon...<PAGE></n>Espera... Creo que puedo...<PAGE></n>¡Mierda!<PAGE></n>Déjame.<PAGE></n>Calla. ¡Te tengo!<PAGE></n>No vale la pena.<PAGE></n>Ni lo pienses...<PAGE></n>Cuídate mucho, Leon.<PAGE></n>¡No!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>Я как раз о тебе думал.<PAGE></n>И я тоже.</n>Я начала беспокоиться.<PAGE></n>Знаешь, мы хорошо сработались.</n>Но у меня есть один вопрос.<PAGE></n>Путь свободен. Надеюсь, ты справился.<PAGE></n>О, я со всем справился.<PAGE></n>Дай мне убедиться, что это образец Г-вируса, и убираемся отсюда.<PAGE></n>Погоди-ка... Я тут встретил Аннет.<PAGE></n>Она считает, что ты не из ФБР.<PAGE></n>Ох, Леон...<PAGE></n>Нельзя было просто передать образец?<PAGE></n>Просто до меня дошло,</n>что я очень хотел доверять тебе...<PAGE></n>Но не доверял.<PAGE></n>Я так надеялась, что все кончится иначе.<PAGE></n>Значит, так все и было...</n>Я для тебя просто пешка?<PAGE></n>Слушай, я просто делаю свою работу.<PAGE></n>А я свою, так что бросай чертово оружие!<PAGE></n>Ты арестована.<PAGE></n>Отдай образец, Леон.<PAGE></n>Я не хочу, чтобы ты пострадал.<PAGE></n><PAGE></n>Тогда стреляй. Только у тебя не хватит духу.<PAGE></n>Ада!<PAGE></n>Теперь образец не достанется никому.<PAGE></n>Леон...<PAGE></n>Держись... Кажется, я могу...<PAGE></n>Ох! Дерьмо!<PAGE></n>Забудь.<PAGE></n>Заткнись, я тебя держу!<PAGE></n>Это того не стоит.<PAGE></n>Не делай этого...<PAGE></n>Береги себя, Леон.<PAGE></n>Нет!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>Właśnie o tobie myślałem.<PAGE></n>A ja o tobie.</n>Zaczynałam się martwić.<PAGE></n>Tworzymy dobry zespół,</n>ale muszę cię o coś zapytać.<PAGE></n>Droga wolna. Powiedz, że ją masz.<PAGE></n>Mam.<PAGE></n>Upewnię się, że to wirus G,</n>i spadamy stąd.<PAGE></n>Ale najpierw... Spotkałem Annette.<PAGE></n>Twierdzi, że nie jesteś z FBI.<PAGE></n>Och, Leon...<PAGE></n>Dlaczego nie mogłeś</n>po prostu oddać próbki?<PAGE></n>Bo zrozumiałem, że choć bardzo</n>chciałem ci ufać…<PAGE></n>Nie ufałem.<PAGE></n>Miałam nadzieję,</n>że do tego nie dojdzie.<PAGE></n>Więc to wszystko...</n>Byłem dla ciebie pionkiem?<PAGE></n>Słuchaj, pełniłam tylko</n>swoje obowiązki.<PAGE></n>A ja pełnię swoje. Rzuć broń!<PAGE></n>Jesteś aresztowana.<PAGE></n>Oddaj próbkę, Leon.<PAGE></n>Nie chcę cię skrzywdzić.<PAGE></n><PAGE></n>Więc zastrzel mnie.</n>Ale nie sądzę, abyś była w stanie.<PAGE></n>Ada!<PAGE></n>Teraz nikt nie dostanie tej próbki.<PAGE></n>Leon...<PAGE></n>Czekaj... Chyba mogę...<PAGE></n>Szlag!<PAGE></n>Zapomnij.<PAGE></n>Zamknij się— pomogę ci!<PAGE></n>Nie warto.<PAGE></n>Nie rób tego...<PAGE></n>Uważaj na siebie, Leon.<PAGE></n>Nie!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>Eu tava pensando em você agorinha mesmo.<PAGE></n>Eu também.</n>Já tava ficando preocupada.<PAGE></n>A gente dá uma ótima dupla,</n>mas eu preciso perguntar uma coisa.<PAGE></n>A barra tá limpa. Me diz que você conseguiu o vírus.<PAGE></n>Ah, consegui, sim.<PAGE></n>Deixa eu verificar a amostra do G e aí a gente dá no pé.<PAGE></n>Antes disso... Sabe, eu topei com a Annette.<PAGE></n>Ela me disse que você não é do FBI.<PAGE></n>Ah, Leon...<PAGE></n>Por que você não entregou a amostra e pronto?<PAGE></n>Porque eu percebi que, por mais que</n>eu quisesse confiar em você...<PAGE></n>... eu não confiava.<PAGE></n>Eu juro que não queria que as coisas acabassem assim...<PAGE></n>Então, esse lance todo...</n>Eu era só um peão no seu joguinho?<PAGE></n>Olha, eu só tô fazendo o meu trabalho.<PAGE></n>E eu tô fazendo o meu, então larga essa merda de arma!<PAGE></n>Você está presa.<PAGE></n>Entrega logo essa amostra, Leon.<PAGE></n>Eu não quero te machucar.<PAGE></n><PAGE></n>Então atira. Mas eu acho que você não consegue.<PAGE></n>Ada!<PAGE></n>Agora ninguém vai ficar com a amostra.<PAGE></n>Leon...<PAGE></n>Aguenta aí... Eu acho que dá pra...<PAGE></n>Argh, merda!<PAGE></n>Esquece.<PAGE></n>Cala a boca, eu vou te segurar!<PAGE></n>Não vale a pena.<PAGE></n>Não faz isso...<PAGE></n>Se cuida, Leon.<PAGE></n>Não!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>마침 당신 생각을 하던 중이었는데.<PAGE></n>나도 마찬가지야.</n>걱정했잖아.<PAGE></n>우린 좋은 팀이지.</n>근데 하나 물어볼 게 있어.<PAGE></n>나가는 길은 확보됐어. 샘플은 가지고 온 거지?<PAGE></n>아, 가지고 왔지.<PAGE></n>G 바이러스 샘플인지 확인할게. 그 다음 여길 빠져나가자.<PAGE></n>그건 조금 이따 하고... 내가 아까 아네트를 만났는데.<PAGE></n>당신이 FBI가 아니라고 하더군.<PAGE></n>오, 레온...<PAGE></n>샘플만 그냥 나한테 넘겼으면 되는데, 왜 이러는 거야?<PAGE></n>중요한 걸 깨달았거든.</n>당신을 정말로 믿고 싶었지만…<PAGE></n>실은 그러지 않았어.<PAGE></n>맹세코 이건 내가 바란 결말이 아니야.<PAGE></n>결국 이런 거였군...</n>난 그냥 너의 꼭두각시였던 거야?<PAGE></n>난 내 할 일을 하는 것뿐이야.<PAGE></n>그건 나도 마찬가지야, 총 버려!<PAGE></n>널 체포하겠어.<PAGE></n>샘플 넘겨, 레온.<PAGE></n>널 다치게 하긴 싫어.<PAGE></n><PAGE></n>날 쏘고 가져가. 하지만 넌 날 쏠 수 없을 거야.<PAGE></n>에이다!<PAGE></n>이제 누구도 샘플을 가져갈 수 없어.<PAGE></n>레온...<PAGE></n>꼭 잡아... 끌어올릴 수 있을...<PAGE></n>아! 젠장!<PAGE></n>이럴 필요 없어.<PAGE></n>조용히 해, 내가 올려줄 테니까!<PAGE></n>그럴 필요 없어.<PAGE></n>이러지 마...<PAGE></n>몸 조심해, 레온.<PAGE></n>안 돼!
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>我剛剛才想到你。<PAGE></n>我也是。</n>我很擔心。<PAGE></n>我們是好搭檔，</n>但我要問你一些事。<PAGE></n>門打開了。拜託，告訴我你拿到手了。<PAGE></n>噢，我拿到了。<PAGE></n>讓我確認 G 病毒的樣本，然後我們就逃出這個鬼地方吧。<PAGE></n>在這之前... 我剛剛遇見了雅妮。<PAGE></n>她說你不是 FBI 的人。<PAGE></n>噢，里昂...<PAGE></n>你為什麼不能就乖乖交出樣本呢？<PAGE></n>因為我知道，雖然</n>我很想相信你...<PAGE></n>但我不信。<PAGE></n>我真的不希望事情走到這一步。<PAGE></n>所以一切真是如此...</n>我只是你手中的棋子？<PAGE></n>聽著，我只是在盡我的職責。<PAGE></n>我也是，所以把那該死的槍放下！<PAGE></n>我要把你逮捕到案。<PAGE></n>里昂，交出樣本。<PAGE></n>我不想傷害你。<PAGE></n><PAGE></n>那就對我開槍吧，但我不覺得你下得了手。<PAGE></n>艾達！<PAGE></n>這樣就沒人能拿到那個樣本了。<PAGE></n>里昂...<PAGE></n>撐著點... 我想我可以...<PAGE></n>啊！該死！<PAGE></n>算了吧。<PAGE></n>閉嘴，我會救你的！<PAGE></n>這樣做不值得。<PAGE></n>不要...<PAGE></n>里昂，你自己保重。<PAGE></n>不！
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>我刚刚才想到你。<PAGE></n>我也是。</n>我很担心。<PAGE></n>我们合作无间，</n>不过我有话想问你。<PAGE></n>出路畅通了。拜托，告诉我你拿到了。<PAGE></n>噢，我拿到了。<PAGE></n>让我确认一下 G 病毒样本，然后我们就赶紧离开这鬼地方吧。<PAGE></n>在这之前... 我刚刚遇见亚妮了。<PAGE></n>她说你不是 FBI 的人。<PAGE></n>噢，里昂...<PAGE></n>为什么你不能就乖乖把样本交给我呢？<PAGE></n>因为我知道，</n>虽然我很想相信你...<PAGE></n>但我不信。<PAGE></n>我真不希望事情走到这一步。<PAGE></n>所以这一切...</n>我只是你的棋子吗？<PAGE></n>听我说，我只是在尽我的职责。<PAGE></n>我也是，所以把那该死的枪放下！<PAGE></n>我要逮捕你。<PAGE></n>把样本交给我，里昂。<PAGE></n>我不想伤害你。<PAGE></n><PAGE></n>那就向我开枪吧，不过我不认为你下得了手。<PAGE></n>艾达！<PAGE></n>这样就没人能拿到那个样本了。<PAGE></n>里昂...<PAGE></n>撑着点... 我想我可以...<PAGE></n>呃！可恶！<PAGE></n>算了吧。<PAGE></n>闭嘴... 我会救你的！<PAGE></n>这样做不值得的。<PAGE></n>别这么做...<PAGE></n>里昂，你自己保重。<PAGE></n>不！
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<TIME 12.08, 14.24><TIME 14.4, 19.23><TIME 20.32, 24.74><TIME 24.96, 28.91><TIME 28.95, 30.49><TIME 32.54, 34.93><TIME 34.95, 38.73><TIME 39.11, 41.51><TIME 43.93, 45.51><TIME 48.06, 50.73><TIME 51.15, 54.54><TIME 54.92, 56.5><TIME 56.98, 59.68><TIME 59.76, 64.36><TIME 64.42, 65.61><TIME 65.64, 68.26><TIME 68.29, 69.54><TIME 69.57, 72.0><TIME 72.03, 73.66><TIME 73.78, 75.03><TIME 81.49, 85.76><TIME 102.73, 104.42><TIME 112.66, 115.22><TIME 123.91, 125.52><TIME 127.58, 130.01><TIME 130.03, 132.01><TIME 134.41, 135.73><TIME 135.77, 137.53><TIME 138.18, 139.75><TIME 140.69, 142.29><TIME 152.25, 154.56><TIME 158.21, 159.97>
+<FONT 1>警告</n>自己破壊コードが実行されました</FONT>
+<FONT 1>Attention: Self-destruct sequence initiated.</FONT>
+Attention : Séquence d'autodestruction activée.
+Attenzione. Sequenza di autodistruzione avviata.
+Achtung: Selbstzerstörungssequenz eingeleitet.
+Atención: Secuencia de auto-destrucción iniciada.
+Внимание! Запущена программа самоуничтожения.
+Uwaga: rozpoczęto procedurę</n>samozniszczenia.
+Atenção: Iniciando sequência de autodestruição.
+경고: 자폭 절차가 시작되었습니다.
+注意：自我毀滅程序已啟動。
+注意：自我毁灭程序已启动。
+<FONT 1>中央エレベーターから</n>最下層のプラットフォームに避難してください</FONT>
+<FONT 1>Use the Central Elevator to evacuate immediately to the bottom-level train platform.</FONT>
+Utilisez l'ascenseur central pour évacuer</n>immédiatement vers le quai du niveau inférieur.
+Utilizzare immediatamente l'ascensore</n>centrale per raggiungere il piano inferiore.
+Nutzen Sie den zentralen Fahrstuhl zur unverzüglichen</n>Evakuierung zum Bahnsteig im Tiefgeschoss.
+Use el ascensor central para evacuar</n>inmediatamente al tren del nivel inferior.
+Немедленно воспользуйтесь центральным лифтом</n>и спуститесь на нижнюю станцию.
+Proszę ewakuować się centralną windą do peronu na dolnym piętrze.
+Usem o elevador central para evacuar até</n>a plataforma do trem no pavimento inferior.
+지금 즉시 중앙 엘리베이터를 타고</n>시설 하부 플랫폼으로 대피하십시오.
+請立即使用中央電梯撤離至底層的列車月台。
+请立即使用中央电梯撤离至底层的列车月台。
+君のことを考えてた
+I was just thinking about you.
+Justement, je pensais à toi.
+Stavo giusto pensando a te.
+Ich hab gerade an dich gedacht.
+Justo estaba pensando en ti.
+Я как раз о тебе думал.
+Właśnie o tobie myślałem.
+Eu tava pensando em você agorinha mesmo.
+마침 당신 생각을 하던 중이었는데.
+我剛剛才想到你。
+我刚刚才想到你。
+あら私もよ</n>心配してたの
+That makes two of us.</n>I was getting worried.
+On est deux alors !</n>Je commençais à m'inquiéter.
+E io a te. Mi stavo preoccupando.
+Dann sind wir schon zwei.</n>Ich war schon in Sorge.
+Pues ya somos dos.</n>Estaba preocupada.
+И я тоже.</n>Я начала беспокоиться.
+A ja o tobie.</n>Zaczynałam się martwić.
+Eu também.</n>Já tava ficando preocupada.
+나도 마찬가지야.</n>걱정했잖아.
+我也是。</n>我很擔心。
+我也是。</n>我很担心。
+俺たちはいいチームだ</n>聞きたいことがある
+Y'know we make a good team,</n>but I gotta ask you something.
+On forme une bonne équipe...</n>mais j'ai quelque chose à te demander.
+Siamo una bella squadra... Ma ho una domanda.
+Wir sind ein gutes Team,</n>aber ich muss dich was fragen.
+Hacemos buen equipo,</n>pero quiero saber algo.
+Знаешь, мы хорошо сработались.</n>Но у меня есть один вопрос.
+Tworzymy dobry zespół,</n>ale muszę cię o coś zapytać.
+A gente dá uma ótima dupla,</n>mas eu preciso perguntar uma coisa.
+우린 좋은 팀이지.</n>근데 하나 물어볼 게 있어.
+我們是好搭檔，</n>但我要問你一些事。
+我们合作无间，</n>不过我有话想问你。
+これで出られる</n>ウィルスは？　手に入った？
+The way's clear. Please, tell me you got it.
+La voie est libre. Allez, dis-moi que tu l'as.
+La via è libera. Ti prego, dimmi che ce l'hai.
+Der Weg ist frei.</n>Bitte, sag mir, du hast es.
+Podemos irnos. Por favor, dime que lo tienes.
+Путь свободен. Надеюсь, ты справился.
+Droga wolna. Powiedz, że ją masz.
+A barra tá limpa. Me diz que você conseguiu o vírus.
+나가는 길은 확보됐어. 샘플은 가지고 온 거지?
+門打開了。拜託，告訴我你拿到手了。
+出路畅通了。拜托，告诉我你拿到了。
+もちろん
+Oh, I got it.
+Oh, je l'ai.
+Oh, ma certo.
+Oh, ich hab's.
+Oh, lo tengo.
+О, я со всем справился.
+Mam.
+Ah, consegui, sim.
+아, 가지고 왔지.
+噢，我拿到了。
+噢，我拿到了。
+確認させて</n>早く出ましょう
+Let me verify the G sample and we'll get the hell out of here.
+Laisse-moi vérifier l'échantillon et on fiche le camp.
+Controllo se è il campione giusto e possiamo andare.
+Lass mich die G-Probe prüfen</n>und dann nichts wie raus hier.
+Deja que verifique la muestra y nos largamos de aquí.
+Дай мне убедиться, что это образец Г-вируса, и убираемся отсюда.
+Upewnię się, że to wirus G,</n>i spadamy stąd.
+Deixa eu verificar a amostra do G e aí a gente dá no pé.
+G 바이러스 샘플인지 확인할게. 그 다음 여길 빠져나가자.
+讓我確認 G 病毒的樣本，然後我們就逃出這個鬼地方吧。
+让我确认一下 G 病毒样本，然后我们就赶紧离开这鬼地方吧。
+アネットに会った</n>話を聞いたよ
+Before we do that...I ran into Annette.
+Mais d'abord... J'ai croisé Annette.
+Sì, ma prima... Ho incontrato Annette.
+Aber vorher...</n>Ich stieß auf Annette.
+Antes de eso... Hablé con Annette.
+Погоди-ка... Я тут встретил Аннет.
+Ale najpierw... Spotkałem Annette.
+Antes disso... Sabe, eu topei com a Annette.
+그건 조금 이따 하고... 내가 아까 아네트를 만났는데.
+在這之前... 我剛剛遇見了雅妮。
+在这之前... 我刚刚遇见亚妮了。
+君はFBIじゃないと
+She claims you're not FBI.
+Elle dit que tu n'es pas du FBI.
+Dice che non sei dell'FBI.
+Sie sagt, du bist nicht vom FBI.
+Dice que no eres del FBI.
+Она считает, что ты не из ФБР.
+Twierdzi, że nie jesteś z FBI.
+Ela me disse que você não é do FBI.
+당신이 FBI가 아니라고 하더군.
+她說你不是 FBI 的人。
+她说你不是 FBI 的人。
+あぁ レオン
+Oh, Leon...
+Oh, Leon...
+Oh, Leon...
+Oh, Leon...
+Oh, Leon...
+Ох, Леон...
+Och, Leon...
+Ah, Leon...
+오, 레온...
+噢，里昂...
+噢，里昂...
+大人しく渡せばよかったのに
+Why couldn't you just hand over the sample?
+Pourquoi tu m'as pas juste donné l'échantillon ?
+Perché non vuoi darmi il campione?
+Wieso konntest du sie mir nicht einfach geben?
+¿Por qué no me has dado la muestra?
+Нельзя было просто передать образец?
+Dlaczego nie mogłeś</n>po prostu oddać próbki?
+Por que você não entregou a amostra e pronto?
+샘플만 그냥 나한테 넘겼으면 되는데, 왜 이러는 거야?
+你為什麼不能就乖乖交出樣本呢？
+为什么你不能就乖乖把样本交给我呢？
+俺だって… 君を信じたかったが――
+Because I realized, as much as</n>I wanted to trust you...
+J'ai compris que même si je voulais te faire confiance...
+Ho provato, e credevo di potermi fidare.
+Weil ich erkannt hab,</n>so sehr ich dir vertrauen will...
+Porque he visto que quería confiar en ti...
+Просто до меня дошло,</n>что я очень хотел доверять тебе...
+Bo zrozumiałem, że choć bardzo</n>chciałem ci ufać…
+Porque eu percebi que, por mais que</n>eu quisesse confiar em você...
+중요한 걸 깨달았거든.</n>당신을 정말로 믿고 싶었지만…
+因為我知道，雖然</n>我很想相信你...
+因为我知道，</n>虽然我很想相信你...
+ダメだった
+I didn't.
+Je pouvais pas.
+Mi dispiace.</n>
+... ich tu's nicht.
+Y no puedo.
+Но не доверял.
+Nie ufałem.
+... eu não confiava.
+실은 그러지 않았어.
+但我不信。
+但我不信。
+こんな結末になって残念
+I really hoped it wouldn't end up like this.
+J'espérais ne pas avoir à en arriver là.
+Speravo davvero non finisse così.
+Ich hab wirklich gehofft,</n>dass es nicht so endet.
+Esperaba que no tuviera que acabar así.
+Я так надеялась, что все кончится иначе.
+Miałam nadzieję,</n>że do tego nie dojdzie.
+Eu juro que não queria que as coisas acabassem assim...
+맹세코 이건 내가 바란 결말이 아니야.
+我真的不希望事情走到這一步。
+我真不希望事情走到这一步。
+俺は君にとって… 捨て駒だったんだな？
+So that's all this was...</n>I was just some pawn to you?
+Donc c'était ça ?</n>J'étais qu'un pion pour toi ?
+Allora è vero... Ero solo una pedina per te?
+Mehr war das also nicht?</n>Ich war nur Mittel zum Zweck?
+Así que al final...</n>¿Solo era un peón para ti?
+Значит, так все и было...</n>Я для тебя просто пешка?
+Więc to wszystko...</n>Byłem dla ciebie pionkiem?
+Então, esse lance todo...</n>Eu era só um peão no seu joguinho?
+결국 이런 거였군...</n>난 그냥 너의 꼭두각시였던 거야?
+所以一切真是如此...</n>我只是你手中的棋子？
+所以这一切...</n>我只是你的棋子吗？
+これが私の仕事なの
+Look, I am just doing my job.
+Je ne fais que mon travail.
+Faccio solo il mio lavoro.
+Ich mach doch nur meinen Job.
+Solo hago mi trabajo.
+Слушай, я просто делаю свою работу.
+Słuchaj, pełniłam tylko</n>swoje obowiązki.
+Olha, eu só tô fazendo o meu trabalho.
+난 내 할 일을 하는 것뿐이야.
+聽著，我只是在盡我的職責。
+听我说，我只是在尽我的职责。
+俺もそうだ　銃を捨てろ
+And I'm doing mine, so drop that damn gun!
+Et moi le mien, alors pose cette arme !
+E io il mio! Abbassa quella cazzo di arma!
+Und ich mach meinen –</n>also weg mit der Knarre!
+Y yo el mío... ¡Así que baja el arma!
+А я свою, так что бросай чертово оружие!
+A ja pełnię swoje. Rzuć broń!
+E eu tô fazendo o meu, então larga essa merda de arma!
+그건 나도 마찬가지야, 총 버려!
+我也是，所以把那該死的槍放下！
+我也是，所以把那该死的枪放下！
+君を逮捕する
+I'm taking you in.
+Tu viens avec moi.
+Sei in arresto!
+Du bist verhaftet!
+Estás arrestada.
+Ты арестована.
+Jesteś aresztowana.
+Você está presa.
+널 체포하겠어.
+我要把你逮捕到案。
+我要逮捕你。
+G-ウィルスを渡してレオン
+Hand over the sample, Leon.
+Donne-moi l'échantillon, Leon.
+Dammi subito il campione, Leon!
+Gib mir die Probe, Leon.
+Dame la muestra, Leon.
+Отдай образец, Леон.
+Oddaj próbkę, Leon.
+Entrega logo essa amostra, Leon.
+샘플 넘겨, 레온.
+里昂，交出樣本。
+把样本交给我，里昂。
+殺したくないの
+I don't wanna hurt you.
+Je ne veux pas te blesser.
+O ti farai male.
+Ich will dir nicht wehtun.
+No quiero herirte.
+Я не хочу, чтобы ты пострадал.
+Nie chcę cię skrzywdzić.
+Eu não quero te machucar.
+널 다치게 하긴 싫어.
+我不想傷害你。
+我不想伤害你。
+さあ 撃てよ</n>できるものならな
+Then you shoot me, but I don't think you can.
+Vas-y, tire ! Je pense pas que t'en sois capable.
+Sparami, allora. Se ne sei capace.
+Dann erschieß mich,</n>wenn du glaubst, du kannst es.
+Pues dispara. No creo que puedas.
+Тогда стреляй. Только у тебя не хватит духу.
+Więc zastrzel mnie.</n>Ale nie sądzę, abyś była w stanie.
+Então atira. Mas eu acho que você não consegue.
+날 쏘고 가져가. 하지만 넌 날 쏠 수 없을 거야.
+那就對我開槍吧，但我不覺得你下得了手。
+那就向我开枪吧，不过我不认为你下得了手。
+エイダ！
+Ada!
+Ada !
+Ada!
+Ada!
+¡Ada!
+Ада!
+Ada!
+Ada!
+에이다!
+艾達！
+艾达！
+誰にも渡さないわ
+No one gets that sample now.
+Personne n'aura cet échantillon maintenant.
+Nessuno avrà mai il campione.
+Jetzt kriegt niemand die Probe.
+Nadie conseguirá la muestra.
+Теперь образец не достанется никому.
+Teraz nikt nie dostanie tej próbki.
+Agora ninguém vai ficar com a amostra.
+이제 누구도 샘플을 가져갈 수 없어.
+這樣就沒人能拿到那個樣本了。
+这样就没人能拿到那个样本了。
+レオン
+Leon...
+Leon...
+Leon!
+Leon...
+Leon...
+Леон...
+Leon...
+Leon...
+레온...
+里昂...
+里昂...
+頑張れ もう少しだ
+Hold on... I think I can...
+Attends ! Je peux...
+Resisti! Posso farcela!
+Festhalten.</n>Ich glaub, ich kann...
+Espera... Creo que puedo...
+Держись... Кажется, я могу...
+Czekaj... Chyba mogę...
+Aguenta aí... Eu acho que dá pra...
+꼭 잡아... 끌어올릴 수 있을...
+撐著點... 我想我可以...
+撑着点... 我想我可以...
+あぁ クソッ！
+Agh! Shit!
+Oh merde !
+Merda!
+Scheiße!
+¡Mierda!
+Ох! Дерьмо!
+Szlag!
+Argh, merda!
+아! 젠장!
+啊！該死！
+呃！可恶！
+もういいわ
+Forget it.
+Lâche-moi.
+Lasciami.
+Vergiss es.
+Déjame.
+Забудь.
+Zapomnij.
+Esquece.
+이럴 필요 없어.
+算了吧。
+算了吧。
+諦めるな
+Shut up—I've got you!
+Tais-toi ! Je te tiens !
+Zitta! Ti tengo!
+Sei still – ich hab dich!
+Calla. ¡Te tengo!
+Заткнись, я тебя держу!
+Zamknij się— pomogę ci!
+Cala a boca, eu vou te segurar!
+조용히 해, 내가 올려줄 테니까!
+閉嘴，我會救你的！
+闭嘴... 我会救你的！
+もういいのよ
+It's not worth it.
+Ça sert à rien.
+Non me lo merito.
+Das ist es nicht wert.
+No vale la pena.
+Это того не стоит.
+Nie warto.
+Não vale a pena.
+그럴 필요 없어.
+這樣做不值得。
+这样做不值得的。
+ダメだ
+Don't do this...
+Fais pas ça...
+Non farlo!
+Tu das nicht...
+Ni lo pienses...
+Не делай этого...
+Nie rób tego...
+Não faz isso...
+이러지 마...
+不要...
+别这么做...
+生き延びて レオン
+Take care of yourself, Leon.
+Fais attention à toi, Leon.
+Buona fortuna, Leon.
+Pass gut auf dich auf, Leon.
+Cuídate mucho, Leon.
+Береги себя, Леон.
+Uważaj na siebie, Leon.
+Se cuida, Leon.
+몸 조심해, 레온.
+里昂，你自己保重。
+里昂，你自己保重。
+エイダ！
+No!
+Non !
+No!
+Nein!
+¡No!
+Нет!
+Nie!
+Não!
+안 돼!
+不！
+不！

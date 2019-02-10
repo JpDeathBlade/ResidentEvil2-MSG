@@ -1,0 +1,100 @@
+﻿<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>やるじゃないの<PAGE></n>私を焼き殺すつもり？<PAGE></n>あなたにG-ウィルスは渡さない<PAGE></n>あれを狙っているのは私だけじゃない<PAGE></n>知ってるでしょ？<PAGE></n>道連れがいてよかったわね
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Bravo.<PAGE></n>Gonna burn me alive now?<PAGE></n>You'll never get your filthy hands on G.<PAGE></n>I'm not the only one after it.<PAGE></n>You realize that.<PAGE></n>Then you won't die alone.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Bravo !<PAGE></n>Vous allez me brûler, c'est ça ?<PAGE></n>Hors de question que vous touchiez au virus G.<PAGE></n>Je suis pas la seule à le vouloir.<PAGE></n>Vous le savez.<PAGE></n>Alors d'autres mourront !
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Complimenti.<PAGE></n>Vuoi bruciarmi viva?<PAGE></n>Non metterai mai le mani sul G.<PAGE></n>Non sono la sola a volerlo.<PAGE></n>Lo sai, questo.<PAGE></n>E non sarai la sola a morire.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Bravo.<PAGE></n>Verbrennen Sie mich jetzt lebendig?<PAGE></n>Sie kriegen G nie in Ihre Drecksfinger.<PAGE></n>Bin nicht als Einzige dahinter her.<PAGE></n>Das wissen Sie.<PAGE></n>Dann sterben Sie nicht allein.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Bravo.<PAGE></n>¿Ahora vas a quemarme viva?<PAGE></n>El G nunca caerá en tus sucias manos.<PAGE></n>No soy la única que lo busca.<PAGE></n>Lo sabes, ¿no?<PAGE></n>Pues no morirás tú sola.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Браво.<PAGE></n>Сожжешь меня заживо?<PAGE></n>Тебе никогда не заполучить Г-вирус.<PAGE></n>Я не единственная, кто его ищет.<PAGE></n>И ты прекрасно об этом знаешь.<PAGE></n>Значит, умрешь не одна.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Brawo.<PAGE></n>Spalisz mnie teraz żywcem?<PAGE></n>G nie wpadnie w twoje brudne łapska.<PAGE></n>Nie tylko ja chcę go zdobyć.<PAGE></n>Wiesz o tym, prawda?<PAGE></n>Więc nie umrzesz sama.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>Parabéns.<PAGE></n>Vai me queimar viva agora?<PAGE></n>Você nunca vai botar suas mãos imundas no G.<PAGE></n>Eu não sou a única atrás dele.<PAGE></n>Você já deve ter percebido.<PAGE></n>Então você não vai morrer sozinha.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>브라보.<PAGE></n>이제 날 산채로 불태울 건가?<PAGE></n>네가 G에 그 지저분한 손을 댈 일은</n>절대 없을걸.<PAGE></n>나만 찾고 있는 게 아니야.<PAGE></n>당신도 알고 있을 텐데.<PAGE></n>그렇다면 당신 혼자 죽진 않겠네.
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>不錯嘛。<PAGE></n>現在要把我活活燒死嗎？<PAGE></n>你那雙髒手永遠別想拿到 G 病毒。<PAGE></n>在找的不只我一個。<PAGE></n>你知道吧。<PAGE></n>那他們會給你陪葬的。
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>好极了。<PAGE></n>打算活活烧死我吗？<PAGE></n>你那脏手永远也别想得到 G 病毒。<PAGE></n>想得到它的人不只我一个。<PAGE></n>你也很清楚吧。<PAGE></n>那我就让他们一起陪葬。
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+<TIME 0.42, 1.5><TIME 2.39, 3.88><TIME 4.79, 7.34><TIME 8.34, 10.19><TIME 11.18, 12.45><TIME 13.36, 14.92>
+やるじゃないの
+Bravo.
+Bravo !
+Complimenti.
+Bravo.
+Bravo.
+Браво.
+Brawo.
+Parabéns.
+브라보.
+不錯嘛。
+好极了。
+私を焼き殺すつもり？
+Gonna burn me alive now?
+Vous allez me brûler, c'est ça ?
+Vuoi bruciarmi viva?
+Verbrennen Sie mich jetzt lebendig?
+¿Ahora vas a quemarme viva?
+Сожжешь меня заживо?
+Spalisz mnie teraz żywcem?
+Vai me queimar viva agora?
+이제 날 산채로 불태울 건가?
+現在要把我活活燒死嗎？
+打算活活烧死我吗？
+あなたにG-ウィルスは渡さない
+You'll never get your filthy hands on G.
+Hors de question que vous touchiez au virus G.
+Non metterai mai le mani sul G.
+Sie kriegen G nie in Ihre Drecksfinger.
+El G nunca caerá en tus sucias manos.
+Тебе никогда не заполучить Г-вирус.
+G nie wpadnie w twoje brudne łapska.
+Você nunca vai botar suas mãos imundas no G.
+네가 G에 그 지저분한 손을 댈 일은</n>절대 없을걸.
+你那雙髒手永遠別想拿到 G 病毒。
+你那脏手永远也别想得到 G 病毒。
+あれを狙っているのは私だけじゃない
+I'm not the only one after it.
+Je suis pas la seule à le vouloir.
+Non sono la sola a volerlo.
+Bin nicht als Einzige dahinter her.
+No soy la única que lo busca.
+Я не единственная, кто его ищет.
+Nie tylko ja chcę go zdobyć.
+Eu não sou a única atrás dele.
+나만 찾고 있는 게 아니야.
+在找的不只我一個。
+想得到它的人不只我一个。
+知ってるでしょ？
+You realize that.
+Vous le savez.
+Lo sai, questo.
+Das wissen Sie.
+Lo sabes, ¿no?
+И ты прекрасно об этом знаешь.
+Wiesz o tym, prawda?
+Você já deve ter percebido.
+당신도 알고 있을 텐데.
+你知道吧。
+你也很清楚吧。
+道連れがいてよかったわね
+Then you won't die alone.
+Alors d'autres mourront !
+E non sarai la sola a morire.
+Dann sterben Sie nicht allein.
+Pues no morirás tú sola.
+Значит, умрешь не одна.
+Więc nie umrzesz sama.
+Então você não vai morrer sozinha.
+그렇다면 당신 혼자 죽진 않겠네.
+那他們會給你陪葬的。
+那我就让他们一起陪葬。

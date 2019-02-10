@@ -1,0 +1,533 @@
+﻿<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>誰だ？<PAGE></n>やあ<PAGE></n>信じられん</n>普通の人間だ<PAGE></n>やあ 普通の人<PAGE></n>ずっとここに？<PAGE></n>ああ 長かった</n>残ったのは俺たちだけ？<PAGE></n>いや まだ何人かいる<PAGE></n>はっ それはいいニュースだ<PAGE></n>アイアンズの使いじゃないよな？<PAGE></n>アイアンズ署長のことか？</n>まだここに？<PAGE></n>知るかよ</n>誰かに食われてればいいが<PAGE></n>どういう意味だ？<PAGE></n>あいつにぶち込まれた<PAGE></n>理由があったんだろ？<PAGE></n>ああ そうさ<PAGE></n>奴の不正を暴こうとした<PAGE></n>おかげで このザマだ<PAGE></n>なあ 取引しないか？<PAGE></n>ここを開けてくれ<PAGE></n>この駐車場のカードキーが必要だろ？<PAGE></n>悪いが それは無理だ</n>まずは署長と話す<PAGE></n>あんたも警察署の囚人みたいなもんだ<PAGE></n>お互い助け合って 一緒に逃げようぜ<PAGE></n>クソッ 来やがった<PAGE></n>おい！　何が来たんだ？<PAGE></n>つべこべ言ってないで逃げるぞ</n>こいつが いるんだろ？<PAGE></n>さっさとここから出してくれ！<PAGE></n><PAGE></n>ウソだろ<PAGE></n>誰だ！？<PAGE></n>私よ</n>そんなもの向けないで<PAGE></n>一体 何が起きたのか…</n>一瞬のことで…<PAGE></n>ここを出るよう言ったのに<PAGE></n>ベンのように死にたいの？<PAGE></n>知り合い？<PAGE></n>情報提供者よ</n>私の捜査に必要な情報を持ってた<PAGE></n>それじゃ この男は…<PAGE></n>また何も言わずに行くのかよ！<PAGE></n>名前すら知らない！<PAGE></n>俺はレオン・ケネディ<PAGE></n>出口を探すのね レオン　手遅れになる前に</n>また話しましょう<PAGE></n>エイダよ<PAGE></n>取引成立か
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>Hello?<PAGE></n>Hey.<PAGE></n>I don't believe it. A real human.<PAGE></n>Hello, human.<PAGE></n>You been here long?<PAGE></n>Long enough.</n>Are we the last ones alive?<PAGE></n>No, no, there's a few of us...<PAGE></n>Oh...that's good news, I guess.<PAGE></n>Unless, of course, Irons sent you.<PAGE></n>Irons...? You mean Chief Irons?</n>Is he still around?<PAGE></n>Who cares.</n>Hopefully, he's somebody's dinner by now.<PAGE></n>What do you mean by that?<PAGE></n>He's the bastard that locked me in here.<PAGE></n>I'm sure he had a good reason.<PAGE></n>He did.<PAGE></n>I was about to blow the whistle on his dirty ass.<PAGE></n>I'd have done the same thing too, I guess.<PAGE></n>Hey! I'll make you a deal...<PAGE></n>Unlock this cell and I'll give you this.<PAGE></n>There's no other way outta that parking garage!</n>Believe me!<PAGE></n>Sorry... I can't do that.</n>I have to talk to the chief first.<PAGE></n>Look, we're both prisoners in this station.<PAGE></n>So either we play nice and help each other out—<PAGE></n>Shit. It's coming.<PAGE></n>What—what's coming?<PAGE></n>C'mon—c'mon, don't be an asshole...OK?</n>You need this!<PAGE></n>Just get me the fuck outta here!<PAGE></n><PAGE></n>Oh, my god...<PAGE></n>Who is that!?<PAGE></n>It's just me, so you can put that thing away.<PAGE></n>I don't even know what happened—</n>It just...happened so quick.<PAGE></n>I told you to get out of here.<PAGE></n>You wouldn't want to end up like Ben, would you?<PAGE></n>You knew him?<PAGE></n>He was an informant.</n>Had information of use to my investigation.<PAGE></n>So what he said was true?<PAGE></n>Hey, you can't keep walking away from me!<PAGE></n>I don't even know your name!<PAGE></n>...I'm Leon Kennedy.<PAGE></n>Find a way out, Leon. Before it's too late.</n>...Then we'll talk.<PAGE></n>Name's Ada.<PAGE></n>Well, I guess the deal's on.
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>Y'a quelqu'un ?<PAGE></n>Hé !<PAGE></n>J'y crois pas. Un vrai humain !<PAGE></n>Salut, l'humain !<PAGE></n>Depuis quand vous êtes là ?<PAGE></n>Trop longtemps.</n>On est les derniers survivants ?<PAGE></n>Non, non, il y en a d'autres...<PAGE></n>Ah... C'est tant mieux, j'imagine.<PAGE></n>Sauf si c'est Irons qui t'envoie.<PAGE></n>Irons ? Le chef de la police ?</n>Il est encore ici ?<PAGE></n>On s'en fout.</n>Avec un peu de chance, il s'est déjà fait bouffer.<PAGE></n>Quoi ? Comment ça ?<PAGE></n>C'est l'enfoiré qui m'a enfermé ici.<PAGE></n>Je suis sûr qu'il avait ses raisons.<PAGE></n>C'est vrai.<PAGE></n>J'étais sur le point de balancer ses magouilles.<PAGE></n>J'aurais fait la même chose, j'imagine.<PAGE></n>Hé ! Je te propose un marché...<PAGE></n>Libère-moi et je te donne ça.<PAGE></n>C'est le seul moyen de sortir du parking. Crois-moi !<PAGE></n>Désolé, je peux pas faire ça.</n>Je dois d'abord parler au chef.<PAGE></n>Écoute, on est tous les deux pris au piège ici.<PAGE></n>Donc soit on fait un effort et on s'entraide, soit...<PAGE></n>Eh merde ! Il arrive !<PAGE></n>Quoi ? Qu'est-ce qui arrive ?<PAGE></n>Allez, allez ! Fais pas le con !</n>Tu as besoin de ça !<PAGE></n>Fais-moi sortir de ce putain de trou !<PAGE></n><PAGE></n>Oh, mon Dieu...<PAGE></n>Qui est là ?<PAGE></n>Ce n'est que moi, alors range ton arme.<PAGE></n>Je sais même pas ce qui s'est passé...</n>Je... Tout est allé si vite.<PAGE></n>Je t'avais dit de t'en aller.<PAGE></n>À moins que tu ne veuilles finir comme Ben...<PAGE></n>C'était qui ?<PAGE></n>C'était un indic.</n>Il avait quelques informations utiles à mon enquête.<PAGE></n>Donc ce qu'il disait était vrai ?<PAGE></n>Hé, arrêtez de me laisser en plan comme ça !<PAGE></n>Je connais même pas votre nom !<PAGE></n>Moi c'est Leon Kennedy.<PAGE></n>Trouve un moyen de sortir, Leon.</n>Tant qu'il est encore temps... Ensuite, on verra.<PAGE></n>Moi, c'est Ada.<PAGE></n>Marché conclu, alors...
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>Ehilà?<PAGE></n>Ehi.<PAGE></n>Non posso crederci... Un essere umano.<PAGE></n>Ciao, umano.<PAGE></n>Sei qui da molto?<PAGE></n>Abbastanza. Siamo gli unici ancora vivi?<PAGE></n>No, no ce ne sono altri.<PAGE></n>Buona notizia, credo.<PAGE></n> A meno che non stia aiutando Irons.<PAGE></n>Irons? Il commissario Irons? È ancora qui?<PAGE></n>Chi lo sa... Spero sia finito in pasto a quelli.<PAGE></n>Che vorresti dire?<PAGE></n>È lui lo stronzo che mi ha chiuso qui.<PAGE></n>Beh, avrà avuto le sue ragioni.<PAGE></n>Ma certo!<PAGE></n>Stavo per pubblicare le sue porcherie.<PAGE></n>Penso che io avrei fatto lo stesso.<PAGE></n>Ehi! Facciamo un patto...<PAGE></n>Tirami fuori e ti do questo.<PAGE></n>È l'unico modo per uscire</n>dal parcheggio, fidati.<PAGE></n>Scusa... Non posso farlo.</n>Devo parlarne col commissario.<PAGE></n>Senti... Siamo entrambi prigionieri qui.<PAGE></n>Quindi o collaboriamo, e riusciamo a uscire, o...</n><PAGE></n>Merda. Arriva.<PAGE></n>Cosa... Chi arriva?<PAGE></n>Avanti... Dai, non fare lo stronzo.</n>Ne avrai bisogno!<PAGE></n>Tirami fuori da qui, cazzo!<PAGE></n><PAGE></n>Oh Cristo santo...<PAGE></n>Chi va là?<PAGE></n>Sono io. Metti via quell'affare.<PAGE></n>Non so cosa sia stato...</n>È... successo in fretta...<PAGE></n>Ti ho detto di andartene.<PAGE></n>Non vorrai finire come Ben, vero?<PAGE></n>Lo conosceva?<PAGE></n>Era un informatore.</n>Aveva dati utili alle mie indagini.<PAGE></n>Quindi non stava mentendo?<PAGE></n>Ehi, non può continuare ad andarsene!<PAGE></n>Non so neanche il suo nome!<PAGE></n>Mi chiamo Leon Kennedy.<PAGE></n>Trova come uscire, Leon...</n>C'è poco tempo. Poi parleremo.<PAGE></n>Mi chiamo Ada.<PAGE></n>Vale ancora il patto?
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>Hallo?<PAGE></n>Hey.<PAGE></n>Ich glaub's ja nicht...</n>Ein echter Mensch.<PAGE></n>Hallo, Mensch.<PAGE></n>Sind Sie hier schon lang?<PAGE></n>Lang genug.</n>Sind nur noch wir am Leben?<PAGE></n>Nein, nein, gibt noch mehr von uns...<PAGE></n>Oh... Gut zu hören, schätze ich.<PAGE></n>Es sei denn, Irons schickt Sie.<PAGE></n>Irons? Sie meinen Chief Irons?</n>Ist er noch hier?<PAGE></n>Wen kümmert's.</n>Hoffentlich hat jemand ihn schon verspeist.<PAGE></n>Was meinen Sie damit?<PAGE></n>Dieser Mistkerl hat mich hier eingesperrt.<PAGE></n>Bin sicher, er hatte einen Grund.<PAGE></n>Hatte er.<PAGE></n>Ich stand knapp davor, ihn auffliegen zu lassen.<PAGE></n>Ich hätte dasselbe getan, schätze ich.<PAGE></n>Hey! Wie wär's mit 'nem Deal?<PAGE></n>Befreien Sie mich und ich geb Ihnen die.<PAGE></n>Gibt keinen anderen Weg aus der</n>Tiefgarage, glauben Sie mir!<PAGE></n>Sorry... Das geht nicht.</n>Nicht ohne den Chief zu fragen.<PAGE></n>Hören Sie, wir beide müssen hier irgendwie raus.<PAGE></n>Entweder arbeiten wir zusammen</n>und helfen uns, oder...<PAGE></n>Scheiße. Es kommt.<PAGE></n>Was– Was kommt?<PAGE></n>Komm... Komm, sei kein Arschloch... okay?</n>Du brauchst die!<PAGE></n>Lass mich verflucht noch mal hier raus!<PAGE></n><PAGE></n>Oh, mein Gott...<PAGE></n>Wer ist da?!<PAGE></n>Ich bin's nur.</n>Stecken Sie bitte das Ding weg.<PAGE></n>Ich weiß gar nicht, was passiert ist.</n>Das ging alles so schnell.<PAGE></n>Ich sagte doch, Sie sollen abhauen.<PAGE></n>Sie wollen doch nicht enden wie Ben, oder?<PAGE></n>Sie kannten ihn?<PAGE></n>Er war ein Informant.</n>Hatte Informationen für meine Untersuchung.<PAGE></n>Also hat er die Wahrheit gesagt?<PAGE></n>Hey, Sie können mir nicht immer weglaufen!<PAGE></n>Ich weiß nicht mal Ihren Namen!<PAGE></n>Ich bin Leon Kennedy.<PAGE></n>Finde einen Weg raus, Leon. Bevor es zu spät ist.</n>Dann reden wir.<PAGE></n>Ich bin Ada.<PAGE></n>Schätze, das ist ein Deal.
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>¿Hola?<PAGE></n>¡Eh!<PAGE></n>Por fin... Un ser humano.<PAGE></n>Hola, humano.<PAGE></n>¿Llevas mucho aquí?<PAGE></n>Bastante. ¿Eres el único que queda?<PAGE></n>No, somos unos cuantos.<PAGE></n>Buenas noticias.<PAGE></n>Salvo que te envíe Irons.<PAGE></n>¿Irons...? ¿El jefe Irons?</n>¿Aún está aquí?<PAGE></n>Qué importa.</n>Ojalá se lo hayan comido.<PAGE></n>¿Qué quieres decir?<PAGE></n>Él es el cabrón que me encerró.<PAGE></n>Tendría un buen motivo.<PAGE></n>Pues sí.<PAGE></n>Iba a filtrar sus trapos sucios.<PAGE></n>Supongo que yo habría hecho lo mismo.<PAGE></n>¡Eh! Hagamos un trato...<PAGE></n>Sácame y te daré esto.<PAGE></n>No hay otra forma de salir de ese garaje.<PAGE></n>Lo siento... No puedo.</n>Tengo que hablar con el jefe.<PAGE></n>Mira, los dos estamos atrapados.<PAGE></n>O nos ayudamos, el uno al otro...<PAGE></n>Mierda. Ya viene.<PAGE></n>¿Qué? ¿Qué es lo que...?<PAGE></n>¡Venga! No seas cabrón.</n>¡Necesitas esto!<PAGE></n>¡Sácame de aquí ya!<PAGE></n><PAGE></n>Dios mío.<PAGE></n>¡¿Quién va?!<PAGE></n>Soy yo. Puedes apartar eso.<PAGE></n>No sé qué ha pasado.</n>Ha sido tan rápido...<PAGE></n>Te dije que te fueras.<PAGE></n>No querrás acabar como Ben.<PAGE></n>¿Lo conocías?<PAGE></n>Era un informante.</n>Con mucha información para mi investigación.<PAGE></n>¿Lo que decía es verdad?<PAGE></n>¡Eh, no puedes seguir ignorándome!<PAGE></n>¡No sé ni tu nombre!<PAGE></n>Soy Leon Kennedy.<PAGE></n>Busca una salida... Leon, mientras puedas.</n>Y hablaremos.<PAGE></n>Me llamo Ada.<PAGE></n>Supongo que trato hecho.
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>Эй?<PAGE></n>Привет.<PAGE></n>Поверить не могу. Нормальный человек.<PAGE></n>Привет, человек.<PAGE></n>Ты тут долго пробыл?<PAGE></n>Мне хватило.</n>Кто-нибудь еще выжил?<PAGE></n>Да, с нами еще несколько человек...<PAGE></n>Ага... Это хорошо. Наверное.<PAGE></n>Ну, то есть если ты не от Айронса.<PAGE></n>Айронса?.. Шефа Айронса?</n>Он где-то здесь?<PAGE></n>Кто знает.</n>Надеюсь, его уже кто-нибудь сожрал.<PAGE></n>Ты о чем?<PAGE></n>Это он меня тут оставил. Урод.<PAGE></n>Думаю, у него были на то причины.<PAGE></n>Были.<PAGE></n>Я собирался сдать его лживую задницу со всеми потрохами.<PAGE></n>Я бы на его месте тоже тебя в обезьянник посадил.<PAGE></n>Слушай! Предлагаю сделку...<PAGE></n>Открой камеру, и получишь вот это.<PAGE></n>С парковки ты без этого не выберешься!</n>Уж поверь!<PAGE></n>Извини... не могу.</n>Сначала нужно поговорить с шефом.<PAGE></n>Ты понимаешь, что мы оба здесь заперты?<PAGE></n>И мы либо объединимся и поможем друг другу, либо...<PAGE></n>Черт. Начинается.<PAGE></n>Что? Что начинается?<PAGE></n>Ну давай... Давай же, не будь сволочью...</n>Для твоего же блага!<PAGE></n>Да выпусти ты меня уже, мать твою!<PAGE></n><PAGE></n>О боже...<PAGE></n>Кто это?!<PAGE></n>Это я, не паникуй. И пушку убери.<PAGE></n>Я даже не понял, что произошло...</n>Так быстро...<PAGE></n>Я предупреждала, что надо убираться отсюда.<PAGE></n>Ты же не хочешь закончить, как Бен, правда?<PAGE></n>Вы знакомы?<PAGE></n>Он был моим информатором.</n>Помог мне в расследовании.<PAGE></n>Значит, он говорил правду?<PAGE></n>Эй! Хватит уже молча от меня уходить!<PAGE></n>Я даже имени вышего не знаю!<PAGE></n>...Меня зовут Леон Кеннеди.<PAGE></n>Найди выход отсюда, Леон. Пока не поздно.</n>Потом поговорим.<PAGE></n>Я — Ада.<PAGE></n>Уговор есть уговор.
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>Halo?<PAGE></n>Hej.<PAGE></n>Nie mogę uwierzyć. Prawdziwy człowiek.<PAGE></n>Witaj... człowieku.<PAGE></n>Od dawna tu jesteś?<PAGE></n>Wystarczająco długo.</n>Czy tylko my przeżyliśmy?<PAGE></n>Nie, nie, jest nas kilkoro...<PAGE></n>Och... to dobra wiadomość, jak sądzę.<PAGE></n>No chyba, że przysłał cię Irons.<PAGE></n>Irons...? Masz na myśli komendanta Ironsa?</n>To on żyje?<PAGE></n>Kogo to obchodzi.</n>Mam nadzieję, że skończył jako czyjś obiad.<PAGE></n>Co chcesz przez to powiedzieć?<PAGE></n>To właśnie ten gnojek mnie tutaj zamknął.<PAGE></n>Jestem pewien, że miał dobry powód.<PAGE></n>Jasne.<PAGE></n>Właśnie miałem wydać tego skorumpowanego ćwoka.<PAGE></n>Cóż, pewnie postąpiłbym tak samo.<PAGE></n>Ej! Zawrzyjmy układ...<PAGE></n>Otwórz tę celę, a dostaniesz ode mnie to.<PAGE></n>Uwierz mi, nie ma innego wyjścia</n>z tego podziemnego garażu!<PAGE></n>Przepraszam... Nie mogę tego zrobić.</n>Najpierw muszę porozmawiać z komendantem.<PAGE></n>Słuchaj, obaj jesteśmy więźniami na tym posterunku.<PAGE></n>Więc albo się sprzymierzymy i pomożemy sobie nawzajem...<PAGE></n>Cholera. Idzie tutaj.<PAGE></n>Co... co idzie?<PAGE></n>Ej, chłopie... Nie bądź dupkiem, OK?</n>Potrzebujesz tego!<PAGE></n>Cholera, po prostu wyrwij mnie stąd!<PAGE></n><PAGE></n>O mój Boże...<PAGE></n>Kto tam!?<PAGE></n>Możesz to odłożyć, to tylko ja.<PAGE></n>Nie wiem nawet, co się stało.</n>Wszystko... działo się tak szybko.<PAGE></n>A mówiłam, żebyś się stąd wynosił.<PAGE></n>Chyba nie chcesz skończyć jak Ben, co?<PAGE></n>Znałaś go?<PAGE></n>Był moją wtyczką.</n>Miał przekazać informacje pomocne w śledztwie.<PAGE></n>A więc mówił prawdę?<PAGE></n>Ej, nie możesz tak po prostu odejść!<PAGE></n>Nawet nie wiem jak się nazywasz!<PAGE></n>...Ja jestem Leon Kennedy.<PAGE></n>Znajdź wyjście stąd... Leonie. Zanim będzie za późno.</n>Wtedy porozmawiamy.<PAGE></n>Ja jestem Ada.<PAGE></n>No cóż, umowa stoi.
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>Oi?<PAGE></n>Opa.<PAGE></n>Não acredito. Um humano de verdade!<PAGE></n>Oi, humano.<PAGE></n>Você tá aqui faz tempo?<PAGE></n>Mais que eu gostaria.</n>Só sobrou nós dois vivos?<PAGE></n>Não, ainda tem alguns...<PAGE></n>Ah... Ótima notícia, acho.<PAGE></n>A não ser que o Irons tenha te mandado.<PAGE></n>Irons? Você quer dizer o chefe Irons?</n>Ele ainda tá vivo?<PAGE></n>Quem liga?</n>Tomara que já esteja na barriga de alguém.<PAGE></n>Como assim?<PAGE></n>Foi ele, o idiota que me trancou aqui.<PAGE></n>Com certeza ele tinha um bom motivo.<PAGE></n>Tinha, sim.<PAGE></n>Eu tava prestes a denunciar aquele babaca corrupto.<PAGE></n>Acho que eu faria a mesma coisa.<PAGE></n>Olha! Vamos fazer um trato...<PAGE></n>Abre a cela que eu te dou isso aqui.<PAGE></n>Não dá pra sair por aquela garagem de outro jeito!</n>Pode acreditar!<PAGE></n>Desculpa... eu não posso fazer isso.</n>Preciso falar com o chefe antes.<PAGE></n>Olha, a gente é prisioneiro aqui na delegacia.<PAGE></n>Então é melhor a gente se ajudar, senão...<PAGE></n>Merda. Tá vindo.<PAGE></n>Quê? O que tá vindo?<PAGE></n>Vai, qual é, não vai bancar o babaca... tá?</n>Você precisa disso aqui!<PAGE></n>Só me tira dessa merda de lugar!<PAGE></n><PAGE></n>Meu Deus...<PAGE></n>Quem tá aí?!<PAGE></n>Sou eu, então pode abaixar essa coisa.<PAGE></n>Nem sei o que aconteceu aqui...</n>Foi tudo... tão rápido.<PAGE></n>Eu disse pra você ir embora.<PAGE></n>Você não quer ter o mesmo final do Ben, quer?<PAGE></n>Você conhecia ele?<PAGE></n>Ele era um informante.</n>Tinha informações úteis pra minha investigação.<PAGE></n>Então o que ele disse era verdade?<PAGE></n>Ei, você não pode ficar me evitando!<PAGE></n>Eu nem sei o seu nome!<PAGE></n>O meu é Leon Kennedy.<PAGE></n>Dá um jeito de ir embora, Leon. Antes que seja tarde.</n>Depois, a gente conversa...<PAGE></n>O meu nome é Ada.<PAGE></n>Bom, acho que o trato tá valendo.
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>누구 있나?<PAGE></n>안녕하세요.<PAGE></n>믿을 수가 없군. 진짜 인간이라니.<PAGE></n>안녕하신가, 인간.<PAGE></n>여기 오래 있었습니까?<PAGE></n>꽤 있었지.</n>생존자는 당신뿐인가?<PAGE></n>아뇨, 몇 명 더 있긴 합니다...<PAGE></n>아... 좋은 소식이라고 해야겠지.<PAGE></n>물론, 아이언스가 자넬 보낸 게</n>아니라면 말이야.<PAGE></n>아이언스...? 아이언스 서장님 말입니까?</n>아직 여기 계신가요?<PAGE></n>누가 알겠어.</n>잡아 먹혔다면 속이 시원하겠군.<PAGE></n>그게 무슨 말이죠?<PAGE></n>날 여기 가둬둔 게 그 자식이니까.<PAGE></n>분명 그럴 만한 이유가 있었겠죠.<PAGE></n>그랬겠지.<PAGE></n>내가 그 자식의 더러운</n>본모습을 폭로하려 했으니까.<PAGE></n>나라도 그랬을 거야, 아마도.<PAGE></n>이봐! 거래 하나 하지...<PAGE></n>날 여기서 풀어주면 이걸 줄게.<PAGE></n>주차장으로 나갈 다른 길은 없어!</n>날 믿어 보라고!<PAGE></n>미안하지만... 그럴 수는 없습니다.</n>먼저 서장님과 이야기를 해야 해요.<PAGE></n>이거 봐, 우리 둘다 이곳의</n>죄수나 다름 없다고.<PAGE></n>그러니까 서로 친절을 베풀어</n>돕지 않는다면...<PAGE></n>젠장. 그게 오는군.<PAGE></n>뭐... 뭐가 온다는 겁니까?<PAGE></n>이봐, 멍청하게 굴지 말라고.</n>이게 필요할 거라니까!<PAGE></n>그냥 날 이 빌어먹을 곳에서</n>좀 꺼내 달라고!<PAGE></n><PAGE></n>이런, 세상에...<PAGE></n>누구야!?<PAGE></n>나야, 그러니까 그건 치워도 돼.<PAGE></n>무슨 일이 일어났는지조차 모르겠어—</n>너무… 순식간이라.<PAGE></n>여기서 나가라고 했잖아.<PAGE></n>벤처럼 되고 싶지는 않겠지, 안 그래?<PAGE></n>아는 사람이었나?<PAGE></n>정보원이었어. 내가 맡은 수사에</n>도움이 될 정보를 갖고 있었지.<PAGE></n>그럼 그 남자가 했던 말이</n>사실이란 거야?<PAGE></n>이봐, 그런 식으로</n>그냥 가 버리면 안 되지!<PAGE></n>난 당신 이름도 모른다고!<PAGE></n>...난 레온 케네디야.<PAGE></n>나갈 길을 찾자고, 레온. 더 늦기 전에.</n>…이야기는 그 뒤에 해.<PAGE></n>에이다야.<PAGE></n>흠, 거래 성사라고 해야겠군.
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>有人嗎？<PAGE></n>嗨。<PAGE></n>真不敢相信... 是個貨真價實的人類呢。<PAGE></n>嗨，人類。<PAGE></n>你在這裡很久了嗎？<PAGE></n>夠久了。</n>我們就是最後的倖存者嗎？<PAGE></n>不、不，還有幾個人...<PAGE></n>噢... 那真是個好消息。應該算吧。<PAGE></n>除非... 你是艾倫斯派來的。<PAGE></n>艾倫斯...？你是說艾倫斯局長嗎？</n>他還在嗎？<PAGE></n>誰管他呢。</n>希望他現在已經成了某人的晚餐了。<PAGE></n>什麼意思？<PAGE></n>就是那個混蛋把我關在這裡的。<PAGE></n>他會這麼做一定有合理的原因吧。<PAGE></n>他確實有。<PAGE></n>我本來正要揭發他幹的骯髒事。<PAGE></n>如果我是他，我可能也會這麼做吧...<PAGE></n>喂！我們做個交易吧...<PAGE></n>你幫我打開牢房，我就把這個給你。<PAGE></n>相信我，</n>不靠這個你絕對離不開停車場的！<PAGE></n>抱歉... 我不能這麼做。</n>我得先和局長談談。<PAGE></n>聽著，你和我一樣被困在這警察局裡。<PAGE></n>所以我們要嘛好好合作，互相幫忙...<PAGE></n>該死。它來了。<PAGE></n>什麼... 你說什麼東西來了？<PAGE></n>拜託... 別這麼無情，好嗎？</n>你會需要這個的！<PAGE></n>快把我弄出這裡就對了！<PAGE></n><PAGE></n>我的天啊...<PAGE></n>是誰！？<PAGE></n>是我，所以你可以把那東西收起來了。<PAGE></n>我不知道是怎麼一回事...</n>一切都... 發生得太快了。<PAGE></n>我早說過要你離開這裡的。<PAGE></n>你不想落得和班一樣的下場吧？<PAGE></n>你們認識？<PAGE></n>他是個線人。</n>他為我的調查工作提供了有用的情報。<PAGE></n>所以他說的是真的嗎？<PAGE></n>喂，你不能每次都這樣一走了之！<PAGE></n>我連你叫什麼名字都不知道！<PAGE></n>... 我是里昂·甘迺迪。<PAGE></n>里昂，趁你還有機會... 找到出路離開這裡。</n>... 到時候我們再來聊聊吧。<PAGE></n>我叫艾達。<PAGE></n>看來我還是得做這筆交易了。
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>是谁？<PAGE></n>嗨。<PAGE></n>难以置信... 是个大活人呢。<PAGE></n>你好，人类。<PAGE></n>你被关在这里很久了？<PAGE></n>够久了。</n>我们就是最后的幸存者吗？<PAGE></n>不，还有几个人...<PAGE></n>噢... 我想，这该算是好消息吧。<PAGE></n>除非，你是艾隆斯派来的人。<PAGE></n>艾隆斯... 你说的是艾隆斯局长？</n>他还活着吗？<PAGE></n>谁知道呢。</n>我倒希望他已经变成某人的盘中餐。<PAGE></n>你这话是什么意思？<PAGE></n>把我关在这里的混蛋就是他。<PAGE></n>他会这么做一定有合理的原因吧。<PAGE></n>当然有。<PAGE></n>因为我打算把他做过的肮脏事抖落出来。<PAGE></n>我想，换作我的话也会做一样的事吧。<PAGE></n>喂！我跟你做个交易吧。<PAGE></n>解开这道牢门，我就把这个给你。<PAGE></n>这是离开停车场的唯一方法，</n>相信我！<PAGE></n>抱歉... 我不能这么做。</n>我得先和局长谈谈。<PAGE></n>听我说，你跟我一样被困在这座警察局里。<PAGE></n>如果我们不好好合作互相帮忙的话...<PAGE></n>糟糕，它要来了。<PAGE></n>什、什么东西要来了？<PAGE></n>拜托... 拜托你，别这么不近人情，好不好？</n>你需要这张卡的！<PAGE></n>赶紧放我出去呀！<PAGE></n><PAGE></n>我的天啊...<PAGE></n>是谁！？<PAGE></n>是我，你可以把枪放下了。<PAGE></n>到底发生了什么事...</n>一切都发生得太突然了。<PAGE></n>我说过叫你离开这里的。<PAGE></n>你不想和本落得一般下场吧？<PAGE></n>你认识他？<PAGE></n>他曾是我的线人。</n>为我的调查提供了情报。<PAGE></n>那他刚刚说的都是事实？<PAGE></n>喂，你别总是扭头就走！<PAGE></n>我连你的名字都不知道！<PAGE></n>我叫里昂·肯尼迪。<PAGE></n>先想办法逃出去，里昂。再慢你就走不了了。</n>... 出去之后再谈。<PAGE></n>我叫艾达。<PAGE></n>好吧，也算交易成立了。
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+<TIME 1.99, 3.13><TIME 3.69, 4.62><TIME 4.7, 7.94><TIME 9.02, 10.05><TIME 10.07, 11.1><TIME 11.12, 14.37><TIME 14.39, 15.86><TIME 15.87, 18.09><TIME 18.21, 19.69><TIME 19.73, 22.62><TIME 22.66, 25.43><TIME 25.64, 26.58><TIME 26.61, 28.38><TIME 28.6, 30.28><TIME 30.35, 31.5><TIME 34.3, 36.92><TIME 36.98, 39.16><TIME 44.06, 46.54><TIME 46.76, 48.37><TIME 48.4, 50.95><TIME 50.97, 54.98><TIME 55.97, 58.95><TIME 59.21, 61.95><TIME 62.82, 64.78><TIME 64.84, 66.24><TIME 66.29, 70.0><TIME 70.27, 72.4><TIME 77.59, 80.51><TIME 82.94, 84.24><TIME 91.39, 92.67><TIME 93.39, 97.12><TIME 98.07, 101.87><TIME 103.6, 105.34><TIME 106.05, 108.17><TIME 108.46, 109.64><TIME 110.52, 115.82><TIME 115.88, 117.5><TIME 120.11, 122.48><TIME 123.74, 125.45><TIME 126.98, 128.53><TIME 132.03, 138.49><TIME 139.97, 141.55><TIME 147.25, 148.93>
+誰だ？
+Hello?
+Y'a quelqu'un ?
+Ehilà?
+Hallo?
+¿Hola?
+Эй?
+Halo?
+Oi?
+누구 있나?
+有人嗎？
+是谁？
+やあ
+Hey.
+Hé !
+Ehi.
+Hey.
+¡Eh!
+Привет.
+Hej.
+Opa.
+안녕하세요.
+嗨。
+嗨。
+信じられん</n>普通の人間だ
+I don't believe it. A real human.
+J'y crois pas. Un vrai humain !
+Non posso crederci... Un essere umano.
+Ich glaub's ja nicht...</n>Ein echter Mensch.
+Por fin... Un ser humano.
+Поверить не могу. Нормальный человек.
+Nie mogę uwierzyć. Prawdziwy człowiek.
+Não acredito. Um humano de verdade!
+믿을 수가 없군. 진짜 인간이라니.
+真不敢相信... 是個貨真價實的人類呢。
+难以置信... 是个大活人呢。
+やあ 普通の人
+Hello, human.
+Salut, l'humain !
+Ciao, umano.
+Hallo, Mensch.
+Hola, humano.
+Привет, человек.
+Witaj... człowieku.
+Oi, humano.
+안녕하신가, 인간.
+嗨，人類。
+你好，人类。
+ずっとここに？
+You been here long?
+Depuis quand vous êtes là ?
+Sei qui da molto?
+Sind Sie hier schon lang?
+¿Llevas mucho aquí?
+Ты тут долго пробыл?
+Od dawna tu jesteś?
+Você tá aqui faz tempo?
+여기 오래 있었습니까?
+你在這裡很久了嗎？
+你被关在这里很久了？
+ああ 長かった</n>残ったのは俺たちだけ？
+Long enough.</n>Are we the last ones alive?
+Trop longtemps.</n>On est les derniers survivants ?
+Abbastanza. Siamo gli unici ancora vivi?
+Lang genug.</n>Sind nur noch wir am Leben?
+Bastante. ¿Eres el único que queda?
+Мне хватило.</n>Кто-нибудь еще выжил?
+Wystarczająco długo.</n>Czy tylko my przeżyliśmy?
+Mais que eu gostaria.</n>Só sobrou nós dois vivos?
+꽤 있었지.</n>생존자는 당신뿐인가?
+夠久了。</n>我們就是最後的倖存者嗎？
+够久了。</n>我们就是最后的幸存者吗？
+いや まだ何人かいる
+No, no, there's a few of us...
+Non, non, il y en a d'autres...
+No, no ce ne sono altri.
+Nein, nein, gibt noch mehr von uns...
+No, somos unos cuantos.
+Да, с нами еще несколько человек...
+Nie, nie, jest nas kilkoro...
+Não, ainda tem alguns...
+아뇨, 몇 명 더 있긴 합니다...
+不、不，還有幾個人...
+不，还有几个人...
+はっ それはいいニュースだ
+Oh...that's good news, I guess.
+Ah... C'est tant mieux, j'imagine.
+Buona notizia, credo.
+Oh... Gut zu hören, schätze ich.
+Buenas noticias.
+Ага... Это хорошо. Наверное.
+Och... to dobra wiadomość, jak sądzę.
+Ah... Ótima notícia, acho.
+아... 좋은 소식이라고 해야겠지.
+噢... 那真是個好消息。應該算吧。
+噢... 我想，这该算是好消息吧。
+アイアンズの使いじゃないよな？
+Unless, of course, Irons sent you.
+Sauf si c'est Irons qui t'envoie.
+ A meno che non stia aiutando Irons.
+Es sei denn, Irons schickt Sie.
+Salvo que te envíe Irons.
+Ну, то есть если ты не от Айронса.
+No chyba, że przysłał cię Irons.
+A não ser que o Irons tenha te mandado.
+물론, 아이언스가 자넬 보낸 게</n>아니라면 말이야.
+除非... 你是艾倫斯派來的。
+除非，你是艾隆斯派来的人。
+アイアンズ署長のことか？</n>まだここに？
+Irons...? You mean Chief Irons?</n>Is he still around?
+Irons ? Le chef de la police ?</n>Il est encore ici ?
+Irons? Il commissario Irons? È ancora qui?
+Irons? Sie meinen Chief Irons?</n>Ist er noch hier?
+¿Irons...? ¿El jefe Irons?</n>¿Aún está aquí?
+Айронса?.. Шефа Айронса?</n>Он где-то здесь?
+Irons...? Masz na myśli komendanta Ironsa?</n>To on żyje?
+Irons? Você quer dizer o chefe Irons?</n>Ele ainda tá vivo?
+아이언스...? 아이언스 서장님 말입니까?</n>아직 여기 계신가요?
+艾倫斯...？你是說艾倫斯局長嗎？</n>他還在嗎？
+艾隆斯... 你说的是艾隆斯局长？</n>他还活着吗？
+知るかよ</n>誰かに食われてればいいが
+Who cares.</n>Hopefully, he's somebody's dinner by now.
+On s'en fout.</n>Avec un peu de chance, il s'est déjà fait bouffer.
+Chi lo sa... Spero sia finito in pasto a quelli.
+Wen kümmert's.</n>Hoffentlich hat jemand ihn schon verspeist.
+Qué importa.</n>Ojalá se lo hayan comido.
+Кто знает.</n>Надеюсь, его уже кто-нибудь сожрал.
+Kogo to obchodzi.</n>Mam nadzieję, że skończył jako czyjś obiad.
+Quem liga?</n>Tomara que já esteja na barriga de alguém.
+누가 알겠어.</n>잡아 먹혔다면 속이 시원하겠군.
+誰管他呢。</n>希望他現在已經成了某人的晚餐了。
+谁知道呢。</n>我倒希望他已经变成某人的盘中餐。
+どういう意味だ？
+What do you mean by that?
+Quoi ? Comment ça ?
+Che vorresti dire?
+Was meinen Sie damit?
+¿Qué quieres decir?
+Ты о чем?
+Co chcesz przez to powiedzieć?
+Como assim?
+그게 무슨 말이죠?
+什麼意思？
+你这话是什么意思？
+あいつにぶち込まれた
+He's the bastard that locked me in here.
+C'est l'enfoiré qui m'a enfermé ici.
+È lui lo stronzo che mi ha chiuso qui.
+Dieser Mistkerl hat mich hier eingesperrt.
+Él es el cabrón que me encerró.
+Это он меня тут оставил. Урод.
+To właśnie ten gnojek mnie tutaj zamknął.
+Foi ele, o idiota que me trancou aqui.
+날 여기 가둬둔 게 그 자식이니까.
+就是那個混蛋把我關在這裡的。
+把我关在这里的混蛋就是他。
+理由があったんだろ？
+I'm sure he had a good reason.
+Je suis sûr qu'il avait ses raisons.
+Beh, avrà avuto le sue ragioni.
+Bin sicher, er hatte einen Grund.
+Tendría un buen motivo.
+Думаю, у него были на то причины.
+Jestem pewien, że miał dobry powód.
+Com certeza ele tinha um bom motivo.
+분명 그럴 만한 이유가 있었겠죠.
+他會這麼做一定有合理的原因吧。
+他会这么做一定有合理的原因吧。
+ああ そうさ
+He did.
+C'est vrai.
+Ma certo!
+Hatte er.
+Pues sí.
+Были.
+Jasne.
+Tinha, sim.
+그랬겠지.
+他確實有。
+当然有。
+奴の不正を暴こうとした
+I was about to blow the whistle on his dirty ass.
+J'étais sur le point de balancer ses magouilles.
+Stavo per pubblicare le sue porcherie.
+Ich stand knapp davor, ihn auffliegen zu lassen.
+Iba a filtrar sus trapos sucios.
+Я собирался сдать его лживую задницу со всеми потрохами.
+Właśnie miałem wydać tego skorumpowanego ćwoka.
+Eu tava prestes a denunciar aquele babaca corrupto.
+내가 그 자식의 더러운</n>본모습을 폭로하려 했으니까.
+我本來正要揭發他幹的骯髒事。
+因为我打算把他做过的肮脏事抖落出来。
+おかげで このザマだ
+I'd have done the same thing too, I guess.
+J'aurais fait la même chose, j'imagine.
+Penso che io avrei fatto lo stesso.
+Ich hätte dasselbe getan, schätze ich.
+Supongo que yo habría hecho lo mismo.
+Я бы на его месте тоже тебя в обезьянник посадил.
+Cóż, pewnie postąpiłbym tak samo.
+Acho que eu faria a mesma coisa.
+나라도 그랬을 거야, 아마도.
+如果我是他，我可能也會這麼做吧...
+我想，换作我的话也会做一样的事吧。
+なあ 取引しないか？
+Hey! I'll make you a deal...
+Hé ! Je te propose un marché...
+Ehi! Facciamo un patto...
+Hey! Wie wär's mit 'nem Deal?
+¡Eh! Hagamos un trato...
+Слушай! Предлагаю сделку...
+Ej! Zawrzyjmy układ...
+Olha! Vamos fazer um trato...
+이봐! 거래 하나 하지...
+喂！我們做個交易吧...
+喂！我跟你做个交易吧。
+ここを開けてくれ
+Unlock this cell and I'll give you this.
+Libère-moi et je te donne ça.
+Tirami fuori e ti do questo.
+Befreien Sie mich und ich geb Ihnen die.
+Sácame y te daré esto.
+Открой камеру, и получишь вот это.
+Otwórz tę celę, a dostaniesz ode mnie to.
+Abre a cela que eu te dou isso aqui.
+날 여기서 풀어주면 이걸 줄게.
+你幫我打開牢房，我就把這個給你。
+解开这道牢门，我就把这个给你。
+この駐車場のカードキーが必要だろ？
+There's no other way outta that parking garage!</n>Believe me!
+C'est le seul moyen de sortir du parking. Crois-moi !
+È l'unico modo per uscire</n>dal parcheggio, fidati.
+Gibt keinen anderen Weg aus der</n>Tiefgarage, glauben Sie mir!
+No hay otra forma de salir de ese garaje.
+С парковки ты без этого не выберешься!</n>Уж поверь!
+Uwierz mi, nie ma innego wyjścia</n>z tego podziemnego garażu!
+Não dá pra sair por aquela garagem de outro jeito!</n>Pode acreditar!
+주차장으로 나갈 다른 길은 없어!</n>날 믿어 보라고!
+相信我，</n>不靠這個你絕對離不開停車場的！
+这是离开停车场的唯一方法，</n>相信我！
+悪いが それは無理だ</n>まずは署長と話す
+Sorry... I can't do that.</n>I have to talk to the chief first.
+Désolé, je peux pas faire ça.</n>Je dois d'abord parler au chef.
+Scusa... Non posso farlo.</n>Devo parlarne col commissario.
+Sorry... Das geht nicht.</n>Nicht ohne den Chief zu fragen.
+Lo siento... No puedo.</n>Tengo que hablar con el jefe.
+Извини... не могу.</n>Сначала нужно поговорить с шефом.
+Przepraszam... Nie mogę tego zrobić.</n>Najpierw muszę porozmawiać z komendantem.
+Desculpa... eu não posso fazer isso.</n>Preciso falar com o chefe antes.
+미안하지만... 그럴 수는 없습니다.</n>먼저 서장님과 이야기를 해야 해요.
+抱歉... 我不能這麼做。</n>我得先和局長談談。
+抱歉... 我不能这么做。</n>我得先和局长谈谈。
+あんたも警察署の囚人みたいなもんだ
+Look, we're both prisoners in this station.
+Écoute, on est tous les deux pris au piège ici.
+Senti... Siamo entrambi prigionieri qui.
+Hören Sie, wir beide müssen hier irgendwie raus.
+Mira, los dos estamos atrapados.
+Ты понимаешь, что мы оба здесь заперты?
+Słuchaj, obaj jesteśmy więźniami na tym posterunku.
+Olha, a gente é prisioneiro aqui na delegacia.
+이거 봐, 우리 둘다 이곳의</n>죄수나 다름 없다고.
+聽著，你和我一樣被困在這警察局裡。
+听我说，你跟我一样被困在这座警察局里。
+お互い助け合って 一緒に逃げようぜ
+So either we play nice and help each other out—
+Donc soit on fait un effort et on s'entraide, soit...
+Quindi o collaboriamo, e riusciamo a uscire, o...</n>
+Entweder arbeiten wir zusammen</n>und helfen uns, oder...
+O nos ayudamos, el uno al otro...
+И мы либо объединимся и поможем друг другу, либо...
+Więc albo się sprzymierzymy i pomożemy sobie nawzajem...
+Então é melhor a gente se ajudar, senão...
+그러니까 서로 친절을 베풀어</n>돕지 않는다면...
+所以我們要嘛好好合作，互相幫忙...
+如果我们不好好合作互相帮忙的话...
+クソッ 来やがった
+Shit. It's coming.
+Eh merde ! Il arrive !
+Merda. Arriva.
+Scheiße. Es kommt.
+Mierda. Ya viene.
+Черт. Начинается.
+Cholera. Idzie tutaj.
+Merda. Tá vindo.
+젠장. 그게 오는군.
+該死。它來了。
+糟糕，它要来了。
+おい！　何が来たんだ？
+What—what's coming?
+Quoi ? Qu'est-ce qui arrive ?
+Cosa... Chi arriva?
+Was– Was kommt?
+¿Qué? ¿Qué es lo que...?
+Что? Что начинается?
+Co... co idzie?
+Quê? O que tá vindo?
+뭐... 뭐가 온다는 겁니까?
+什麼... 你說什麼東西來了？
+什、什么东西要来了？
+つべこべ言ってないで逃げるぞ</n>こいつが いるんだろ？
+C'mon—c'mon, don't be an asshole...OK?</n>You need this!
+Allez, allez ! Fais pas le con !</n>Tu as besoin de ça !
+Avanti... Dai, non fare lo stronzo.</n>Ne avrai bisogno!
+Komm... Komm, sei kein Arschloch... okay?</n>Du brauchst die!
+¡Venga! No seas cabrón.</n>¡Necesitas esto!
+Ну давай... Давай же, не будь сволочью...</n>Для твоего же блага!
+Ej, chłopie... Nie bądź dupkiem, OK?</n>Potrzebujesz tego!
+Vai, qual é, não vai bancar o babaca... tá?</n>Você precisa disso aqui!
+이봐, 멍청하게 굴지 말라고.</n>이게 필요할 거라니까!
+拜託... 別這麼無情，好嗎？</n>你會需要這個的！
+拜托... 拜托你，别这么不近人情，好不好？</n>你需要这张卡的！
+さっさとここから出してくれ！
+Just get me the fuck outta here!
+Fais-moi sortir de ce putain de trou !
+Tirami fuori da qui, cazzo!
+Lass mich verflucht noch mal hier raus!
+¡Sácame de aquí ya!
+Да выпусти ты меня уже, мать твою!
+Cholera, po prostu wyrwij mnie stąd!
+Só me tira dessa merda de lugar!
+그냥 날 이 빌어먹을 곳에서</n>좀 꺼내 달라고!
+快把我弄出這裡就對了！
+赶紧放我出去呀！
+うわっ
+ウソだろ
+Oh, my god...
+Oh, mon Dieu...
+Oh Cristo santo...
+Oh, mein Gott...
+Dios mío.
+О боже...
+O mój Boże...
+Meu Deus...
+이런, 세상에...
+我的天啊...
+我的天啊...
+誰だ！？
+Who is that!?
+Qui est là ?
+Chi va là?
+Wer ist da?!
+¡¿Quién va?!
+Кто это?!
+Kto tam!?
+Quem tá aí?!
+누구야!?
+是誰！？
+是谁！？
+私よ</n>そんなもの向けないで
+It's just me, so you can put that thing away.
+Ce n'est que moi, alors range ton arme.
+Sono io. Metti via quell'affare.
+Ich bin's nur.</n>Stecken Sie bitte das Ding weg.
+Soy yo. Puedes apartar eso.
+Это я, не паникуй. И пушку убери.
+Możesz to odłożyć, to tylko ja.
+Sou eu, então pode abaixar essa coisa.
+나야, 그러니까 그건 치워도 돼.
+是我，所以你可以把那東西收起來了。
+是我，你可以把枪放下了。
+一体 何が起きたのか…</n>一瞬のことで…
+I don't even know what happened—</n>It just...happened so quick.
+Je sais même pas ce qui s'est passé...</n>Je... Tout est allé si vite.
+Non so cosa sia stato...</n>È... successo in fretta...
+Ich weiß gar nicht, was passiert ist.</n>Das ging alles so schnell.
+No sé qué ha pasado.</n>Ha sido tan rápido...
+Я даже не понял, что произошло...</n>Так быстро...
+Nie wiem nawet, co się stało.</n>Wszystko... działo się tak szybko.
+Nem sei o que aconteceu aqui...</n>Foi tudo... tão rápido.
+무슨 일이 일어났는지조차 모르겠어—</n>너무… 순식간이라.
+我不知道是怎麼一回事...</n>一切都... 發生得太快了。
+到底发生了什么事...</n>一切都发生得太突然了。
+ここを出るよう言ったのに
+I told you to get out of here.
+Je t'avais dit de t'en aller.
+Ti ho detto di andartene.
+Ich sagte doch, Sie sollen abhauen.
+Te dije que te fueras.
+Я предупреждала, что надо убираться отсюда.
+A mówiłam, żebyś się stąd wynosił.
+Eu disse pra você ir embora.
+여기서 나가라고 했잖아.
+我早說過要你離開這裡的。
+我说过叫你离开这里的。
+ベンのように死にたいの？
+You wouldn't want to end up like Ben, would you?
+À moins que tu ne veuilles finir comme Ben...
+Non vorrai finire come Ben, vero?
+Sie wollen doch nicht enden wie Ben, oder?
+No querrás acabar como Ben.
+Ты же не хочешь закончить, как Бен, правда?
+Chyba nie chcesz skończyć jak Ben, co?
+Você não quer ter o mesmo final do Ben, quer?
+벤처럼 되고 싶지는 않겠지, 안 그래?
+你不想落得和班一樣的下場吧？
+你不想和本落得一般下场吧？
+知り合い？
+You knew him?
+C'était qui ?
+Lo conosceva?
+Sie kannten ihn?
+¿Lo conocías?
+Вы знакомы?
+Znałaś go?
+Você conhecia ele?
+아는 사람이었나?
+你們認識？
+你认识他？
+情報提供者よ</n>私の捜査に必要な情報を持ってた
+He was an informant.</n>Had information of use to my investigation.
+C'était un indic.</n>Il avait quelques informations utiles à mon enquête.
+Era un informatore.</n>Aveva dati utili alle mie indagini.
+Er war ein Informant.</n>Hatte Informationen für meine Untersuchung.
+Era un informante.</n>Con mucha información para mi investigación.
+Он был моим информатором.</n>Помог мне в расследовании.
+Był moją wtyczką.</n>Miał przekazać informacje pomocne w śledztwie.
+Ele era um informante.</n>Tinha informações úteis pra minha investigação.
+정보원이었어. 내가 맡은 수사에</n>도움이 될 정보를 갖고 있었지.
+他是個線人。</n>他為我的調查工作提供了有用的情報。
+他曾是我的线人。</n>为我的调查提供了情报。
+それじゃ この男は…
+So what he said was true?
+Donc ce qu'il disait était vrai ?
+Quindi non stava mentendo?
+Also hat er die Wahrheit gesagt?
+¿Lo que decía es verdad?
+Значит, он говорил правду?
+A więc mówił prawdę?
+Então o que ele disse era verdade?
+그럼 그 남자가 했던 말이</n>사실이란 거야?
+所以他說的是真的嗎？
+那他刚刚说的都是事实？
+また何も言わずに行くのかよ！
+Hey, you can't keep walking away from me!
+Hé, arrêtez de me laisser en plan comme ça !
+Ehi, non può continuare ad andarsene!
+Hey, Sie können mir nicht immer weglaufen!
+¡Eh, no puedes seguir ignorándome!
+Эй! Хватит уже молча от меня уходить!
+Ej, nie możesz tak po prostu odejść!
+Ei, você não pode ficar me evitando!
+이봐, 그런 식으로</n>그냥 가 버리면 안 되지!
+喂，你不能每次都這樣一走了之！
+喂，你别总是扭头就走！
+名前すら知らない！
+I don't even know your name!
+Je connais même pas votre nom !
+Non so neanche il suo nome!
+Ich weiß nicht mal Ihren Namen!
+¡No sé ni tu nombre!
+Я даже имени вышего не знаю!
+Nawet nie wiem jak się nazywasz!
+Eu nem sei o seu nome!
+난 당신 이름도 모른다고!
+我連你叫什麼名字都不知道！
+我连你的名字都不知道！
+俺はレオン・ケネディ
+...I'm Leon Kennedy.
+Moi c'est Leon Kennedy.
+Mi chiamo Leon Kennedy.
+Ich bin Leon Kennedy.
+Soy Leon Kennedy.
+...Меня зовут Леон Кеннеди.
+...Ja jestem Leon Kennedy.
+O meu é Leon Kennedy.
+...난 레온 케네디야.
+... 我是里昂·甘迺迪。
+我叫里昂·肯尼迪。
+出口を探すのね レオン　手遅れになる前に</n>また話しましょう
+Find a way out, Leon. Before it's too late.</n>...Then we'll talk.
+Trouve un moyen de sortir, Leon.</n>Tant qu'il est encore temps... Ensuite, on verra.
+Trova come uscire, Leon...</n>C'è poco tempo. Poi parleremo.
+Finde einen Weg raus, Leon. Bevor es zu spät ist.</n>Dann reden wir.
+Busca una salida... Leon, mientras puedas.</n>Y hablaremos.
+Найди выход отсюда, Леон. Пока не поздно.</n>Потом поговорим.
+Znajdź wyjście stąd... Leonie. Zanim będzie za późno.</n>Wtedy porozmawiamy.
+Dá um jeito de ir embora, Leon. Antes que seja tarde.</n>Depois, a gente conversa...
+나갈 길을 찾자고, 레온. 더 늦기 전에.</n>…이야기는 그 뒤에 해.
+里昂，趁你還有機會... 找到出路離開這裡。</n>... 到時候我們再來聊聊吧。
+先想办法逃出去，里昂。再慢你就走不了了。</n>... 出去之后再谈。
+エイダよ
+Name's Ada.
+Moi, c'est Ada.
+Mi chiamo Ada.
+Ich bin Ada.
+Me llamo Ada.
+Я — Ада.
+Ja jestem Ada.
+O meu nome é Ada.
+에이다야.
+我叫艾達。
+我叫艾达。
+取引成立か
+Well, I guess the deal's on.
+Marché conclu, alors...
+Vale ancora il patto?
+Schätze, das ist ein Deal.
+Supongo que trato hecho.
+Уговор есть уговор.
+No cóż, umowa stoi.
+Bom, acho que o trato tá valendo.
+흠, 거래 성사라고 해야겠군.
+看來我還是得做這筆交易了。
+好吧，也算交易成立了。

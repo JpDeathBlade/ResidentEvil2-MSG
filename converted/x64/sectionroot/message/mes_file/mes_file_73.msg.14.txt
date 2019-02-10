@@ -1,0 +1,59 @@
+﻿リストタグ型キーのご利用について
+ID Wristbands
+Bracelets d'identification
+Braccialetti identificativi
+ID-Armbänder
+Pulseras ID
+ID-браслеты
+Bransolety z identyfikatorami
+Pulseiras de ID
+ID 손목 밴드
+ID 手環
+身份识别腕带
+当研究所では、最新式のセキュリティシステムを採用し</n>職員の皆さまの安全と業務の効率化を実現しています。</n></n>施設の入出や特定の機器へのアクセスには、</n><COL FILE_EMP>リストタグ</COLOR>型キーによる認証が必要です。</n></n>キーの権限には、「ゲスト」、「一般職員」、</n>「上級職員」の3種類がございます。
+This research facility uses the latest security</n>technology in order to ensure employee safety</n>and efficient business practices.</n></n>In order to enter and exit the facility, and to</n>operate certain equipment, employees must use an</n><COL FILE_EMP>ID Wristband</COLOR>.
+Ce centre de recherches utilise une technologie</n>de pointe afin d'assurer la sécurité des</n>employés et des méthodes de travail efficaces.</n></n>Pour entrer sur le site et en sortir, et pour</n>manipuler certains équipements, les employés</n>doivent utiliser un <COL FILE_EMP>bracelet d'identification</COLOR>.
+Questa struttura di ricerca utilizza le ultime</n>tecnologie di sicurezza per garantire la tutela</n>dei dipendenti e delle procedure efficienti.</n></n>Per entrare e uscire dalla struttura e per</n>attivare determinate attrezzature, i dipendenti</n>devono indossare un <COL FILE_EMP>braccialetto identificativo</COLOR>.
+Diese Forschungseinrichtung verwendet die</n>neueste Sicherheitstechnologie, um die</n>Sicherheit der Angestellten zu gewährleisten</n>und effiziente Geschäftspraktiken zu</n>ermöglichen.</n>Um die Einrichtung zu betreten und zu verlassen</n>sowie zur Verwendung bestimmter Geräte, müssen</n>die Angestellten ein <COL FILE_EMP>ID-Armband</COLOR> tragen.
+Este complejo de investigación usa la más moderna</n>tecnología en seguridad para garantizar el bienestar</n>de los empleados y la eficacia de su trabajo.</n></n>Para poder entrar y salir de la instalación, y</n>poder operar ciertos equipos, los empleados</n>deben usar una <COL FILE_EMP>pulsera ID</COLOR>.
+В исследовательском центре используются</n>новейшие технологии безопасности для</n>обеспечения сохранности сотрудников и</n>эффективной работы.</n> </n>Чтобы войти в центр или покинуть его, а также для взаимодействия с определенным оборудованием нужен <COL FILE_EMP>ID-браслет</COLOR>.
+Ta placówka badawcza korzysta z najnowszej</n>technologii zabezpieczeń, aby zapewnić</n>bezpieczeństwo pracowników i skuteczność</n>praktyk biznesowych.</n></n>Wchodzenie i wychodzenie oraz obsługa</n>pewnych urządzeń wymagają noszenia</n><COL FILE_EMP>bransolety z identyfikatorem</COLOR>.
+Este instituto de pesquisa emprega tecnologia</n>de ponta para garantir a segurança dos</n>funcionários e práticas comerciais eficazes.</n></n>Para entrar e sair das instalações, além</n>de operar certos equipamentos, cada</n>funcionário deve usar uma <COL FILE_EMP>Pulseira de ID</COLOR>.
+이 연구 시설은 직원들의 안전하고</n>효율적인 업무를 위해 최첨단 보안</n>기술을 적용하고 있습니다.</n></n>시설에 출입하거나 장비를</n>사용하려면 반드시</n><COL FILE_EMP>ID 손목 밴드</COLOR>가</n>필요합니다.
+本研究設施採用最新的保全科技，</n>以確保員工執行業務時保持安全和高效率。</n></n></n>員工必須使用 <COL FILE_EMP>ID 手環</COLOR>才能出入設施</n>及操作特定設備。
+这间研究设施采用最先进的保安技术，</n>以确保职员执行业务时的安全和高效率。</n></n></n>进出本设施和操作特定设备时，</n>职员必须使用<COL FILE_EMP>身份识别腕带</COLOR>。</n>
+権限は、リストタグに挿入された<COL FILE_EMP>電子チップ</COLOR>によって</n>設定されています。</n>権限の変更は、電子チップを入れ替えることで</n>簡単に行えます。</n></n>職員のご家族へは「ゲスト」用の貸し出しを</n>行っております。</n>受付までお気軽にお申し出ください。
+There are three levels of access:</n></n>1. Visitor</n>2. General Staff</n>3. Senior Staff
+Il existe trois niveaux d'accès :</n></n>1. Visiteur</n>2. Employé</n>3. Cadre supérieur
+Esistono tre livelli di accesso:</n></n>1. Ospite</n>2. Staff</n>3. Dirigente
+Zugangsrechte werden in drei Stufen vergeben:</n></n>1. Besucher</n>2. Mitarbeiter</n>3. Führungspersonal
+Hay tres niveles de acceso:</n></n>1. Visitante</n>2. Personal general</n>3. Personal superior
+Существует три уровня доступа:</n></n>1. Посетитель</n>2. Сотрудник</n>3. Старший персонал
+Istnieją trzy poziomy uprawnień:</n></n>1. Gość</n>2. Pracownicy niższego szczebla</n>3. Pracownicy wyższego szczebla
+Há três níveis de acesso:</n></n>1. Visitante</n>2. Funcionário</n>3. Executivo
+출입 등급 구분:</n></n>1. 방문객</n>2. 일반 직원</n>3. 상급 직원
+總共有三種存取權限：</n></n>1. 訪客</n>2. 一般員工</n>3. 主管級員工
+存取权分为三等：</n></n>1. 访客</n>2. 普通职员</n>3. 高级职员
+<END>
+Authentication is granted based on an <COL FILE_EMP>electronic</n>chip</COLOR> inside the wristband. The wristband access</n>level can be changed by simply inserting a</n>different electronic chip.</n></n>Visitor wristbands can be given to family</n>members of employees. Please enquire</n>at reception for further details.
+L'authentification se fait grâce à une <COL FILE_EMP>puce</n>électronique</COLOR> située dans le bracelet. Le niveau</n>d'accès du bracelet peut être modifié</n>simplement en insérant une puce différente.</n></n>Des bracelets visiteurs peuvent être distribués</n>aux familles des employés. Adressez-vous à la</n>réception pour en savoir plus.
+L'autenticazione viene effettuata tramite un</n><COL FILE_EMP>chip elettronico</COLOR> all'interno del braccialetto.</n>Il livello d'autorizzazione può essere cambiato</n>inserendo un chip elettronico differente.</n></n>Possono essere forniti dei braccialetti di</n>livello ospite ai familiari dei dipendenti.</n>Ulteriori informazioni alla reception.
+Die Authentifikation geschieht mithilfe eines</n><COL FILE_EMP>elektronischen Chips</COLOR> im Inneren des Armbands.</n>Die Zugangsrechte können geändert werden,</n>indem ganz einfach ein anderer Chip eingelegt</n>wird.</n>Besucherarmbänder können an Familien-</n>mitglieder von Angestellten verteilt werden.</n>Weitere Informationen erhalten Sie am Empfang.
+La autenticación se garantiza con un</n><COL FILE_EMP>chip electrónico</COLOR> dentro de la pulsera.</n>El nivel de acceso de la pulsera se puede cambiar</n>insertando otro chip electrónico.</n></n>Los familiares de los empleados podrán</n>obtener pulseras de visitante. Para más</n>información, pregunte en recepción.
+Во время авторизации считывается <COL FILE_EMP>электронный</n>чип</COLOR>, установленный в браслет. Уровень доступа</n>браслета может быть изменен путем установки</n>другого электронного чипа.</n></n>Браслеты посетителей могут</n>быть переданы членам семьи сотрудников.</n>Подробности можно узнать у администратора.
+Dostęp jest przyznawany w wyniku weryfikacji</n><COL FILE_EMP>wkładki elektronicznej</COLOR> w bransolecie. Aby zmienić poziom uprawnień, wystarczy włożyć</n>inną wkładkę.</n></n>Bransolety dla gości otrzymują tylko</n>członkowie rodzin pracowników.</n>Więcej informacji można</n>uzyskać w recepcji.
+A autenticação depende do <COL FILE_EMP>chip eletrônico</COLOR></n>inserido na pulseira, cujas permissões</n>podem ser alteradas com a troca do chip.</n></n>As pulseiras de visitante são concedidas a</n>familiares dos funcionários. Favor comparecer</n>à recepção para obter mais detalhes.
+내부에 장착된 <COL FILE_EMP>전자 칩</COLOR>에</n>따라 인증이 진행되며, 다른 전자 칩을 삽입하면</n>출입 등급을 바꿀 수 있습니다.</n></n>직원 가족들에게는 방문객용 손목</n>밴드가 제공됩니다. 자세한 내용은</n>안내데스크에 문의하십시오.
+手環裡的<COL FILE_EMP>電子晶片</COLOR>是認證的根據。</n>插入不同的電子晶片就能變更手環的</n>存取權限。</n></n>員工家屬可領取訪客手環。</n>詳情請洽詢接待處。</n></n>
+通过腕带中的<COL FILE_EMP>电子芯片</COLOR>进行认证。</n>插入不同的电子芯片</n>可以更改腕带的存取权。</n></n>职员家属可领取访客腕带。</n>详情请至接待处咨询。</n></n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

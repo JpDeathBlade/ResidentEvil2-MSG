@@ -1,0 +1,36 @@
+﻿ロッカー用の端末について
+Storage Locker Terminal Memo
+Note - Terminal des casiers
+Nota terminale armadietti
+Schließfachterminal-Notiz
+Circular sobre las taquillas
+Записка о пульте в кладовой
+Notatka dot. terminala szafki
+Sobre o Terminal dos Armários
+물품 보관함 단말기 관련 쪽지
+儲物櫃終端機備忘錄
+储物柜终端机备忘录
+現在、ロッカー開放用の端末のキーが、</n>いくつか破損しています。</n></n>キーを破壊した職員は、<COL FILE_EMP>予備キー</COLOR >を使用し、</n>“今すぐに！！”端末を修理してください。</n>（犯人はわかってるからな！　この馬鹿力！）
+It appears that the keypad to the lockers</n>terminal is missing a few keys. I suggest</n>that the person responsible for this mess</n>find some <COL FILE_EMP>spare keys</COLOR> and fix this RIGHT NOW.</n></n>(You know who you are, bastard. Who else'd fuck</n>it up this badly!?)
+Il semble que certaines touches manquent sur</n>le terminal des casiers. Je conseille au</n>responsable de trouver des <COL FILE_EMP>touches de rechange</COLOR></n>et d'arranger ça FISSA.</n></n>(Tu sais de qui je parle, enfoiré.</n>Qui d'autre aurait pu déglinguer ça ?)
+Sembra che al tastierino del terminale</n>degli armadietti manchino dei tasti.</n>Invito il responsabile a trovare dei</n><COL FILE_EMP>tasti di ricambio</COLOR> e a sistemarli al</n>più presto possibile.</n></n>(Sai a chi mi riferisco, coglione.</n>Chi altri farebbe un simile casino?)
+Auf der Tastatur des Schließfachterminals</n>fehlen einige Tasten. Der Verantwortliche soll</n><COL FILE_EMP>Ersatztasten</COLOR> besorgen und das UMGEHEND</n>REPARIEREN.</n></n>(Du weißt, dass du gemeint bist, du Dreckskerl.</n>Wer sonst würde solch einen Mist bauen?!)
+Parece que al teclado de las taquillas</n>le faltan algunas teclas. Sugiero que</n>quien sea responsable de este follón</n>encuentre <COL FILE_EMP>teclas de repuesto</COLOR> y lo arregle ya.</n></n>(Sabes quién eres, cabrón. ¿Quién si no</n>la cagaría de esta manera?).
+Похоже, что на клавиатуре пульта шкафчиков</n>отсутствует несколько клавиш. Предлагаю</n>тому, кто устроил этот бардак, ПОСКОРЕЕ</n>найти <COL FILE_EMP>запасные клавиши</COLOR> и починить пульт.</n></n>(Я знаю, кто ты, ублюдок.</n>Кто еще мог так обосраться?!)
+Wygląda na to, że w terminalu otwierającym</n>szafkę brakuje paru klawiszy. Proponuję, żeby</n>osoba odpowiadająca za ten stan rzeczy</n>poszukała <COL FILE_EMP>zapasowych klawiszy</COLOR> i naprawiła</n>to NIEZWŁOCZNIE.</n></n>(Wiesz, o kogo chodzi, draniu. Kto inny mógłby</n>tak coś spieprzyć?!)
+O teclado para o terminal dos armários está</n>com algumas teclas faltando. Recomendo que o</n>responsável por essa bagunça encontre <COL FILE_EMP>teclas</n>sobressalentes</COLOR> e conserte isso PRA JÁ.</n></n>(Você sabe que é você, desgraçado.</n>Quem mais faria uma merda enorme dessas?!)
+물품 보관함의 단말기 키패드에서 번호 몇 개가</n>사라졌네요. 이 일에 책임이 있는 사람은</n><COL FILE_EMP>여분의 열쇠</COLOR>를 찾아서</n>당.장. 고쳐주시기 바랍니다.</n></n>(나쁜 자식, 네 자신은 알고 있겠지.</n>너 아님 누가 이런 짓을 하겠어?!)
+看來儲物櫃終端機的鍵盤少了幾顆按鍵。我</n>建議造成這個爛攤子的人去找幾顆<COL FILE_EMP>備用按鍵</n></COLOR>回來，然後立刻把它修好。</n></n>（你這混蛋，還有誰會把它弄成這</n>樣！？）
+储物柜终端机的小键盘看来缺了几个按键。</n>我建议负责这个破东西的人去找到一些</n><COL FILE_EMP>备用按键</COLOR>，立马把问题解决了。</n></n>（谁搞坏的自己最清楚，混蛋。</n>是谁把这个破坏的如此严重！？）</n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

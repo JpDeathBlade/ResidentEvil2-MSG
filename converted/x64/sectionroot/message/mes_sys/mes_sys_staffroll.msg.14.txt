@@ -1,0 +1,1546 @@
+﻿CAPCOM CO., LTD.
+CAPCOM CO., LTD. Development Support
+ADIA Entertainment Ltd.
+AVANT Inc.
+BINARI SONORI A KEYWORDS STUDIO
+Kudos Productions Ltd.
+Original Force, Ltd.
+Main Title Sequence Created and Produced by Prologue
+T601 Inc.
+XPEC Art Center Inc.
+POWER ARTS international Co., Ltd.
+Himawari Theatre Group Inc.
+TOKYO MARUI CO., LTD.
+Wabisuke.inc,
+IZENE Inc.</n>INSPION
+CONNECT+ECHO Co.,Ltd.
+Just Cause Productions, Inc.
+Voice and MoCap
+SPIN SOLFA Co., Ltd
+Los Angeles Music Productions
+Tonic Function Co.Ltd.
+Forcewick Sound Design Co., Ltd.
+TOHOKUSHINSHA FILM CORPORATION
+Technicolor Games
+Digital Frontier Inc.
+NEURON AGE CO., LTD.
+KOBI Co., Ltd.
+Localizations Tools and Support provided by XLOC, Inc.
+Special Thanks : Monotype K.K.
+Font Design by Fontworks Inc.
+Font Design by Group Y Inc.
+DynaFont is a registered Trademark of DynaComware Taiwan Inc.
+Dedicated to Akio Kamiji
+Special Thanks
+The Harley-Davidson motorcycle appears with permission from Harley-Davidson Motor Company.</n>Harley, Harley-Davidson and the Bar & Shield logo are among the trademarks of H-D U.S.A., LLC
+Testronic
+The typefaces included herein are solely developed by DynaComware.
+Artbeats Digital Film Library
+Getty Images
+Visual Effects Stock Footage provided by FX Elements.
+Visual FX Stock Footage provided by Final Light Productions
+Resident Evil.Net
+Global Production
+Directors
+Art Directors
+Project Managers
+Vendor Managers
+Production Manager
+Release Manager
+Game Designers
+Dialogue / Text Managers
+Character Artists
+Rigging Artists
+Technical Artists
+Photoscan Engineer
+社外協力　VOLK社
+Body Scan Models
+Environment Artists
+Gimmick Artists
+Concept Artists
+Animation Artists
+Cinematic Animation Artists
+Facial Animation Artists
+VFX Director
+VFX Technical Artist
+Visual Effects Artists
+Lighting Artist
+UI Artists
+Graphic Design Artists
+Programmers
+RE ENGINE Staff
+Audio Director
+Sound Designers
+Composers
+Sound Programmers
+Dynamic Mixing Engineer
+Assistant Engineers
+Sound Studio Coordinator
+Foley Artist
+Cinematic Sound Designer
+Sound Manager
+Promotional Video Editors
+Promotional Video Assistants
+3D Scan Coordinators
+Video Engineer
+Motion Capture Operators
+Motion Capture Actors
+Package & Manual Designers
+Submission Coordinators
+Programmers
+Designers
+Planners
+Senior Manager
+Localization Direction
+English Localization / Editor
+FIGS Coordinator & Italian Localization
+Italian Editor
+Multi-language Coordinator and French Localization
+French Editor
+German Localization
+German Editor
+Spanish Localization
+Spanish Editor
+Solutions Developer
+Production Manager
+Kazunori Kadoi
+Yasuhiro Anpo
+Gez Fry
+Satoshi Takamatsu
+Tatsuo Isoko
+Keiji Matsunaka
+Tsubasa Miyamoto
+Tomohisa Suzuoki 
+Takanori Arai 
+Satomi Hayashi 
+Vilhelm Smari Isleifsson
+Mikhail Ignatov
+Takuma Uehigashi
+Hidehiro Goda
+Kohei Ozaki
+Keisuke Yamakawa
+Yuki Shinzato
+Atsushi Yasu
+Shogo Fujishima
+Yasuhiro Seto
+Genki Usui
+Dairo Chijiiwa
+Yukio Nishimura
+Satoko Tanaka
+Yosuke Yamagata
+Riccardo Minervino
+Yuichi Akimoto
+Go Nishimura
+Hirofumi Nakaoka
+Tsutomu Ono
+Petr Zapotocky
+Anoop Manalvathukkal
+Makoto Fukui
+Shuichi Kawata
+高橋
+Matthew Walker
+Jeffrey Windham
+David Cockman
+Miguel E. Corti
+Yoshitsugu Tanaka
+Kenji Inotsume
+Hiroto Teraoka 
+Yasuaki Kishimoto
+Haruka Mine
+Takahide Sunagawa
+Hongju Shin
+Lin Chiming
+Junichiro Nakashima
+Tetsuya Deguchi
+Chikako Kijima
+Daisuke Taneda
+Minami Tamura
+Tomonori Takano
+Tomoko Takahashi 
+Ward Lindhout
+Yuki Yanagimoto
+Yukio Seike
+Masaya Ueda
+Masafumi Kimoto
+Yuichi Hasegawa
+Masahiko Ueda
+Syofu Ohashi
+Tsuyoshi Kobayashi
+Yoshiki Takegaki
+Maya Murata
+Masato Miyazaki
+Tetsuhei Asano
+Yuki Hasegawa
+Tomohiro Nakano
+Seiichi Shibata
+Keiko Kamekawa
+Hiroko Ihara
+Yukiya Tomiyama
+Yo Ikeda
+Yoshiki Adachi
+Koshi Watamura
+Keisuke Ando
+Zihao Hu
+Seitaro Takai
+Takehisa Obayashi
+Yuya Nishimura
+Yuka Chi
+Masanari Murakami
+Masahiro Takayama
+Moe Kataoka
+Rikako Onozawa
+Saki Kawano
+Tomohiro Goto
+Dai Tanaka
+Masatoshi Fukazawa
+Takefumi Tahara
+Hiroto Makiyama
+Takuya Nakano
+Yuki Sekino
+Kazuki Sakakibara
+Yasuto Tsuchisaka
+Soki Nakao
+Fuya Oyachi
+Yosuke Noro
+Yoshiatsu Sakabe
+Shimpei Tanaka
+Koetsu Matsuda
+Shigeki Niino
+Tomofumi Ishida
+Kazuhiro Takahara
+Stefanus Nanami
+Kenta Yamaki
+Yusuke Ichiyama
+Haruna Akuzawa
+Takakimi Hashimoto
+Takumi Yamada
+Takumi Sato
+Haruki Noritake
+Soichi Uchiyama
+Tomohiro Shimizu
+Takaya Nishii
+Tsukasa Murayama
+Adam Clapsaddle
+Kohei Jin
+Hiroki Sone
+Ukyo Yoshida
+Katsuya Kikuchi
+Yusuke Saito
+Naoki Suenaga
+Daisuke Yagyu
+Atsuhiko Murata
+Masashi Okubo
+Hitoshi Yokota
+Shingo Ito
+Masatoshi Nakamura
+Juhui Wu
+Seiya Kato
+Haruki Shimizu
+Kentaro Nakashima
+Yoshito Kato
+Shohei Miyata
+Shotaro Nakayama
+Shusaku Uchiyama
+Zhenlan Kang
+Yusuke Kinoshita
+Kenji Kojima
+Masahiko Minami
+Kazuya Takimoto
+Ryouta Takei
+Takashi Moriguchi
+Setsuo Yamamoto
+Takeshi Kitamura
+Arata Iwashina
+Naoya Yamanaka
+Yoshihiro Kura
+Akira Tsumuraya
+Yukiko Sasaki
+Manami Kitatani
+Takahiro Takahashi
+Takeshi Nose
+Yoshiyuki Tonoe
+Yuki Hoshino
+Katsumi Kobayashi
+Ikuo Nakayama
+Naoki Fujisawa
+Takeshi Nose
+Yoshiaki Yuasa
+Masatoshi Fukidome
+Naoyuki Tsuchiya
+Shinichiro Komizu
+Kenji Yamaguchi
+Nobuya Yoshizumi
+Kotaro Fujioka
+Takehiro Kida
+Naotaka Onishi 
+Andrew Weil 
+Yuta Hayashi
+Koichi Okada
+Hiroyuki Yamato
+Shunichi Mine
+Hidekatsu Tetsuda
+Tatsuya Ogawa
+Seiya Iwasaki
+Masaki Sugimoto
+Tadashi Noyama
+Yuya Kuroyabu
+Alberto Paque Ramirez
+Troy Smith
+Qi Yanlan
+Yoshiaki Sakurai
+Shinji Umemoto
+Miyuki Yakushiji 
+Tomohiro Fujimoto
+Akihiro Koketsu
+Kota Tsuchikawa 
+Akio Kamiji 
+Shozo Horiuchi
+Kohei Okumura
+Kei Sasaki
+Akihiko Nasu
+Yoshihiro Tamura
+Sayuri Shintani
+Naruhiko Nishio
+Joosook Eom
+Kohei Tomita
+Sasuke Nakano
+Akiko Shibata
+Yunju Jo
+Yuiko Hirakuchi
+Shintaro Washino
+Kohei Shiomi
+Hiroki Ogawa
+Haruka Fujie
+Masaki Sugita
+Mai Takeda
+Eul Noh
+Kanu Akamatsu
+Kazuya Takei
+Kei Hashimoto
+Satoshi Ueda
+Masahiro Yamada
+Kohetsu Matsuda
+Toshiaki Yonezawa
+Hiroshi Omachi
+Ryosuke Sakai
+Aya Kamimura
+Michiaki Masuda
+Daisuke Sanekane
+Masaaki Korematsu
+Akiyoshi Takahashi
+Hitoshi Mishima
+Yuki Noto
+Koichi Kubo
+Hong Hu
+Akihiro Shimizu
+Tatsuya Okamoto
+Shunsuke Saito
+Tatsunori Aoyama
+Sho Kitami
+Ojiro Tanaka
+Seiya Sugo
+Yoshimi Matsukawa
+Ryota Imazumi
+Takanori Senbon
+Taiga Yano
+Ginga Kato
+Yuki Kitajima
+Masakazu Sakoya
+Yuki Furuta
+Gustavo Martins
+Hideki Shiojiri
+Isao Higashino
+Koji Misu
+Daigo Matsuura
+Katsuya Chiba
+Kazuma Mori
+Masataka Nemoto
+Yuki Asakura
+Taisuke Fujisawa
+Tsunenori Shirahama
+Masahiro Nakano
+Tsuyoshi Nagae
+Hiroshi Yamaguchi
+Takuya Kamiura
+Di Xi
+Yusuke Hayashi
+Tetsuji Uchida
+Yasuyuki Okura
+Naoki Ohsawa
+Shinya Fujiwara
+Shuhei Fujiwara
+Christopher Narita
+Shogyoku Gen
+Jeffrey Windham
+Miguel E. Corti
+Janet Hsu
+David Cockman
+Luca Baldassarre
+Stefano Ivan Stinga
+Ugo Ricard
+Francis Ishii
+Maurice Ossenbrink
+Florian Seidel
+Manuel Trillo Carmona
+Alberto Paqué Ramírez
+Graham McRobbie
+Mikhail Ignatov
+Wataru Hachisako
+Kentaro Inamura
+Yuji Higashiyama
+Nao Tanimoto
+Mayuko Mizuno
+Hiroto Yanase (K2 CO., LTD.)
+Mitsunori Sasaki (K2 CO., LTD.)
+Rei Orita (K2 CO., LTD.)
+Yoshinori Saitou (K2 CO., LTD.)
+Shinji Umemoto (K2 CO., LTD.)
+Junichiro Nakashima (K2 CO., LTD.)
+Shouzou Horiuchi (K2 CO., LTD.)
+Tetsuya Deguchi (K2 CO., LTD.)
+Takeshi Inoue (K2 CO., LTD.)
+Yasushi Haraguchi (K2 CO., LTD.)
+Yuto Nakagawa
+Akio Chuma
+Ryo Hirai
+Sarina Takeda
+Ayako Yoshioka
+Dairo Yoshihisa
+Qi Yanlan
+Yuki Shimono
+Rika Ninomiya
+Division Managers
+CAPCOM CO., LTD. Sales and Marketing Teams
+CE EUROPE LTD.
+CAPCOM ENTERTAINMENT FRANCE, SAS
+CAPCOM ENTERTAINMENT GERMANY GmbH
+CAPCOM U.S.A., INC.
+CAPCOM ASIA CO., LTD.
+CAPCOM ENTERTAINMENT KOREA CO., LTD.
+Quality Assurance
+Legal Section
+Intellectual Property
+Contract Teams
+Video Content Team
+Executive Project Manager
+Senior Project Manager
+Executive Vendor Manager
+Deputy General Managers
+Senior Managers
+Back Office
+Global Business Development and Strategy Department
+Global Business Development Team
+Global Business Strategy and Planning Team
+External Affairs Section
+Global Marketing Strategy & Planning Department
+Japan & Asia Marketing Strategy Section
+Brand Strategy Team
+Online Strategy Team
+Consumer Games Sales Department
+Sales Planning Section
+Sales Promotion Team
+E-Commerce Team
+Promotion Planning Section
+Brand Promotion Team
+Interactive PR Team
+Character Contents Business Development Section
+Media License Team
+License Team
+Merchandise Management Team
+Asia Business Section
+Asia Business Development Team
+License Development Team
+CEO
+COO
+Commercial Director
+Marketing Director
+Director, Business Services
+Brand Manager
+Community Manager
+PR Manager
+Legal Manager
+Business Coordination Manager
+Production Services Manager
+Production Services Coordinator
+Research & Planning Manager
+Research & Planning Assistant
+Marketing Services Manager
+Special Project Manager
+Digital & Mobile Sales Manager
+Digital Sales Account Manager
+Account Manager
+Sales Manager
+Marketing Manager
+Communication Manager
+Commercial Director
+Marketing Manager
+PR Manager
+Products & Events Manager
+Community Manager
+Sales Manager
+Sales & Marketing Coordinator
+Chief Executive Officer
+Senior Director, Marketing
+Brand Manager, Marketing
+Brand Manager, Marketing
+Administrative Assistant, Marketing
+Senior Director, Communications
+Senior PR Manager
+PR Manager
+Social Media Specialist
+Customer Support Representative
+Director, Divisional Communications
+Project Manager
+Vice President, Sales
+National Sales Director
+Area Sales Managers
+Senior Vice President, Digital Platforms
+Director, Digital Platforms
+Digital Account Manager
+Business Development Specialist
+Business Strategy Analyst
+Director, Licensing & eSports
+Associate Director, Licensing
+Licensing Operations Manager
+Associate Licensing Manager
+Business Development Manager
+Associate Manager, Strategic Planning
+Director, Marketing Operations, Events & Creative Services
+Events Manager
+Director, Product Operations & Submissions
+Associate Project Managers
+Development Support Technician
+Vice President, Operations
+Senior Operations Manager
+Operation Support Specialist
+Vice President, General Counsel, Legal
+Corporate Counsel, Legal
+Brazil Territory Director, Sales & Marketing
+Brazil PR Manager
+Brazil Community Manager
+Sales & Marketing Director
+Business Development Manager
+Marketing Manager
+Marketing Coordinator
+Marketing Executive
+Management Department
+Lead Tester
+Assistant Lead Testers
+Senior Testers
+Compliance Testers
+Network Testers
+Testers
+QA Manager
+Quality Verification Section
+Progress Control Team
+Contents Analysis Team
+Legal Team
+Trademark & Copyright Team
+Patent Team
+Osaka R&D Contract Team
+Tokyo R&D Contract Team
+Promotion Producer
+Producers
+Executive Producer
+Research Analyst
+Makoto Kadono
+Hiroyuki Chi
+Yoshizumi Hori
+Hayato Kaji
+Masachika Kawata
+Hirokazu Yonezuka
+Yasutaka Hori
+Tetsuto Koyama
+Megumi Mizobuchi
+Kenji Kataoka
+Kaoru Miyamoto
+Masayuki Fukumoto
+Moto Shinobe
+Kosuke Nakano
+Motohisa Tezuka
+Ayumu Terada
+Kunio Funahara
+Shinichi Sato
+Mototaka Ido
+Yukihisa Yamaguchi
+Tsutomu Masuda
+Akihiro Kobayashi
+Hironori Sasaki
+Kouhei Kubota
+Norio Tanaka
+Hitoshi Oose
+Tsukasa Fujita
+Koichi Nishiguchi
+Hideki Ohnuki
+Nobuhiko Kobayashi
+Kenta Yamada
+Kaori Uchida
+Mitsuaki Sugibayashi
+Kana Urasawa 
+Tetsuya Tabuchi
+Isao Kimura
+Manabu Okamoto
+Jun Matsumoto
+Sai Ogata
+Hironori Ojima
+Teruyuki Yoneyama
+Kenji Kato 
+Masahide Akitake
+Noriomi Ito
+Naoto Minamide
+Aki Kiuchi
+Shuji Kawasaki
+Kenichi Tanaka
+Tetsuya Ohno
+Taku Arai
+Jihae Choi
+Mareo Yamada
+Kunio Neo
+Stuart Turner
+Andy Davis
+Antoine Molant
+Shigemi Tanaka-Lee
+Stefano Barolo
+Kristina Markez
+Laura Skelly
+Yuma Nakanishi
+Patrick Shields
+David Haddon
+Amy Oliver
+Simon Haley
+Tiffanie Zheng
+Carlene Honiss
+Kim McCauley
+Matt Glover
+Anthony Darling
+James MacPearson
+Cynthia Lehnhard
+Emmanuel Melero
+Cyril Berrebi
+Kai Stüwe
+Matthias Mirlach
+Claas Wolter
+Claudia Awe
+Stefanie Pirsich
+Christian Patrini
+Giulia Bongiovanni
+Kiichiro Urata
+David Zemke
+Mike Lunn
+Tim Turi
+Vincent Kwong
+Alicia Kim
+Angella Austin
+Stephanie Palermo
+Kellen Haney
+Patrick Kulikowski
+Kaori Tsukuda
+Ted Tsung
+Debbie Mola
+Dean Taraboi
+Kathy Kackley
+Karl Kabler
+William Yagi-Bacon
+Mai Kawaguchi
+Danh Huynh
+Yohko Kawakami
+Ayuko Suzuki
+John Diamonon
+Noriko Matsunaga
+Susan Suarez
+Bao Le
+Sakae Osumi
+Yuya Goda
+Laili Bosma
+Joshua Collard
+Jon Airhart
+Matt Landi
+David Marques
+Michael Desenganio
+Louie Reyes
+Edmund Wong
+Sachiyo Llamas
+Hiro Tachibana
+Dara Ashrafi
+Jean Toledo
+Fabio Santana
+Dennys Michelassi
+Alex Ng Ka Wai
+Franky Lo Siu Fa
+Carrie Lam Ying Ying
+Sonia Chan Lok Yiu
+Kyra Yeung Ting Kwan
+Kim Jin Wook
+Hiroshi Takayama
+Akinori Murata
+Masato Namba
+Kenjiro Miyamae
+Keita Nakajima
+Satoshi Ishiguchi
+Daisuke Murayama
+Koki Kojima
+Masamitsu Kusaba
+Masahiro Fujita
+Hiroki Kaneko
+test
+Kengo Sadamoto
+Shiro Hiwatashi
+Mari Fujita
+Toshiki Kuroda
+Yuria Hiraoka
+Shion Amita
+test
+test
+test
+Mitomu Michinoshita
+Shinichi Watanabe
+Ayana Nakamura
+Sayaka Kibino
+Maki Fujita
+Daichi Kitagawa
+Syougo Wada
+Ryoga Okada
+Daiki Okada
+Kazuki Nii
+Kaoru Okutani
+Yuta Yabuuchi
+Shigeyoshi Kuwamura
+Shigemi Komatsu
+Yasuhiro Matsuo
+Kenichi Noda
+Takaaki Maeno
+Kenji Morino
+Takahiro Tokuda
+Takanobu Nishino
+Minoru Horike
+Yusuke Kojima
+Takaaki Tanaka
+Satoru Ishigooka
+Makiko Nakamura
+Yuki Shimada
+Takashi Chiba
+Miki Owa
+Yuko Yasuda
+Kenji Yamada
+Takashi Chihara
+Issei Tsuhara
+Satoshi Kawakami
+Shigeyoshi Kobayashi
+Kyosuke Takahashi
+Naoki Yamauchi
+Jun Nishino
+Daiki Arai
+Yuki Tanaka
+Shota Nakajima
+test
+test
+test
+Shota Iida
+test
+test
+Asuka Kurano
+test
+Kyouhei Wada
+Ryota Aizawa
+test
+Ryoga Okada
+Yosuke Iino
+Wataru Mori
+Kosuke Kawamoto
+Mina Araki
+Nana Watabe
+Keisuke Yamaoka
+Takuya Nomura
+Natsumi Nagaoka
+test
+test
+Susumu Kobayashi
+Takashi Ikeda
+Teppei Shimode
+Toshikazu Morita
+Tomoaki Kamaura
+Ippei Arikawa
+Kazuhiro Asami
+Yuto Komori
+Mami Maeda
+Kana Onozawa
+Peter Fabiano
+Yoshiaki Hirabayashi
+Tsuyoshi Kanda
+Jun Takeuchi
+Kazuyuki Takano
+Koichiro Shimura
+English Voice Cast and MoCap
+Japanese Voice Cast
+French Voice Cast
+Italian Voice Cast
+German Voice Cast
+Spanish Voice Cast
+Leon S. Kennedy
+Claire Redfield
+Ada Wong
+Sherry Birkin
+Marvin Branagh
+Brian Irons
+Annette Birkin
+William Birkin
+Additional Voices
+Nick Apostolides
+Stephanie Panisello
+Jolene Andersen
+Eliza Pryor
+Christopher Watson
+Sid Carton
+Karen Strassman
+TJ Rotolo
+Kenneth Edwards
+Michael Bailey
+Mark Musashi
+Michelle Lee
+Luke Lafontaine
+Aaron Hawley
+Charles Isaac
+David Roach
+Todd Haberkorn
+Becky Boxer
+Heather Halley
+Tom Keegan
+David Vincent
+Christian T. Chan
+Reuben Langdon
+Jason Downs
+Lauren Anchel
+Courtney Munch
+David Vaughn
+Chris Jai Alex
+Jay Preston
+Molly Daisy
+Derron Ross
+Toshiyuki Morikawa
+Yuhko Kaida
+Junko Minagawa
+Rio Sasaki
+Fuminori Komatsu
+Akio Hirose
+Marika Hayashi
+Toshihiko Seki
+Kenji Takahashi
+Hideki Tanaka
+Masaki Terasoma
+Ryunosuke Watanuki
+Mana Hirata
+Takehiro Hasu
+Kenji Yoshida
+Atsushi Imaruoka
+Atsushi Imaruoka
+Test
+Wataru Tsuyuzaki
+Daisuke Takahashi
+Kenji Takahashi
+Ryunosuke Watanuki
+Wataru Tsuyuzaki
+Katsutoshi Karatsuma
+Shunichi Mine
+Yuki Shinzato
+Janet Hsu
+Peter Fabiano
+Anatole de Bodinat
+Kelly Marot
+Olivia Nicosia
+Clara Soares
+Daniel Lobé
+Achille Orsoni
+Ingrid Donnadieu
+Raphaël Cohen
+Laurent Sao
+Olivier Cordina
+Jérémie Bédrune
+Julien Meunier
+Sandra Parra
+Eric Peter
+Adrien Larmande
+Jean-François Cros
+Jean Rieffel
+Fanny Bloc
+Laurent Gris
+Loïc Houdré
+Nicolas Djermag
+Hugues Martel
+François Hatt
+Alessandro Rigotti
+Emanuela Pacotto
+Patrizia Scianca
+Tiziana Martello
+Mattia Bressan
+Giuseppe Pirovano
+Marcella Silvestri
+Marco Benedetti
+Massimo Di Benedetto
+Gianluca Iacono
+Roberto Palermo
+Matteo De Mojana
+Francesca Perilli
+Domenico Brioschi
+Edoardo Lomazzi
+Silvio Pandolfi
+Luca Sandri
+Valentina Pallavicino
+Alessandro Lussiana
+Maurizio Trombini
+Francesco Rizzi
+Mario Nutarelli
+Alessandro Zurla
+Matthias Keller
+Leyla Trebbien
+Sabina Godec
+Ruth Hamm
+Gilles Karolyi
+Gordon Piedesack
+Gisa Bergmann
+José Rodriguez
+Fabio Sorgini
+Mario Hassert
+Dieter Gring
+Manuel Francescon
+Katrin Laksberg
+Patrick Dollmann
+Nils Weyland
+Heiko Grauel
+Markus Haase
+Verena Dienst
+Stefan Senf
+Andreas Otto
+Christian Jungwirth
+Michael Krüger
+Klaus Krückemeyer
+Lorenzo Beteta
+Ana de Castro
+Conchi López
+Piluca Martín
+Óscar Castellanos
+Juanjo López
+Inma Gallego
+David Robles
+Rodri Martín
+Alfredo Martínez
+Antonio Domínguez
+Álvaro Ramos
+Laura Barriga
+Javier Martínez
+Artur Palomo
+José María Larrú
+Fran Jiménez
+Vera Bosch
+Sergio Goicoechea
+Fermín Pintos
+Carlos López Benedí
+Carles Caparrós
+Héctor Garay
+President & CEO
+Business Development Manager
+Senior Producer
+Producer
+Art Directors
+Artists
+Yaming Di
+Makoto Hasegawa
+Myra Xu
+Kiddo Zhang
+Carl Chen
+Wan Jinkui
+Zhu Yanan
+Yang Kaibin 
+Cai Yongyan 
+liu Peipei
+Hu Linxiao 
+Zhang Shuai
+Zhang Wei 
+Si Lingling 
+Lu Jun
+Chen Shihong
+Motion Designers
+Eisaku Onishi
+Hiroto Suzuki
+Moegi Funada
+Project Managers
+Language Specialist
+Audio Project Lead
+Giuseppe Barra
+Elena Giudici
+Francesco Panfili
+Marco Locatelli
+Roberto Rizzi
+GM
+AD
+PM
+3D Artists
+Edward Yeh
+Bida Wang
+Eric Yeh
+Stan Huang
+Stacey Huang
+Don Huang
+Emit Lin
+Junlong Kuo
+TungJu Shen
+Yuchi Yang
+Alan Lan
+Maverick Chen
+JH Sung
+Nomay Hunag
+I-Chen Lin
+Ming Su
+Weitin Yu
+Jim Lin
+Niki Pan
+JS Chen
+DouDou Zhuang
+Producer
+Project Managers
+Project Lead
+Animation Supervisor
+Production Lead
+Facial Animators
+Body Animators
+Quality Check
+Daria Gu
+Agnes Wang
+Clio Qin
+Yunpeng Jiao
+Qian Zheng
+Ruixiang Hu
+Ning Du
+Qijuan Lu
+Lie Wei
+Yong Hua
+Haiyu Ren
+Binghuan Lu
+Qingzhe Qiu
+Yingzheng Shen
+Xiaoxiao Zhang
+Jiakang Xu
+Jiaming Xu
+Xiaoyun Xu
+Peilei Yang
+Zhenqiu Liu
+Kang Yin
+Yuezhong Chen
+Zhibo Tian
+Zhiwei Geng
+Creative Director / Designer
+Concept Design Artist
+Lead Animator
+3D Modeling, Animation, Compositing by
+Post Production Supervisor
+VFX Producers
+Production Coordinator
+Edited by 
+Executive Creative Director
+Executive Producer
+Olga Midlenko
+Mike Zeng
+Takayuki Sato
+Giantstep
+Gary Mau
+Elena Orlova
+Clea Newman
+Kyle Cooper
+Shawn Fedorchuk
+Kyle Cooper
+James Kang
+Director / Editor
+Producer
+Shinji Yamada
+Yoshiteru Yamamoto
+XAC Kaohsiung Studio
+XAC Suzhou Studio
+XAC Taipei Studio
+Project Managers
+Art Director
+Lead Artists
+Artists
+Project Manager
+Model Leader
+Texture Leader
+Animation Leader
+Artists
+Animators
+Chairman
+Business Development Manager
+Art Director
+Project Managers
+Animators
+Ilin Hsu
+Stacey Lo
+Lucien Chao
+Dexter Chen
+Liana Chang
+Mengju Tsai
+Yenming Ting
+Brush Tsai
+Tndoys Wang
+Abbi Yan
+Daniel Huang
+Joy Huang
+Bruce Kuo
+Shihchieh Su
+Yilin Wu
+Woody Pan
+Yuling Huang
+Max Yeh
+ChenWen Chen
+Arthur Huang
+Chu Hsieh
+YuTing Peng
+Seki Shi 
+Yong Liu
+Yan Liu
+Xiao Jiang
+XiaoYan Han
+Sheng Yu
+YanNi Qiu
+JiWei Fan
+Lei Zhou
+Jun Ding
+NingBo Cheng
+ChunJie Wang
+JingHuan Hua
+XiaoLei Hao
+Yan Zhang
+Yan Hu
+Gordon Lin
+David Kao
+Indiing Li
+Ilin Hsu
+Yuuta Chou
+Che-Kai Chang
+Kun-Kit Ao
+Chia-Wei Peng
+Hung-Chun Li
+Jun-Wei Luo
+Wei-Tse Hong
+Justin Lin
+Shane Chao
+Dora Yeh
+JieLong Tsai
+Yafang Hsueh
+Tim Lee
+Yuchi Chen
+HaoZhong You
+Nancy Fang
+Chienhui Hung
+Pei Yun
+Minghsuan Cheng
+Jianfan Lin
+Daphne Xiao
+ZhongHui Li
+JuanJuan Wang
+WenYu Jiang
+Lei Chen
+BingBing Wang
+Heng Zhao
+JingKui Hao
+Jian Zhang
+Chung-Ching Cheng
+Yuan-Ching Cheng
+Fang-Ju Yeh
+Ting-Tao Hung
+Jack Fu
+Performers
+Keita Hayashi
+Hirotaka Matsushita
+Yujiro Nomura
+Eko Okuyama
+Shogo Hagiwara
+Actors
+Emiru Taguchi
+Yuki Takagi
+President
+Senior Managing Director
+Sales & Publicity Dept. Assistant Manager
+Takahiro Iwasawa 
+Shigeru Iwasawa
+Masaru Shimamura 
+Cast
+Casting Coordinator
+Tsubasa Tada
+Miki Koyama
+Daichi Miura
+Chihiro Hoshibata
+INSPION Sound Supervisor
+Composer
+Sound Designers
+Takeshi Kuramochi
+Yuichi Tsuchiya
+Shoichi Hiyama
+Tomoya Nakajima
+Rui Ouchi
+Masahiro Izumi
+Composer
+Sound Engineers
+Sound Designer
+Sound Designer
+Sakiko Sakuragi (OMFACTORY)
+Su-kei Oshima (OMFACTORY)
+Hiroshi Watanabe
+Makoto Shozu (FLIGHTGRAF)
+Kazuki Kitamura
+FULL PERFORMANCE CAPTURE - CREW
+Producer
+Cinematic Director
+Cinematic Director / Stunt Coordinator
+Animation Motion Capture Supervisor
+Animation Supervisor
+Animators
+Facial Animator Supervisor
+Facial Animators
+Lighting Artist
+Technical Support
+Production Assistants
+Animator
+Lighting Artists
+Animator
+Script Adaptation
+Storyboard Artist
+Cinematic Performance / Voice Over / ADR Director
+Producer
+Producer / Script Supervisor
+Producer / AD / Casting Director
+Studio Manager
+Casting Director
+Motion Capture Supervisor
+Motion Capture Operators
+Motion Capture Tech
+Stunt Coordinator
+Prop and Set Supervisor
+Prop and Set Assistant
+Sound Recording Engineer / Editor
+Sound Assistant
+Sound Recording Engineer
+Reference Camera Operators
+Facial Capture Assistant
+Chief Facial Make up
+Assistant Facial Make up
+Raptor Operator
+Raptor Operators / MoCap PA
+MoCap PA
+Studio Teachers
+Facial Capture Executive Producer
+Facial Capture Supervisor
+Facial Capture Production Coordinator
+Motion Capture Designers
+Takuya Shibata
+Masanori Kobayashi
+Ken Ohara
+Masaaki Bizen
+Hiroshi Ito
+Tomonori Hirata
+Takahiro Nakada
+Yuta Takemoto
+Yutaka Ishida
+Mayuko Shibata
+Masaaki Ida
+Aoi Nishigami
+Miyuki Munekane
+Xiao Gang Pang
+Yuika Nakajima
+Yoriko Komura
+Sunao Sato (FLAME, Inc.)
+Kazuki Matsuo (FLAME, Inc.)
+Hsiaoyuan Su (FLAME, Inc.)
+Tomonari Wakiyama (Thoris, Inc.)
+Brent Friedman
+Takeshi Miyazawa
+Tom Keegan
+Daniel C.C. Chen (Rouge Mocap)
+Kumiko Ogawa (Rouge Mocap)
+Mari Ueda (Rouge Mocap)
+Eiren Chong (Rouge Mocap)
+Mari Ueda
+Dennis "DJ" Hauck
+Joshua Guenard
+Gabriel Romero
+Tony Vogel
+Ken Ohara
+Andrew Burger
+Chia Yi Kay Wang
+Julian Beeston
+Jennifer Zhang
+Jamison Boaz
+Teruhisa Yoshida
+Jeremy Asuncion
+Frank De La Cruz
+Carissa St. Rose
+Heddie Sinatra
+Sai Ito
+Kyosan King
+Tyler King
+Tsubasa Hamano
+Jack Stern
+Pam Wood
+Sigtor Kildal (GOODBYE KANSAS STUDIOS)
+Nils Lerin (GOODBYE KANSAS STUDIOS)
+Mitra Ashkan Far (GOODBYE KANSAS STUDIOS)
+Shigeaki Nunokawa (Dynamo Pictures, Inc.)
+Motohiko Yoshimura (Dynamo Pictures, Inc.)
+Yoshiko Koyama (Dynamo Pictures, Inc.)
+Takuma Kaneko (Dynamo Pictures, Inc.)
+Composer
+Coordinator
+Assistant Coordinator
+Baritone
+Recording Engineer
+Assistant Recording Engineer
+Tadayoshi Makino
+Masako Suga (Harmonics International Co., Ltd.)
+Ayumi Natsume (Harmonics International Co., Ltd.)
+Motoi Oiwake
+Kazuhiko Misumi (Studio TonMeister)
+Yui Ogushi (Studio TonMeister)
+Music Title "SAUDADE"
+Music by
+Words by
+Produced by
+Vocals
+Guitar
+Bass
+Drums
+Mixed by
+Assistant Mix Engineer
+Mixing Studio
+Recording Engineer
+Recording Assistant
+Recording Studio
+Production Assistant
+Music Director and Music Production Supervisor
+Cody Matthew Johnson
+Shim
+Shim
+Cody Matthew Johnson
+Jeff Rona
+Jeff Rona
+Cody Matthew Johnson
+Shim
+Peter DiStefano
+Cody Matthew Johnson
+Cody Matthew Johnson
+Elmo Lovano
+Mark Needham
+Tyler Spratt
+Red Oak Studios, Los Angeles, CA
+Ethan Mates
+Alejandro Baima
+Sphere Studios, Los Angeles, CA
+Alec Justice
+Koyo Sonae
+Coordinator
+Takayasu Sodeoka
+Sound Editors
+Masayuki Endou
+Masayoshi Umezu
+Ryo Inakura
+Recording Directors
+Japanese Translators
+Recording Coordinators
+Sound Editor
+Recording Studio
+test
+Keiichiro Miyoshi
+Akane Maeda
+Mizuki Nobata
+Hiroko Tokuda
+Mai Sasai
+Taisuke Hyuga
+Yo Nishiyama
+Taro Yamaoka
+Yukinori Takada
+test
+Studio Uni
+test
+test
+VP - Creative Animation & Games
+Head of Production
+Creative Director
+Producer
+Department Director
+Animation Supervisor
+Senior Artists
+Artists
+Line Producer
+Production Coordinator
+Owen Hurley
+Kumar Chandrasekaran
+Sean Mullen
+Prithi Amarnath
+Selvam Venkatesan
+Guruprasad Kochukrishnan
+Shiyam Kumar
+Anoop Augustin
+Vivek MG
+Srikanth Cheedey
+Rakesh Narayan
+Mithun Monga
+Syed Rafiq Ali
+John Paul
+Kasi Medidi
+Hussain Basha D
+Austin John
+Rahul Babu Kannikara
+Srinivas Prasad Jidagam
+Chandra Mouli Y
+Sanjeev Reddy P
+Sunny Raj
+Krishnendu Bikash Maity
+Nagarajan Madackan
+Abhijit Karmakar
+Prashant Dewangan
+Muralidharan Ravi
+Shivam Pandey
+Lakshmipathi Raju
+Digital Frontier (Taiwan), Inc.
+TYUTYU Co., Ltd.
+CG Producers
+CG Director
+Production Manager
+Coordinators
+Animation Supervisor
+Animation Artists
+Lighting Artists
+Technical Directors
+R&D Artists
+System Administrators
+Production Managers
+Animation Artists
+Storyboard Artists
+Yusaku Toyoshima
+Yoichiro Tajiri
+Yasushi Kawamura
+Miho Saneto
+Susumu Fujihara
+Takao Muraoka
+Yumiko Kano
+Misuzu Tanaka
+Yukinobu Fujimatsu
+Kohei Yamaguchi
+Naoki Kurokawa
+Shinichiro Hata
+Shuichi Osawa
+Hyeokjin Kim
+Tomoyo Ikegami
+Haruka Ishida
+Ryo Tomomura
+Yoshiki Yamamoto
+Yasushi Yamaguchi
+Atsushi Morimoto
+Takahiro Nishigaki
+Hiraku Fukuda
+Yutaro Sawada
+Makoto Morita
+Yoshihiro Tamura
+Shoko Matsufuji
+Takahiko Kurachi
+Haruka Matsumoto
+Soichiro Kuroki
+Leow Wei Liang
+Yutaka Inoue
+Hitoshi Miyake
+Wataru Senzaki
+Sake Li
+Mirng-Lour Chueh
+Grass Chao
+Jia-He Ye
+Lakey Liu
+Moffie Chang
+Ricky Chen
+Jasper Yu
+Chiling Chen
+Yi-Hung Liu
+Yu-Chin Ho
+Yu-Chen Cho
+Tomokazu Ohara (TYUTYU Co., Ltd.)
+Chisaki Sato (TYUTYU Co., Ltd.)
+Event Scene Artists
+Kanae Onishi
+Yui Kada
+Casting & Costume General Manager
+Costume Production Managers
+Costumer
+Make-up Artists
+3D Scan Models
+Modeling Agencies
+Yohei Mori
+Tomoyuki Takahashi (VOLK TACTICAL GEAR)
+Yoshio Komatsu (Amazing Studio JIYURO)
+Keiji Ando (Amazing Studio JIYURO)
+Toru Hane (Amazing Studio JIYURO)
+Yukari Honda (OFFICE MYUU)
+Yuki Kishimoto (OFFICE MYUU)
+Adriana
+Eduard Badaluta
+Arno LeGall
+Margarita Chirkova
+John Owens
+Leigh Carmichael
+Zumpano Maurizio
+Hannah Kincaid
+Anya
+Edward L. Papazian
+ACQUA MODELS
+AVOCADO Inc.
+d'Xim Ltd., Co.
+KM Kikaku Inc.
+Levar Boutte
+Ram Avtar
+Małgorzata Dittmar 
+Laz B
+Yann Takagi 
+Katya Sostanovskaya
+David Marie
+Ryan Drees
+Shailee Namiki
+Yoshiyuki Higashino
+Mitsuhiko Takano
+Derron Ross
+Kally Khourshid
+Jonathan Berry 
+Anthony Romero
+Hiroaki Take
+Marika Suzuki
+Mark Reichwein
+Michael Joseph
+Anthony Nanakornpanom
+Justin Pittman 
+Kei Yamazaki
+Invader Studios S.r.l.
+Hideki Kamiya & Original Development Team
+QA Director
+Head of Pre-Production
+LQA Manager
+LQA Project Manager
+LQA Project Lead
+Polish LQA Technicians
+Russian LQA Technicians
+Brazilian Portuguese LQA Technicians
+Korean LQA Technicians
+Simplified Chinese LQA Technicians
+Traditional Chinese LQA Technicians
+Head of LQA
+Erik Hittenhausen
+Julian Mower
+Gaelle Caballero
+Jouhaina Ramy
+Marta Cannilla
+Michał Świechowski
+Jan Koczorowski
+Valeriia Romaniuk
+Witalij Sośnicki
+Kerim Hudayberdiyev
+Rebeca de Oliveira Conceição
+Eduardo Manetti
+Kyunghee Jung
+Grace Yoon
+Ding Xia (Eric)
+Jinrong Yan
+Charles Chou
+Lily Ngan
+Edward Buffery

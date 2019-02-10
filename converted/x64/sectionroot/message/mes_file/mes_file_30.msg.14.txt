@@ -1,0 +1,36 @@
+﻿備品の廃棄届
+Equipment Disposal Notice
+Destruction d'équipement
+Nota smaltimento attrezzatura
+Entsorgungsnotiz
+Eliminación del equipo
+Уведомление об утилизации
+Informacja o utylizacji
+Notificação de Descarte
+장비 파기 통지
+裝備廢棄公告
+设备处理通知
+物品：</n>車両番号7439の鍵</n></n>詳細：</n>先端が破損し、使用不可。</n>ヘッド付属のボタンスイッチで</n><COL FILE_EMP>トランクなどの開放</COLOR>は可能。
+Item to be Disposed:</n>Key to Patrol Car 7439</n></n>Details:</n>Bent key, no longer usable, but can still</n>open the car's <COL FILE_EMP>doors and trunk</COLOR> with its</n>keyless entry buttons.
+Objet à détruire :</n>Clé du véhicule de patrouille 7439</n></n>Détails :</n>Clé pliée, inutilisable, mais pouvant encore</n>ouvrir <COL FILE_EMP>les portières et le coffre</COLOR> de la voiture</n>grâce aux boutons.
+Oggetto da smaltire:</n>Chiave della volante 7439</n></n>Dettagli:</n>Chiave piegata e inutilizzabile.</n>Usando i pulsanti si possono ancora</n><COL FILE_EMP>aprire le portiere e il bagagliaio</COLOR>.
+Zu entsorgendes Objekt:</n>Schlüssel für Einsatzwagen 7439</n></n>Details:</n>Verbogener, unbrauchbarer Schlüssel,</n>mit dem man aber noch per Tastendruck</n><COL FILE_EMP>Türen und Kofferraum</COLOR> des Wagens öffnen kann.
+Objeto a eliminar:</n>Llave del coche patrulla 7439</n></n>Detalles:</n>Llave torcida, no se puede usar, pero aún puede</n>abrir <COL FILE_EMP>el maletero y las puertas</COLOR> del coche</n>con los botones.
+Предмет для утилизации:</n>Ключ от патрульной машины 7439</n></n>Подробности:</n>Погнутый ключ, непригодный к использованию.</n>Система дистанционного отпирания дверей</n>позволяет открыть <COL FILE_EMP>двери и багажник</COLOR>.
+Przedmiot do utylizacji:</n>Klucz do pojazdu patrolowego 7439</n></n>Szczegóły:</n>Zagięty klucz, nie nadaje się już do użytku,</n>ale nadal umożliwia otwarcie <COL FILE_EMP>drzwi i bagażnika</COLOR></n>samochodu przy użyciu przycisków.
+Item a ser descartado:</n>Chave da Viatura 7439</n></n>Detalhes:</n>Chave amassada, inutilizável, mas ainda</n>é possível destrancar <COL FILE_EMP>as portas e o</n>porta-malas</COLOR> do carro com os botões.
+파기 대상 항목:</n>순찰차 7439 열쇠</n></n>세부 내용:</n>구부러진 열쇠, 사용 불가,</n>키 없이 버튼으로</n><COL FILE_EMP>문이나 트렁크</COLOR>는</n>열 수 있음.
+廢棄物品：</n>巡邏車 7439 的鑰匙</n></n>細節：</n>鑰匙彎折，無法再使用，但按下按鈕還是</n>可以開啟<COL FILE_EMP>車門和行李箱</COLOR>。
+要处理的物品：</n>巡逻车 7439 的钥匙</n></n>细节：</n>弯曲的钥匙，无法使用，</n>但仍然可以用汽车遥控器</n>打开汽车的<COL FILE_EMP>车门和后备箱</COLOR>。
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

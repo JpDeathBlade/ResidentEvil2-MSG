@@ -1,0 +1,40 @@
+﻿<TIME 3.08, 4.14></n><TIME 15.20, 17.41></n><PAGE></n>レオン これでおあいこよ
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n>Whoa!<PAGE></n>We'll call it even.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n><PAGE></n>Là on est quitte.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n><PAGE></n>Ora siamo pari.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n><PAGE></n>Jetzt sind wir quitt.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n><PAGE></n>Estamos en paz.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n>Ох, ё!<PAGE></n>Теперь мы квиты.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n>Ej!<PAGE></n>Powiedzmy, że jesteśmy kwita.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n>Opa!<PAGE></n>Agora estamos quites.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n>으!<PAGE></n>비긴 셈 치자.
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n>哇！<PAGE></n>這樣我們就互不相欠了。
+<TIME 3.08, 4.14></n><TIME 15.92, 17.41></n>哇！<PAGE></n>这样我们就扯平了。
+Whoa!
+Ох, ё!
+Ej!
+Opa!
+으!
+哇！
+哇！
+OK...
+OK...
+Whoa!
+Ладно...
+OK...
+Tá...
+좋아...
+好...
+好...
+レオン これでおあいこよ
+We'll call it even.
+Là on est quitte.
+Ora siamo pari.
+Jetzt sind wir quitt.
+Estamos en paz.
+Теперь мы квиты.
+Powiedzmy, że jesteśmy kwita.
+Agora estamos quites.
+비긴 셈 치자.
+這樣我們就互不相欠了。
+这样我们就扯平了。

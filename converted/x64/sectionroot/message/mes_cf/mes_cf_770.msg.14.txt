@@ -1,0 +1,228 @@
+﻿<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>あれは…<PAGE></n>クレア！<PAGE></n>レオン？　あなたなの？<PAGE></n>ああ　でも ここはもうもたない<PAGE></n>よく聞け</n>脱出するんだ 今すぐ！<PAGE></n>ええ 脱出路はある<PAGE></n>何とかなるわ<PAGE></n>あなたはどこ？<PAGE></n>クレア 聞こえるか？<PAGE></n>レオン？</n>よく聞こえない<PAGE></n>俺にかまうな</n>早く脱出しろ！<PAGE></n>あぁ クソッ！
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Who's that?<PAGE></n>Claire!<PAGE></n>Leon? You're down here too!?<PAGE></n>Yeah. But the whole place is coming down.<PAGE></n>Listen to me. You need to get out.</n>Fast!<PAGE></n>Yeah. There's a way out.<PAGE></n>We can make it!<PAGE></n>Where are you now?<PAGE></n>Claire!? You still there?<PAGE></n>Leon?</n>Hey Leon, you're breaking up...<PAGE></n>Forget about me! Just get out of here!<PAGE></n>Dammit!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Qui c'est ?<PAGE></n>Claire !<PAGE></n>Leon ! Toi aussi tu es là ?<PAGE></n>Ouais. Mais tout est sur le point de s'écrouler.<PAGE></n>Écoute-moi. Il faut que tu partes. Vite !<PAGE></n>Oui. J'ai un moyen de sortir.<PAGE></n>On va y arriver !<PAGE></n>Où es-tu là ?<PAGE></n>Claire ? Tu es encore là ?<PAGE></n>Leon ? Leon, je t'entends mal !<PAGE></n>M'attends pas ! Fiche le camp d'ici !<PAGE></n>Merde !
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Chi è?<PAGE></n>Claire!<PAGE></n>Leon? Sei qui anche tu?<PAGE></n>Sì. Ma sta per crollare tutto!<PAGE></n>Senti... devi andartene! In fretta!<PAGE></n>Lo so. C'è una via di fuga.<PAGE></n>Possiamo farcela!<PAGE></n>Dove ti trovi?<PAGE></n>Claire? Ci sei ancora?<PAGE></n>Leon? Ehi, Leon, non ti sento...<PAGE></n>Non aspettarmi! Mettiti in salvo!<PAGE></n>Merda!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Wer ist da?<PAGE></n>Claire!<PAGE></n>Leon! Du bist auch hier unten?<PAGE></n>Ja. Aber hier stürzt gleich alles ein.<PAGE></n>Hör mir zu. Du musst hier raus.</n>Schnell!<PAGE></n>Ja. Gibt 'n Weg raus...<PAGE></n>Wir schaffen das!<PAGE></n>Wo bist du jetzt?<PAGE></n>Claire?! Bist du noch da?<PAGE></n>Leon?</n>Die Verbindung bricht ab...<PAGE></n>Vergiss mich!</n>Verschwinde von hier!<PAGE></n>Verdammt!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>¿Quién es?<PAGE></n>¡Claire!<PAGE></n>¿Leon? ¿También estás aquí?<PAGE></n>Sí. Pero todo se viene abajo.<PAGE></n>Escucha. Tienes que irte. ¡Deprisa!<PAGE></n>Sí. Hay una salida.<PAGE></n>¡Podemos hacerlo!<PAGE></n>¿Dónde estás?<PAGE></n>¡Claire! ¿Sigues ahí?<PAGE></n>¿Leon?</n>¡Leon, no te escucho bien...!<PAGE></n>¡Olvídate de mí! ¡Solo sal de aquí!<PAGE></n>¡Mierda!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Кто это?<PAGE></n>Клэр!<PAGE></n>Леон? Ты тоже здесь?!<PAGE></n>Ага. Но все здание рушится.<PAGE></n>Послушай, тебе надо выбираться.</n>Быстро!<PAGE></n>Да. Отсюда есть выход.<PAGE></n>У нас получится!<PAGE></n>Ты где сейчас?<PAGE></n>Клэр?! Ты еще там?<PAGE></n>Леон?</n>Леон, связь прерывается...<PAGE></n>Забудь обо мне! Уходи отсюда!<PAGE></n>Черт!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Kto to?<PAGE></n>Claire!<PAGE></n>Leon! Też tu jesteś?!<PAGE></n>Tak. Ale to miejsce</n>zaraz się zawali.<PAGE></n>Posłuchaj mnie. Musisz uciekać.</n>I to szybko!<PAGE></n>Tak. Jest wyjście.<PAGE></n>Uda nam się!<PAGE></n>Gdzie jesteś?<PAGE></n>Claire? Wciąż tam jesteś?<PAGE></n>Leon?</n>Słabo cię słyszę...<PAGE></n>Zapomnij o mnie! Po prostu uciekaj!<PAGE></n>Niech to!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>Quem é?<PAGE></n>Claire!<PAGE></n>Leon? Você tá aqui também?!<PAGE></n>Tô. Mas tá tudo desmoronando.<PAGE></n>Escuta, você precisa dar o fora daí.</n>Depressa!<PAGE></n>É. Tem uma saída.<PAGE></n>A gente vai conseguir!<PAGE></n>Cadê você?<PAGE></n>Claire?! Você ainda tá aí?<PAGE></n>Leon?</n>Tá saindo tudo cortado.<PAGE></n>Não se preocupa comigo! Só sai daqui logo!<PAGE></n>Merda!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>저건 누구지?<PAGE></n>클레어!<PAGE></n>레온! 이 아래에 있는 거예요?<PAGE></n>그래요. 근데 시설 전체가 파괴될 거예요.<PAGE></n>잘 들어요. 여길 빠져나가야 해요.</n>빨리!<PAGE></n>그래요. 나가는 길이 있어요.<PAGE></n>함께 빠져나갈 수 있을 거예요!<PAGE></n>지금 어디에요?<PAGE></n>클레어!? 듣고 있어요?<PAGE></n>레온?</n>레온, 잘 안 들려...<PAGE></n>난 신경 쓰지 마요! 어서 여길 빠져나가요!<PAGE></n>젠장!
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>是誰？<PAGE></n>克蕾兒！<PAGE></n>里昂？你也在這！？<PAGE></n>是啊，但這整個地方要垮了。<PAGE></n>聽著，你必須逃出去。</n>而且動作要快！<PAGE></n>我知道，有出路。<PAGE></n>我們能逃出去的！<PAGE></n>你現在在哪裡？<PAGE></n>克蕾兒！？你還在嗎？<PAGE></n>里昂？</n>喂，里昂，我聽不太清楚...<PAGE></n>別管我了！快離開這裡！<PAGE></n>可惡！
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>是谁？<PAGE></n>克莱尔！<PAGE></n>里昂！你也到这边来了！？<PAGE></n>是啊，不过这个地方快要塌了。<PAGE></n>听我说，你得逃出去。</n>而且动作要快！<PAGE></n>我知道，有条路能出去。<PAGE></n>我们一定能逃出去！<PAGE></n>你现在在哪里？<PAGE></n>克莱尔！？你还在吗？<PAGE></n>里昂？</n>里昂，我听不太清楚...<PAGE></n>别管我了！你快离开这里！<PAGE></n>可恶！
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<TIME 3.57, 4.66><TIME 13.34, 14.58><TIME 15.13, 18.61><TIME 18.72, 21.79><TIME 22.49, 26.05><TIME 26.09, 28.55><TIME 30.79, 32.25><TIME 33.72, 35.07><TIME 35.62, 37.85><TIME 39.17, 42.51><TIME 43.65, 46.65><TIME 49.3, 50.48>
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0010_pl0000
+あれは…
+Who's that?
+Qui c'est ?
+Chi è?
+Wer ist da?
+¿Quién es?
+Кто это?
+Kto to?
+Quem é?
+저건 누구지?
+是誰？
+是谁？
+クレア！
+Claire!
+Claire !
+Claire!
+Claire!
+¡Claire!
+Клэр!
+Claire!
+Claire!
+클레어!
+克蕾兒！
+克莱尔！
+レオン？　あなたなの？
+Leon? You're down here too!?
+Leon ! Toi aussi tu es là ?
+Leon? Sei qui anche tu?
+Leon! Du bist auch hier unten?
+¿Leon? ¿También estás aquí?
+Леон? Ты тоже здесь?!
+Leon! Też tu jesteś?!
+Leon? Você tá aqui também?!
+레온! 이 아래에 있는 거예요?
+里昂？你也在這！？
+里昂！你也到这边来了！？
+ああ　でも ここはもうもたない
+Yeah. But the whole place is coming down.
+Ouais. Mais tout est sur le point de s'écrouler.
+Sì. Ma sta per crollare tutto!
+Ja. Aber hier stürzt gleich alles ein.
+Sí. Pero todo se viene abajo.
+Ага. Но все здание рушится.
+Tak. Ale to miejsce</n>zaraz się zawali.
+Tô. Mas tá tudo desmoronando.
+그래요. 근데 시설 전체가 파괴될 거예요.
+是啊，但這整個地方要垮了。
+是啊，不过这个地方快要塌了。
+よく聞け</n>脱出するんだ 今すぐ！
+Listen to me. You need to get out.</n>Fast!
+Écoute-moi. Il faut que tu partes. Vite !
+Senti... devi andartene! In fretta!
+Hör mir zu. Du musst hier raus.</n>Schnell!
+Escucha. Tienes que irte. ¡Deprisa!
+Послушай, тебе надо выбираться.</n>Быстро!
+Posłuchaj mnie. Musisz uciekać.</n>I to szybko!
+Escuta, você precisa dar o fora daí.</n>Depressa!
+잘 들어요. 여길 빠져나가야 해요.</n>빨리!
+聽著，你必須逃出去。</n>而且動作要快！
+听我说，你得逃出去。</n>而且动作要快！
+ええ 脱出路はある
+Yeah. There's a way out.
+Oui. J'ai un moyen de sortir.
+Lo so. C'è una via di fuga.
+Ja. Gibt 'n Weg raus...
+Sí. Hay una salida.
+Да. Отсюда есть выход.
+Tak. Jest wyjście.
+É. Tem uma saída.
+그래요. 나가는 길이 있어요.
+我知道，有出路。
+我知道，有条路能出去。
+何とかなるわ
+We can make it!
+On va y arriver !
+Possiamo farcela!
+Wir schaffen das!
+¡Podemos hacerlo!
+У нас получится!
+Uda nam się!
+A gente vai conseguir!
+함께 빠져나갈 수 있을 거예요!
+我們能逃出去的！
+我们一定能逃出去！
+あなたはどこ？
+Where are you now?
+Où es-tu là ?
+Dove ti trovi?
+Wo bist du jetzt?
+¿Dónde estás?
+Ты где сейчас?
+Gdzie jesteś?
+Cadê você?
+지금 어디에요?
+你現在在哪裡？
+你现在在哪里？
+クレア 聞こえるか？
+Claire!? You still there?
+Claire ? Tu es encore là ?
+Claire? Ci sei ancora?
+Claire?! Bist du noch da?
+¡Claire! ¿Sigues ahí?
+Клэр?! Ты еще там?
+Claire? Wciąż tam jesteś?
+Claire?! Você ainda tá aí?
+클레어!? 듣고 있어요?
+克蕾兒！？你還在嗎？
+克莱尔！？你还在吗？
+レオン？</n>よく聞こえない
+Leon?</n>Hey Leon, you're breaking up...
+Leon ? Leon, je t'entends mal !
+Leon? Ehi, Leon, non ti sento...
+Leon?</n>Die Verbindung bricht ab...
+¿Leon?</n>¡Leon, no te escucho bien...!
+Леон?</n>Леон, связь прерывается...
+Leon?</n>Słabo cię słyszę...
+Leon?</n>Tá saindo tudo cortado.
+레온?</n>레온, 잘 안 들려...
+里昂？</n>喂，里昂，我聽不太清楚...
+里昂？</n>里昂，我听不太清楚...
+俺にかまうな</n>早く脱出しろ！
+Forget about me! Just get out of here!
+M'attends pas ! Fiche le camp d'ici !
+Non aspettarmi! Mettiti in salvo!
+Vergiss mich!</n>Verschwinde von hier!
+¡Olvídate de mí! ¡Solo sal de aquí!
+Забудь обо мне! Уходи отсюда!
+Zapomnij o mnie! Po prostu uciekaj!
+Não se preocupa comigo! Só sai daqui logo!
+난 신경 쓰지 마요! 어서 여길 빠져나가요!
+別管我了！快離開這裡！
+别管我了！你快离开这里！
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF770_0160_pl1000
+あぁ クソッ！
+Dammit!
+Merde !
+Merda!
+Verdammt!
+¡Mierda!
+Черт!
+Niech to!
+Merda!
+젠장!
+可惡！
+可恶！

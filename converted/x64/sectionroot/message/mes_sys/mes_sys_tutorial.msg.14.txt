@@ -1,0 +1,2448 @@
+﻿<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_dummy
+歩く
+Walk
+Se déplacer
+Cammina
+Gehen
+Caminar
+Идти
+Chodzenie
+Andar
+걷기
+行走
+行走
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+<ICON MOVE>
+カメラ操作
+Look around
+Contrôler la vue
+Guardati intorno
+Umsehen
+Mirar alrededor
+Осмотреться
+Rozglądanie się
+Olhar ao redor
+둘러보기
+環顧四周
+环顾四周
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<ICON CAMERA>
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_003
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_004
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_005
+走る
+Run
+Courir
+Corri
+Sprinten
+Correr
+Бег
+Bieganie
+Correr
+뛰기
+奔跑
+奔跑
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<ICON RUN>
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_007
+アイテムを確認する
+Open inventory
+Ouvrir l'inventaire
+Apri l'inventario
+Inventar öffnen
+Abrir inventario
+Открыть снаряжение
+Otwarcie ekwipunku
+Abrir inventário
+인벤토리 열기
+打開物品欄
+开启物品栏
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+マップを開く
+View map
+Voir la carte
+Apri la mappa
+Karte
+Ver mapa
+Посмотреть на карту
+Wyświetlenie mapy
+Ver mapa
+지도 보기
+檢視地圖
+查看地图
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+<ICON OPEN_MAP>
+リロード
+Reload
+Recharger
+Ricarica
+Nachladen
+Recargar
+Перезарядка
+Przeładowanie
+Recarregar
+재장전
+重新裝填
+装填
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+<ICON RELOAD>
+装備変更
+Change weapons
+Changer d'arme
+Cambia arma
+Waffe wechseln
+Cambiar de arma
+Смена оружия
+Zmiana broni
+Trocar arma
+무기 변경
+變更武器
+变更武器
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<ICON EQUIP>
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_012
+ファイルを確認する
+View files
+Voir les fichiers
+Consulta i documenti
+Akten
+Ver archivos
+Просмотр досье
+Wyświetlanie plików
+Ver arquivos
+파일 보기
+檢視檔案
+查看文件
+<ICON STATUS> + <ICON TAB_RIGHT>
+<ICON STATUS> + <ICON TAB_RIGHT>
+<ICON STATUS>, puis <ICON TAB_RIGHT>
+<ICON STATUS> e poi <ICON TAB_RIGHT>
+<ICON STATUS> -> <ICON TAB_RIGHT>
+<ICON STATUS> y después <ICON TAB_RIGHT>
+<ICON STATUS> + <ICON TAB_RIGHT>
+<ICON STATUS> + <ICON TAB_RIGHT>
+<ICON STATUS> + <ICON TAB_RIGHT>
+<ICON STATUS> + <ICON TAB_RIGHT>
+<ICON STATUS> + <ICON TAB_RIGHT>
+<ICON STATUS> + <ICON TAB_RIGHT>
+しゃがむ
+Crouch
+S'accroupir
+Accovacciati
+Hocken
+Agacharse
+Пригнуться
+Kucanie
+Agachar
+앉기
+蹲伏
+蹲伏
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+しゃがむ
+Crouch
+S'accroupir
+Accovacciati
+Hocken
+Agacharse
+Пригнуться
+Kucanie
+Agachar
+앉기
+蹲伏
+蹲伏
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+<ICON HOLD_MAIN>
+構える + 撃つ
+Draw + Fire
+Dégainer et tirer
+Estrai e Spara
+Zielen + Feuern
+Apuntar y disparar
+Выхватить оружие и выстрелить
+Wyciągnięcie broni + strzelanie
+Sacar + Disparar
+겨누기 + 발사
+掏出武器 + 射擊
+掏出武器 + 射击
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> e <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+構える + ハッキング
+Draw + Hack
+Dégainer et pirater
+Mira e Interagisci
+Zielen + Hacken
+Apuntar y hackear
+Выхватить устройство и взломать
+Wyciągnięcie broni + hakowanie
+Sacar + Atacar
+겨누기 + 해킹
+掏出武器 + 砍劈
+掏出武器 + 劈砍
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> e <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+<ICON HOLD_MAIN> + <ICON ATTACK>
+弾薬の切り替え
+Switch ammo
+Changer de munitions
+Cambia munizioni
+Munition wechseln
+Cambiar de munición
+Смена боеприпасов
+Zmiana amunicji
+Trocar munição
+탄약 전환
+切換彈藥
+切换弹药
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+サブウェポン装備変更
+Change equipped sub-weapon
+Changer d'arme secondaire
+Cambia arma secondaria
+Ausgerüstete Nebenwaffe wechseln
+Cambiar de arma secundaria
+Смена доп. оружия
+Zmiana wyp. pom. broni
+Trocar arma secundária
+장착된 보조 무기 변경
+變更裝備的次要武器
+更换装备的次要武器
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> e poi <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<ICON HOLD_SUB> + <ICON EQUIP>
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_021
+弾薬の切り替え
+Switch ammo
+Changer de munitions
+Cambia munizioni
+Munition wechseln
+Cambiar de munición
+Смена боеприпасов
+Zmiana amunicji
+Trocar munição
+탄약 전환
+切換彈藥
+切换弹药
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+<ICON CHANGE_BULLET>
+サブウェポンを構える + 攻撃
+Ready sub-weapon + Attack
+Sortir une arme secondaire et attaquer
+Estrai arma secondaria e Attacca
+Nebenwaffe bereithalten + Angriff
+Preparar arma secundaria + atacar
+Достать доп. оружие и атаковать
+Przyg. pomoc. broni + atak
+Preparar arma secundária + Atacar
+보조 무기 준비 + 공격
+準備次要武器 + 攻擊
+准备次要武器 + 攻击
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> e <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+<ICON HOLD_SUB> + <ICON ATTACK>
+極大放電
+Maximum Discharge
+Décharge maximale
+Scarica massima
+Maximale Entladung
+Descarga máxima
+Максимальный разряд
+Maksymalne wyładowanie
+Descarga Máxima
+최대 충전
+最大電力
+最大电力
+<ICON HOLD_MAIN> 長押し
+Hold <ICON HOLD_MAIN>
+Maintenir <ICON HOLD_MAIN>
+Tieni premuto <ICON HOLD_MAIN>
+<ICON HOLD_MAIN> halten
+Mantén <ICON HOLD_MAIN>
+Удерживать <ICON HOLD_MAIN>.
+Przytrzymaj<ICON HOLD_MAIN>
+Segure <ICON HOLD_MAIN>
+<ICON HOLD_MAIN> 홀드
+按住 <ICON HOLD_MAIN>
+按住 <ICON HOLD_MAIN>
+アイテムを整理する
+Organize Items
+Organiser les objets
+Organizza inventario
+Objekte verwalten
+Organizar objetos
+Отсортировать предметы
+Uporządkuj przedmioty
+Organizar Itens
+아이템 정렬
+整理物品
+整理物品
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<ICON STATUS>
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Tutorial_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_dummy
+破片手榴弾
+Hand Grenade
+Grenade
+Granata a frammentazione
+Handgranate
+Granada de mano
+Ручная граната
+Granat ręczny
+Granada de Mão
+수류탄
+手榴彈
+手榴弹
+ステータス画面で「装備」して使用する。</n>炸裂時に飛散する破片で周囲の敵を殺傷する。</n></n><ICON HOLD_SUB>：構える</n>構え中に<ICON ATTACK>：投てき</n></n>敵に組みつかれた際の反撃（<ICON HOLD_SUB>）にも使用可能。</n>ただし、その場合、威力は減少する。
+Equip on the Inventory screen to use.</n>Guaranteed to kill enemies within its</n>blast radius.</n></n><ICON HOLD_SUB>: Ready</n><ICON ATTACK>: Throw</n></n>Can be used to counterattack (<ICON HOLD_SUB>) when you</n>are caught by an enemy, but its effectiveness</n>is greatly reduced.
+À équiper depuis l'inventaire.</n>Permet de tuer les ennemis situés</n>dans le rayon de l'explosion.</n></n><ICON HOLD_SUB>: Armer</n><ICON ATTACK>: Lancer</n></n>Peut être utilisée pour contre-attaquer (<ICON HOLD_SUB>)</n>quand un ennemi vous saisit, mais son</n>efficacité est alors grandement réduite.
+Equipaggiala dalla schermata dell'inventario.</n></n><ICON HOLD_SUB>: Impugna</n><ICON ATTACK>: Lancia</n></n>Può essere usata per contrattaccare premendo <ICON HOLD_SUB></n>se vieni afferrato da un nemico. La sua efficacia</n>in questa situazione sarà ridotta.
+Zum Verwenden im Inventar ausrüsten.</n>Tötet Gegner im Wirkungsbereich garantiert.</n></n><ICON HOLD_SUB>: Bereithalten</n><ICON ATTACK>: Werfen</n></n>Kann zum Kontern (<ICON HOLD_SUB>) verwendet werden,</n>wenn man von einem Gegner gefangen wurde,</n>aber ihre Effektivität ist dadurch stark reduziert.
+Equípala en el inventario para usarla.</n>Eliminará a todos los enemigos en</n>su radio de acción.</n></n><ICON HOLD_SUB>: Preparar</n><ICON ATTACK>: Lanzar</n></n>Puede usarse para contraatacar (<ICON HOLD_SUB>)</n>cuando te atrape un enemigo,</n>pero su efectividad será reducida.
+Выберите на экране снаряжение.</n>Уничтожает врагов</n>в зоне поражения.</n></n><ICON HOLD_SUB>: взять наизготовку</n><ICON ATTACK>: бросить</n></n>Можно применять для контратаки (<ICON HOLD_SUB>), если</n>враг вас схватил, но в этом случае</n>эффективность сильно снижается.
+Wyposaż na ekranie ekwipunku, aby użyć.</n>Zadaje śmiertelne obrażenia wrogom </n>w polu rażenia.</n></n><ICON HOLD_SUB>: przygotowanie</n><ICON ATTACK>: rzucenie</n></n>Można użyć do kontrataku (<ICON HOLD_SUB>),</n>gdy gracz jest w potrzasku,</n>ale skuteczność jest wtedy</n>znacznie obniżona.
+Equipe na tela do Inventário para usar.</n>Sempre mata inimigos dentro</n>de seu raio de explosão.</n></n><ICON HOLD_SUB>: Preparar</n><ICON ATTACK>: Lançar</n></n>Serve para contra-atacar (<ICON HOLD_SUB>)</n>quando você for pego por um inimigo,</n>mas sua eficácia diminui bastante.
+인벤토리 화면에서 장착 후 사용할 수 있습니다.</n>폭파 반경 내 모든 적을 사살합니다.</n></n><ICON HOLD_SUB><size 26>: 준비</size></n><ICON ATTACK><size 26>: 던지기</size></n></n>적에게 붙잡혔을 때 반격용으로</n>사용할 수 있지만(<ICON HOLD_SUB>), 효과가</n>크게 감소합니다.
+在物品欄畫面中裝備以使用。</n>必定能殺死爆炸範圍內的敵人。</n></n><ICON HOLD_SUB>：準備</n><ICON ATTACK>：投擲</n></n>被敵人抓住時可用來反擊（<ICON HOLD_SUB>），</n>但是效果會大幅減弱。
+在物品栏画面装备后便可使用。</n>必定能击倒爆炸范围内的敌人。</n></n><ICON HOLD_SUB><size 26>：准备</size></n><ICON ATTACK><size 26>：投掷</size></n></n>被敌人捉住时，可以用来反击（<ICON HOLD_SUB>），</n>但是效果会大大受限。
+閃光手榴弾
+Flash Grenade
+Grenade assourdissante
+Granata stordente
+Blendgranate
+Granada cegadora
+Световая граната
+Granat błyskowy
+Granada de Atordoamento
+섬광 수류탄
+閃光彈
+闪光弹
+ステータス画面で「装備」して使用する。</n>起爆時の閃光と爆音で周囲の敵をひるませる。</n></n><ICON HOLD_SUB>：構える</n>構え中に<ICON ATTACK>：投てき</n></n>敵に組みつかれた際の反撃（<ICON HOLD_SUB>）にも使用可能。</n>ただし、その場合、威力は減少する。
+Equip on the Inventory screen to use.</n>Guaranteed to daze and stun enemies</n>within its effective radius.</n></n><ICON HOLD_SUB>: Ready</n><ICON ATTACK>: Throw</n></n>Can be used to counterattack (<ICON HOLD_SUB>) when you</n>are caught by an enemy, but its effectiveness</n>is greatly reduced.
+À équiper depuis l'inventaire.</n>Permet d'étourdir les ennemis situés</n>dans la zone d'effet.</n></n><ICON HOLD_SUB>: Armer</n><ICON ATTACK>: Lancer</n></n>Peut être utilisée pour contre-attaquer (<ICON HOLD_SUB>)</n>quand un ennemi vous saisit, mais son</n>efficacité est alors grandement réduite.
+Equipaggiala dalla schermata dell'inventario.</n></n><ICON HOLD_SUB>: Impugna</n><ICON ATTACK>: Lancia</n></n>Può essere usata per contrattaccare premendo <ICON HOLD_SUB></n>se vieni afferrato da un nemico. La sua efficacia</n>in questa situazione sarà ridotta.
+Zum Verwenden im Inventar ausrüsten.</n>Betäubt Gegner im Wirkungsbereich sicher.</n></n><ICON HOLD_SUB>: Bereithalten</n><ICON ATTACK>: Werfen</n></n>Kann zum Kontern (<ICON HOLD_SUB>) verwendet werden,</n>wenn man von einem Gegner gefangen wurde,</n>aber ihre Effektivität ist dadurch stark reduziert.
+Equípala en el inventario para usarla.</n>Aturdirá a todos los enemigos en</n>su radio de acción.</n></n><ICON HOLD_SUB>: Preparar</n><ICON ATTACK>: Lanzar</n></n>Puede usarse para contraatacar (<ICON HOLD_SUB>)</n>cuando te atrape un enemigo,</n>pero su efectividad será reducida.
+Выберите на экране снаряжение.</n>Оглушает и ошеломляет врагов</n>в зоне поражения.</n></n><ICON HOLD_SUB>: взять наизготовку</n><ICON ATTACK>: бросить</n></n>Можно применять для контратаки (<ICON HOLD_SUB>), если</n>враг вас схватил, но в этом случае</n>эффективность сильно снижается.
+Wyposaż na ekranie ekwipunku, aby użyć.</n>Dezorientuje i ogłusza wrogów</n>w polu rażenia.</n></n><ICON HOLD_SUB>: przygotowanie</n><ICON ATTACK>: rzucenie</n></n>Można użyć do kontrataku(<ICON HOLD_SUB>),</n>gdy gracz jest w potrzasku,</n>ale skuteczność jest wtedy</n>znacznie obniżona.
+Equipe na tela do Inventário para usar.</n>Sempre atordoa inimigos dentro</n>de seu raio de explosão.</n></n><ICON HOLD_SUB>: Preparar</n><ICON ATTACK>: Lançar</n></n>Serve para contra-atacar (<ICON HOLD_SUB>)</n>quando você for pego por um inimigo,</n>mas sua eficácia diminui bastante.
+인벤토리 화면에서 장착 후 사용할 수 있습니다.</n>효과 범위 내 적들을 멍하게 기절시킵니다.</n></n><ICON HOLD_SUB><size 26>: 준비</size></n><ICON ATTACK><size 26>: 던지기</size 26></n></n>적에게 붙잡혔을 때 반격용으로</n>사용할 수 있지만(<ICON HOLD_SUB>), 화력이</n>크게 감소합니다.
+在物品欄畫面中裝備以使用。</n>必定使效力範圍內的敵人暈眩。</n></n><ICON HOLD_SUB>：準備</n><ICON ATTACK>：投擲</n></n>被敵人抓住時可用來反擊（<ICON HOLD_SUB>），</n>但是效果會大幅減弱。</n>
+在物品栏画面装备后便可使用。</n>必定使效力范围内的敌人晕眩。</n></n><ICON HOLD_SUB><size 26>：准备</size></n><ICON ATTACK><size 26>：投掷</size></n></n>被敌人捉住时，可以用来反击（<ICON HOLD_SUB>），</n>但是效果会大大受限。
+コンバットナイフ
+Combat Knife
+Couteau de combat
+Coltello da combattimento
+Kampfmesser
+Cuchillo de combate
+Боевой нож
+Nóż bojowy
+Faca de Combate
+전투 단검
+戰鬥刀
+格斗匕首
+ステータス画面で「装備」して使用する。</n>耐久値が無くなると、折れて使用できなくなる。</n></n><ICON HOLD_SUB>：構える</n>構え中に<ICON ATTACK>：切る</n></n>敵に組みつかれた時、<ICON HOLD_SUB>で反撃できる。</n>反撃に使ったナイフは、敵を倒した時に</n>耐久値が残っていれば回収できる。
+Equip on the Inventory screen to use.</n>This knife wears down with use and will break</n>when its gauge is depleted.</n></n><ICON HOLD_SUB>: Ready</n><ICON ATTACK>: Slash</n></n>Can be used to counterattack (<ICON HOLD_SUB>) when you</n>are caught by an enemy, and can only be</n>retrieved once you defeat them.
+À équiper depuis l'inventaire.</n>Le couteau s'abîme à chaque utilisation</n>et casse lorsque sa jauge est vide.</n></n><ICON HOLD_SUB>: Sortir le couteau</n><ICON ATTACK>: Attaquer</n></n>Vous pouvez contre-attaquer (<ICON HOLD_SUB>)</n>quand un ennemi vous saisit, et récupérer</n>le couteau une fois l'ennemi vaincu.
+Equipaggialo dalla schermata dell'inventario.</n>Il suo utilizzo è limitato, ed è rappresentato</n>dalla barra sotto la relativa icona.</n></n><ICON HOLD_SUB>: Sfodera</n><ICON ATTACK>: Fendente</n></n>Usalo per contrattaccare premendo <ICON HOLD_SUB> quando</n>vieni afferrato da un nemico. Può essere inoltre</n>recuperato dai corpi a terra.
+Zum Verwenden im Inventar ausrüsten.</n>Dieses Messer nutzt sich durch die Verwendung ab</n>und zerbricht, wenn der Balken leer ist.</n></n><ICON HOLD_SUB>: Bereithalten</n><ICON ATTACK>: Schlitzen</n></n>Kann zum Kontern (<ICON HOLD_SUB>) verwendet werden,</n>wenn man von einem Gegner gefangen wurde.</n>Kann wiedererlangt werden, nachdem der Gegner besiegt wurde.
+Equípalo en el inventario para usarlo.</n>Este cuchillo se irá desgastando y se</n>romperá cuando la barra se vacíe.</n></n><ICON HOLD_SUB>: Preparar</n><ICON ATTACK>: Cortar</n></n>Puede usarse para contraatacar (<ICON HOLD_SUB>)</n>cuando un enemigo te atrape y solo</n>podrás recuperarlo cuando lo derrotes.
+Выберите на экране снаряжение.</n>Нож со временем изнашивается и ломается,</n>когда опустеет шкала прочности.</n></n><ICON HOLD_SUB>: взять наизготовку</n><ICON ATTACK>: ударить</n></n>Можно применять для контратаки (<ICON HOLD_SUB>), если</n>враг вас схватил, но вернуть оружие</n>можно будет только после победы.
+Wyposaż na ekranie ekwipunku, aby użyć.</n>Nóż zużywa się i niszczy</n>po wyczerpaniu wskaźnika.</n></n><ICON HOLD_SUB>: przygotowanie</n><ICON ATTACK>: cięcie</n></n>Można użyć do kontrataku (<ICON HOLD_SUB>),</n>gdy gracz jest w potrzasku.</n>Nóż można wtedy odzyskać</n>dopiero po pokonaniu wroga.
+Equipe na tela do Inventário para usar.</n>A faca desgasta com o uso e quebra</n>depois que o medidor se esgotar.</n></n><ICON HOLD_SUB>: Preparar</n><ICON ATTACK>: Cortar</n></n>Serve para contra-atacar (<ICON HOLD_SUB>)</n>quando você for pego por um inimigo,</n>mas só pode ser recuperada após derrotá-lo.
+인벤토리 화면에서 장착 후 사용할 수 있습니다.</n>이 칼은 소모품으로, 오래 사용하면 파괴됩니다.</n></n><ICON HOLD_SUB><size 26>: 준비</size></n><ICON ATTACK><size 26>: 베기</size></n></n>적에게 붙잡혔을 때 반격용으로</n>사용할 수 있으며(<ICON HOLD_SUB>), 적을</n>쓰러뜨린 후에만 회수할 수 있습니다.
+在物品欄畫面中裝備以使用。</n>每次使用都會磨損，最後折斷。</n></n><ICON HOLD_SUB>：準備</n><ICON ATTACK>：砍</n></n>被敵人抓住時可用來反擊（<ICON HOLD_SUB>），</n>但是必須打倒敵人才能取回刀子。</n></n>
+在物品栏画面装备后便可使用。</n>每次使用都会损耗，最后损坏。</n></n><ICON HOLD_SUB><size 26>：准备</size></n><ICON ATTACK><size 26>：挥刀</size></n></n>被敌人捉住时，可以用来反击（<ICON HOLD_SUB>），</n>但要在击败敌人后才可取回。
+アイテムを調べる
+Examining Items
+Examiner les objets
+Esaminare gli oggetti
+Objekte untersuchen
+Examinar objetos
+Осмотр предметов
+Oglądanie przedmiotów
+Examinar Itens
+아이템 검사
+檢查物品
+查看物品
+アイテムを「<ICON SEARCH>調べる」と、</n>そのアイテムを様々な方向から確認できる。</n></n>「<ICON SEARCH>調べる」ことで発見できるギミックも存在する。
+You can examine an item from different angles by</n>selecting it and using the "<ICON SEARCH> Examine"</n>command.</n></n>You might reveal something that helps you progress.
+Vous pouvez examiner un objet sous tous</n>les angles en le sélectionnant et en</n>utilisant la commande "<ICON SEARCH>Examiner".</n></n>Il se peut que vous découvriez quelque</n>chose d'utile à votre progression.
+Puoi osservare un oggetto da ogni angolazione</n>selezionandolo e usando il comando "<ICON SEARCH>Esamina".</n></n>Potresti scoprire dettagli molto interessanti.
+Sie können Objekte im Inventar näher</n>untersuchen, indem Sie sie auswählen und</n>"<ICON SEARCH> Untersuchen" wählen.</n></n>Manchmal entdecken Sie dadurch etwas,</n>das Ihnen helfen kann.
+Para ver un objeto con más detalle, elígelo</n>y usa la acción "<ICON SEARCH> Examinar".</n></n>Puede que descubras algo útil que te ayude</n>a progresar.
+Любой предмет можно осмотреть с разных углов:</n>выберите его и нажмите «<ICON SEARCH>Изучить».</n></n>Возможно, вы узнаете о нем</n>нечто новое.
+Możesz oglądać przedmioty pod różnym kątem,</n>wybierając je i używając polecenia „<ICON SEARCH> Obejrzyj”.</n></n>Być może dowiesz się czegoś, dzięki czemu poczynisz postępy w rozgrywce.
+Selecione qualquer item e use</n>o comando"<ICON SEARCH> Examinar" para</n>vê-lo de vários ângulos.</n></n>Você pode acabar descobrindo algo que ajude a avançar no jogo.
+아이템을 선택한 다음 "<ICON SEARCH> 검사" 명령을</n>사용해 다른 각도에서 살펴볼 수 있습니다.</n></n>진행에 도움이 될 정보를 알게 될 가능성도 있습니다.
+選擇物品後使用「<ICON SEARCH> 檢查」指令</n>可以從各種角度檢查物品。</n></n></n>您說不定會發現能讓事件有所進展的資訊。
+选择任何物品后使用“<ICON SEARCH>检查“ 指令</n>可以查看物品的详细信息。</n></n>有时甚至会获得关于这件物品的新情报。
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+焼夷弾と硫酸弾を発射できる。</n></n><ICON CHANGE_BULLET>：弾薬の切り替え
+This grenade launcher is capable of firing</n>flame and acid rounds.</n></n><ICON CHANGE_BULLET>: Switch ammo type
+Ce lance-grenades est capable de tirer</n>des munitions incendiaires et acides.</n></n><ICON CHANGE_BULLET>: Changer de type de munition
+Il lanciagranate può sparare munizioni</n>incendiarie e acide.</n></n><ICON CHANGE_BULLET>: Cambia il tipo di munizioni
+Dieser Granatwerfer kann Brand-</n>und Säuregranaten abfeuern.</n></n><ICON CHANGE_BULLET>: Munitionsart wechseln
+Este lanzagranadas es capaz</n>de disparar granadas de ácido</n>y de fuego.</n></n><ICON CHANGE_BULLET>: Cambiar de munición
+Снаряды гранатомета бывают</n>зажигательными и кислотными.</n></n>Смена боеприпасов: <ICON CHANGE_BULLET>.
+Ten granatnik strzela pociskami</n>zapalającymi i kwasowymi.</n></n><ICON CHANGE_BULLET>: zmiana typu amunicji
+Este lança-granadas é capaz de disparar</n>projéteis ácidos e de fogo.</n></n><ICON CHANGE_BULLET>: Alternar o tipo de munição
+이 유탄 발사기는 화염 및 산성탄을 발사합니다.</n></n><ICON CHANGE_BULLET>: 탄약 유형 전환
+這個榴彈發射器可以發射</n>火焰和硫酸彈。</n></n><ICON CHANGE_BULLET>：切換彈藥類型
+这把榴弹发射器可以发射</n>火焰弹及硫酸弹。</n></n><ICON CHANGE_BULLET>：切换弹药类型
+スパークショット
+Spark Shot
+Fusil électrique
+Fucile a scarica elettrica
+Elektroschockgewehr
+Lanzadescargas
+Электропушка
+Iskrownik
+Fuzil de Eletrochoque
+스파크 샷
+高壓電槍
+电击枪
+ターゲットに電極を刺して連続的に放電する。</n>放電は<ICON HOLD_MAIN>を押し続ける限り継続され、</n>構えをやめると中断される。</n></n>放電を最大チャージまで継続すると、極大放電後ワイヤーが切れる。
+This gun fires wired metal prongs into your</n>target, allowing you to fry it with electricity</n>for as long as you have the weapon raised</n>(are holding <ICON HOLD_MAIN>) and continue to stay focused</n>on your target.</n></n>However, if you let the gun send too much power</n>over the wires, the wires will snap after one final</n>surge.
+Cette arme plante des broches métalliques dans</n>votre cible, et vous permet de lui infliger des</n>décharges électriques aussi longtemps que vous</n>pointez l'arme (en maintenant <ICON HOLD_MAIN>).</n></n>Attention, si vous envoyez trop de courant</n>électrique à travers les câbles de l'arme,</n>ils se couperont après la dernière décharge.
+Quest'arma spara dei dardi consentendoti</n>di elettrificare il bersaglio. La scarica</n>sarà rilasciata per tutto il tempo in cui</n>manterrai premuto <ICON HOLD_MAIN> mentre inquadri</n>il bersaglio.</n></n>Tuttavia, se continuerai a rilasciare troppa potenza,</n>i fili si staccheranno dopo la scarica finale.
+Diese Waffe feuert Metallhaken auf das</n>Ziel, durch die Strom geschickt wird,</n>solange Sie die Waffe auf den Gegner zielen</n>(<ICON HOLD_MAIN> halten).</n></n>Wenn Sie allerdings zu viel Strom durch die</n>Drähte schicken, brennen diese nach einem</n>letzten Stromstoß durch.
+Esta arma dispara púas alambradas</n>a tu objetivo, lo que te permite freírlo con</n>electricidad mientras tengas el arma</n>levantada (manteniendo <ICON HOLD_MAIN>) o sigas</n>concentrado en tu objetivo.</n></n>Sin embargo, si dejas que el arma acumule</n>demasiado poder, los alambres se romperán</n>tras una descarga final.</n>
+Стреляет металлическими стержнями на проводе,</n>которые бьют цель электрическим током до тех пор, пока вы не опустите оружие</n>(удерживайте <ICON HOLD_MAIN>) и будете держать цель</n>в поле зрения.</n></n>Но если вы пропустите через провода</n>слишком много тока, после сильного импульса они</n>перегорят.
+Ta broń strzela przewodami</n>z metalowymi kolcami, które</n>po trafieniu wroga rażą go prądem</n>tak długo, jak masz podniesioną broń</n>(tzn. przytrzymujesz <ICON HOLD_MAIN>) i skupiasz</n>się na celu.</n></n>Jednak jeśli użyjesz zbyt dużej mocy,</n>nastąpi wyładowanie, a przewody pękną.
+Esta arma dispara pontas de metal com</n>fio contra o alvo. Assim, você pode</n>fritá-lo com eletricidade enquanto a</n>arma estiver empunhada (segurando <ICON HOLD_MAIN>)</n>e enquanto mantiver o foco no alvo.</n></n>Porém, se você deixar a arma mandar</n>muita energia pelos fios, eles</n>estouram após uma descarga final.
+이 총은 전선이 연결된 금속 발사체를 대상에게</n>발사하며, 무기를 들고 있는 동안(<ICON HOLD_MAIN> 홀드)</n>또는 대상에게 집중하는 동안 엄청난 전기</n>충격을 줍니다.</n></n>하지만 전선을 통해 너무 많은 전기를 보내면</n>마지막으로 전기를 크게 발산하고</n>전선이 파괴됩니다.
+這把槍會發射連接電線的金屬插腳刺入目標體內，</n>只要一直舉著武器（按住 <ICON HOLD_MAIN>）並持續鎖定目標，</n>就能用電力將目標烤焦。</n></n>不過，如果您透過電線傳輸太多能量，</n>電線就會在傳輸最後一波</n>特別強烈的電流之後燒斷。</n></n>
+这把枪可以将连着电线的金属探针射入目标，</n>只要举起这把枪（按住 <ICON HOLD_MAIN>），</n>并保持瞄准目标，</n>便能用电力将目标烤焦。</n></n>但是，如果通过电线传输的电力过大，</n>电线在传送最后一波电涌后便会熔断。</n></n>
+化学燃料火炎放射器
+Chemical Flamethrower
+Lance-flammes chimique
+Lanciafiamme
+Chemischer Flammenwerfer
+Lanzallamas químico
+Химический огнемет
+Chemiczny miotacz ognia
+Lança-Chamas Químico
+화학 화염방사기
+化學火焰噴射器
+化学火焰喷射器
+<ICON ATTACK>を押している間、炎を放射する。</n></n>ターゲットに炎を当て続けることで、</n>より大きく炎上させることができる。
+Hold <ICON ATTACK> to fire the Flamethrower.</n></n>The longer you torch a target, the bigger the</n>flames you'll create.
+Maintenez <ICON ATTACK> pour utiliser le lance-flammes.</n></n>Plus vous enflammez une cible, et plus les flammes</n>générées seront grandes.
+Tieni premuto <ICON ATTACK> per sparare con il lanciafiamme.</n></n>Più a lungo darai fuoco a un bersaglio, più grandi</n>saranno le fiamme.
+Halten Sie <ICON ATTACK>, um den Flammenwerfer abzufeuern.</n></n>Je länger Sie auf ein Ziel feuern, desto größer</n>werden die Flammen.
+Mantén <ICON ATTACK> para disparar el lanzallamas.</n></n>Cuanto más tiempo acerques el fuego</n>a tu enemigo, más grandes serán las llamas.
+Удерживайте <ICON ATTACK>, чтобы выстрелить из огнемета.</n></n>Чем дольше вы жжете цель, тем сильнее</n>разгорается пламя.
+Przytrzymaj <ICON ATTACK>, by uruchomić miotacz ognia.</n></n>Im dłużej podpalasz cel,</n>tym większe będą płomienie.
+Segure <ICON ATTACK> para ativar o Lança-Chamas.</n></n>Quanto mais tempo você incendiar um alvo,</n>maiores serão as chamas criadas.
+<ICON ATTACK>을 길게 눌러 화염방사기를 사용합니다.</n></n>화염 발사 시간이 길어질수록</n>불길이 더욱 커집니다.
+按住 <ICON ATTACK> 以發射火焰噴射器。</n></n>焚燒目標越久，</n>製造出來的火焰就越大。
+按住 <ICON ATTACK> 以发射火焰喷射器。</n></n>向目标喷射火焰的时间越长，</n>制造出来的火焰就会越大。
+キーアイテムを使う
+Using Key Items
+Utiliser des objets clés
+Usare gli oggetti chiave
+Wichtige Objekte verwenden
+Uso de objetos clave
+Исп. сюжетных предметов
+Używanie kluczowych przedmiotów
+Uso de Itens Importantes
+열쇠 아이템 사용
+使用關鍵物品
+使用关键物品
+鍵などのキーアイテムは、ギミックを調べた時に、</n>アイテムコマンドから「<ICON USE>使う」ことができる。
+When you need to use an item to unlock a door</n>or solve a puzzle, select the item and then the</n>"<ICON USE> Use" command.
+Lorsqu'il vous faut un objet pour déverrouiller</n>une porte ou activer un mécanisme, sélectionnez</n>l'objet en question et la commande "<ICON USE>Utiliser".
+Quando hai bisogno di usare un oggetto</n>per sbloccare una porta o risolvere</n>un enigma, selezionalo e scegli "<ICON USE>Usa".
+Wenn Sie ein Objekt zum Öffnen einer Tür</n>oder Lösen eines Rätsels benutzen möchten,</n>wählen Sie im Inventar "<ICON USE> Benutzen".
+Cuando necesites utilizar un objeto para abrir</n>una puerta o resolver un puzle, elige el objeto</n>y luego la acción "<ICON USE> Usar".
+Чтобы открыть дверь или решить головоломку</n>с помощью предмета, выберите его и нажмите</n>«<ICON USE> Использовать».
+Gdy musisz użyć przedmiotu, aby otworzyć drzwi</n>lub rozwiązać zagadkę, wybierz go, a następnie</n>polecenie „<ICON USE> Użyj”.
+Quando você precisar usar um item para desbloquear</n>uma porta ou resolver um quebra-cabeça, selecione</n>o item e, depois, o comando "<ICON USE> Usar".
+아이템을 사용해 문을 열거나 퍼즐을 풀어야 할 때는</n>해당 아이템을 선택한 후 "<ICON USE> 사용"</n>명령을 선택해야 합니다.
+需要使用物品打開門鎖或解決謎題時，</n>請選擇物品後再選擇</n>「<ICON USE> 使用」指令。
+需要使用物品开门或解谜时，</n>请选择该物品，然后使用</n>“<ICON USE> 使用”指令。
+使用済みキーアイテム
+Discarding Key Items
+Se débarrasser d'objets clés
+Scartare gli oggetti
+Wichtige Objekte wegwerfen
+Descartar objetos clave
+Сброс сюжетных предметов
+Wyrzucanie kluczowych przedmiotów
+Descarte de Itens Importantes
+열쇠 아이템 폐기
+丟棄關鍵物品
+丢弃关键物品
+<ICON USELESSITEM>マークの付いたキーアイテムは、</n>「<ICON TRASH>捨てる」ことができる。
+You can discard items that have served their</n>purpose or any other key items with a <ICON USELESSITEM> mark</n>by selecting the "<ICON TRASH> Discard" command.
+Vous pouvez vous débarrasser des objets déjà</n>utilisés et marqués d'un symbole <ICON USELESSITEM></n>en sélectionnant la commande "<ICON TRASH>Jeter".
+Con il comando "<ICON TRASH>Scarta" puoi scartare</n>un oggetto chiave che ha svolto la sua</n>funzione, contraddistinto dall'icona <ICON USELESSITEM>.
+Sie können wichtige Objekte, die ihren Zweck</n>erfüllt haben und ein <ICON USELESSITEM>-Symbol tragen, wegwerfen,</n>indem Sie im Inventar "<ICON TRASH> Wegwerfen" wählen.
+Puedes deshacerte de objetos que ya hayan</n>cumplido con su propósito, o cualquier otro</n>objeto clave con el icono <ICON USELESSITEM>.</n>Para ello, elige la acción "<ICON TRASH> Descartar".
+Ненужные вещи или использованные сюжетные предметы,</n>помеченные значком <ICON USELESSITEM>, можно выбросить. Для этого</n>нажмите «<ICON TRASH> Выбросить».
+Możesz wyrzucić przedmioty,</n>które spełniły swoje zadanie</n>lub inne kluczowe przedmioty</n>oznaczone ikoną <ICON USELESSITEM>,</n>wybierając polecenie „<ICON TRASH> Wyrzuć”.
+Descarte itens que já cumpriram seu propósito,</n>ou qualquer item importante que tenha uma marca <ICON USELESSITEM>.</n>Basta selecionar o comando "<ICON TRASH> Descartar".
+사용 목적을 다한 아이템 또는 <ICON USELESSITEM> 표시가</n>있는 열쇠 아이템은 "<ICON TRASH> 폐기" 명령을 선택해</n>폐기할 수 있습니다.
+您可以丟棄已經派不上用場的物品，</n>或其他有 <ICON USELESSITEM> 標誌的關鍵道具。</n>選擇「<ICON TRASH> 丟棄」指令即可。
+您可以选择用“<ICON TRASH> 丢弃”指令</n>丢弃派不上用场的物品，或其他带有</n><ICON USELESSITEM> 图标的关键物品。
+マップの活用
+Making Use of the Map
+Utiliser la carte
+Usare la mappa
+Die Karte benutzen
+Usar el mapa
+Использование карты
+Używanie mapy
+Funções do Mapa
+지도 활용
+使用地圖
+使用地图
+マップ画面には地形や現在位置だけでなく、</n>発見したギミックや、アイテムの位置なども表示される。
+The map screen is useful for more than just</n>your current location and surroundings—it can</n>also show you any points of interest and items</n>you have found but haven't picked up.
+La carte est utile non seulement pour se repérer,</n>mais aussi pour conserver une trace des points</n>d'intérêt et des objets non ramassés.
+Oltre che a mostrare la tua posizione attuale</n>e le varie aree di gioco, la mappa ti mostra</n>anche tutti gli oggetti che hai trovato ma</n>non hai raccolto, e gli elementi con cui</n>hai interagito.</n>
+Der Kartenbildschirm ist nicht nur nützlich,</n>um sich die gegenwärtige Position und Umgebung</n>anzusehen, er zeigt auch interessante Details</n>sowie Objekte an, die Sie zwar gefunden,</n>aber nicht aufgenommen haben.
+La pantalla del mapa no solo te indicará tu</n>ubicación actual y tu entorno inmediato:</n>en ella verás puntos de interés y objetos</n>que has encontrado pero que no has recogido.
+На карте отображаются не только ваше текущее</n>местоположение: здесь также</n>можно найти все ключевые места и найденные,</n>но не поднятые предметы.
+Ekran mapy pokazuje</n>nie tylko bieżącą lokalizację</n>i otoczenie, ale również</n>ciekawe miejsca i przedmioty</n>znalezione, ale nie zebrane</n>przez gracza.
+O mapa não serve apenas para dar informações</n>da sua localização atual e dos arredores.</n>Ele também mostra pontos de interesse, e</n>itens que você encontrou, mas não pegou.
+지도 화면은 현재 위치 및 주변 환경을</n>확인할 수 있을 뿐 아니라 주요 지점 및</n>미획득 아이템의 위치를 파악하는 데도</n>유용합니다.
+地圖畫面不只能顯示</n>您目前的所在地點和周遭區域，</n>也能顯示各種重要地點，</n>以及您已經找到但未拾起的物品。
+地图画面不只能帮您弄清所在位置和周围环境。</n>还可以显示重要地标以及</n>您已找到但尚未捡起的物品。
+武器の改造
+Customizing Weapons
+Modifier les armes
+Modificare le armi
+Waffen modifizieren
+Personalización de armas
+Улучшение оружия
+Modyfikowanie broni
+Armas Personalizadas
+무기 커스터마이징
+改裝武器
+改装武器
+カスタムパーツを対応する武器に「<ICON COMBINE>組み合わせ」ることで、</n>武器の性能を上げることができる。
+Some weapons can be customized with certain</n>specialized parts. Use the "<ICON COMBINE> Combine"</n>command to attach a custom part to a weapon.
+Certaines armes peuvent être modifiées via</n>des éléments de personnalisation. Utilisez</n>la commande "<ICON COMBINE>Combiner" pour attacher</n>un élément à une arme.
+Alcune armi possono essere modificate usando</n>apposite parti. Usa il comando "<ICON COMBINE>Combina"</n>per collegare una parte di modifica con un'arma.
+Einige Waffen können durch bestimmtes</n>Spezialzubehör modifiziert werden.</n>Verwenden Sie den Befehl "<ICON COMBINE> Kombinieren"</n>im Inventar, um Spezialzubehör an eine</n>Waffe anzubringen.
+Algunas armas se pueden personalizar con las</n>piezas adecuadas. Usa la acción "<ICON COMBINE> Combinar"</n>para personalizar un arma con dichas piezas.
+Некоторое оружие можно улучшать с помощью</n>особых деталей. Чтобы прикрепить к оружию</n>такую деталь, нажмите «<ICON COMBINE> Объединить».
+Niektóre bronie można</n>modyfikować za pomocą</n>specjalnych części.</n>Użyj polecenia „<ICON COMBINE> Połącz”,</n>aby zamontować niestandardową</n>część na broni.
+Algumas armas podem receber certas peças</n>personalizadas. Use o comando "<ICON COMBINE> Combinar" para</n>instalar uma peça personalizada em uma arma.
+일부 무기는 특수 부품을 통해 커스터마이징할</n>수 있습니다. "<ICON COMBINE> 조합" 명령을 사용하면</n>맞춤형 부품을 무기에 부착할 수 있습니다.
+有些武器可以用某些特殊零件加以改裝。</n>使用「<ICON COMBINE> 組合」指令</n>可將改裝零件加裝到武器上。
+有些武器可以用某些特殊零件</n>进行改装。请使用“<ICON COMBINE> 组合”</n>指令将改装零件加到武器上。
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_013
+アイテムの組み合わせ
+Combining Items
+Combiner des objets
+Combinare gli oggetti
+Objekte kombinieren
+Combinación de objetos
+Объединение предметов
+Łączenie przedmiotów
+Combinar Itens
+아이템 조합
+組合物品
+组合物品
+組み合わせが可能なアイテムは、</n>他のアイテムと「<ICON COMBINE>組み合わせ」ることで、</n>新たな効果を発揮する。
+Some items can be combined with other items,</n>either to free up a slot or to create something</n>new. Use the "<ICON COMBINE> Combine" command to do</n>just that.
+Certains objets peuvent être combinés avec</n>d'autres objets via la commande "<ICON COMBINE>Combiner".</n>En faisant cela, vous pourrez libérer un</n>emplacement dans votre inventaire ou créer</n>quelque chose de nouveau.
+Puoi combinare alcuni oggetti per liberare spazio</n>nell'inventario o per crearne di nuovi.</n>Per combinare gli oggetti usa "<ICON COMBINE>Combina".
+Einige Objekte können mit anderen Objekten</n>kombiniert werden, um einen Platz im</n>Inventar freizumachen, oder auch um neue</n>Objekte zu erschaffen. Verwenden Sie dazu</n>den Befehl "<ICON COMBINE> Kombinieren".
+Algunos objetos pueden combinarse con otros,</n>tanto para liberar espacio como para crear otro</n>objeto nuevo.</n>Para ello, elige la acción "<ICON COMBINE> Combinar".
+Некоторые предметы можно комбинировать</n> с другими как для освобождения ячейки, так </n>и для создания совершенно новых предметов.</n>Для этого нажмите «<ICON COMBINE> Объединить».
+Niektóre przedmioty można łączyć</n>z innymi, aby zwolnić miejsce</n>lub stworzyć coś nowego.</n>W tym celu użyj polecenia</n>„<ICON COMBINE> Połącz”.
+Alguns itens podem ser combinados</n>com outros itens, para liberar um</n>espaço ou criar algo novo. Basta</n>usar o comando "<ICON COMBINE> Combinar".
+일부 아이템은 다른 아이템과 조합하여</n>슬롯을 비우거나 새로운 무언가를 만들 수도</n>있습니다. "<ICON COMBINE> 조합" 명령을 사용하면</n>됩니다.
+有些物品可與其他物品組合，</n>以空出欄位或製造新東西。</n>使用「<ICON COMBINE> 組合」指令即可進行。
+有些物品可与其他物品组合，</n>来空出槽位或制造新物品。</n>只要使用“<ICON COMBINE> 组合”指令</n>便可组合。
+コンディションと回復アイテム
+Health and Recovery Items
+Santé et objets de soin
+Salute e oggetti curativi
+Heilende Objekte
+Salud y objetos curativos
+Лечение и восстановление
+Przedm. lecznicze i regenerujące
+Itens de Vida e Recuperação
+체력 및 회복 아이템
+生命值及治療物品
+生命状态与治疗物品
+敵からの攻撃で、左下のコンディションゲージが、</n><COL FINE>FINE</COLOR> → <COL CAUTION>CAUTION</COLOR> → <COL DANGER>DANGER</COLOR> と変化していく。</n></n><COL DANGER>DANGER</COLOR> になったら、次の攻撃を受ける前に、</n>グリーンハーブや救急スプレーで回復を。
+As you take damage, your health monitor in</n>the bottom left will drop from <COL FINE>Fine</COLOR> to <COL CAUTION>Caution</COLOR></n>to <COL DANGER>Danger</COLOR>. When in <COL DANGER>Danger</COLOR>, quickly heal</n>yourself with a green herb or first aid spray</n>before it's too late.
+Au fur et à mesure des dégâts que vous subissez,</n>votre statut indiqué par le moniteur de santé en</n>bas à gauche de l'écran changera dans cet ordre :</n><COL FINE>OK</COLOR> > <COL CAUTION>Attention</COLOR> > <COL DANGER>Danger</COLOR></n>Lorsque vous êtes en <COL DANGER>Danger</COLOR>, soignez-vous avec</n>une plante verte ou un spray de premiers secours</n>avant qu'il ne soit trop tard.
+Se subisci dei danni, il tracciato dei tuoi parametri</n>vitali in basso a sinistra dello schermo passerà da</n><COL FINE>Normale</COLOR> ad <COL CAUTION>Attenzione</COLOR>, e infine a <COL DANGER>Pericolo</COLOR>.</n></n>Quando viene visualizzato <COL DANGER>Pericolo</COLOR>, curati in fretta</n>con una pianta o con lo spray medico, prima che</n>sia troppo tardi.
+Wenn Sie Schaden nehmen, wechselt Ihre</n>Gesundheitsanzeige von <COL FINE>Gesund</COLOR> zu <COL CAUTION>Warnung</COLOR></n>und schließlich zu <COL DANGER>Gefahr</COLOR>. Wenn Sie in</n><COL DANGER>Gefahr</COLOR> sind, sollten Sie sich schnell mit</n>einem Kraut oder Erste-Hilfe-Spray heilen.
+A medida que recibas daños, el indicador de</n>salud en la esquina inferior izquierda disminuirá</n>de <COL FINE>Bien</COLOR> a <COL CAUTION>Atención</COLOR>, y finalmente a <COL DANGER>Peligro</COLOR>.</n>Si tu salud está en situación de <COL DANGER>Peligro</COLOR>,</n>cúrate con una hierba o un spray de primeros</n>auxilios antes de que sea demasiado tarde.
+Когда вы получаете урон, индикатор</n>вашего здоровья в нижнем левом углу </n>меняется от «<COL FINE>Хорошо</COLOR>», до «<COL CAUTION>Внимание</COLOR>» </n>и, наконец, «<COL DANGER>Опасность</COLOR>».</n>Если на индикаторе горит «<COL DANGER>Опасность</COLOR>», </n>скорее используйте зеленую траву или лечебный спрей,</n> чтобы исцелиться, пока не поздно.
+W miarę odnoszenia obrażeń stan zdrowia</n>widoczny w lewym dolnym rogu będzie </n>zmieniał się z <COL FINE>dobrego</COLOR> na <COL CAUTION>niepokojący</COLOR></n>i <COL DANGER>niebezpieczny</COLOR>.</n>Gdy stan zdrowia jest <COL DANGER>niebezpieczny</COLOR>,</n>szybko ulecz się się zielonym ziołem</n>lub sprayem leczniczym, zanim</n>będzie za późno.</n>
+Ao sofrer dano, o seu monitor de vida no canto</n>inferior esquerdo mudará de <COL FINE>Bem</COLOR> para <COL CAUTION>Cuidado</COLOR> e,</n>depois, para <COL DANGER>Perigo</COLOR>. Quando estiver em <COL DANGER>Perigo</COLOR>,</n>cure-se logo com uma erva verde ou spray de</n>primeiros socorros antes que seja tarde.
+피해를 입으면 왼쪽 하단의 체력 모니터가</n><COL FINE>정상</COLOR>에서 <COL CAUTION>주의</COLOR>를 거쳐 <COL DANGER>위험</COLOR>으로</n>변경됩니다. <COL DANGER>위험</COLOR> 상태가 되면</n>너무 늦기 전에 녹색 약초나 응급 처치</n>스프레이로 자신을 치유해야 합니다.
+當您受到傷害，畫面左下方的生命值監測器</n>會從<COL FINE>良好</COLOR>變成<COL CAUTION>注意</COLOR>，再變成<COL DANGER>危險</COLOR>。</n>變成<COL DANGER>危險</COLOR>時，趕快用綠色藥草或急救噴霧治療自己，</n>以免為時太晚。
+您受到伤害时，画面左下方的生命监测器</n>会从<COL FINE>良好</COLOR>变为<COL CAUTION>注意</COLOR>，</n>再变为<COL DANGER>危险</COLOR>。进入<COL DANGER>危险</COLOR>状态后，</n>请尽快使用绿色药草或急救喷雾为自己疗伤，</n>以免为时太晚。
+EMFスキャナープロジェクター
+EMF Visualizer
+Détecteur CEM
+Rilevatore EMF
+EMF Visualizer
+Visualizador EMF
+Визуализатор ЭМП
+Wizualizator EMF
+Visualizador de CEM
+EMF 비주얼라이저
+電磁場顯像器
+电磁场显像器
+壁に埋まった配線や電子機器を探し出し</n>ハッキングすることができる。</n></n><ICON HOLD_MAIN>：構える</n>構え中に<ICON ATTACK>長押し：ハッキング
+Use the EMF Visualizer to track wiring</n>and hack electronic equipment.</n></n><ICON HOLD_MAIN>: Aim</n>While aiming, hold <ICON ATTACK>: Hack
+Utilisez le détecteur CEM pour repérer</n>les câbles et pirater les équipements</n>électroniques.</n></n><ICON HOLD_MAIN>: Viser</n>En visant, maintenir <ICON ATTACK>: Pirater
+Usa il rilevatore EMF per individuare i cavi</n>e prendere il controllo delle apparecchiature</n>elettroniche.</n></n>Mira: tieni premuto <ICON HOLD_MAIN></n>Interagisci: tieni premuto <ICON ATTACK> mentre stai mirando
+Benutzen Sie den EMF Visualizer, um Kabel</n>aufzuspüren und elektronische Geräte zu hacken.</n></n><ICON HOLD_MAIN>: Zielen</n>Beim Zielen <ICON ATTACK> halten: Hacken
+Usa el Visualizador EMF para rastrear</n>cableado y hackear equipo electrónico.</n></n><ICON HOLD_MAIN>: Apuntar</n>Apuntando, mantén <ICON ATTACK> : Hackear
+Используйте визуализатор ЭМП, чтобы</n>найти провода и взломать электронное оборудование.</n></n><ICON HOLD_MAIN>: прицеливание</n>Удерживайте <ICON ATTACK> во время прицеливания: взломать
+Użyj wizualizatora EMF, by wykrywać przewody</n>i hakować sprzęt elektroniczny.</n></n><ICON HOLD_MAIN>: celowanie</n>Podczas celowania przytrzymaj <ICON ATTACK>: hakowanie
+Use o Visualizador de CEM para rastrear e</n>invadir equipamentos eletrônicos.</n></n><ICON HOLD_MAIN>: Mirar</n>Enquanto mira, segurar <ICON ATTACK>: Invadir
+EMF 비주얼라이저를 사용해 배선을</n>추적하고 전자 장비를 해킹합니다.</n></n><ICON HOLD_MAIN>: 조준</n>조준 중 <ICON ATTACK> 홀드: 해킹
+使用電磁場顯像器來追蹤配線並入侵電子設備。</n></n></n><ICON HOLD_MAIN>：瞄準</n>瞄準時，按住 <ICON ATTACK>：入侵
+使用电磁场显像器来追踪线路并入侵电子设备。</n></n></n><ICON HOLD_MAIN>：瞄准</n>瞄准时，按住 <ICON ATTACK>：入侵
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_017
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_018
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_019
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_020
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_021
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_023
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_024
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_025
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_026
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_027
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_028
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_029
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStopTitle_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_TutorialStop_030

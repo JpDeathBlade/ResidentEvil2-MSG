@@ -1,0 +1,736 @@
+﻿<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>またお前か<PAGE></n>どいて　私がやる<PAGE></n>終わらせなきゃ<PAGE></n>どういうつもりだ？<PAGE></n>許して ウィリアム<PAGE></n>もう こうするしかないの<PAGE></n>「ウィリアム」だって？</n>こいつが？<PAGE></n>こんなはずじゃなかった<PAGE></n>何もかもアンブレラのせいよ<PAGE></n>あんたもそうだろ？<PAGE></n>アンブレラの人間だ<PAGE></n>そうよ！<PAGE></n>でも こんなことになるなんて想像してなかった<PAGE></n>話してくれないか</n>最初から全部<PAGE></n>そう簡単に渡してたまるか<PAGE></n><PAGE></n>そんな　ウィリアム<PAGE></n>何てことをしたの？<PAGE></n>じゃあ これを作ったのは…<PAGE></n>確かにG-ウィルスは作ったわ</n>でも こんなのは想定…<PAGE></n>いくら弁解しようが――<PAGE></n>あんたの責任だ<PAGE></n><PAGE></n>おい<PAGE></n>クソッ！<PAGE></n>何をしてる！？<PAGE></n>ここから出すわけにはいかないの<PAGE></n>いいだろう</n>決着をつけてやる</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>You again.<PAGE></n>Move. He's mine.<PAGE></n>This has to end.<PAGE></n>What the hell's going on!?<PAGE></n>Sorry, William.<PAGE></n>You left me no choice.<PAGE></n>You called this thing "William." Why?<PAGE></n>It shouldn't have been like this...<PAGE></n>It's Umbrella's fault—this whole mess.<PAGE></n>You're Umbrella, too.<PAGE></n>You're telling me you weren't involved in this?<PAGE></n>Yes...<PAGE></n>But we never meant for this to happen.<PAGE></n>Then tell me everything—right from the start.<PAGE></n>You don't get away that easily...<PAGE></n><PAGE></n>Good god, William.<PAGE></n>What have you done?<PAGE></n>So you made this monster?<PAGE></n>We made the G virus, but we never intended this to—<PAGE></n>You can spin it any way you want.<PAGE></n>You're still responsible.<PAGE></n><PAGE></n>The hell!?<PAGE></n>Shit!<PAGE></n>What're you doing!?<PAGE></n>We can't let him get away!<PAGE></n>Alright... We end this here!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>Encore toi...<PAGE></n>Non ! Il est à moi.<PAGE></n>Il faut en finir.<PAGE></n>Je peux savoir ce qui se passe ?<PAGE></n>Pardon, William.<PAGE></n>Tu ne m'as pas laissé le choix.<PAGE></n>Vous l'avez appelé "William". Pourquoi ?<PAGE></n>Ça aurait pas dû finir comme ça...<PAGE></n>C'est de la faute d'Umbrella, tout ça...<PAGE></n>Vous en faites partie.<PAGE></n>Vous êtes impliquée là-dedans, non ?<PAGE></n>Oui...<PAGE></n>Mais jamais on a voulu que ça se produise !<PAGE></n>Dites-moi tout. Racontez-moi depuis le début.<PAGE></n>Vous vous en tirerez pas comme ça...<PAGE></n><PAGE></n>Oh mon Dieu, William.<PAGE></n>Qu'est-ce que t'as fait ?<PAGE></n>Vous avez créé ce monstre...<PAGE></n>On a créé le virus G, mais à aucun moment on a voulu...<PAGE></n>Ne cherchez pas d'excuse.<PAGE></n>Vous êtes responsable.<PAGE></n><PAGE></n>Oh putain !<PAGE></n>Merde !<PAGE></n>Qu'est-ce que vous faites ?<PAGE></n>On peut pas le laisser s'échapper !<PAGE></n>OK... Je m'en occupe.</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>Ancora tu?<PAGE></n>Levati! È mio!<PAGE></n>Deve finire qui.<PAGE></n>Che diavolo succede?<PAGE></n>Perdonami William.<PAGE></n>Non mi hai dato altra scelta.<PAGE></n>Lo hai chiamato "William"... Perché?<PAGE></n>Perché è finita così?<PAGE></n>È soltanto colpa della Umbrella.<PAGE></n>Sei una di loro.<PAGE></n>E non sei coinvolta in tutto questo?<PAGE></n>Sì...<PAGE></n>Ma tutto questo non sarebbe dovuto accadere!<PAGE></n>Allora raccontami... Fin dall'inizio.<PAGE></n>Non lo avrete così facilmente...<PAGE></n><PAGE></n>Mio Dio, William!<PAGE></n>Che cosa hai fatto?<PAGE></n>Tu hai creato questo mostro.<PAGE></n>Abbiamo creato il virus, ma non immaginavamo che...<PAGE></n>Non trovare scuse inutili.<PAGE></n>Sei tu la responsabile.<PAGE></n><PAGE></n>Oh, ma che diavolo?<PAGE></n>Merda!<PAGE></n>Che cosa fai?<PAGE></n>Non possiamo farlo scappare!<PAGE></n>Ok... Finiamola qui!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>Du wieder.<PAGE></n>Weg.</n>Er gehört mir.<PAGE></n>Das muss enden...<PAGE></n>Was zur Hölle geht hier vor?!<PAGE></n>Sorry, William.<PAGE></n>Du lässt mir keine Wahl.<PAGE></n>Sie nannten das Ding "William" – wieso?<PAGE></n>Hätte nicht passieren dürfen...<PAGE></n>Ist Umbrellas Schuld... das alles.<PAGE></n>Sie arbeiten für die.<PAGE></n>Hatten Sie etwa nichts damit zu tun?<PAGE></n>Doch...<PAGE></n>Aber wir wollten nie, dass das passiert.<PAGE></n>Dann erzählen Sie's mir, von Anfang an.<PAGE></n>So einfach kommt ihr nicht davon...<PAGE></n><PAGE></n>Oh Gott, William.<PAGE></n>Was hast du getan?<PAGE></n>Dann ist das Ihr Monster.<PAGE></n>Wir schufen das G-Virus,</n>aber wir wollten doch nie, dass...<PAGE></n>Sie können es dreh'n, wie Sie wollen.<PAGE></n>Es ist doch Ihre Schuld.<PAGE></n><PAGE></n>Was zur Hölle? <PAGE></n>Scheiße! <PAGE></n>Was tun Sie da?!<PAGE></n>Er darf nicht entkommen!<PAGE></n>Okay... </n>Das endet hier!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>¡Tú otra vez!<PAGE></n>Atrás. Es mío.<PAGE></n>Esto debe terminar.<PAGE></n>¡¿Qué está pasando?!<PAGE></n>Lo siento, William.<PAGE></n>No tenía elección.<PAGE></n>Le has llamado "William", ¿por qué?<PAGE></n>No tendría que haber pasado...<PAGE></n>Todo esto es culpa de Umbrella...<PAGE></n>Eres de Umbrella...<PAGE></n>¿Y no tienes nada que ver?<PAGE></n>Sí.<PAGE></n>Pero esto no es lo que pretendíamos.<PAGE></n>Dímelo todo, desde el principio.<PAGE></n>No os saldréis con la vuestra...<PAGE></n><PAGE></n>Por Dios, William.<PAGE></n>¿Qué has hecho?<PAGE></n>Así que tú lo creaste.<PAGE></n>Creamos el virus G, pero nunca quisimos que...<PAGE></n>Intenta justificarlo...<PAGE></n>Pero eres responsable.<PAGE></n><PAGE></n>¡Mierda!<PAGE></n>¿Qué coj...?<PAGE></n>¡¿Qué haces?!<PAGE></n>¡No podemos dejar que escape!<PAGE></n>¡Muy bien...! ¡Acabemos esto!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>Опять ты.<PAGE></n>Отойди. Он мой.<PAGE></n>Я должна со всем покончить.<PAGE></n>Что за хрень тут происходит?!<PAGE></n>Прости, Уильям.<PAGE></n>Ты не оставил мне выбора.<PAGE></n>Ты назвала эту тварь Уильямом. Почему?<PAGE></n>Все должно было быть иначе...<PAGE></n>Umbrella виновна во всем этом кошмаре.<PAGE></n>Ты тоже из Umbrella.<PAGE></n>Хочешь сказать, ты к этому не причастна?<PAGE></n>Причастна...<PAGE></n>Но мы никогда не хотели ничего подобного.<PAGE></n>Расскажи мне обо всем с самого начала.<PAGE></n>Так просто вам не уйти...<PAGE></n><PAGE></n>Боже мой, Уильям.<PAGE></n>Что ты наделал?<PAGE></n>Это твоих рук дело?<PAGE></n>Мы создали Г-вирус, но никогда не собирались...<PAGE></n>Играть словами можно сколько угодно.<PAGE></n>Но вы все равно в ответе за все.<PAGE></n><PAGE></n>Какого?!<PAGE></n>Черт!<PAGE></n>Что ты задумала?!<PAGE></n>Не дай ему уйти!<PAGE></n>Ладно... Пора кончать со всем этим!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>Znowu ty.<PAGE></n>Rusz się. On jest mój.<PAGE></n>To się musi skończyć.<PAGE></n>Co się tu, do cholery, dzieje?<PAGE></n>Wybacz, William.<PAGE></n>Nie dałeś mi innego wyboru.<PAGE></n>Nazwałaś to coś</n>„Williamem”. Dlaczego?<PAGE></n>Nie tak miało być...<PAGE></n>To wina Umbrelli... cały ten bajzel.<PAGE></n>Też pracujesz dla Umbrelli.<PAGE></n>Twierdzisz, że nie byłaś w to zamieszana?<PAGE></n>Byłam...<PAGE></n>Ale nie tak to miało się potoczyć.<PAGE></n>Opowiedz mi wszystko, od początku.<PAGE></n>Tak łatwo się nie wywiniesz...<PAGE></n><PAGE></n>Dobry Boże, William.<PAGE></n>Coś ty zrobił?<PAGE></n>Więc ten potwór to twoje dzieło?<PAGE></n>Opracowaliśmy wirusa G,</n>ale nigdy nie planowaliśmy—<PAGE></n>Możesz przedstawiać to jak chcesz.<PAGE></n>Nie zmienia faktu, że jesteś</n>za to odpowiedzialna.<PAGE></n><PAGE></n>Co u diabła?<PAGE></n>Szlag!<PAGE></n>Co ty wyprawiasz?<PAGE></n>Nie możemy go puścić!<PAGE></n>Dobra... Skończymy to tutaj!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>Você de novo.<PAGE></n>Sai. Ele é meu.<PAGE></n>Isso tem que acabar.<PAGE></n>O que é que tá acontecendo?!<PAGE></n>Me perdoa, William.<PAGE></n>Você não me deixou escolha.<PAGE></n>Você chamou esse treco de "William". Por quê?<PAGE></n>Não era pra ter sido assim.<PAGE></n>É culpa da Umbrella, essa porra toda.<PAGE></n>Você também é da Umbrella.<PAGE></n>Então você não tava envolvida nisso?<PAGE></n>Tava, sim...<PAGE></n>Mas a gente nunca quis esse resultado!<PAGE></n>Então me conta tudo. Desde o começo.<PAGE></n>Vocês não vão se safar assim.<PAGE></n><PAGE></n>Meu Deus do céu, William.<PAGE></n>O que foi que você fez?<PAGE></n>Então você criou essa coisa?<PAGE></n>A gente criou o Vírus G, mas nunca foi parte do plano...<PAGE></n>Você pode dar a desculpa que quiser.<PAGE></n>Ainda assim é responsável.<PAGE></n><PAGE></n>Que porra é essa?!<PAGE></n>Merda!<PAGE></n>O que você tá fazendo?<PAGE></n>A gente não pode deixar ele escapar!<PAGE></n>Tá certo! Isso acaba aqui!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>또 네 놈이군.<PAGE></n>비켜. 내가 처리할 거니까.<PAGE></n>끝을 내주겠어.<PAGE></n>뭐가 어떻게 된 거죠?<PAGE></n>윌리엄, 미안해.<PAGE></n>하지만 어쩔 수 없어.<PAGE></n>이놈을 "윌리엄"이라고 부르던데, 왜 그런 거죠?<PAGE></n>이렇게 되면 안 되는 거였어...<PAGE></n>이 모든 게 엄브렐러의 잘못이야.<PAGE></n>당신도 엄브렐러잖아요.<PAGE></n>당신은 이 일과 관련이 없단 얘깁니까?<PAGE></n>있긴 하지만...<PAGE></n>이러려던 게 아니야.<PAGE></n>그럼 모든 걸 처음부터 설명해 주시죠.<PAGE></n>그렇게 쉽게 빠져나가게 둘 것 같으냐...<PAGE></n><PAGE></n>세상에, 윌리엄.<PAGE></n>무슨 짓을 한 거야?<PAGE></n>당신이 만든 거군요?<PAGE></n>G 바이러스를 함께 개발한 건 사실이지만, </n>이럴 목적으로 만든 게—<PAGE></n>무슨 얘길 어떻게 해도 변명에 불과합니다.<PAGE></n>이 사건의 책임은 당신에게 있는 겁니다.<PAGE></n><PAGE></n>이건 뭐야!?<PAGE></n>젠장!<PAGE></n>지금 뭐 하는 겁니까?<PAGE></n>빠져나가게 두면 안 돼!<PAGE></n>좋아... 이제 여기서 끝장을 보자고!</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>又是你。<PAGE></n>讓開，他是我的。<PAGE></n>到此為止了。<PAGE></n>到底發生了什麼事！？<PAGE></n>威廉，抱歉。<PAGE></n>你讓我別無選擇。<PAGE></n>為什麼你要叫這東西「威廉」？<PAGE></n>本來不應該是這樣的...<PAGE></n>這整件事都是保護傘公司的錯。<PAGE></n>你也是保護傘公司的員工。<PAGE></n>你想說自己跟這一切無關嗎？<PAGE></n>你說的沒錯...<PAGE></n>但事情變成這樣並不是我們的本意。<PAGE></n>那就告訴我一切的始末。從頭開始說清楚。<PAGE></n>別以為你們可以這麼簡單地走人...<PAGE></n><PAGE></n>天啊，威廉。<PAGE></n>你做了什麼？<PAGE></n>所以，這個怪物是你一手造成的？<PAGE></n>我們研發出 G 病毒，但從來沒有想過事情會...<PAGE></n>你想編什麼故事是你的自由，<PAGE></n>但你還是得為此負責。<PAGE></n><PAGE></n>什麼鬼！？<PAGE></n>該死！<PAGE></n>你在做什麼！？<PAGE></n>我們不能讓他逃走！<PAGE></n>好吧... 我們在這裡做個了斷！</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>又是你。<PAGE></n>让开，他是我的。<PAGE></n>到此为止了。<PAGE></n>到底发生了什么事！？<PAGE></n>对不起，威廉。<PAGE></n>你让我别无选择。<PAGE></n>为什么你要叫这个怪物“威廉”？<PAGE></n>事情本不该如此的...<PAGE></n>这一切都是保护伞公司的错。<PAGE></n>你也是保护伞公司的一员。<PAGE></n>你想说你自己毫无责任吗？<PAGE></n>你说的没错...<PAGE></n>但事情变成这样并非我们的本意。<PAGE></n>那就告诉我事情的来龙去脉。<PAGE></n>别以为你们可以就这样一走了之...<PAGE></n><PAGE></n>天啊，威廉。<PAGE></n>你做了什么？<PAGE></n>所以，这个怪物是你一手造成的？<PAGE></n>我们制造出 G 病毒，但我们从未想过事情会...<PAGE></n>不论你想怎样推脱，<PAGE></n>你还是有责任。<PAGE></n><PAGE></n>搞什么鬼！？<PAGE></n>可恶！<PAGE></n>你在做什么！？<PAGE></n>我们不能让他逃走！<PAGE></n>好吧... 就在这里做个了结！</n>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+<TIME 11.02, 12.49><TIME 12.96, 16.01><TIME 16.65, 18.48><TIME 22.06, 23.75><TIME 24.94, 26.69><TIME 26.91, 28.76><TIME 39.45, 42.51><TIME 45.47, 47.48><TIME 49.24, 51.88><TIME 52.62, 54.0><TIME 54.44, 56.28><TIME 56.3, 57.51><TIME 58.12, 61.02><TIME 62.83, 65.97><TIME 73.26, 75.77><TIME 78.31, 86.51><TIME 91.21, 93.25><TIME 93.5, 95.06><TIME 99.22, 101.01><TIME 101.51, 103.98><TIME 104.01, 105.92><TIME 106.13, 107.51><TIME 108.17, 114.26><TIME 123.10, 125.10,><TIME 125.60, 126.50,><TIME 135.38, 136.74><TIME 136.76, 139.01><TIME 146.34, 149.0>
+またお前か
+You again.
+Encore toi...
+Ancora tu?
+Du wieder.
+¡Tú otra vez!
+Опять ты.
+Znowu ty.
+Você de novo.
+또 네 놈이군.
+又是你。
+又是你。
+どいて　私がやる
+Move. He's mine.
+Non ! Il est à moi.
+Levati! È mio!
+Weg.</n>Er gehört mir.
+Atrás. Es mío.
+Отойди. Он мой.
+Rusz się. On jest mój.
+Sai. Ele é meu.
+비켜. 내가 처리할 거니까.
+讓開，他是我的。
+让开，他是我的。
+終わらせなきゃ
+This has to end.
+Il faut en finir.
+Deve finire qui.
+Das muss enden...
+Esto debe terminar.
+Я должна со всем покончить.
+To się musi skończyć.
+Isso tem que acabar.
+끝을 내주겠어.
+到此為止了。
+到此为止了。
+どういうつもりだ？
+What the hell's going on!?
+Je peux savoir ce qui se passe ?
+Che diavolo succede?
+Was zur Hölle geht hier vor?!
+¡¿Qué está pasando?!
+Что за хрень тут происходит?!
+Co się tu, do cholery, dzieje?
+O que é que tá acontecendo?!
+뭐가 어떻게 된 거죠?
+到底發生了什麼事！？
+到底发生了什么事！？
+許して ウィリアム
+Sorry, William.
+Pardon, William.
+Perdonami William.
+Sorry, William.
+Lo siento, William.
+Прости, Уильям.
+Wybacz, William.
+Me perdoa, William.
+윌리엄, 미안해.
+威廉，抱歉。
+对不起，威廉。
+もう こうするしかないの
+You left me no choice.
+Tu ne m'as pas laissé le choix.
+Non mi hai dato altra scelta.
+Du lässt mir keine Wahl.
+No tenía elección.
+Ты не оставил мне выбора.
+Nie dałeś mi innego wyboru.
+Você não me deixou escolha.
+하지만 어쩔 수 없어.
+你讓我別無選擇。
+你让我别无选择。
+「ウィリアム」だって？</n>こいつが？
+You called this thing "William." Why?
+Vous l'avez appelé "William". Pourquoi ?
+Lo hai chiamato "William"... Perché?
+Sie nannten das Ding "William" – wieso?
+Le has llamado "William", ¿por qué?
+Ты назвала эту тварь Уильямом. Почему?
+Nazwałaś to coś</n>„Williamem”. Dlaczego?
+Você chamou esse treco de "William". Por quê?
+이놈을 "윌리엄"이라고 부르던데, 왜 그런 거죠?
+為什麼你要叫這東西「威廉」？
+为什么你要叫这个怪物“威廉”？
+こんなはずじゃなかった
+It shouldn't have been like this...
+Ça aurait pas dû finir comme ça...
+Perché è finita così?
+Hätte nicht passieren dürfen...
+No tendría que haber pasado...
+Все должно было быть иначе...
+Nie tak miało być...
+Não era pra ter sido assim.
+이렇게 되면 안 되는 거였어...
+本來不應該是這樣的...
+事情本不该如此的...
+何もかもアンブレラのせいよ
+It's Umbrella's fault—this whole mess.
+C'est de la faute d'Umbrella, tout ça...
+È soltanto colpa della Umbrella.
+Ist Umbrellas Schuld... das alles.
+Todo esto es culpa de Umbrella...
+Umbrella виновна во всем этом кошмаре.
+To wina Umbrelli... cały ten bajzel.
+É culpa da Umbrella, essa porra toda.
+이 모든 게 엄브렐러의 잘못이야.
+這整件事都是保護傘公司的錯。
+这一切都是保护伞公司的错。
+あんたもそうだろ？
+You're Umbrella, too.
+Vous en faites partie.
+Sei una di loro.
+Sie arbeiten für die.
+Eres de Umbrella...
+Ты тоже из Umbrella.
+Też pracujesz dla Umbrelli.
+Você também é da Umbrella.
+당신도 엄브렐러잖아요.
+你也是保護傘公司的員工。
+你也是保护伞公司的一员。
+アンブレラの人間だ
+You're telling me you weren't involved in this?
+Vous êtes impliquée là-dedans, non ?
+E non sei coinvolta in tutto questo?
+Hatten Sie etwa nichts damit zu tun?
+¿Y no tienes nada que ver?
+Хочешь сказать, ты к этому не причастна?
+Twierdzisz, że nie byłaś w to zamieszana?
+Então você não tava envolvida nisso?
+당신은 이 일과 관련이 없단 얘깁니까?
+你想說自己跟這一切無關嗎？
+你想说你自己毫无责任吗？
+そうよ！
+Yes...
+Oui...
+Sì...
+Doch...
+Sí.
+Причастна...
+Byłam...
+Tava, sim...
+있긴 하지만...
+你說的沒錯...
+你说的没错...
+でも こんなことになるなんて想像してなかった
+But we never meant for this to happen.
+Mais jamais on a voulu que ça se produise !
+Ma tutto questo non sarebbe dovuto accadere!
+Aber wir wollten nie, dass das passiert.
+Pero esto no es lo que pretendíamos.
+Но мы никогда не хотели ничего подобного.
+Ale nie tak to miało się potoczyć.
+Mas a gente nunca quis esse resultado!
+이러려던 게 아니야.
+但事情變成這樣並不是我們的本意。
+但事情变成这样并非我们的本意。
+話してくれないか</n>最初から全部
+Then tell me everything—right from the start.
+Dites-moi tout. Racontez-moi depuis le début.
+Allora raccontami... Fin dall'inizio.
+Dann erzählen Sie's mir, von Anfang an.
+Dímelo todo, desde el principio.
+Расскажи мне обо всем с самого начала.
+Opowiedz mi wszystko, od początku.
+Então me conta tudo. Desde o começo.
+그럼 모든 걸 처음부터 설명해 주시죠.
+那就告訴我一切的始末。從頭開始說清楚。
+那就告诉我事情的来龙去脉。
+そう簡単に渡してたまるか
+You don't get away that easily...
+Vous vous en tirerez pas comme ça...
+Non lo avrete così facilmente...
+So einfach kommt ihr nicht davon...
+No os saldréis con la vuestra...
+Так просто вам не уйти...
+Tak łatwo się nie wywiniesz...
+Vocês não vão se safar assim.
+그렇게 쉽게 빠져나가게 둘 것 같으냐...
+別以為你們可以這麼簡單地走人...
+别以为你们可以就这样一走了之...
+そんな　ウィリアム
+Good god, William.
+Oh mon Dieu, William.
+Mio Dio, William!
+Oh Gott, William.
+Por Dios, William.
+Боже мой, Уильям.
+Dobry Boże, William.
+Meu Deus do céu, William.
+세상에, 윌리엄.
+天啊，威廉。
+天啊，威廉。
+何てことをしたの？
+What have you done?
+Qu'est-ce que t'as fait ?
+Che cosa hai fatto?
+Was hast du getan?
+¿Qué has hecho?
+Что ты наделал?
+Coś ty zrobił?
+O que foi que você fez?
+무슨 짓을 한 거야?
+你做了什麼？
+你做了什么？
+じゃあ これを作ったのは…
+So you made this monster?
+Vous avez créé ce monstre...
+Tu hai creato questo mostro.
+Dann ist das Ihr Monster.
+Así que tú lo creaste.
+Это твоих рук дело?
+Więc ten potwór to twoje dzieło?
+Então você criou essa coisa?
+당신이 만든 거군요?
+所以，這個怪物是你一手造成的？
+所以，这个怪物是你一手造成的？
+It's not my fault...
+Ce n'est pas de ma faute...
+Non è colpa mia.
+No es culpa mía...
+Я не виновата...
+To nie moja wina...
+A culpa não é minha.
+내 잘못이 아니야...
+不是我的錯...
+不是我的错...
+But you made him.
+Mais vous l'avez fait.
+Ma lo hai fatto.
+Pero lo creaste.
+Но ты создала его.
+Ale ty go stworzyłaś.
+Mas é sua criação.
+윌리엄은 당신이 이렇게 만든 겁니다.
+但是你讓他變成這樣的。
+是你让他变成这样的。
+It's NOT my fault.
+Ce n'est pas de ma faute.
+Non è colpa mia.
+NO es culpa mía.
+Я тут ни при чем!
+To NIE jest moja wina.
+A culpa NÃO é minha.
+내 잘못이 아니라고...
+那不是我的錯。
+这不是我的错。
+確かにG-ウィルスは作ったわ</n>でも こんなのは想定…
+We made the G virus, but we never intended this to—
+On a créé le virus G, mais à aucun moment on a voulu...
+Abbiamo creato il virus, ma non immaginavamo che...
+Wir schufen das G-Virus,</n>aber wir wollten doch nie, dass...
+Creamos el virus G, pero nunca quisimos que...
+Мы создали Г-вирус, но никогда не собирались...
+Opracowaliśmy wirusa G,</n>ale nigdy nie planowaliśmy—
+A gente criou o Vírus G, mas nunca foi parte do plano...
+G 바이러스를 함께 개발한 건 사실이지만, </n>이럴 목적으로 만든 게—
+我們研發出 G 病毒，但從來沒有想過事情會...
+我们制造出 G 病毒，但我们从未想过事情会...
+いくら弁解しようが――
+You can spin it any way you want.
+Ne cherchez pas d'excuse.
+Non trovare scuse inutili.
+Sie können es dreh'n, wie Sie wollen.
+Intenta justificarlo...
+Играть словами можно сколько угодно.
+Możesz przedstawiać to jak chcesz.
+Você pode dar a desculpa que quiser.
+무슨 얘길 어떻게 해도 변명에 불과합니다.
+你想編什麼故事是你的自由，
+不论你想怎样推脱，
+あんたの責任だ
+You're still responsible.
+Vous êtes responsable.
+Sei tu la responsabile.
+Es ist doch Ihre Schuld.
+Pero eres responsable.
+Но вы все равно в ответе за все.
+Nie zmienia faktu, że jesteś</n>za to odpowiedzialna.
+Ainda assim é responsável.
+이 사건의 책임은 당신에게 있는 겁니다.
+但你還是得為此負責。
+你还是有责任。
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV730_0280_pl0000
+おい
+The hell!?
+Oh putain !
+Oh, ma che diavolo?
+Was zur Hölle? 
+¿Qué coj...?
+Какого?!
+Co u diabła?
+Que porra é essa?!
+이건 뭐야!?
+什麼鬼！？
+搞什么鬼！？
+クソッ！
+Shit!
+Merde !
+Merda!
+Scheiße! 
+¡Mierda!
+Черт!
+Szlag!
+Merda!
+젠장!
+該死！
+可恶！
+何をしてる！？
+What're you doing!?
+Qu'est-ce que vous faites ?
+Che cosa fai?
+Was tun Sie da?!
+¡¿Qué haces?!
+Что ты задумала?!
+Co ty wyprawiasz?
+O que você tá fazendo?
+지금 뭐 하는 겁니까?
+你在做什麼！？
+你在做什么！？
+ここから出すわけにはいかないの
+We can't let him get away!
+On peut pas le laisser s'échapper !
+Non possiamo farlo scappare!
+Er darf nicht entkommen!
+¡No podemos dejar que escape!
+Не дай ему уйти!
+Nie możemy go puścić!
+A gente não pode deixar ele escapar!
+빠져나가게 두면 안 돼!
+我們不能讓他逃走！
+我们不能让他逃走！
+いいだろう</n>決着をつけてやる
+Alright... We end this here!
+OK... Je m'en occupe.
+Ok... Finiamola qui!
+Okay... </n>Das endet hier!
+¡Muy bien...! ¡Acabemos esto!
+Ладно... Пора кончать со всем этим!
+Dobra... Skończymy to tutaj!
+Tá certo! Isso acaba aqui!
+좋아... 이제 여기서 끝장을 보자고!
+好吧... 我們在這裡做個了斷！
+好吧... 就在这里做个了结！
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>しつこいわね<PAGE></n>ウィリアム！<PAGE></n>もう終わらせるわ<PAGE></n>こいつは何？<PAGE></n>私の夫だった<PAGE></n>Gは私の傑作なんだ！<PAGE></n>ウィリアム！<PAGE></n>もっと早く殺すべきだった<PAGE></n>でも どうしても… できなくて　　<PAGE></n>当たり前でしょ<PAGE></n>お互い結婚より仕事を優先してた<PAGE></n>シェリーのことは？</n>よく一人にできたわね？　地獄のような町で<PAGE></n>あの子のいる世界に</n>G-ウィルスを ばらまくわけにはいかなかったのよ<PAGE></n>だからって一人にするなんて…<PAGE></n><PAGE></n>アネット！<PAGE></n>私がやる<PAGE></n>許して ウィリアム…<PAGE></n>ダメよ<PAGE></n>やるのは私<PAGE></n>あなたはシェリーをお願い<PAGE></n>あなたに何ができるって言うの？<PAGE></n>やってみなきゃ分からないでしょ<PAGE></n>油断しないで</n>完全に息の根を止めるまでは<PAGE></n>私を信じて<PAGE></n>ここで決着をつけるわ
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>Your ass again!?<PAGE></n>William!<PAGE></n>This ends NOW!<PAGE></n>What the hell is this thing!?<PAGE></n>That was my husband.<PAGE></n>G is my creation!<PAGE></n>William!<PAGE></n>I should've killed him while I had the chance...<PAGE></n>I don't know why... I just...couldn't do it.<PAGE></n>He was your husband.<PAGE></n>Honestly...we were more married to our work than each other.<PAGE></n>But what about Sherry—how could you just leave her all alone?</n>And while Raccoon City burned to hell.<PAGE></n>I couldn't let my daughter grow up in a world with the G-virus in it.<PAGE></n>But that's no excuse to leave her—<PAGE></n><PAGE></n>Annette!<PAGE></n>I got this.<PAGE></n>I'm sorry, William...<PAGE></n>No.<PAGE></n>I got this.<PAGE></n>You should take care of Sherry.<PAGE></n>You don't know what you're up against.<PAGE></n>I have a pretty damn good idea...<PAGE></n>Whatever you do, don't stop until it's finished.<PAGE></n>Trust me.<PAGE></n>This ends now.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>Encore toi ?<PAGE></n>William !<PAGE></n>Finissons-en !<PAGE></n>C'est quoi ce monstre ?<PAGE></n>C'était mon mari.<PAGE></n>J'ai créé ce virus !<PAGE></n>William !<PAGE></n>J'aurais dû le tuer quand j'en avais l'occasion...<PAGE></n>Je sais pas pourquoi j'ai... J'ai pas pu.<PAGE></n>C'était votre mari.<PAGE></n>À vrai dire, on était surtout mariés à notre travail.<PAGE></n>Et Sherry dans tout ça ? Comment avez-vous pu la laisser</n>seule alors que Raccoon City était à feu et à sang ?<PAGE></n>Je ne pouvais pas laisser ma fille grandir</n>dans un monde où le virus G existe.<PAGE></n>Mais c'était pas une raison pour la laisser...<PAGE></n><PAGE></n>Annette !<PAGE></n>C'est bon.<PAGE></n>Pardonne-moi, William...<PAGE></n>Non.<PAGE></n>Laissez-le moi.<PAGE></n>Occupez-vous plutôt de Sherry.<PAGE></n>Tu ne sais pas à quoi tu as affaire.<PAGE></n>J'ai eu le temps de me faire une idée...<PAGE></n>Quoi que tu fasses, sois bien certaine de le tuer.<PAGE></n>Je sais.<PAGE></n>Cette fois, on va en finir.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>Di nuovo tra le palle?<PAGE></n>William! <PAGE></n>Perdonami, ti prego!<PAGE></n>Cos'è questo mostro?<PAGE></n>Era mio marito.<PAGE></n>G è la mia creatura!<PAGE></n>William!<PAGE></n>Avrei dovuto ucciderlo subito...<PAGE></n>Non so perché, ma... non l'ho fatto.<PAGE></n>Era tuo marito.<PAGE></n>In realtà tenevamo più al lavoro che al matrimonio.<PAGE></n>Ma allora Sherry! Raccoon City veniva</n>distrutta e tu l'hai lasciata sola.<PAGE></n>Non potevo lasciare che mia figlia</n>crescesse in un mondo con il virus G.<PAGE></n>Ma questo non giustifica l'averla lasc...<PAGE></n><PAGE></n>Annette!<PAGE></n>Ce la faccio!<PAGE></n>Mi spiace, William.<PAGE></n>No.<PAGE></n>Me ne occupo io.<PAGE></n>Prenditi cura di Sherry.<PAGE></n>Non hai idea di cosa affronti.<PAGE></n>Credo di essermi fatta un'idea.<PAGE></n>Ascoltami bene, lui non deve sopravvivere.<PAGE></n>Fidati...<PAGE></n>Con me, non ha speranze.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>Du Arsch schon wieder?!<PAGE></n>William!<PAGE></n>Das endet jetzt!<PAGE></n>Was ist dieses Ding?!<PAGE></n>Das war mal mein Mann.<PAGE></n>G ist meine Schöpfung!<PAGE></n>William!<PAGE></n>Ich hätt ihn töten sollen,</n>als ich die Chance hatte...<PAGE></n>Ich weiß nicht wieso...</n>Ich konnt's nicht.<PAGE></n>Er war Ihr Ehemann.<PAGE></n>Ehrlich gesagt stand unsre Arbeit</n>immer an erster Stelle.<PAGE></n>Was ist mit Sherry – wie konnten Sie sie alleine lassen,</n>während Raccoon City zur Hölle ging?<PAGE></n>Ich wollte nicht, dass meine Tochter</n>in einer Welt mit dem G-Virus aufwächst.<PAGE></n>Ja, aber das entschuldigt nicht, sie...<PAGE></n><PAGE></n>Annette!<PAGE></n>Ich mach das.<PAGE></n>Tut mir leid, William...<PAGE></n>Nein.<PAGE></n>Ich mach das.<PAGE></n>Kümmern Sie sich um Sherry.<PAGE></n>Du weißt nicht, womit du's zu tun hast.<PAGE></n>Ich hab 'ne verdammt gute Ahnung...<PAGE></n>Was du auch tust,</n>hör nicht auf, bis es vorbei ist.<PAGE></n>Hör'n Sie zu...<PAGE></n>Das endet jetzt.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>¡¿Otra vez tú?!<PAGE></n>¡William!<PAGE></n>¡Se acabó!<PAGE></n>¡¿Qué coño es esto?!<PAGE></n>Era mi marido.<PAGE></n>¡El G es mi creación!<PAGE></n>¡William!<PAGE></n>Debí matarlo cuando tuve ocasión.<PAGE></n>No sé por qué no... No pude.<PAGE></n>Era tu marido.<PAGE></n>Nos preocupaba más el trabajo que nosotros.<PAGE></n>¿Qué hay de Sherry...?</n>¿Cómo pudiste dejarla sola mientras Raccoon City ardía?<PAGE></n>No podía dejar crecer a mi hija en un mundo con el virus G.<PAGE></n>Eso no es razón para dejarla...<PAGE></n><PAGE></n>¡Annette!<PAGE></n>Yo me encargo.<PAGE></n>Lo siento, William...<PAGE></n>No.<PAGE></n>Yo me encargo.<PAGE></n>Tú ocúpate de Sherry.<PAGE></n>No sabes a lo que te enfrentas.<PAGE></n>Creo que lo sé muy bien.<PAGE></n>En cualquier caso, no descanses hasta acabar con él.<PAGE></n>Créeme.<PAGE></n>Este es el final.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>Опять ты, урод?!<PAGE></n>Уильям!<PAGE></n>Довольно!<PAGE></n>Что это за мерзость?!<PAGE></n>Это был мой муж.<PAGE></n>Это я создал Г-вирус!<PAGE></n>Уильям!<PAGE></n>Нужно было убить его при первой возможности...<PAGE></n>Не знаю почему, но... я просто... не смогла.<PAGE></n>Он был твоим мужем.<PAGE></n>Если честно... мы гораздо больше думали о работе, чем друг о друге.<PAGE></n>Но как же Шерри? Как ты могла оставить ее одну?</n>В пылающем Раккун-Сити!<PAGE></n>Я не могла позволить дочери расти в мире, где существует Г-вирус.<PAGE></n>Но это не оправдывает то, что...<PAGE></n><PAGE></n>Аннет!<PAGE></n>Я справлюсь.<PAGE></n>Прости, Уильям.<PAGE></n>Нет.<PAGE></n>Это я со всем справлюсь.<PAGE></n>А ты позаботься о Шерри.<PAGE></n>Ты не знаешь, с чем связываешься.<PAGE></n>Очень даже знаю.<PAGE></n>Что бы ни случилось, доведи дело до конца.<PAGE></n>Уж поверь мне.<PAGE></n>Я покончу со всем здесь и сейчас.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>To znowu ty?<PAGE></n>William!<PAGE></n>To kończy się TERAZ!<PAGE></n>Co to za cholerstwo?<PAGE></n>To był mój mąż.<PAGE></n>G to moje dzieło!<PAGE></n>William!<PAGE></n>Powinnam była go zabić, gdy miałam szansę...<PAGE></n>Nie wiem, dlaczego, ale...</n>nie mogłam tego zrobić.<PAGE></n>Był twoim mężem.<PAGE></n>Szczerze... bardziej zależało nam</n>na pracy niż na sobie.<PAGE></n>Ale co z Sherry — jak mogłaś</n>zostawić ją samą w płonącym mieście?<PAGE></n>Nie chciałam, by córka dorastała w świecie z wirusem G.<PAGE></n>Ale to żaden powód, by zostawić ją—<PAGE></n><PAGE></n>Annette!<PAGE></n>Zostaw to mnie.<PAGE></n>Wybacz, Williamie.<PAGE></n>Nie.<PAGE></n>Zostaw to mnie.<PAGE></n>Ty zajmij się Sherry.<PAGE></n>Nie wiesz, z czym masz do czynienia.<PAGE></n>Mam całkiem dobre wyobrażenie...<PAGE></n>Cokolwiek zrobisz, nie przestawaj,</n>dopóki nie skończysz.<PAGE></n>Wierz mi.<PAGE></n>To kończy się teraz.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>Você de novo?!<PAGE></n>William!<PAGE></n>Isso acaba AGORA!<PAGE></n>Que coisa bizarra é essa?!<PAGE></n>Era o meu marido.<PAGE></n>O G é criação minha!<PAGE></n>William!<PAGE></n>Eu devia ter matado ele enquanto dava...<PAGE></n>Eu não sei por quê... Mas... não consegui.<PAGE></n>Ele era o seu marido.<PAGE></n>Sinceramente, a gente era mais casado</n>com o trabalho do que um com o outro.<PAGE></n>Mas e a Sherry? Como você pôde deixar ela sozinha daquele jeito?</n>E com Raccoon City do jeito que estava, ainda por cima?<PAGE></n>Eu não tinha como deixar a minha filha crescer</n>num mundo em que o Vírus G existe.<PAGE></n>Isso não é desculpa pra abandonar...<PAGE></n><PAGE></n>Annette!<PAGE></n>Deixa comigo.<PAGE></n>Me perdoa, William.<PAGE></n>Não!<PAGE></n>Deixa comigo.<PAGE></n>Você devia ir cuidar da Sherry.<PAGE></n>Você não faz ideia do que ele é capaz.<PAGE></n>Eu faço mais ideia do que você pensa.<PAGE></n>Seja lá o que pretende fazer, só para quando ele estiver morto.<PAGE></n>Pode confiar em mim.<PAGE></n>Isso acaba agora.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>또 네 놈이냐!?<PAGE></n>윌리엄!<PAGE></n>이제 끝을 내주겠어.<PAGE></n>이게 대체 뭐죠?<PAGE></n>내 남편이었지.<PAGE></n>G 바이러스는 내 거야!<PAGE></n>윌리엄!<PAGE></n>기회가 있을 때 죽였어야 했는데...<PAGE></n>이유는 모르겠지만... 그냥... 그럴 수가 없었어.<PAGE></n>남편이니까.<PAGE></n>솔직히 말하면... 우린 서로에게 보다는</n>일에 더 충실한 부부였지.<PAGE></n>그럼 셰리는요? 라쿤 시티가 지옥으로 변했는데</n>어떻게 그 아일 혼자 둘 수 있는 거죠?<PAGE></n>난 셰리가 G 바이러스로 가득한 세상에서 자라게 하고 싶지 않았어.<PAGE></n>그렇다고 아이를 혼자 두면—<PAGE></n><PAGE></n>아네트!<PAGE></n>나한테 맡겨.<PAGE></n>미안해, 윌리엄...<PAGE></n>아니요.<PAGE></n>나한테 맡겨요.<PAGE></n>당신은 셰리를 돌봐야 해요.<PAGE></n>어떻게 상대해야 하는지도 모르잖아.<PAGE></n>끝장나게 좋은 아이디어가 하나 있거든요...<PAGE></n>뭘 하든 간에 완전히 숨통이</n>끊어질 때까지 멈추지마.<PAGE></n>날 믿어요.<PAGE></n>이제 끝장을 볼 테니까.
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>又是你這鬼東西！？<PAGE></n>威廉！<PAGE></n>到此為止了！<PAGE></n>這東西是什麼鬼！？<PAGE></n>那是我先生。<PAGE></n>G 病毒是我的心血結晶！<PAGE></n>威廉！<PAGE></n>那時我就應該殺了他的...<PAGE></n>但不知道為什麼... 我就是... 辦不到。<PAGE></n>他是你先生。<PAGE></n>老實說... 我們對工作的愛還勝過彼此。<PAGE></n>那雪莉呢？你怎麼能丟下她一個人？</n>何況現在整個拉昆市都變成人間煉獄了。<PAGE></n>我不能讓我的女兒活在有 G 病毒的世界。<PAGE></n>這算什麼理由？你不能把她...<PAGE></n><PAGE></n>雅妮！<PAGE></n>讓我來。<PAGE></n>威廉，抱歉...<PAGE></n>不。<PAGE></n>讓我來。<PAGE></n>你去照顧雪莉。<PAGE></n>你不知道他有多可怕。<PAGE></n>我清楚得很...<PAGE></n>無論你打算怎麼做，都一定要徹底了結。<PAGE></n>相信我。<PAGE></n>一切會到此為止的。
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>又是你这鬼东西！？<PAGE></n>威廉！<PAGE></n>到此为止了！<PAGE></n>这个鬼东西到底是什么！？<PAGE></n>那是我丈夫。<PAGE></n>G 病毒是我的心血结晶！<PAGE></n>威廉！<PAGE></n>我本该在有机会时杀了他...<PAGE></n>但不知道为什么... 我就是... 下不了手。<PAGE></n>因为他曾经是你的丈夫。<PAGE></n>说实话... 我们把工作看得比彼此更重要。<PAGE></n>那雪莉呢？你怎么能抛下她一个人？</n>尤其现在浣熊市都变成人间炼狱了。<PAGE></n>我不能让女儿活在有 G 病毒的世界。<PAGE></n>但你也不能把她...<PAGE></n><PAGE></n>亚妮！<PAGE></n>我来处理。<PAGE></n>抱歉了，威廉...<PAGE></n>不。<PAGE></n>我来处理。<PAGE></n>你应该去照顾雪莉。<PAGE></n>你不知道自己面对的是什么样的怪物。<PAGE></n>我清楚得很...<PAGE></n>不论你要做什么，都要贯彻到底。<PAGE></n>相信我吧。<PAGE></n>一切会到此为止的。
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+<TIME 11.37, 12.72><TIME 13.96, 15.49><TIME 16.56, 18.75><TIME 32.91, 34.5><TIME 36.54, 38.01><TIME 47.99, 50.5><TIME 62.52, 64.23><TIME 70.55, 73.22><TIME 73.7, 77.69><TIME 77.94, 79.5><TIME 80.63, 84.0><TIME 84.39, 90.01><TIME 90.17, 94.14><TIME 94.17, 95.96><TIME 95.98, 102.5><TIME 106.03, 107.49><TIME 110.28, 111.99><TIME 122.4, 124.28><TIME 133.3, 134.73><TIME 137.31, 138.75><TIME 140.14, 142.02><TIME 144.81, 146.75><TIME 146.77, 148.91><TIME 149.05, 152.92><TIME 152.94, 154.32><TIME 154.62, 157.36>
+しつこいわね
+Your ass again!?
+Encore toi ?
+Di nuovo tra le palle?
+Du Arsch schon wieder?!
+¡¿Otra vez tú?!
+Опять ты, урод?!
+To znowu ty?
+Você de novo?!
+또 네 놈이냐!?
+又是你這鬼東西！？
+又是你这鬼东西！？
+ウィリアム！
+William!
+William !
+William! 
+William!
+¡William!
+Уильям!
+William!
+William!
+윌리엄!
+威廉！
+威廉！
+もう終わらせるわ
+This ends NOW!
+Finissons-en !
+Perdonami, ti prego!
+Das endet jetzt!
+¡Se acabó!
+Довольно!
+To kończy się TERAZ!
+Isso acaba AGORA!
+이제 끝을 내주겠어.
+到此為止了！
+到此为止了！
+こいつは何？
+What the hell is this thing!?
+C'est quoi ce monstre ?
+Cos'è questo mostro?
+Was ist dieses Ding?!
+¡¿Qué coño es esto?!
+Что это за мерзость?!
+Co to za cholerstwo?
+Que coisa bizarra é essa?!
+이게 대체 뭐죠?
+這東西是什麼鬼！？
+这个鬼东西到底是什么！？
+私の夫だった
+That was my husband.
+C'était mon mari.
+Era mio marito.
+Das war mal mein Mann.
+Era mi marido.
+Это был мой муж.
+To był mój mąż.
+Era o meu marido.
+내 남편이었지.
+那是我先生。
+那是我丈夫。
+※使わないセリフ※「なんということ、ウィリアム・・・あなたは何をした？」
+Good god, William... What have you done?
+Oh mon Dieu, William... Qu'est-ce que tu as fait ?
+Dios mío, William... ¿Qué has hecho?
+Боже мой, Уильям... Что ты наделал?
+Dobry Boże, William... Coś ty zrobił?
+Meu Deus, William, o que foi que você fez?
+맙소사, 윌리엄... 무슨 짓을 한 거야?
+天啊，威廉... 你做了什麼？
+天啊，威廉... 你做了什么？
+Gは私の傑作なんだ！
+G is my creation!
+J'ai créé ce virus !
+G è la mia creatura!
+G ist meine Schöpfung!
+¡El G es mi creación!
+Это я создал Г-вирус!
+G to moje dzieło!
+O G é criação minha!
+G 바이러스는 내 거야!
+G 病毒是我的心血結晶！
+G 病毒是我的心血结晶！
+ウィリアム！
+William!
+William !
+William!
+William!
+¡William!
+Уильям!
+William!
+William!
+윌리엄!
+威廉！
+威廉！
+もっと早く殺すべきだった
+I should've killed him while I had the chance...
+J'aurais dû le tuer quand j'en avais l'occasion...
+Avrei dovuto ucciderlo subito...
+Ich hätt ihn töten sollen,</n>als ich die Chance hatte...
+Debí matarlo cuando tuve ocasión.
+Нужно было убить его при первой возможности...
+Powinnam była go zabić, gdy miałam szansę...
+Eu devia ter matado ele enquanto dava...
+기회가 있을 때 죽였어야 했는데...
+那時我就應該殺了他的...
+我本该在有机会时杀了他...
+でも どうしても… できなくて　　
+I don't know why... I just...couldn't do it.
+Je sais pas pourquoi j'ai... J'ai pas pu.
+Non so perché, ma... non l'ho fatto.
+Ich weiß nicht wieso...</n>Ich konnt's nicht.
+No sé por qué no... No pude.
+Не знаю почему, но... я просто... не смогла.
+Nie wiem, dlaczego, ale...</n>nie mogłam tego zrobić.
+Eu não sei por quê... Mas... não consegui.
+이유는 모르겠지만... 그냥... 그럴 수가 없었어.
+但不知道為什麼... 我就是... 辦不到。
+但不知道为什么... 我就是... 下不了手。
+当たり前でしょ
+He was your husband.
+C'était votre mari.
+Era tuo marito.
+Er war Ihr Ehemann.
+Era tu marido.
+Он был твоим мужем.
+Był twoim mężem.
+Ele era o seu marido.
+남편이니까.
+他是你先生。
+因为他曾经是你的丈夫。
+お互い結婚より仕事を優先してた
+Honestly...we were more married to our work than each other.
+À vrai dire, on était surtout mariés à notre travail.
+In realtà tenevamo più al lavoro che al matrimonio.
+Ehrlich gesagt stand unsre Arbeit</n>immer an erster Stelle.
+Nos preocupaba más el trabajo que nosotros.
+Если честно... мы гораздо больше думали о работе, чем друг о друге.
+Szczerze... bardziej zależało nam</n>na pracy niż na sobie.
+Sinceramente, a gente era mais casado</n>com o trabalho do que um com o outro.
+솔직히 말하면... 우린 서로에게 보다는</n>일에 더 충실한 부부였지.
+老實說... 我們對工作的愛還勝過彼此。
+说实话... 我们把工作看得比彼此更重要。
+シェリーのことは？</n>よく一人にできたわね？　地獄のような町で
+But what about Sherry—how could you just leave her all alone?</n>And while Raccoon City burned to hell.
+Et Sherry dans tout ça ? Comment avez-vous pu la laisser</n>seule alors que Raccoon City était à feu et à sang ?
+Ma allora Sherry! Raccoon City veniva</n>distrutta e tu l'hai lasciata sola.
+Was ist mit Sherry – wie konnten Sie sie alleine lassen,</n>während Raccoon City zur Hölle ging?
+¿Qué hay de Sherry...?</n>¿Cómo pudiste dejarla sola mientras Raccoon City ardía?
+Но как же Шерри? Как ты могла оставить ее одну?</n>В пылающем Раккун-Сити!
+Ale co z Sherry — jak mogłaś</n>zostawić ją samą w płonącym mieście?
+Mas e a Sherry? Como você pôde deixar ela sozinha daquele jeito?</n>E com Raccoon City do jeito que estava, ainda por cima?
+그럼 셰리는요? 라쿤 시티가 지옥으로 변했는데</n>어떻게 그 아일 혼자 둘 수 있는 거죠?
+那雪莉呢？你怎麼能丟下她一個人？</n>何況現在整個拉昆市都變成人間煉獄了。
+那雪莉呢？你怎么能抛下她一个人？</n>尤其现在浣熊市都变成人间炼狱了。
+あの子のいる世界に</n>G-ウィルスを ばらまくわけにはいかなかったのよ
+I couldn't let my daughter grow up in a world with the G-virus in it.
+Je ne pouvais pas laisser ma fille grandir</n>dans un monde où le virus G existe.
+Non potevo lasciare che mia figlia</n>crescesse in un mondo con il virus G.
+Ich wollte nicht, dass meine Tochter</n>in einer Welt mit dem G-Virus aufwächst.
+No podía dejar crecer a mi hija en un mundo con el virus G.
+Я не могла позволить дочери расти в мире, где существует Г-вирус.
+Nie chciałam, by córka dorastała w świecie z wirusem G.
+Eu não tinha como deixar a minha filha crescer</n>num mundo em que o Vírus G existe.
+난 셰리가 G 바이러스로 가득한 세상에서 자라게 하고 싶지 않았어.
+我不能讓我的女兒活在有 G 病毒的世界。
+我不能让女儿活在有 G 病毒的世界。
+だからって一人にするなんて…
+But that's no excuse to leave her—
+Mais c'était pas une raison pour la laisser...
+Ma questo non giustifica l'averla lasc...
+Ja, aber das entschuldigt nicht, sie...
+Eso no es razón para dejarla...
+Но это не оправдывает то, что...
+Ale to żaden powód, by zostawić ją—
+Isso não é desculpa pra abandonar...
+그렇다고 아이를 혼자 두면—
+這算什麼理由？你不能把她...
+但你也不能把她...
+アネット！
+Annette!
+Annette !
+Annette!
+Annette!
+¡Annette!
+Аннет!
+Annette!
+Annette!
+아네트!
+雅妮！
+亚妮！
+私がやる
+I got this.
+C'est bon.
+Ce la faccio!
+Ich mach das.
+Yo me encargo.
+Я справлюсь.
+Zostaw to mnie.
+Deixa comigo.
+나한테 맡겨.
+讓我來。
+我来处理。
+許して ウィリアム…
+I'm sorry, William...
+Pardonne-moi, William...
+Mi spiace, William.
+Tut mir leid, William...
+Lo siento, William...
+Прости, Уильям.
+Wybacz, Williamie.
+Me perdoa, William.
+미안해, 윌리엄...
+威廉，抱歉...
+抱歉了，威廉...
+ダメよ
+No.
+Non.
+No.
+Nein.
+No.
+Нет.
+Nie.
+Não!
+아니요.
+不。
+不。
+やるのは私
+I got this.
+Laissez-le moi.
+Me ne occupo io.
+Ich mach das.
+Yo me encargo.
+Это я со всем справлюсь.
+Zostaw to mnie.
+Deixa comigo.
+나한테 맡겨요.
+讓我來。
+我来处理。
+あなたはシェリーをお願い
+You should take care of Sherry.
+Occupez-vous plutôt de Sherry.
+Prenditi cura di Sherry.
+Kümmern Sie sich um Sherry.
+Tú ocúpate de Sherry.
+А ты позаботься о Шерри.
+Ty zajmij się Sherry.
+Você devia ir cuidar da Sherry.
+당신은 셰리를 돌봐야 해요.
+你去照顧雪莉。
+你应该去照顾雪莉。
+あなたに何ができるって言うの？
+You don't know what you're up against.
+Tu ne sais pas à quoi tu as affaire.
+Non hai idea di cosa affronti.
+Du weißt nicht, womit du's zu tun hast.
+No sabes a lo que te enfrentas.
+Ты не знаешь, с чем связываешься.
+Nie wiesz, z czym masz do czynienia.
+Você não faz ideia do que ele é capaz.
+어떻게 상대해야 하는지도 모르잖아.
+你不知道他有多可怕。
+你不知道自己面对的是什么样的怪物。
+やってみなきゃ分からないでしょ
+I have a pretty damn good idea...
+J'ai eu le temps de me faire une idée...
+Credo di essermi fatta un'idea.
+Ich hab 'ne verdammt gute Ahnung...
+Creo que lo sé muy bien.
+Очень даже знаю.
+Mam całkiem dobre wyobrażenie...
+Eu faço mais ideia do que você pensa.
+끝장나게 좋은 아이디어가 하나 있거든요...
+我清楚得很...
+我清楚得很...
+油断しないで</n>完全に息の根を止めるまでは
+Whatever you do, don't stop until it's finished.
+Quoi que tu fasses, sois bien certaine de le tuer.
+Ascoltami bene, lui non deve sopravvivere.
+Was du auch tust,</n>hör nicht auf, bis es vorbei ist.
+En cualquier caso, no descanses hasta acabar con él.
+Что бы ни случилось, доведи дело до конца.
+Cokolwiek zrobisz, nie przestawaj,</n>dopóki nie skończysz.
+Seja lá o que pretende fazer, só para quando ele estiver morto.
+뭘 하든 간에 완전히 숨통이</n>끊어질 때까지 멈추지마.
+無論你打算怎麼做，都一定要徹底了結。
+不论你要做什么，都要贯彻到底。
+私を信じて
+Trust me.
+Je sais.
+Fidati...
+Hör'n Sie zu...
+Créeme.
+Уж поверь мне.
+Wierz mi.
+Pode confiar em mim.
+날 믿어요.
+相信我。
+相信我吧。
+ここで決着をつけるわ
+This ends now.
+Cette fois, on va en finir.
+Con me, non ha speranze.
+Das endet jetzt.
+Este es el final.
+Я покончу со всем здесь и сейчас.
+To kończy się teraz.
+Isso acaba agora.
+이제 끝장을 볼 테니까.
+一切會到此為止的。
+一切会到此为止的。

@@ -1,0 +1,116 @@
+﻿<TIME 3.27, 4.17>無防備だな
+<TIME 3.27, 4.17>Huh. That was easy...
+<TIME 3.27, 4.17>Bon. C'était facile...
+<TIME 3.27, 4.17>Beh, facile.
+<TIME 3.27, 4.17>Hm. Das war einfach...
+<TIME 3.27, 4.17>Ha sido fácil...
+<TIME 3.27, 4.17>Хм. Не так уж сложно...
+<TIME 3.27, 4.17>Hmm. To było proste...
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>Hã. Foi fácil.
+<TIME 3.27, 4.17>음, 정말 간단하네...
+<TIME 3.27, 4.17>嗯，滿簡單的嘛...
+<TIME 3.27, 4.17>嗯，挺容易的嘛...
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+<TIME 3.27, 4.17>
+無防備だな
+Huh. That was easy...
+Bon. C'était facile...
+Beh, facile.
+Hm. Das war einfach...
+Ha sido fácil...
+Хм. Не так уж сложно...
+Hmm. To było proste...
+Hã. Foi fácil.
+음, 정말 간단하네...
+嗯，滿簡單的嘛...
+嗯，挺容易的嘛...
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>ダメだ<PAGE></n>これって… まさか<PAGE></n>ウソ やった！<PAGE></n>これね
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Dammit.<PAGE></n>Oh...look at that...</n>Alright...<PAGE></n>Hell yeah!<PAGE></n>Got it!
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Merde.<PAGE></n>Attends un peu... OK...<PAGE></n>Bingo !<PAGE></n>Je l'ai !
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Diavolo!<PAGE></n>Guarda un po'... Ok.<PAGE></n>Evvai!<PAGE></n>Trovato!
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Verdammt.<PAGE></n>Oh, sieh mal an.</n>Okay...<PAGE></n>Oh, ja!<PAGE></n>Hab dich!
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Joder.<PAGE></n>Mira esto... Vale.<PAGE></n>¡Por fin!<PAGE></n>Lo tengo.
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Чтоб тебя.<PAGE></n>О... ты посмотри...</n>Ладно...<PAGE></n>О да!<PAGE></n>Есть!
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Cholera.<PAGE></n>No proszę...</n>Dobra...<PAGE></n>O to chodziło!<PAGE></n>Mam!
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>Merda.<PAGE></n>Ah, olha só.</n>Beleza...<PAGE></n>Foi, cacete!<PAGE></n>Consegui!
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>젠장.<PAGE></n>아...이건가...</n>좋아...<PAGE></n>그래, 됐어!<PAGE></n>찾았다!
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>可惡。<PAGE></n>噢... 那是...</n>好...<PAGE></n>很好！<PAGE></n>拿到了！
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>可恶。<PAGE></n>噢，那是...</n>试试看吧...<PAGE></n>太好了！<PAGE></n>就是它！
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+<TIME 3.5, 4.46><TIME 10.37, 13.0><TIME 15.89, 17.20><TIME 18.44,19.64>
+ダメだ
+Dammit.
+Merde.
+Diavolo!
+Verdammt.
+Joder.
+Чтоб тебя.
+Cholera.
+Merda.
+젠장.
+可惡。
+可恶。
+これって… まさか
+Oh...look at that...</n>Alright...
+Attends un peu... OK...
+Guarda un po'... Ok.
+Oh, sieh mal an.</n>Okay...
+Mira esto... Vale.
+О... ты посмотри...</n>Ладно...
+No proszę...</n>Dobra...
+Ah, olha só.</n>Beleza...
+아...이건가...</n>좋아...
+噢... 那是...</n>好...
+噢，那是...</n>试试看吧...
+ウソ やった！
+Hell yeah!
+Bingo !
+Evvai!
+Oh, ja!
+¡Por fin!
+О да!
+O to chodziło!
+Foi, cacete!
+그래, 됐어!
+很好！
+太好了！
+これね
+Got it!
+Je l'ai !
+Trovato!
+Hab dich!
+Lo tengo.
+Есть!
+Mam!
+Consegui!
+찾았다!
+拿到了！
+就是它！

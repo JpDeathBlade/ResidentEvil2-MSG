@@ -1,0 +1,881 @@
+﻿１２３４５６７８９０１２３４５６７８９０１２３４
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_MainPurpose_XXX
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_SubProgress_XXX_2
+周囲を探索する
+Explore your surroundings
+Explorer les environs
+Esplora l'area
+Die Umgebung erkunden
+Explora los alrededores
+Осмотритесь вокруг
+Zbadaj otoczenie
+Explore o ambiente
+주변 환경 탐색하기
+探索四周環境
+探索周围环境
+店内をさぐる
+Investigate the store
+Inspecter le magasin
+Perlustra il negozio
+Den Laden untersuchen
+Investiga la tienda
+Осмотрите магазин
+Zbadaj sklep
+Investigue a loja
+상점 조사하기
+調查商店
+调查商店
+店から脱出する
+Escape from the store
+S'échapper du magasin
+Fuggi dal negozio
+Aus dem Laden entkommen
+Escapa de la gasolinera
+Сбегите из магазина
+Ucieknij ze sklepu
+Fuja da loja
+상점 탈출하기
+逃離商店
+逃离商店
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_030_p
+警察署に向かう
+Get to the police station
+Rejoindre le commissariat
+Raggiungi la centrale di polizia
+Die Polizeistation erreichen
+Ve a la comisaría de policía
+Доберитесь до полицейского участка
+Dostań się na posterunek
+Chegue à delegacia
+경찰서로 이동하기
+前往警察局
+前往警察局
+周囲を探索する
+Explore your surroundings
+Explorer le commissariat
+Esplora l'atrio principale
+Die Umgebung erkunden
+Explora los alrededores
+Осмотритесь вокруг
+Zbadaj otoczenie
+Explore o ambiente
+주변 환경 탐색하기
+探索四周環境
+探索周围环境
+東側を探索する
+Investigate the East Side
+Inspecter l'aile est
+Esplora l'ala est
+Die Ostseite des Gebäudes untersuchen
+Investiga el área este
+Осмотрите восточное крыло
+Sprawdź wschodni obszar
+Investigue a Ala Leste
+동쪽 지역 조사하기
+調查東側
+调查东侧
+メインホールに戻る
+Return to the Main Hall
+Retourner dans le hall principal
+Torna all'atrio principale
+Zur Eingangshalle zurückkehren
+Vuelve al salón principal
+Вернитесь в холл
+Wróć do holu głównego
+Volte ao Saguão Principal
+메인 홀로 돌아가기
+返回大廳
+返回大厅
+地下への脱出路を探す
+Find a way to get underground
+Trouver l'accès au souterrain
+Trova l'accesso ai sotterranei
+Einen Weg in den Untergrund finden
+Busca cómo bajar al nivel subterráneo
+Найдите проход под землю
+Znajdź sposób, by dostać się do podziemi
+Descubra como chegar ao subsolo
+지하로 가는 길 찾기
+想辦法進入地下
+寻找前往地下的方法
+3つのメダルを集める
+Find 3 medallions
+Trouver les trois médaillons
+Trova i 3 medaglioni
+3 Medaillons finden
+Encuentra los 3 medallones
+Найдите три медальона
+Znajdź 3 medaliony
+Encontre 3 medalhões
+메달 3개 찾기
+尋找 3 塊徽章
+寻找 3 面奖章
+女神像を起動する
+Activate the Goddess Statue
+Activer la statue de déesse
+Attiva la statua della dea
+Die Göttinnenstatue aktivieren
+Activa la estatua de la diosa
+Активируйте статую богини
+Aktywuj rzeźbę bogini
+Ative a Estátua da Deusa
+여신 조각상 활성화하기
+啟動女神雕像
+启动女神雕像
+<ITEM2 sm73_102>を入手した
+Obtained <ITEM2 sm73_102>
+Obtenu : <ITEM2 sm73_102>
+Hai ottenuto: <ITEM2 sm73_102>
+<ITEM2 sm73_102> erhalten
+Has obtenido: <ITEM2 sm73_102>
+Получено: <ITEM2 sm73_102>
+Uzyskano: <ITEM2 sm73_102>
+Obteve <ITEM2 sm73_102>
+<ITEM2 sm73_102> 획득
+取得<ITEM2 sm73_102>
+取得<ITEM2 sm73_102>
+<ITEM2 sm73_139>を入手した
+Obtained <ITEM2 sm73_139>
+Obtenu : <ITEM2 sm73_139>
+Hai ottenuto: <ITEM2 sm73_139>
+<ITEM2 sm73_139> erhalten
+Has obtenido: <ITEM2 sm73_139>
+Получено: <ITEM2 sm73_139>
+Uzyskano: <ITEM2 sm73_139>
+Obteve <ITEM2 sm73_139>
+<ITEM2 sm73_139> 획득
+取得<ITEM2 sm73_139>
+取得<ITEM2 sm73_139>
+<ITEM2 sm73_145>を入手した
+Obtained <ITEM2 sm73_145>
+Obtenu : <ITEM2 sm73_145>
+Hai ottenuto: <ITEM2 sm73_145>
+<ITEM2 sm73_145> erhalten
+Has obtenido: <ITEM2 sm73_145>
+Получено: <ITEM2 sm73_145>
+Uzyskano: <ITEM2 sm73_145>
+Obteve <ITEM2 sm73_145>
+<ITEM2 sm73_145> 획득
+取得<ITEM2 sm73_145>
+取得<ITEM2 sm73_145>
+警察署を探索する
+Investigate the police station
+Fouiller le commissariat
+Perlustra la centrale di polizia
+Die Polizeistation untersuchen
+Investiga la comisaría
+Исследуйте полицейский участок
+Zbadaj posterunek
+Investigue a delegacia
+경찰서 조사하기
+調查警察局
+调查警察局
+外への脱出路を探す
+Find a way out
+Trouver une issue
+Trova una via di fuga
+Einen Weg raus finden
+Busca una salida
+Найдите выход
+Znajdź wyjście
+Encontre uma saída
+나가는 길 찾기
+尋找出路
+寻找出路
+駐車場のカードキーを入手する 
+Obtain the Parking Garage Key Card 
+Obtenir la carte de parking 
+Ottieni la tessera del parcheggio 
+Die Garagenschlüsselkarte bekommen 
+Busca la tarjeta llave del garaje 
+Получить магнитную карту от гаража 
+Uzyskaj kartę magnetyczną do garażu 
+Obtenha o Cartão de Acesso da Garagem 
+주차장 키 카드 획득 
+取得停車場門禁卡 
+取得车库钥匙卡 
+特注部品を集める
+Find the Power Panel Parts
+Trouver les pièces du panneau électrique
+Trova i componenti per il quadro elettrico
+Die Schaltschrankteile finden
+Encuentra las piezas del panel eléctrico
+Найти детали электрощитка
+Znajdź panele zasilające
+Encontre os Componentes de Painel de Força
+전력 패널 부품 찾기
+尋找電力面板零件
+寻找电源板零件
+駐車場のカードキーを入手する
+Obtain the Parking Garage Key Card
+Obtenir la carte de parking
+Ottieni la tessera del parcheggio
+Die Garagenschlüsselkarte bekommen
+Obtén la tarjeta llave del garaje
+Получить магнитную карту от гаража
+Uzyskaj kartę magnetyczną do garażu
+Obtenha o Cartão de Acesso da Garagem
+주차장 키 카드 획득
+取得停車場門禁卡
+取得车库钥匙卡
+<ITEM2 sm73_147>を入手した
+Obtained <ITEM2 sm73_147>
+Obtenu : <ITEM2 sm73_147>
+Hai ottenuto: <ITEM2 sm73_147>
+<ITEM2 sm73_147> erhalten
+Has obtenido: <ITEM2 sm73_147>
+Получено: <ITEM2 sm73_147>
+Uzyskano: <ITEM2 sm73_147>
+Obteve <ITEM2 sm73_147>
+<ITEM2 sm73_147> 획득
+取得<ITEM2 sm73_147>
+取得<ITEM2 sm73_147>
+<ITEM2 sm73_148>を入手した
+Obtained <ITEM2 sm73_148>
+Obtenu : <ITEM2 sm73_148>
+Hai ottenuto: <ITEM2 sm73_148>
+<ITEM2 sm73_148> erhalten
+Has obtenido: <ITEM2 sm73_148>
+Получено: <ITEM2 sm73_148>
+Uzyskano: <ITEM2 sm73_148>
+Obteve <ITEM2 sm73_148>
+<ITEM2 sm73_148> 획득
+取得<ITEM2 sm73_148>
+取得<ITEM2 sm73_148>
+駐車場から外に脱出する
+Escape the parking garage
+S'échapper du parking
+Fuggi dal parcheggio
+Durch die Tiefgarage entkommen
+Escapa del garaje
+Сбегите с парковки
+Ucieknij z parkingu podziemnego
+Fuja do estacionamento
+주차장 탈출하기
+逃離停車場
+逃离停车场
+エイダの話を聞く
+Talk with Ada
+Parler à Ada
+Parla con Ada
+Mit Ada sprechen
+Habla con Ada
+Поговорите с Адой
+Porozmawiaj z Adą
+Converse com Ada
+에이다와 대화하기
+與艾達交談
+与艾达谈话
+アネットを追う
+Find Annette
+Trouver Annette
+Trova Annette
+Annette finden
+Encuentra a Annette
+Найти Аннет
+Znajdź Annette
+Encontre Annette
+아네트 찾기
+尋找雅妮
+寻找亚妮
+エイダを探す
+Find Ada
+Trouver Ada
+Trova Ada
+Ada finden
+Encuentra a Ada
+Найдите Аду
+Znajdź Adę
+Encontre Ada
+에이다 찾기
+尋找艾達
+寻找艾达
+エイダを救出する
+Save Ada
+Sauver Ada
+Salva Ada
+Ada retten
+Rescata a Ada
+Спасите Аду
+Ocal Adę.
+Salve Ada
+에이다 구해주기
+拯救艾達
+救助艾达
+プラグを集める
+Find the plugs
+Trouver les prises
+Trova gli spinotti elettrici
+Die Stecker finden
+Encuentra los enchufes
+Найдите штекеры
+Znajdź wtyczki
+Encontre as velas de ignição
+플러그 찾기
+尋找插頭
+寻找插头
+プラグで扉を開ける
+Use the plugs to open the door
+Utiliser les prises pour ouvrir la porte
+Usa gli spinotti per aprire la porta
+Mit den Steckern die Tür öffnen
+Usa los enchufes para abrir la puerta
+Откройте дверь, используя штекеры
+Użyj wtyczek do otwarcia drzwi
+Use as velas de ignição para abrir a porta
+플러그를 사용해 문 열기
+使用插頭開門
+使用插头开门
+<ITEM2 sm73_115>を入手した
+Obtained <ITEM2 sm73_115>
+Obtenu : <ITEM2 sm73_115>
+Hai ottenuto: <ITEM2 sm73_115>
+<ITEM2 sm73_115> erhalten
+Has conseguido: <ITEM2 sm73_115>
+Получено: <ITEM2 sm73_115>
+Uzyskano: <ITEM2 sm73_115>
+Obteve <ITEM2 sm73_115>
+<ITEM2 sm73_115> 획득
+取得<ITEM2 sm73_115>
+取得<ITEM2 sm73_115>
+<ITEM2 sm73_156>を入手した
+Obtained <ITEM2 sm73_156>
+Obtenu : <ITEM2 sm73_156>
+Hai ottenuto: <ITEM2 sm73_156>
+<ITEM2 sm73_156> erhalten
+Has conseguido: <ITEM2 sm73_156>
+Получено: <ITEM2 sm73_156>
+Uzyskano: <ITEM2 sm73_156>
+Obteve <ITEM2 sm73_156>
+<ITEM2 sm73_156> 획득
+取得<ITEM2 sm73_156>
+取得<ITEM2 sm73_156>
+<ITEM2 sm73_116>を入手した
+Obtained <ITEM2 sm73_116>
+Obtenu : <ITEM2 sm73_116>
+Hai ottenuto: <ITEM2 sm73_116>
+<ITEM2 sm73_116> erhalten
+Has conseguido: <ITEM2 sm73_116>
+Получено: <ITEM2 sm73_116>
+Uzyskano: <ITEM2 sm73_116>
+Obteve <ITEM2 sm73_116>
+<ITEM2 sm73_116> 획득
+取得<ITEM2 sm73_116>
+取得<ITEM2 sm73_116>
+エイダを救出する
+Save Ada
+Sauver Ada
+Salva Ada
+Ada retten
+Rescata a Ada
+Спасите Аду
+Ocal Adę.
+Salve Ada
+에이다 구해주기
+拯救艾達
+救助艾达
+署長の手から逃れる
+Escape from Chief Irons
+Échapper au chef Irons
+Scappa dal commissario Irons
+Chief Irons entkommen
+Escapa del jefe Irons
+Сбегите от шефа Айронса
+Ucieknij przed komendantem Ironsem
+Fuja do Chefe Irons
+아이언스 서장으로부터 도망치기
+逃離艾倫斯局長
+逃离艾隆斯局长
+孤児院でシェリーを救出する
+Rescue Sherry from the orphanage
+Sauver Sherry de l'orphelinat
+Salva Sherry dall'orfanotrofio
+Sherry aus dem Waisenhaus befreien
+Rescata a Sherry del orfanato
+Спасите Шерри из приюта
+Uratuj Sherry z sierocińca
+Resgate Sherry do orfanato
+고아원에서 셰리 구출하기
+從孤兒院救出雪莉
+从孤儿院救出雪莉
+シェリーを探す
+Find Sherry
+Trouver Sherry
+Trova Sherry
+Sherry finden
+Encuentra a Sherry
+Найдите Шерри
+Znajdź Sherry
+Encontre Sherry
+셰리 찾기
+尋找雪莉
+寻找雪莉
+シェリーを救出する
+Save Sherry
+Sauver Sherry
+Salva Sherry
+Sherry retten
+Rescata a Sherry
+Спасите Шерри
+Ocal Sherry
+Salve Sherry
+셰리 구해주기
+拯救雪莉
+救助雪莉
+プラグを集める
+Find the plugs
+Trouver les prises
+Trova gli spinotti elettrici
+Die Stecker finden
+Encuentra los enchufes
+Найдите штекеры
+Znajdź wtyczki
+Encontre as velas de ignição
+플러그 찾기
+尋找插頭
+寻找插头
+プラグで扉を開ける
+Use the plugs to open the door
+Utiliser les prises pour ouvrir la porte
+Usa gli spinotti per aprire la porta
+Mit den Steckern die Tür öffnen
+Usa los enchufes para abrir la puerta
+Откройте дверь, используя штекеры
+Użyj wtyczek do otwarcia drzwi
+Use as velas de ignição para abrir a porta
+플러그를 사용해 문 열기
+使用插頭開門
+使用插头开门
+<ITEM2 sm73_115>を入手した
+Obtained <ITEM2 sm73_115>
+Obtenu : <ITEM2 sm73_115>
+Hai ottenuto: <ITEM2 sm73_115>
+<ITEM2 sm73_115> erhalten
+Has conseguido: <ITEM2 sm73_115>
+Получено: <ITEM2 sm73_115>
+Uzyskano: <ITEM2 sm73_115>
+Obteve <ITEM2 sm73_115>
+<ITEM2 sm73_115> 획득
+取得<ITEM2 sm73_115>
+取得<ITEM2 sm73_115>
+<ITEM2 sm73_156>を入手した
+Obtained <ITEM2 sm73_156>
+Obtenu : <ITEM2 sm73_156>
+Hai ottenuto: <ITEM2 sm73_156>
+<ITEM2 sm73_156> erhalten
+Has conseguido: <ITEM2 sm73_156>
+Получено: <ITEM2 sm73_156>
+Uzyskano: <ITEM2 sm73_156>
+Obteve <ITEM2 sm73_156>
+<ITEM2 sm73_156> 획득
+取得<ITEM2 sm73_156>
+取得<ITEM2 sm73_156>
+<ITEM2 sm73_116>を入手した
+Obtained <ITEM2 sm73_116>
+Obtenu : <ITEM2 sm73_116>
+Hai ottenuto: <ITEM2 sm73_116>
+<ITEM2 sm73_116> erhalten
+Has conseguido: <ITEM2 sm73_116>
+Получено: <ITEM2 sm73_116>
+Uzyskano: <ITEM2 sm73_116>
+Obteve <ITEM2 sm73_116>
+<ITEM2 sm73_116> 획득
+取得<ITEM2 sm73_116>
+取得<ITEM2 sm73_116>
+シェリーを救出する
+Save Sherry
+Sauver Sherry
+Salva Sherry
+Sherry retten
+Rescata a Sherry
+Спасите Шерри
+Ocal Sherry
+Salve Sherry
+셰리 구해주기
+拯救雪莉
+救助雪莉
+研究所に向かう
+Head to the lab
+Aller dans le labo
+Vai al laboratorio
+Zum Labor gehen
+Dirígete al laboratorio
+Идите в лабораторию
+Udaj się do laboratorium
+Vá para o laboratório
+연구실로 이동하기
+前往實驗室
+前往实验室
+研究所を探索する
+Investigate the lab
+Fouiller le labo
+Perlustra il laboratorio
+Das Labor durchsuchen
+Investiga el laboratorio
+Осмотрите лабораторию
+Zbadaj laboratorium
+Investigue o laboratório
+연구실 조사하기
+調查實驗室
+调查实验室
+ウェストエリアに向かう
+Head to the West Area
+Aller dans la zone ouest
+Vai all'area ovest
+Zum Westbereich gehen
+Dirígete a la zona oeste
+Идите в западное крыло
+Udaj się do zachodniego obszaru
+Vá para a Área Oeste
+서쪽 구역으로 이동하기
+前往西區
+前往西区
+<ITEM2 sm73_431>にアップグレードした
+Upgraded to "<ITEM2 sm73_431>"
+Nouvelle version : <ITEM2 sm73_431>
+Aggiornato a: "<ITEM2 sm73_431>"
+Zu "<ITEM2 sm73_431>" verbessert
+Se ha actualizado a "<ITEM2 sm73_431>"
+Улучшено до «<ITEM2 sm73_431>»
+Ulepszono do „<ITEM2 sm73_431>”
+Aprimorado para "<ITEM2 sm73_431>"
+"<ITEM2 sm73_431>"으로 업그레이드
+升級為「<ITEM2 sm73_431>」
+升级为“<ITEM2 sm73_431>”
+リストタグをアップグレードする
+Upgrade your ID wristband
+Améliorer le bracelet d'identification
+Aggiorna il braccialetto identificativo
+Das ID-Armband verbessern
+Actualiza la pulsera ID
+Улучшите ID-браслет
+Ulepsz bransoletę z identyfikatorem
+Aprimore a pulseira de ID
+ID 손목 밴드 업그레이드하기
+替您的 ID 手環升級
+为您的身份识别腕带升级
+プラント43を枯らす
+Destroy Plant 43
+Détruire la plante 43
+Distruggi la pianta 43
+Pflanze 43 vernichten
+Destruye la planta 43
+Уничтожьте образец 43
+Zniszcz Sadzonkę 43
+Destrua a Planta 43
+43번 식물 파괴하기
+摧毀 43 號植物
+摧毁 43 号植物
+<ITEM2 sm73_414>を入手した
+Obtained <ITEM2 sm73_414>
+Obtenu : <ITEM2 sm73_414>
+Hai ottenuto: <ITEM2 sm73_414>
+<ITEM2 sm73_414> erhalten
+Has conseguido: <ITEM2 sm73_414>
+Получено: <ITEM2 sm73_414>
+Uzyskano: <ITEM2 sm73_414>
+Obteve <ITEM2 sm73_414>
+<ITEM2 sm73_414> 획득
+取得<ITEM2 sm73_414>
+取得<ITEM2 sm73_414>
+<ITEM2 sm73_415>を入手した
+Obtained <ITEM2 sm73_415>
+Obtenu : <ITEM2 sm73_415>
+Hai ottenuto: <ITEM2 sm73_415>
+<ITEM2 sm73_415> erhalten
+Has conseguido: <ITEM2 sm73_415>
+Получено: <ITEM2 sm73_415>
+Uzyskano: <ITEM2 sm73_415>
+Obteve <ITEM2 sm73_415>
+<ITEM2 sm73_415> 획득
+取得<ITEM2 sm73_415>
+取得<ITEM2 sm73_415>
+<ITEM2 sm73_416>を入手した
+Obtained <ITEM2 sm73_416>
+Obtenu : <ITEM2 sm73_416>
+Hai ottenuto: <ITEM2 sm73_416>
+<ITEM2 sm73_416> erhalten
+Has conseguido: <ITEM2 sm73_416>
+Получено: <ITEM2 sm73_416>
+Uzyskano: <ITEM2 sm73_416>
+Obteve <ITEM2 sm73_416>
+<ITEM2 sm73_416> 획득
+取得<ITEM2 sm73_416>
+取得<ITEM2 sm73_416>
+リストタグをアップグレードする
+Upgrade your ID wristband
+Améliorer le bracelet d'identification
+Aggiorna il braccialetto identificativo
+Das ID-Armband verbessern
+Actualiza la pulsera ID
+Улучшите ID-браслет
+Ulepsz bransoletę z identyfikatorem
+Aprimore a pulseira de ID
+ID 손목 밴드 업그레이드하기
+替您的 ID 手環升級
+为您的身份识别腕带升级
+ウェストエリアでG-ウィルスを入手する
+Get the G-Virus sample in the West Area
+Obtenir le virus G dans la zone ouest
+Prendi il campione del virus G nell'area ovest
+Die G-Virus-Probe im Westbereich erhalten
+Obtén la muestra del virus G en la zona oeste
+Добудьте образец Г-вируса в западном крыле
+Zdobądź próbkę wirusa G z zachodniego obszaru
+Pegue a amostra do Vírus G na Área Oeste
+서쪽 구역에서 G 바이러스 샘플 확보하기
+取得存放於西區的 G 病毒樣本
+取得位于西区的 G 病毒样本
+エイダの元に帰る
+Return to Ada
+Retourner auprès d'Ada
+Torna da Ada
+Zu Ada zurückkehren
+Vuelve con Ada
+Вернитесь к Аде
+Wróć do Ady
+Volte até Ada
+에이다에게 돌아가기
+回去找艾達
+回去找艾达
+ウェストエリアで抗ウィルス剤を入手する
+Get the antiviral agent in the West Area
+Obtenir l'agent antiviral dans la zone ouest
+Ottieni l'agente antivirale nell'area ovest
+Das Antivirus im Westbereich erhalten.
+Consigue el agente antiviral en la zona oeste
+Добудьте антивирус в западном крыле
+Weź środek antywirusowy z zachodniego obszaru
+Pegue o agente antiviral na Área Oeste
+서쪽 구역에서 백신 확보하기
+取得存放於西區的抗病毒劑
+取得位于西区的抗病毒剂
+シェリーの元に帰る
+Return to Sherry
+Retourner auprès de Sherry
+Torna da Sherry
+Zu Sherry zurückkehren
+Vuelve con Sherry
+Вернитесь к Шерри
+Wróć do Sherry
+Volte até Sherry
+셰리에게 돌아가기
+回去找雪莉
+回去找雪莉
+研究所から脱出する
+Escape the lab
+S'échapper du labo
+Fuggi dal laboratorio
+Aus dem Labor entkommen
+Escapa del laboratorio
+Сбегите из лаборатории
+Ucieknij z laboratorium
+Fuja do laboratório
+연구실 탈출하기
+逃離實驗室
+逃离实验室
+後部車両に向かう
+Head to the last car
+Rejoindre le dernier wagon
+Vai all'ultima carrozza
+Zum letzten Waggon gehen
+Dirígete al último vagón
+Идите к последнему вагону
+Udaj się do ostatniego wagonu
+Vá para o último vagão
+마지막 차량으로 이동하기
+前往最後一節車廂
+前往最后一节车厢
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_520_p
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Purpose_270_a0

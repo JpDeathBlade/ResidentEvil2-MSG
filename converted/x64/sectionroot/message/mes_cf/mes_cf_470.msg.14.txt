@@ -1,0 +1,231 @@
+﻿<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30分前…<PAGE></n>ごきげんよう クレア<PAGE></n>取引をしようじゃないか<PAGE></n>どういうこと？<PAGE></n>私の時間を無駄にする気か？<PAGE></n>ペンダントを持ってこい</n>シェリーが死ぬぞ<PAGE></n>ペンダント？</n>何のために？<PAGE></n>ガキを死なせたいか？<PAGE></n>分かった　どこへ？<PAGE></n>孤児院だ<PAGE></n>孤児院？</n>どこにあるの？<PAGE></n>近くにあるから すぐ分かる<PAGE></n>シェリーは無事？<PAGE></n>今はな<PAGE></n>もし指一本でも触れたら…<PAGE></n>信じられない！<PAGE></n>最低！
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81><PAGE></n>Good to see you again, Claire.<PAGE></n>We've got unfinished business.<PAGE></n>What're you talking about?<PAGE></n>Don't waste my fucking time!<PAGE></n>Bring me the pendant or Sherry dies.<PAGE></n>The pendant? What do you need it for?<PAGE></n>Do you want the girl to die?<PAGE></n>Fine. Where are you?<PAGE></n>The orphanage.<PAGE></n>The orphanage...? Where's that?<PAGE></n>In the neighborhood. You'll find it.<PAGE></n>Is Sherry alright?<PAGE></n>...For now.<PAGE></n>I swear, you bastard, if you hurt her—<PAGE></n>Are you serious!?<PAGE></n>Dammit!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 minutes plus tôt...<PAGE></n>Content de te revoir, Claire.<PAGE></n>On a une affaire à régler, toi et moi.<PAGE></n>Qu'est-ce que vous voulez ?<PAGE></n>Tu sais très bien ce que je veux !<PAGE></n>Apporte-moi le pendentif ou Sherry meurt.<PAGE></n>Le pendentif ? Pour quoi faire ?<PAGE></n>Tu veux que la fille meure ?<PAGE></n>Bien. Où êtes-vous ?<PAGE></n>L'orphelinat.<PAGE></n>L'orphelinat ? Où ça ?<PAGE></n>Dans le quartier. Tu le trouveras.<PAGE></n>Sherry va bien ?<PAGE></n>Pour l'instant...<PAGE></n>Espèce d'ordure, si tu lui fais du mal...<PAGE></n>J'y crois pas !<PAGE></n>Eh merde !
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 minuti prima...<PAGE></n>Eccoti qui, Claire.<PAGE></n>Abbiamo un affare in sospeso.<PAGE></n>Di cosa parli?<PAGE></n>Piantala di farmi perdere tempo.<PAGE></n>Portami il ciondolo o Sherry morirà.<PAGE></n>Il ciondolo? A cosa ti serve?<PAGE></n>Vuoi che la piccola muoia?<PAGE></n>Va bene. Dove sei?<PAGE></n>All'orfanotrofio.<PAGE></n>L'orfanotrofio? E dov'è?<PAGE></n>È qui vicino. Lo troverai.<PAGE></n>Sherry sta bene?<PAGE></n>Per ora.<PAGE></n>Bastardo, se le fai del male...<PAGE></n>Stai scherzando?<PAGE></n>Diavolo!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 Minuten zuvor...<PAGE></n>Schön, dich wiederzusehen, Claire.<PAGE></n>Wir haben noch eine Rechnung offen.<PAGE></n>Wovon reden Sie da?<PAGE></n>Verplemper nicht meine Zeit!<PAGE></n>Bring mir den Anhänger oder Sherry ist tot.<PAGE></n>Den Anhänger?</n>Was wollen Sie damit?<PAGE></n>Willst du sie tot sehen?<PAGE></n>Na, schön. Wo sind Sie?<PAGE></n>Das Waisenhaus.<PAGE></n>Das Waisenhaus?</n>Wo ist das?<PAGE></n>In der Nachbarschaft.</n>Du findest es schon.<PAGE></n>Ist Sherry okay?<PAGE></n>Vorerst.<PAGE></n>Ich schwör, Sie Mistkerl,</n>wenn Sie ihr wehtun...<PAGE></n>Ist das sein Ernst?!<PAGE></n>Verdammt!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 minutos antes<PAGE></n>Me alegro de verte, Claire.<PAGE></n>Tenemos asuntos pendientes.<PAGE></n>¿De qué estás hablando?<PAGE></n>¡No me hagas perder el tiempo!<PAGE></n>Tráeme el colgante o mataré a Sherry.<PAGE></n>¿El colgante? ¿Para qué lo quieres?<PAGE></n>¿Quieres que mate a la niña?<PAGE></n>Vale. ¿Dónde estás?<PAGE></n>En el orfanato.<PAGE></n>¿El orfanato...? ¿Dónde está?<PAGE></n>Lo tienes cerca. Lo verás.<PAGE></n>¿Sherry está bien?<PAGE></n>Por ahora.<PAGE></n>Te juro que como la toques...<PAGE></n>¿En serio?<PAGE></n>¡Joder!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>За 30 минут до этого...<PAGE></n>Рад снова видеть тебя, Клэр.<PAGE></n>У нас есть незаконченное дельце.<PAGE></n>О чем это ты?!<PAGE></n>Хватит тратить мое время!<PAGE></n>Верни медальон, или Шерри умрет.<PAGE></n>Медальон? Зачем он тебе?<PAGE></n>Хочешь, чтобы девчонка умерла?<PAGE></n>Ладно. Где вы?<PAGE></n>В приюте.<PAGE></n>В приюте?.. А где он?<PAGE></n>Неподалеку. Не пропустишь.<PAGE></n>Шерри в порядке?<PAGE></n>...Пока да.<PAGE></n>Клянусь, сволочь, если ее тронешь...<PAGE></n>Серьезно?!<PAGE></n>Чтоб тебя!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 minut wcześniej...<PAGE></n>Miło cię znowu widzieć, Claire.<PAGE></n>Mamy niedokończone sprawy.<PAGE></n>O co ci chodzi?<PAGE></n>Nie marnuj mojego czasu!<PAGE></n>Przynieś mi naszyjnik albo Sherry zginie.<PAGE></n>Naszyjnik? Po co ci on?<PAGE></n>Chcesz, żeby dziewczynka umarła?<PAGE></n>Dobra. Gdzie jesteś?<PAGE></n>W sierocińcu.<PAGE></n>W sierocińcu...? Gdzie to jest?<PAGE></n>Niedaleko. Znajdziesz.<PAGE></n>Sherry jest cała?<PAGE></n>...póki co.<PAGE></n>Przysięgam, sukinsynu,</n>jeśli zrobisz jej krzywdę...<PAGE></n>Naprawdę?<PAGE></n>Niech to!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 minutos antes...<PAGE></n>Bom te ver de novo, Claire.<PAGE></n>A gente tem um assunto a resolver.<PAGE></n>Do que você tá falando?<PAGE></n>Não me enrola, porra!<PAGE></n>Traz o pingente, senão a Sherry morre.<PAGE></n>O pingente? Pra que você precisa dele?<PAGE></n>Quer que eu mate a menina?<PAGE></n>Tá. Cadê você?<PAGE></n>No orfanato.<PAGE></n>Orfanato? Onde fica?<PAGE></n>Fica por aqui. Você vai achar.<PAGE></n>A Sherry tá bem?<PAGE></n>Por enquanto, sim.<PAGE></n>Eu juro, seu merda, se você encostar um dedo nela...<PAGE></n>Tá de brincadeira?<PAGE></n>Droga!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30분 전...<PAGE></n>다시 보니 반갑군, 클레어.<PAGE></n>아직 우리 해결을 못 봤잖아.<PAGE></n>무슨 얘기야?<PAGE></n>수작 부리지 마!<PAGE></n>펜던트나 갖고 와. 안 그러면 셰리는 죽게 될 테니까.<PAGE></n>펜던트라고? 그게 왜 필요한데?<PAGE></n>꼬맹이가 죽는 꼴을 보고 싶나 보군?<PAGE></n>알았다고. 어디 있는데?<PAGE></n>고아원.<PAGE></n>고아원...? 그게 어디야?<PAGE></n>근처에 있지. 찾을 수 있을 거야.<PAGE></n>셰리는 괜찮아?<PAGE></n>...지금이야 그렇지.<PAGE></n>이 개자식,</n>셰리에게 손 하나라도 까딱했다간...<PAGE></n>장난해!?<PAGE></n>젠장!
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 分鐘前...<PAGE></n>克蕾兒，很高興又相見了。<PAGE></n>我們還有帳得算。<PAGE></n>你在說些什麼？<PAGE></n>別浪費我的時間！<PAGE></n>給我那個墜鍊，不然雪莉就死定了。<PAGE></n>墜鍊？你要那做什麼？<PAGE></n>你想讓這女孩死掉嗎？<PAGE></n>好吧。你在哪裡？<PAGE></n>我在孤兒院。<PAGE></n>孤兒院？那在哪？<PAGE></n>就在附近，你會找到的。<PAGE></n>雪莉沒事吧？<PAGE></n>... 暫時還好。<PAGE></n>我發誓，你這混蛋，要是你敢傷害她...<PAGE></n>開什麼玩笑！？<PAGE></n>可惡！
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>30 分钟前...<PAGE></n>真高兴又见面了，克莱尔。<PAGE></n>我们还有笔帐没算呢。<PAGE></n>你这话是什么意思？<PAGE></n>别浪费我的宝贵时间！<PAGE></n>把吊坠拿来，否则雪莉就死定了。<PAGE></n>吊坠？你要拿它做什么？<PAGE></n>你想要我杀了这女孩吗？<PAGE></n>好吧，你在哪里？<PAGE></n>孤儿院。<PAGE></n>孤儿院？在哪里？<PAGE></n>就在附近，你会看到的。<PAGE></n>雪莉没事吧？<PAGE></n>暂时还好。<PAGE></n>混蛋，我发誓，如果你胆敢伤害她...<PAGE></n>你是认真的吗！？<PAGE></n>可恶！
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+<TIME 1.33, 4.03><TIME 5.76, 7.51><TIME 8.51, 10.49><TIME 11.56, 12.82><TIME 12.85, 14.96><TIME 15.67, 18.82><TIME 20.19, 22.84><TIME 23.05, 24.52><TIME 26.19, 28.41><TIME 28.43, 29.74><TIME 29.95, 32.15><TIME 32.17, 34.74><TIME 35.31, 36.46><TIME 37.78, 38.8><TIME 39.11, 41.64><TIME 44.49, 45.98><TIME 48.35, 49.81>
+ごきげんよう クレア
+Good to see you again, Claire.
+Content de te revoir, Claire.
+Eccoti qui, Claire.
+Schön, dich wiederzusehen, Claire.
+Me alegro de verte, Claire.
+Рад снова видеть тебя, Клэр.
+Miło cię znowu widzieć, Claire.
+Bom te ver de novo, Claire.
+다시 보니 반갑군, 클레어.
+克蕾兒，很高興又相見了。
+真高兴又见面了，克莱尔。
+取引をしようじゃないか
+We've got unfinished business.
+On a une affaire à régler, toi et moi.
+Abbiamo un affare in sospeso.
+Wir haben noch eine Rechnung offen.
+Tenemos asuntos pendientes.
+У нас есть незаконченное дельце.
+Mamy niedokończone sprawy.
+A gente tem um assunto a resolver.
+아직 우리 해결을 못 봤잖아.
+我們還有帳得算。
+我们还有笔帐没算呢。
+どういうこと？
+What're you talking about?
+Qu'est-ce que vous voulez ?
+Di cosa parli?
+Wovon reden Sie da?
+¿De qué estás hablando?
+О чем это ты?!
+O co ci chodzi?
+Do que você tá falando?
+무슨 얘기야?
+你在說些什麼？
+你这话是什么意思？
+私の時間を無駄にする気か？
+Don't waste my fucking time!
+Tu sais très bien ce que je veux !
+Piantala di farmi perdere tempo.
+Verplemper nicht meine Zeit!
+¡No me hagas perder el tiempo!
+Хватит тратить мое время!
+Nie marnuj mojego czasu!
+Não me enrola, porra!
+수작 부리지 마!
+別浪費我的時間！
+别浪费我的宝贵时间！
+ペンダントを持ってこい</n>シェリーが死ぬぞ
+Bring me the pendant or Sherry dies.
+Apporte-moi le pendentif ou Sherry meurt.
+Portami il ciondolo o Sherry morirà.
+Bring mir den Anhänger oder Sherry ist tot.
+Tráeme el colgante o mataré a Sherry.
+Верни медальон, или Шерри умрет.
+Przynieś mi naszyjnik albo Sherry zginie.
+Traz o pingente, senão a Sherry morre.
+펜던트나 갖고 와. 안 그러면 셰리는 죽게 될 테니까.
+給我那個墜鍊，不然雪莉就死定了。
+把吊坠拿来，否则雪莉就死定了。
+ペンダント？</n>何のために？
+The pendant? What do you need it for?
+Le pendentif ? Pour quoi faire ?
+Il ciondolo? A cosa ti serve?
+Den Anhänger?</n>Was wollen Sie damit?
+¿El colgante? ¿Para qué lo quieres?
+Медальон? Зачем он тебе?
+Naszyjnik? Po co ci on?
+O pingente? Pra que você precisa dele?
+펜던트라고? 그게 왜 필요한데?
+墜鍊？你要那做什麼？
+吊坠？你要拿它做什么？
+ガキを死なせたいか？
+Do you want the girl to die?
+Tu veux que la fille meure ?
+Vuoi che la piccola muoia?
+Willst du sie tot sehen?
+¿Quieres que mate a la niña?
+Хочешь, чтобы девчонка умерла?
+Chcesz, żeby dziewczynka umarła?
+Quer que eu mate a menina?
+꼬맹이가 죽는 꼴을 보고 싶나 보군?
+你想讓這女孩死掉嗎？
+你想要我杀了这女孩吗？
+分かった　どこへ？
+Fine. Where are you?
+Bien. Où êtes-vous ?
+Va bene. Dove sei?
+Na, schön. Wo sind Sie?
+Vale. ¿Dónde estás?
+Ладно. Где вы?
+Dobra. Gdzie jesteś?
+Tá. Cadê você?
+알았다고. 어디 있는데?
+好吧。你在哪裡？
+好吧，你在哪里？
+孤児院だ
+The orphanage.
+L'orphelinat.
+All'orfanotrofio.
+Das Waisenhaus.
+En el orfanato.
+В приюте.
+W sierocińcu.
+No orfanato.
+고아원.
+我在孤兒院。
+孤儿院。
+孤児院？</n>どこにあるの？
+The orphanage...? Where's that?
+L'orphelinat ? Où ça ?
+L'orfanotrofio? E dov'è?
+Das Waisenhaus?</n>Wo ist das?
+¿El orfanato...? ¿Dónde está?
+В приюте?.. А где он?
+W sierocińcu...? Gdzie to jest?
+Orfanato? Onde fica?
+고아원...? 그게 어디야?
+孤兒院？那在哪？
+孤儿院？在哪里？
+近くにあるから すぐ分かる
+In the neighborhood. You'll find it.
+Dans le quartier. Tu le trouveras.
+È qui vicino. Lo troverai.
+In der Nachbarschaft.</n>Du findest es schon.
+Lo tienes cerca. Lo verás.
+Неподалеку. Не пропустишь.
+Niedaleko. Znajdziesz.
+Fica por aqui. Você vai achar.
+근처에 있지. 찾을 수 있을 거야.
+就在附近，你會找到的。
+就在附近，你会看到的。
+シェリーは無事？
+Is Sherry alright?
+Sherry va bien ?
+Sherry sta bene?
+Ist Sherry okay?
+¿Sherry está bien?
+Шерри в порядке?
+Sherry jest cała?
+A Sherry tá bem?
+셰리는 괜찮아?
+雪莉沒事吧？
+雪莉没事吧？
+今はな
+...For now.
+Pour l'instant...
+Per ora.
+Vorerst.
+Por ahora.
+...Пока да.
+...póki co.
+Por enquanto, sim.
+...지금이야 그렇지.
+... 暫時還好。
+暂时还好。
+もし指一本でも触れたら…
+I swear, you bastard, if you hurt her—
+Espèce d'ordure, si tu lui fais du mal...
+Bastardo, se le fai del male...
+Ich schwör, Sie Mistkerl,</n>wenn Sie ihr wehtun...
+Te juro que como la toques...
+Клянусь, сволочь, если ее тронешь...
+Przysięgam, sukinsynu,</n>jeśli zrobisz jej krzywdę...
+Eu juro, seu merda, se você encostar um dedo nela...
+이 개자식,</n>셰리에게 손 하나라도 까딱했다간...
+我發誓，你這混蛋，要是你敢傷害她...
+混蛋，我发誓，如果你胆敢伤害她...
+信じられない！
+Are you serious!?
+J'y crois pas !
+Stai scherzando?
+Ist das sein Ernst?!
+¿En serio?
+Серьезно?!
+Naprawdę?
+Tá de brincadeira?
+장난해!?
+開什麼玩笑！？
+你是认真的吗！？
+最低！
+Dammit!
+Eh merde !
+Diavolo!
+Verdammt!
+¡Joder!
+Чтоб тебя!
+Niech to!
+Droga!
+젠장!
+可惡！
+可恶！
+30分前…
+30 minutes plus tôt...
+30 minuti prima...
+30 Minuten zuvor...
+30 minutos antes
+За 30 минут до этого...
+30 minut wcześniej...
+30 minutos antes...
+30분 전...
+30 分鐘前...
+30 分钟前...

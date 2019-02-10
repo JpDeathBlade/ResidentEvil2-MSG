@@ -1,0 +1,72 @@
+﻿新人の初仕事
+Rookie's First Assignment
+Première mission
+Primo incarico della recluta
+Erster Einsatz des Anfängers
+Primera tarea del novato
+Первое задание для новичка
+Pierwsze zadanie rekruta
+Primeira Tarefa do Novato
+신입의 첫 번째 과제
+菜鳥的第一個任務
+菜鸟的第一个任务
+レオン・S・ケネディ、貴官に重大な特別任務を与える。</n></n>その恐るべき内容とは――、</n>なんと「自分の机の鍵を開けること」だ！</n>ヒントは<COL FILE_EMP>6人の先輩のファーストネームの頭文字</COLOR >だ。</n>順番は、机の並びと同じにしてある。</n>鍵は机の左右に1つずつだ。両方ちゃんと外せよな。
+Leon S. Kennedy, we're putting you on a very</n>special case for your first assignment.</n></n>Your mission is...to unlock your desk! The key</n>to your success is in <COL FILE_EMP>the initials of our first</n>names</COLOR>. Input the letters in order of our desks.</n>There are 2 locks—1 on each side of your</n>desk. Make sure you get them both.
+Leon S. Kennedy, votre première affaire est</n>très spéciale.</n></n>Votre mission est... d'ouvrir votre bureau ! La</n>clé de la réussite se trouve dans les <COL FILE_EMP>initiales</n>de nos prénoms</COLOR>. Entrez les lettres dans l'ordre</n>de nos bureaux. Il y a deux serrures, une de</n>chaque côté de votre bureau. Ouvrez les deux.
+Leon S. Kennedy, eccoti un caso</n>molto speciale come primo incarico.</n></n>La tua missione è... accedere alla tua scrivania</n>usando <COL FILE_EMP>le iniziali dei nostri nomi</COLOR>.</n>Inseriscile nell'ordine delle nostre postazioni.</n>Ci sono 2 serrature, una su ciascun lato</n>della tua scrivania. Riuscirai ad aprirle?
+Leon S. Kennedy, Sie bekommen als ersten Fall</n>etwas Besonderes.</n>Ihr Auftrag: Öffnen Sie Ihren Schreibtisch!</n>Der Schlüssel zum Erfolg versteckt sich in</n><COL FILE_EMP>den Initialen unserer Vornamen</COLOR>. Geben Sie die</n>Buchstaben in der Reihenfolge unserer</n>Schreibtische ein. Es gibt 2 Schlösser –</n>einen pro Schreibtischseite. Öffnen Sie beide.
+Leon S. Kennedy, te vamos a asignar un</n>caso muy especial como primera tarea.</n></n>Tu misión es... ¡abrir tu escritorio! La clave</n>de tu éxito está en <COL FILE_EMP>las iniciales de nuestros</n>nombres</COLOR>. Introduce las letras en el orden</n>de nuestros escritorios. Hay 2 cerraduras: 1 en</n>cada lado de tu mesa. Asegúrate de abrir ambas.
+Леон С. Кеннеди, твое первое задание будет</n>особенно важным и сложным.</n></n>Твоя задача... открыть ящик своего стола!</n>Ключ к успеху сокрыт в <COL FILE_EMP>первых буквах наших имен</COLOR>.</n>Введи буквы в порядке расположения</n>наших рабочих мест. На столе два замка —</n>по одному с каждой стороны. Открой оба.
+Leonie S. Kennedy, jako pierwsze zadanie</n>przydzielamy Ci szczególną sprawę.</n></n>Twoim zadaniem jest... otwarcie własnego</n>biurka! Kluczem do sukcesu są <COL FILE_EMP>pierwsze litery</n>naszych imion</COLOR>. Wprowadź je, by otworzyć </n>biurko. Są 2 zamki — po jednym z każdej </n>strony biurka. Otwórz obydwa.
+Leon S. Kennedy, você terá que lidar com um</n>caso muito especial na sua primeira tarefa.</n></n>A missão é... destrancar a sua mesa! A chave</n>para o sucesso está nas <COL FILE_EMP>iniciais dos nossos</n>nomes</COLOR>. Insira as letras na ordem das nossas</n>mesas. Tem 2 trancas — 1 em cada lado da sua</n>mesa. Você precisa abrir as duas.
+레온 S. 케네디, 자네의</n>첫 번째 과제로 아주 특별한 사건을 배정했네.</n></n>자네의 임무는 바로… 잠긴 책상을 여는 거야!</n>자물쇠를 여는 열쇠는 <COL FILE_EMP>우리 이름의</n>이니셜</COLOR>이지. 우리 책상 순서대로 입력해.</n>자물쇠는 양쪽에 한 개씩, 총 두 개가 있어.</n>두 자물쇠를 모두 열어야 해.
+里昂·S·甘迺迪，你的第一項工作，</n>我們要交給你一個很特別的案子。</n></n>任務就是... 打開你桌子的鎖！任務的成功</n>關鍵在於<COL FILE_EMP>我們名字的首字母</COLOR>。</n>你要按照我們桌子的順序輸入字母。</n>在你的辦公桌兩邊各有一個鎖。</n>兩個鎖都要打開。
+里昂·S·肯尼迪，我们要把一个十分特殊的</n>任务作为你的第一个任务指派...</n></n>你的任务是打开你桌子的锁！任务能不能成功，</n>关键在我们<COL FILE_EMP>名字的首字母</COLOR>。你要按照桌子的顺</n>序输入字母。你会看到两个锁，桌子的每一侧</n>各有一个。务必打开二个锁。</n>
+ま、ようするに、仲間の名前を覚えるのがお前の</n>初仕事ってわけだ。</n>成功を祈ってるぜ。</n>スコットの野郎から聞き出すのは、ちっとホネだろう</n>けどな。</n></n><RIGHT>優しいブラナー先輩より
+Basically, your first task is to remember your</n>fellow officers' names, but you figured that</n>much out, right?</n>Good luck, Leon.</n>By the way, it might take a little work to get</n>Scott to give you a straight answer.</n></n><RIGHT>Lieutenant Branagh
+En gros, votre première tâche est de vous</n>souvenir du nom de vos collègues, mais vous</n>aviez compris, pas vrai ? Bonne chance, Leon.</n>Au fait, il se peut que l'officier Scott ne</n>soit pas très coopératif...</n></n><RIGHT>Lieutenant Branagh
+In sostanza il tuo primo compito è ricordarti</n>i nostri nomi, ma l'avevi già capito, vero?</n>In bocca al lupo, Leon.</n>A proposito, potresti avere qualche difficoltà</n>nel convincere Scott a darti una risposta.</n></n><RIGHT>Tenente Branagh
+Ihre erste Aufgabe besteht im Grunde darin,</n>sich die Namen Ihrer Kollegen einzuprägen, aber</n>das haben Sie ja schon selbst gemerkt, oder?</n>Viel Erfolg, Leon. Es kann übrigens etwas</n>Arbeit erfordern, aus Scott eine direkte</n>Antwort herauszuholen.</n></n><RIGHT>Lieutenant Branagh
+En general, tu primera tarea es recordar los</n>nombres de tus compañeros, pero</n>ya te habías dado cuenta, ¿verdad?</n>Suerte, Leon.</n>Por cierto, es posible que te cueste sacarle</n>una respuesta clara a Scott.</n></n><RIGHT>Teniente Branagh.
+Иными словами, твое первое задание —</n>запомнить имена других офицеров,</n>но это ты уже и так понял, да? Удачи, Леон.</n>Кстати, не обещаю, что Скотт сходу</n>даст тебе четкий ответ.</n></n><RIGHT>Лейтенант Брэнаг
+To pierwsze zadanie polega przede wszystkim</n>na zapamiętaniu imion współpracowników, ale to</n>już chyba odgadłeś, co?</n>Powodzenia, Leon.</n>Przy okazji, uzyskanie szczerej odpowiedzi</n>od Scotta może wymagać nieco zachodu.</n></n><RIGHT>Porucznik Branagh
+Basicamente, a sua primeira tarefa é</n>lembrar o nome dos seus colegas, mas você</n>já deve ter percebido isso, não é verdade?</n>Boa sorte, Leon.</n>Aliás, pode ser difícil fazer o</n>Scott te dar uma resposta direta.</n></n><RIGHT>Tenente Branagh
+사실상 첫 번째 임무는</n>동료들의 이름을 외우는 건데,</n>이미 파악했겠지?</n>행운을 빌어, 레온.</n>참. 그리고 스콧한테 분명한 대답을</n>들으려면 고생 좀 해야 할거야.</n></n><RIGHT>부서장 브래너
+基本上，你的第一項任務是記住所有同事的</n>名字，不過我想你已經猜到這點了，對吧？</n>祝你好運，里昂。提醒你，你可能需要多費</n>點功夫才能讓史考特直接給你答案。</n></n><RIGHT>伯拉納副隊長
+基本上，你的第一个任务是要记住同事</n>的名字，但你已经知道了，对吗？</n>祝你好运，里昂。</n>顺道一提，这可能需要花一点心思</n>才能让斯科特直接了当的回答你。</n></n><RIGHT>伯拉纳警长</n>
+（紙のすみに、血痕と走り書きが残されている）
+(Scrawled in a corner between drops of blood)
+(Griffonné au milieu de taches de sang)
+(C'è scritto qualcosa tra le macchie di sangue)
+(In eine Ecke zwischen Blutflecken gekritzelt)
+(Garabateado en una esquina ensangrentada)
+(Нацарапано между кровавыми разводами.)
+(Nabazgrane w rogu pomiędzy śladami krwi)
+(Rabiscado em um canto, entre gotas de sangue)
+(핏자국 사이 모서리에 휘갈겨 쓴 글)
+（潦草地寫在血跡斑斑的轉角處）
+（潦草地写在血滴之间的拐角处）
+ここに来なくて正解だぜ、新米。
+Be glad you're not here, rookie.
+T'as de la chance de pas être là, le bleu.
+Sono felice che tu non sia venuto, recluta.
+Sei froh, dass du nicht hier bist, Anfänger.
+Alégrate de no estar aquí, novato.
+Радуйся, что тебя здесь нет, новичок.
+Ciesz się, że Cię tu nie ma, żółtodziobie.
+Agradeça por não estar aqui, novato.
+자네가 여기 없어서 다행이야, 신입.
+菜鳥，你該高興你不在這裡。
+很高兴你不在这里，菜鸟。
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

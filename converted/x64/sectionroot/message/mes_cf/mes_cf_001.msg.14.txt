@@ -1,0 +1,202 @@
+﻿<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>誰もいないのか？<PAGE></n>気味が悪いな<PAGE></n>ん？　
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>No one's around...?<PAGE></n>That's weird...<PAGE></n>...Huh?
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>Y'a personne ?<PAGE></n>C'est bizarre...<PAGE></n>Hein ?
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>Non c'è nessuno?<PAGE></n>Che strano...<PAGE></n>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>Niemand da?<PAGE></n>Komisch.<PAGE></n>Hm?
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>¿No hay nadie?<PAGE></n>Qué raro.<PAGE></n>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>Никого нет?..<PAGE></n>Странно.<PAGE></n>А?
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>Nikogo nie ma...?<PAGE></n>Dziwne...<PAGE></n>...Hm?
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>Não tem ninguém?<PAGE></n>Estranho...<PAGE></n>Hã?
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>아무도 없나...?<PAGE></n>이상한데...<PAGE></n>...흠?
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>沒人在嗎？<PAGE></n>真奇怪...<PAGE></n>嗯？
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>怎么没人在？<PAGE></n>真奇怪...<PAGE></n>嗯？
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+<TIME 37.61, 39.22><TIME 44.72, 45.76><TIME 47.83, 48.6>
+誰もいないのか？
+No one's around...?
+Y'a personne ?
+Non c'è nessuno?
+Niemand da?
+¿No hay nadie?
+Никого нет?..
+Nikogo nie ma...?
+Não tem ninguém?
+아무도 없나...?
+沒人在嗎？
+怎么没人在？
+気味が悪いな
+That's weird...
+C'est bizarre...
+Che strano...
+Komisch.
+Qué raro.
+Странно.
+Dziwne...
+Estranho...
+이상한데...
+真奇怪...
+真奇怪...
+ん？　
+...Huh?
+Hein ?
+Hm?
+А?
+...Hm?
+Hã?
+...흠?
+嗯？
+嗯？
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF001_0040_pl0000
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>ええ もうすぐ着く<PAGE></n>だから平気だってば<PAGE></n>分かった</n>クリスに会ったらすぐ戻る<PAGE></n>それじゃ もう切るね<PAGE></n>みんな心配性なんだから<PAGE></n>え？　何？<PAGE></n>誰？
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Yeah, I'm almost there.<PAGE></n>You know me, I'll be fine.<PAGE></n>Sounds good.</n>I'll be back as soon as I find Chris.<PAGE></n>I will, but I gotta go.<PAGE></n>Why does everyone think I'm going to get in trouble?<PAGE></n>What the...?<PAGE></n>Hello...?
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Ouais, je suis presque arrivée.<PAGE></n>Tu me connais, ça va aller.<PAGE></n>Ça marche.</n>Je reviens dès que j'ai trouvé Chris.<PAGE></n>Compris. Faut que je file.<PAGE></n>Pourquoi est-ce que tout le monde s'inquiète pour moi ?<PAGE></n>C'était quoi ça ?<PAGE></n>Hé oh !
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Sì, ci sono quasi.<PAGE></n>Mi conosci, me la caverò.<PAGE></n>Buona idea. Tornerò appena trovo Chris.<PAGE></n>Va bene, devo andare.<PAGE></n>Perché tutti si preoccupano tanto?<PAGE></n>Ma che...<PAGE></n>Ehilà?
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Ja, bin fast da.<PAGE></n>Du kennst mich, ich komm klar.<PAGE></n>Klingt gut.</n>Ich komm zurück, sobald ich Chris finde.<PAGE></n>Sowieso. Muss los.<PAGE></n>Wieso denkt jeder, ich komm in Schwierigkeiten?<PAGE></n>Was zur...?<PAGE></n>Hallo?
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Sí, casi estoy.<PAGE></n> Sabes que estaré bien.<PAGE></n>Muy bien.</n>Volveré en cuanto encuentre a Chris.<PAGE></n>Vale, te dejo.<PAGE></n>Todos creen que voy a tener problemas.<PAGE></n>¿Qué...?<PAGE></n>¿Hola...?
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Да, я почти на месте.<PAGE></n>Ты ж меня знаешь, все будет нормально.<PAGE></n>Договорились.</n>Вернусь, как только найду Криса.<PAGE></n>Ладно. Все, мне пора.<PAGE></n>И почему все думают, что я сразу во что-нибудь влипну?<PAGE></n>Что за?..<PAGE></n>Эй?..
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>Tak, jestem prawie na miejscu.<PAGE></n>Znasz mnie, poradzę sobie.<PAGE></n>Brzmi nieźle.</n>Wrócę, jak tylko znajdę Chrisa.<PAGE></n>Zgoda, ale muszę już kończyć.<PAGE></n>Czemu wszyscy myślą, że ładuję się w tarapaty?<PAGE></n>Co do jasnej...?<PAGE></n>Halo...?
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>É, já tô chegando.<PAGE></n>Você me conhece, eu vou ficar bem.<PAGE></n>Tudo bem.</n>Eu volto assim que achar o Chris.<PAGE></n>Pode deixar, mas eu preciso ir.<PAGE></n>Por que sempre acham que eu vou me meter em confusão?<PAGE></n>Mas que...<PAGE></n>Oi?
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>그래, 거의 다 왔어.<PAGE></n>날 알잖아. 괜찮을 거야.<PAGE></n>좋아.</n>오빠를 찾으면 바로 돌아갈게.<PAGE></n>알겠어, 이제 가야 돼.<PAGE></n>왜 다들 나한테 문제가 일어날 거라 생각하는 거지?<PAGE></n>뭐지...?<PAGE></n>저기요...?
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>嗯，我快到了。<PAGE></n>別擔心，我不會有事的。<PAGE></n>沒問題。</n>找到克里斯後我會馬上回去。<PAGE></n>好，我得出發了。<PAGE></n>為什麼大家都覺得我會出事情？<PAGE></n>什麼...<PAGE></n>有人嗎？
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>是的，我快到了。<PAGE></n>你知道我不会有事的。<PAGE></n>好主意。</n>找到克里斯我就回去了。<PAGE></n>我会的，但我得出发了。<PAGE></n>为什么大家都觉得我会惹上麻烦呢？<PAGE></n>怎么回事...？<PAGE></n>有人吗...？
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+<TIME 7.57, 8.94><TIME 11.64, 13.11><TIME 15.24, 18.21><TIME 21.64, 23.01><TIME 25.3, 27.61><TIME 32.33, 33.15><TIME 39.89, 40.54>
+ええ もうすぐ着く
+Yeah, I'm almost there.
+Ouais, je suis presque arrivée.
+Sì, ci sono quasi.
+Ja, bin fast da.
+Sí, casi estoy.
+Да, я почти на месте.
+Tak, jestem prawie na miejscu.
+É, já tô chegando.
+그래, 거의 다 왔어.
+嗯，我快到了。
+是的，我快到了。
+だから平気だってば
+You know me, I'll be fine.
+Tu me connais, ça va aller.
+Mi conosci, me la caverò.
+Du kennst mich, ich komm klar.
+ Sabes que estaré bien.
+Ты ж меня знаешь, все будет нормально.
+Znasz mnie, poradzę sobie.
+Você me conhece, eu vou ficar bem.
+날 알잖아. 괜찮을 거야.
+別擔心，我不會有事的。
+你知道我不会有事的。
+分かった</n>クリスに会ったらすぐ戻る
+Sounds good.</n>I'll be back as soon as I find Chris.
+Ça marche.</n>Je reviens dès que j'ai trouvé Chris.
+Buona idea. Tornerò appena trovo Chris.
+Klingt gut.</n>Ich komm zurück, sobald ich Chris finde.
+Muy bien.</n>Volveré en cuanto encuentre a Chris.
+Договорились.</n>Вернусь, как только найду Криса.
+Brzmi nieźle.</n>Wrócę, jak tylko znajdę Chrisa.
+Tudo bem.</n>Eu volto assim que achar o Chris.
+좋아.</n>오빠를 찾으면 바로 돌아갈게.
+沒問題。</n>找到克里斯後我會馬上回去。
+好主意。</n>找到克里斯我就回去了。
+それじゃ もう切るね
+I will, but I gotta go.
+Compris. Faut que je file.
+Va bene, devo andare.
+Sowieso. Muss los.
+Vale, te dejo.
+Ладно. Все, мне пора.
+Zgoda, ale muszę już kończyć.
+Pode deixar, mas eu preciso ir.
+알겠어, 이제 가야 돼.
+好，我得出發了。
+我会的，但我得出发了。
+みんな心配性なんだから
+Why does everyone think I'm going to get in trouble?
+Pourquoi est-ce que tout le monde s'inquiète pour moi ?
+Perché tutti si preoccupano tanto?
+Wieso denkt jeder, ich komm in Schwierigkeiten?
+Todos creen que voy a tener problemas.
+И почему все думают, что я сразу во что-нибудь влипну?
+Czemu wszyscy myślą, że ładuję się w tarapaty?
+Por que sempre acham que eu vou me meter em confusão?
+왜 다들 나한테 문제가 일어날 거라 생각하는 거지?
+為什麼大家都覺得我會出事情？
+为什么大家都觉得我会惹上麻烦呢？
+え？　何？
+What the...?
+C'était quoi ça ?
+Ma che...
+Was zur...?
+¿Qué...?
+Что за?..
+Co do jasnej...?
+Mas que...
+뭐지...?
+什麼...
+怎么回事...？
+誰？
+Hello...?
+Hé oh !
+Ehilà?
+Hallo?
+¿Hola...?
+Эй?..
+Halo...?
+Oi?
+저기요...?
+有人嗎？
+有人吗...？

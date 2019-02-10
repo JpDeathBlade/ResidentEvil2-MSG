@@ -1,0 +1,88 @@
+﻿<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>本当に こっちでいいのか？<PAGE></n>残念だけど<PAGE></n><PAGE></n>待ってろ<PAGE></n>おい ウソだろ…<PAGE></n>レオン！　早く逃げて！</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>You sure this is the right way?<PAGE></n>Unfortunately.<PAGE></n><PAGE></n>Wait there.<PAGE></n>Jesus Christ!<PAGE></n>Leon! Get out of there!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>Tu es sûre que c'est par là ?<PAGE></n>Malheureusement.<PAGE></n><PAGE></n>Attends.<PAGE></n>C'est pas vrai !<PAGE></n>Leon ! Reste pas là !</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>Sicura che sia di qua?<PAGE></n>Così pare.<PAGE></n><PAGE></n>Aspetti.<PAGE></n>Cristo santo!<PAGE></n>Leon! Via da lì!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>Bist du sicher, das ist der richtige Weg?<PAGE></n>Leider ja.<PAGE></n><PAGE></n>Warte da.<PAGE></n>Ach, du Scheiße!<PAGE></n>Leon! Schnell raus da!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>¿Seguro que es por aquí?<PAGE></n>Me temo que sí.<PAGE></n><PAGE></n>Espera.<PAGE></n>Dios santo.<PAGE></n>¡Leon! ¡Sal de ahí!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>Уверена, что нам сюда?<PAGE></n>К сожалению.<PAGE></n><PAGE></n>Жди здесь.<PAGE></n>Господи боже!<PAGE></n>Леон! Беги оттуда!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>Na pewno tędy?<PAGE></n>Niestety.<PAGE></n><PAGE></n>Poczekaj tu.<PAGE></n>Jezu Chryste!<PAGE></n>Leon! Uciekaj stąd!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>É por aqui mesmo? Tem certeza?<PAGE></n>Infelizmente.<PAGE></n><PAGE></n>Fica aí.<PAGE></n>Santo Deus!<PAGE></n>Leon! Sai logo daí!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>제대로 가는 거 맞아?<PAGE></n>안타깝게도.<PAGE></n><PAGE></n>거기서 기다려.<PAGE></n>세상에!<PAGE></n>레온! 피해!</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>你確定這方向是對的？<PAGE></n>恐怕是。<PAGE></n><PAGE></n>在那裡等著。<PAGE></n>天哪！<PAGE></n>里昂！快離開那裡！</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51><PAGE></n>你确定这方向没错？<PAGE></n>恐怕是。<PAGE></n><PAGE></n>在那里等我。<PAGE></n>我的老天啊！<PAGE></n>里昂！快离开那里！</n>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+<TIME 2.84, 3.7><TIME 4.58, 6.66><TIME 7.86, 9.29><TIME 11.04, 12.01><TIME 13.3, 14.2><TIME 25.29, 27.29><TIME 29.0, 31.51>
+本当に こっちでいいのか？
+You sure this is the right way?
+Tu es sûre que c'est par là ?
+Sicura che sia di qua?
+Bist du sicher, das ist der richtige Weg?
+¿Seguro que es por aquí?
+Уверена, что нам сюда?
+Na pewno tędy?
+É por aqui mesmo? Tem certeza?
+제대로 가는 거 맞아?
+你確定這方向是對的？
+你确定这方向没错？
+残念だけど
+Unfortunately.
+Malheureusement.
+Così pare.
+Leider ja.
+Me temo que sí.
+К сожалению.
+Niestety.
+Infelizmente.
+안타깝게도.
+恐怕是。
+恐怕是。
+待ってろ
+Wait there.
+Attends.
+Aspetti.
+Warte da.
+Espera.
+Жди здесь.
+Poczekaj tu.
+Fica aí.
+거기서 기다려.
+在那裡等著。
+在那里等我。
+おい ウソだろ…
+Jesus Christ!
+C'est pas vrai !
+Cristo santo!
+Ach, du Scheiße!
+Dios santo.
+Господи боже!
+Jezu Chryste!
+Santo Deus!
+세상에!
+天哪！
+我的老天啊！
+レオン！　早く逃げて！
+Leon! Get out of there!
+Leon ! Reste pas là !
+Leon! Via da lì!
+Leon! Schnell raus da!
+¡Leon! ¡Sal de ahí!
+Леон! Беги оттуда!
+Leon! Uciekaj stąd!
+Leon! Sai logo daí!
+레온! 피해!
+里昂！快離開那裡！
+里昂！快离开那里！

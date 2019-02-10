@@ -1,0 +1,200 @@
+﻿<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>まだ誰かいるはずだ…<PAGE></n>マズい…<PAGE></n>デビッド！　マービン！</n>見てるか！？<PAGE></n>脱出路が分かった！</n>ここに…！<PAGE></n>応援を頼む！</n>東の廊下だ！<PAGE></n>彼を見つけないと
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>There has to be someone here...<PAGE></n>Not good.<PAGE></n>David! Marvin! You there!?<PAGE></n>I found a way out! It's in here!<PAGE></n>Send reinforcements! East Hallway!<PAGE></n>I gotta find that guy.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Il y a forcément quelqu'un ici...<PAGE></n>C'est pas bon, ça.<PAGE></n>David ! Marvin ! Vous m'entendez ?<PAGE></n>On a un moyen de sortir ! Tout est là-dedans !<PAGE></n>Envoyez des renforts ! Dans le couloir est !<PAGE></n>Il faut que j'aille l'aider.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Ci dev'essere qualcuno...<PAGE></n>Oh, merda.<PAGE></n>David! Marvin! Ci siete?<PAGE></n>C'è una via d'uscita! È scritto qui!<PAGE></n>Mandate rinforzi! Corridoio est!<PAGE></n>Devo trovarlo.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Irgendjemand muss doch hier sein...<PAGE></n>Nicht gut.<PAGE></n>David! Marvin! Seid ihr da!?<PAGE></n>Es gibt 'nen Weg raus!</n>Steht hier drin!<PAGE></n>Schickt Verstärkung! Ost-Korridor!<PAGE></n>Sollte den Typ suchen.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Tiene que haber alguien...<PAGE></n>Oh no...<PAGE></n>¡David! ¡Marvin! ¡¿Me oís?!<PAGE></n>¡Hay una salida! ¡Está aquí!<PAGE></n>¡Enviad refuerzos! ¡Pasillo este!<PAGE></n>Debo encontrarle.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Здесь же должен быть хоть кто-нибудь...<PAGE></n>Плохо дело.<PAGE></n>Дэвид! Марвин! Слышите?!<PAGE></n>Я нашел выход! Все вот здесь!<PAGE></n>Вышлите подкрепление! Восточный коридор!<PAGE></n>Я должен ему помочь.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Musi tu ktoś być...<PAGE></n>Niedobrze.<PAGE></n>David! Marvin! Jesteście tam?!<PAGE></n>Znalazłem wyjście! Jest tutaj!<PAGE></n>Przyślijcie wsparcie! Wschodni korytarz!<PAGE></n>Muszę znaleźć tego gościa.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>Tem que ter alguém aqui...<PAGE></n>Isso não é bom.<PAGE></n>David! Marvin! Vocês tão aí?!<PAGE></n>Achei uma saída! É por aqui!<PAGE></n>Enviem reforços! Ala leste!<PAGE></n>Eu tenho que achar esse cara.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>누군가 반드시 있을 거야...<PAGE></n>좋지 않군.<PAGE></n>데이비드! 마빈! 거기 있어요!?<PAGE></n>출구를 찾았어요! 이쪽이에요!<PAGE></n>지원 요청을 보내요! 동쪽 복도로!<PAGE></n>저 사람을 찾아야겠어.
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>一定還有人活著...<PAGE></n>不好了。<PAGE></n>大衛！馬文！聽得見嗎！？<PAGE></n>我找到出路了！就在這裡面！<PAGE></n>快派人來幫忙！東側走廊！<PAGE></n>我得去找那傢伙。
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>怎么一个人都没有...<PAGE></n>不妙。<PAGE></n>大卫！马文！你们在吗！？<PAGE></n>我找到出路了！就在这里！<PAGE></n>请求增援！东侧走廊！<PAGE></n>我得找到那个人。
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+<TIME 7.86, 9.13><TIME 16.61, 17.49><TIME 18.62, 20.47><TIME 21.38, 23.35><TIME 30.58, 32.87><TIME 39.57, 40.55>
+まだ誰かいるはずだ…
+There has to be someone here...
+Il y a forcément quelqu'un ici...
+Ci dev'essere qualcuno...
+Irgendjemand muss doch hier sein...
+Tiene que haber alguien...
+Здесь же должен быть хоть кто-нибудь...
+Musi tu ktoś być...
+Tem que ter alguém aqui...
+누군가 반드시 있을 거야...
+一定還有人活著...
+怎么一个人都没有...
+マズい…
+Not good.
+C'est pas bon, ça.
+Oh, merda.
+Nicht gut.
+Oh no...
+Плохо дело.
+Niedobrze.
+Isso não é bom.
+좋지 않군.
+不好了。
+不妙。
+デビッド！　マービン！</n>見てるか！？
+David! Marvin! You there!?
+David ! Marvin ! Vous m'entendez ?
+David! Marvin! Ci siete?
+David! Marvin! Seid ihr da!?
+¡David! ¡Marvin! ¡¿Me oís?!
+Дэвид! Марвин! Слышите?!
+David! Marvin! Jesteście tam?!
+David! Marvin! Vocês tão aí?!
+데이비드! 마빈! 거기 있어요!?
+大衛！馬文！聽得見嗎！？
+大卫！马文！你们在吗！？
+脱出路が分かった！</n>ここに…！
+I found a way out! It's in here!
+On a un moyen de sortir ! Tout est là-dedans !
+C'è una via d'uscita! È scritto qui!
+Es gibt 'nen Weg raus!</n>Steht hier drin!
+¡Hay una salida! ¡Está aquí!
+Я нашел выход! Все вот здесь!
+Znalazłem wyjście! Jest tutaj!
+Achei uma saída! É por aqui!
+출구를 찾았어요! 이쪽이에요!
+我找到出路了！就在這裡面！
+我找到出路了！就在这里！
+応援を頼む！</n>東の廊下だ！
+Send reinforcements! East Hallway!
+Envoyez des renforts ! Dans le couloir est !
+Mandate rinforzi! Corridoio est!
+Schickt Verstärkung! Ost-Korridor!
+¡Enviad refuerzos! ¡Pasillo este!
+Вышлите подкрепление! Восточный коридор!
+Przyślijcie wsparcie! Wschodni korytarz!
+Enviem reforços! Ala leste!
+지원 요청을 보내요! 동쪽 복도로!
+快派人來幫忙！東側走廊！
+请求增援！东侧走廊！
+彼を見つけないと
+I gotta find that guy.
+Il faut que j'aille l'aider.
+Devo trovarlo.
+Sollte den Typ suchen.
+Debo encontrarle.
+Я должен ему помочь.
+Muszę znaleźć tego gościa.
+Eu tenho que achar esse cara.
+저 사람을 찾아야겠어.
+我得去找那傢伙。
+我得找到那个人。
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>ねえ クリス</n>どこにいるの？<PAGE></n>ウソ…</n>中にもいるの？<PAGE></n>デビッド！　マービン！</n>見てるか？<PAGE></n>脱出路が分かった！</n>ここに…！<PAGE></n>応援を頼む！</n>東の廊下だ！<PAGE></n>彼を助けなきゃ
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Come on, Chris, where are you?<PAGE></n>Shit... They're inside too...<PAGE></n>David! Marvin! You there!?<PAGE></n>I found a way out! It's in here!<PAGE></n>Send reinforcements! East Hallway!<PAGE></n>I should help this guy.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Allez, Chris... Où est-ce que tu es ?<PAGE></n>Merde... Il y en a à l'intérieur.<PAGE></n>David ! Marvin ! Vous m'entendez ?<PAGE></n>On a un moyen de sortir ! Tout est là-dedans !<PAGE></n>Envoyez des renforts ! Dans le couloir est !<PAGE></n>Il faut que j'aille l'aider.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Avanti, Chris, dove sei?<PAGE></n>Oh merda... Sono riusciti a entrare.<PAGE></n>David! Marvin! Ci siete?<PAGE></n>C'è una via d'uscita! È scritto qui!<PAGE></n>Mandate rinforzi! Corridoio est!<PAGE></n>Devo andare ad aiutarlo.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Komm schon, Chris, wo steckst du?<PAGE></n>Mist... Drin sind sie auch.<PAGE></n>David! Marvin! Seid ihr da!?<PAGE></n>Es gibt 'nen Weg raus!</n>Steht hier drin!<PAGE></n>Schickt Verstärkung! Ost-Korridor!<PAGE></n>Ich sollte ihm helfen.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Vamos, Chris, ¿dónde estás?<PAGE></n>Joder... Dentro también hay...<PAGE></n>¡David! ¡Marvin! ¡¿Me oís?!<PAGE></n>¡Hay una salida! ¡Está aquí!<PAGE></n>¡Enviad refuerzos! ¡Pasillo este!<PAGE></n>Tengo que ayudarle.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Ну же, Крис, куда ты пропал?<PAGE></n>Черт... Они и сюда добрались...<PAGE></n>Дэвид! Марвин! Слышите?!<PAGE></n>Я нашел выход! Все вот здесь!<PAGE></n>Вышлите подкрепление! Восточный коридор!<PAGE></n>Нужно ему помочь.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>No dalej, Chris, gdzie jesteś?<PAGE></n>Cholera... Są też w środku...<PAGE></n>David! Marvin! Jesteście tam?!<PAGE></n>Znalazłem wyjście! Jest tutaj!<PAGE></n>Przyślijcie wsparcie! Wschodni korytarz!<PAGE></n>Muszę pomóc temu gościowi.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>Qual é, Chris, cadê você?<PAGE></n>Merda... Eles também tão aqui dentro...<PAGE></n>David! Marvin! Vocês tão aí?!<PAGE></n>Achei uma saída! É por aqui!<PAGE></n>Enviem reforços! Ala leste!<PAGE></n>Eu devia ajudar esse cara.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>제발, 오빠, 어디 있는 거야?<PAGE></n>이런... 여기까지 들어왔네...<PAGE></n>데이비드! 마빈! 거기 있어요!?<PAGE></n>출구를 찾았어요! 이쪽이에요!<PAGE></n>지원 요청을 보내요! 동쪽 복도로!<PAGE></n>저 사람을 도와야겠어.
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>克里斯，你到底在哪裡...<PAGE></n>糟糕，它們也進來了...<PAGE></n>大衛！馬文！聽得見嗎！？<PAGE></n>我找到出路了！就在這裡面！<PAGE></n>快派人來幫忙！東側走廊！<PAGE></n>我應該去幫他。
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>真着急。克里斯，你到底在哪里？<PAGE></n>糟糕... 连它们也进来了...<PAGE></n>大卫！马文！你们在吗！？<PAGE></n>我找到出路了！就在这里！<PAGE></n>请求增援！东侧走廊！<PAGE></n>我得帮这个人。
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+<TIME 6.8, 9.36><TIME 16.16, 18.61><TIME 18.79, 21.11><TIME 21.61, 23.77><TIME 30.83, 33.47><TIME 39.72, 41.19>
+ねえ クリス</n>どこにいるの？
+Come on, Chris, where are you?
+Allez, Chris... Où est-ce que tu es ?
+Avanti, Chris, dove sei?
+Komm schon, Chris, wo steckst du?
+Vamos, Chris, ¿dónde estás?
+Ну же, Крис, куда ты пропал?
+No dalej, Chris, gdzie jesteś?
+Qual é, Chris, cadê você?
+제발, 오빠, 어디 있는 거야?
+克里斯，你到底在哪裡...
+真着急。克里斯，你到底在哪里？
+ウソ…</n>中にもいるの？
+Shit... They're inside too...
+Merde... Il y en a à l'intérieur.
+Oh merda... Sono riusciti a entrare.
+Mist... Drin sind sie auch.
+Joder... Dentro también hay...
+Черт... Они и сюда добрались...
+Cholera... Są też w środku...
+Merda... Eles também tão aqui dentro...
+이런... 여기까지 들어왔네...
+糟糕，它們也進來了...
+糟糕... 连它们也进来了...
+デビッド！　マービン！</n>見てるか？
+David! Marvin! You there!?
+David ! Marvin ! Vous m'entendez ?
+David! Marvin! Ci siete?
+David! Marvin! Seid ihr da!?
+¡David! ¡Marvin! ¡¿Me oís?!
+Дэвид! Марвин! Слышите?!
+David! Marvin! Jesteście tam?!
+David! Marvin! Vocês tão aí?!
+데이비드! 마빈! 거기 있어요!?
+大衛！馬文！聽得見嗎！？
+大卫！马文！你们在吗！？
+脱出路が分かった！</n>ここに…！
+I found a way out! It's in here!
+On a un moyen de sortir ! Tout est là-dedans !
+C'è una via d'uscita! È scritto qui!
+Es gibt 'nen Weg raus!</n>Steht hier drin!
+¡Hay una salida! ¡Está aquí!
+Я нашел выход! Все вот здесь!
+Znalazłem wyjście! Jest tutaj!
+Achei uma saída! É por aqui!
+출구를 찾았어요! 이쪽이에요!
+我找到出路了！就在這裡面！
+我找到出路了！就在这里！
+応援を頼む！</n>東の廊下だ！
+Send reinforcements! East Hallway!
+Envoyez des renforts ! Dans le couloir est !
+Mandate rinforzi! Corridoio est!
+Schickt Verstärkung! Ost-Korridor!
+¡Enviad refuerzos! ¡Pasillo este!
+Вышлите подкрепление! Восточный коридор!
+Przyślijcie wsparcie! Wschodni korytarz!
+Enviem reforços! Ala leste!
+지원 요청을 보내요! 동쪽 복도로!
+快派人來幫忙！東側走廊！
+请求增援！东侧走廊！
+彼を助けなきゃ
+I should help this guy.
+Il faut que j'aille l'aider.
+Devo andare ad aiutarlo.
+Ich sollte ihm helfen.
+Tengo que ayudarle.
+Нужно ему помочь.
+Muszę pomóc temu gościowi.
+Eu devia ajudar esse cara.
+저 사람을 도와야겠어.
+我應該去幫他。
+我得帮这个人。

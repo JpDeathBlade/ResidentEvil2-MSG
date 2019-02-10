@@ -1,0 +1,124 @@
+﻿<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>よし じゃ…<PAGE></n>ここで<PAGE></n>さて どうする？<PAGE></n>何か手がかりはないの？<PAGE></n>“抗ウィルス剤”？<PAGE></n>これだ！</n>これを捜せばいい<PAGE></n>ねえ シェリー　行ってくるわ</n>ここで待っててくれる？<PAGE></n>すぐ戻るから</n>約束する
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>OK, umm...<PAGE></n>Here you go.<PAGE></n>Alright, now what...?<PAGE></n>Huh... There's gotta be something here.<PAGE></n>..."Antiviral agent"?<PAGE></n>That's it! That's gotta be it!<PAGE></n>Hey...hey Sherry... I gotta go.</n>You stay right here, though. OK?<PAGE></n>I'll be back soon, I promise.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>OK...<PAGE></n>Et voilà.<PAGE></n>C'est bon. Et maintenant ?<PAGE></n>Ça va peut-être m'en dire plus.<PAGE></n>"Agent antiviral"...<PAGE></n>C'est ça ! Y'a pas de doute !<PAGE></n>Hé, Sherry ? Je dois y aller.</n>Ne bouge pas d'ici, d'accord ?<PAGE></n>Je reviens vite. C'est promis.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>Ok...<PAGE></n>Riposati.<PAGE></n>Ok, vediamo...<PAGE></n>Qui dovrei trovare qualcosa.<PAGE></n>"Agente antivirale"...<PAGE></n>È questo! Non c'è alcun dubbio!<PAGE></n>Ehi! Ehi, Sherry! Devo andare. Tu aspettami qui, ok?<PAGE></n>Io torno subito. Promesso.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>Okay.<PAGE></n>Hier ist gut.<PAGE></n>Okay, was jetzt?<PAGE></n>Irgendwas muss doch hier sein.<PAGE></n>"Antivirales Agens...?"<PAGE></n>Das ist es!</n>Das muss es sein!<PAGE></n>Hey... Hey, Sherry. Ich muss gehen.</n>Du bleibst genau hier, okay?<PAGE></n>Ich bin bald zurück, versprochen.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>Bien...<PAGE></n>Ya está.<PAGE></n>Vale, ¿y ahora qué?<PAGE></n>Tiene que haber algo por aquí.<PAGE></n>Agente antivírico...<PAGE></n>¡Eso es! ¡Tiene que ser esto!<PAGE></n>Eh... Eh, Sherry...</n>Debo irme. Tú quédate aquí, ¿vale?<PAGE></n>Volveré pronto, lo prometo.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>Ладно, м-м...<PAGE></n>Вот так.<PAGE></n>Так, и что теперь?..<PAGE></n>Хм... Здесь должно быть хоть что-то.<PAGE></n>...«Антивирусный препарат»?<PAGE></n>Вот! Это точно поможет!<PAGE></n>Эй... эй, Шерри, мне надо идти.</n>А ты побудь здесь, хорошо?<PAGE></n>Я скоро вернусь, обещаю.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>Ok, hmm...<PAGE></n>Proszę.<PAGE></n>Dobra, co teraz...?<PAGE></n>Hmm... Coś tutaj musi być.<PAGE></n>...„Środek antywirusowy”?<PAGE></n>Tak! To musi być to!<PAGE></n>Hej, Sherry... Muszę iść.</n>Ale ty zostań tutaj, OK?<PAGE></n>Wkrótce wrócę, obiecuję.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>Tá, hum.<PAGE></n>Pronto.<PAGE></n>Tá, e agora?<PAGE></n>Hm, deve ter alguma coisa útil aqui.<PAGE></n>"Agente antiviral"?<PAGE></n>É isso! Tem que ser isso!<PAGE></n>Ei, Sherry, preciso dar uma saída.</n>Fica aqui, tá bom?<PAGE></n>Eu volto já, prometo.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>어디 보자, 음...<PAGE></n>여기 누워.<PAGE></n>좋아, 이제 어쩌지...?<PAGE></n>아... 여기 뭔가 있을 거 같은데.<PAGE></n>..."백신"?<PAGE></n>이거야! 이거면 될 거야!<PAGE></n>셰리... 어디 좀 잠깐 다녀올게.</n>여기 있어야 해, 알았지?<PAGE></n>꼭 금방 돌아올게.
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>好，嗯...<PAGE></n>你休息一下。<PAGE></n>好，現在怎麼辦...？<PAGE></n>嗯... 這裡面一定有什麼。<PAGE></n>...「抗病毒劑」？<PAGE></n>就是這個！鐵定沒錯！<PAGE></n>嘿... 雪莉... 我得走了。</n>不過你要留在這裡，好嗎？<PAGE></n>我保證馬上就會回來。
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>好，嗯...<PAGE></n>你先休息一下。<PAGE></n>好，接下来该怎么办呢...？<PAGE></n>嗯... 这里一定有些什么。<PAGE></n>“抗病毒剂”？<PAGE></n>没错！一定就是这个东西！<PAGE></n>嘿... 雪莉... 我得离开一下。</n>你就乖乖待在这里，好吗？<PAGE></n>我很快就回来的，我保证。
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+<TIME 2.54, 4.77><TIME 9.18, 10.19><TIME 12.45, 15.0><TIME 18.68, 20.39><TIME 21.81, 23.29><TIME 23.33, 25.37><TIME 28.26, 34.09><TIME 36.14, 38.76>
+よし じゃ…
+OK, umm...
+OK...
+Ok...
+Okay.
+Bien...
+Ладно, м-м...
+Ok, hmm...
+Tá, hum.
+어디 보자, 음...
+好，嗯...
+好，嗯...
+ここで
+Here you go.
+Et voilà.
+Riposati.
+Hier ist gut.
+Ya está.
+Вот так.
+Proszę.
+Pronto.
+여기 누워.
+你休息一下。
+你先休息一下。
+さて どうする？
+Alright, now what...?
+C'est bon. Et maintenant ?
+Ok, vediamo...
+Okay, was jetzt?
+Vale, ¿y ahora qué?
+Так, и что теперь?..
+Dobra, co teraz...?
+Tá, e agora?
+좋아, 이제 어쩌지...?
+好，現在怎麼辦...？
+好，接下来该怎么办呢...？
+何か手がかりはないの？
+Huh... There's gotta be something here.
+Ça va peut-être m'en dire plus.
+Qui dovrei trovare qualcosa.
+Irgendwas muss doch hier sein.
+Tiene que haber algo por aquí.
+Хм... Здесь должно быть хоть что-то.
+Hmm... Coś tutaj musi być.
+Hm, deve ter alguma coisa útil aqui.
+아... 여기 뭔가 있을 거 같은데.
+嗯... 這裡面一定有什麼。
+嗯... 这里一定有些什么。
+“抗ウィルス剤”？
+..."Antiviral agent"?
+"Agent antiviral"...
+"Agente antivirale"...
+"Antivirales Agens...?"
+Agente antivírico...
+...«Антивирусный препарат»?
+...„Środek antywirusowy”?
+"Agente antiviral"?
+..."백신"?
+...「抗病毒劑」？
+“抗病毒剂”？
+これだ！</n>これを捜せばいい
+That's it! That's gotta be it!
+C'est ça ! Y'a pas de doute !
+È questo! Non c'è alcun dubbio!
+Das ist es!</n>Das muss es sein!
+¡Eso es! ¡Tiene que ser esto!
+Вот! Это точно поможет!
+Tak! To musi być to!
+É isso! Tem que ser isso!
+이거야! 이거면 될 거야!
+就是這個！鐵定沒錯！
+没错！一定就是这个东西！
+ねえ シェリー　行ってくるわ</n>ここで待っててくれる？
+Hey...hey Sherry... I gotta go.</n>You stay right here, though. OK?
+Hé, Sherry ? Je dois y aller.</n>Ne bouge pas d'ici, d'accord ?
+Ehi! Ehi, Sherry! Devo andare. Tu aspettami qui, ok?
+Hey... Hey, Sherry. Ich muss gehen.</n>Du bleibst genau hier, okay?
+Eh... Eh, Sherry...</n>Debo irme. Tú quédate aquí, ¿vale?
+Эй... эй, Шерри, мне надо идти.</n>А ты побудь здесь, хорошо?
+Hej, Sherry... Muszę iść.</n>Ale ty zostań tutaj, OK?
+Ei, Sherry, preciso dar uma saída.</n>Fica aqui, tá bom?
+셰리... 어디 좀 잠깐 다녀올게.</n>여기 있어야 해, 알았지?
+嘿... 雪莉... 我得走了。</n>不過你要留在這裡，好嗎？
+嘿... 雪莉... 我得离开一下。</n>你就乖乖待在这里，好吗？
+すぐ戻るから</n>約束する
+I'll be back soon, I promise.
+Je reviens vite. C'est promis.
+Io torno subito. Promesso.
+Ich bin bald zurück, versprochen.
+Volveré pronto, lo prometo.
+Я скоро вернусь, обещаю.
+Wkrótce wrócę, obiecuję.
+Eu volto já, prometo.
+꼭 금방 돌아올게.
+我保證馬上就會回來。
+我很快就回来的，我保证。

@@ -1,0 +1,528 @@
+﻿<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0010_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0020_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0030_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0040_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0050_pl0000_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0060_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<COLOR FF0000>#Rejected#</COLOR> CF094_0070_pl5700_41
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>急げ！<PAGE></n>クソッ！<PAGE></n>そいつを！<PAGE></n>任せろ<PAGE></n>しばらくは… 安全だ<PAGE></n>助かった<PAGE></n>マービン・ブラナーだ<PAGE></n>レオン・ケネディ…<PAGE></n>もう一人警官がいた…</n>でも…<PAGE></n>立て<PAGE></n>お前は悪くない レオン
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Come on!<PAGE></n>Goddammit!<PAGE></n>Watch out!<PAGE></n>Got it!<PAGE></n>You're safe...for now.<PAGE></n>Thanks...<PAGE></n>Marvin Branagh.<PAGE></n>Leon Kennedy...<PAGE></n>There was another officer...</n>I-I couldn't... I couldn't...<PAGE></n>Here...<PAGE></n>I'm sure you did what you could, Leon.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Vite !<PAGE></n>Putain de merde !<PAGE></n>Attention !<PAGE></n>Je m'en occupe !<PAGE></n>Tu es en sécurité... pour l'instant...<PAGE></n>Merci...<PAGE></n>Marvin Branagh.<PAGE></n>Leon Kennedy...<PAGE></n>Il y avait un autre officier...</n>J'ai pas pu... J'ai pas pu...<PAGE></n>Hé...<PAGE></n>Je suis sûr que tu as fait ce que tu as pu, Leon.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Forza.<PAGE></n>Porca troia!<PAGE></n>Attento!<PAGE></n>Ce l'ho!<PAGE></n>Sei al sicuro... Per ora.<PAGE></n>Grazie.<PAGE></n>Marvin Branagh.<PAGE></n>Leon Kennedy.<PAGE></n>C'era un altro agente, io non...<PAGE></n>Alzati.<PAGE></n>Sono certo che hai fatto del tuo meglio, Leon.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Komm schon!<PAGE></n>Verdammt!<PAGE></n>Pass auf!<PAGE></n>Verstanden!<PAGE></n>Du bist sicher. Fürs Erste.<PAGE></n>Danke...<PAGE></n>Marvin Branagh.<PAGE></n>Leon Kennedy...<PAGE></n>Da war noch ein Officer.</n>Ich konnte... ich konnte nicht...<PAGE></n>Hier...<PAGE></n>Du hast sicher getan, was du konntest, Leon.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>¡Venga!<PAGE></n>¡Mierda!<PAGE></n>¡Cuidado!<PAGE></n>Ya voy.<PAGE></n>Se acabó. Por ahora.<PAGE></n>Gracias.<PAGE></n>Marvin Branagh.<PAGE></n>Leon Kennedy...<PAGE></n>Había otro agente y no pude... no pude...<PAGE></n>Vamos.<PAGE></n>Seguro que hiciste cuanto pudiste.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Ну же!<PAGE></n>Чтоб тебя!<PAGE></n>Осторожно!<PAGE></n>Понял!<PAGE></n>Ты в безопасности... Хотя бы на время.<PAGE></n>Спасибо...<PAGE></n>Марвин Брэнаг.<PAGE></n>Леон Кеннеди...<PAGE></n>Там был еще один офицер...</n>Я не смог... не смог...<PAGE></n>Давай...<PAGE></n>Уверен, ты сделал все, что мог, Леон.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Dawaj!<PAGE></n>Niech to!<PAGE></n>Uważaj!<PAGE></n>Rozumiem!<PAGE></n>Jesteś bezpieczny... na razie.<PAGE></n>Dzięki...<PAGE></n>Marvin Branagh.<PAGE></n>Leon Kennedy...<PAGE></n>Był tam drugi policjant...</n>Nie... Nie mogłem...<PAGE></n>Trzymaj...<PAGE></n>Na pewno zrobiłeś, co mogłeś, Leon.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>Qual é!<PAGE></n>Mas que droga!<PAGE></n>Cuidado!<PAGE></n>Deixa comigo!<PAGE></n>Você tá seguro... por enquanto.<PAGE></n>Valeu...<PAGE></n>Marvin Branagh.<PAGE></n>Leon Kennedy...<PAGE></n>Tinha outro policial...</n>Eu não consegui... Não consegui...<PAGE></n>Segura...<PAGE></n>Eu sei que você fez o possível, Leon.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>제발!<PAGE></n>젠장!<PAGE></n>조심해요!<PAGE></n>걱정 말게!<PAGE></n>이제 안전해... 우선은 말이지.<PAGE></n>고맙군요...<PAGE></n>마빈 브래너라고 하네.<PAGE></n>레온 케네디입니다...<PAGE></n>경관이 또 있었는데…</n>도저히… 구할 수가…<PAGE></n>자…<PAGE></n>자넨 할 수 있는 일을 다 했어, 레온.
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>拜託！<PAGE></n>可惡！<PAGE></n>小心！<PAGE></n>交給我！<PAGE></n>你暫時安全了。<PAGE></n>謝謝...<PAGE></n>我是馬文·伯拉納。<PAGE></n>里昂·甘迺迪...<PAGE></n>還有另一名員警...</n>我、我沒能...<PAGE></n>來吧...<PAGE></n>里昂，我知道你已經盡力了。
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>要赶快！<PAGE></n>真可恶！<PAGE></n>小心！<PAGE></n>没事了！<PAGE></n>你平安了... 只是暂时而已。<PAGE></n>谢谢...<PAGE></n>我是马文·伯拉纳。<PAGE></n>我是里昂·肯尼迪...<PAGE></n>还有另一位警察...</n>可是我... 救不了他...<PAGE></n>来吧...<PAGE></n>我知道你尽力了，里昂。
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+<TIME 0.77, 1.61><TIME 8.98, 10.14><TIME 14.45, 15.62><TIME 15.66, 16.71><TIME 22.37, 25.17><TIME 25.86, 26.83><TIME 27.99, 29.13><TIME 30.32, 31.43><TIME 32.16, 35.2><TIME 39.31, 40.24><TIME 46.26, 48.09>
+急げ！
+Come on!
+Vite !
+Forza.
+Komm schon!
+¡Venga!
+Ну же!
+Dawaj!
+Qual é!
+제발!
+拜託！
+要赶快！
+クソッ！
+Goddammit!
+Putain de merde !
+Porca troia!
+Verdammt!
+¡Mierda!
+Чтоб тебя!
+Niech to!
+Mas que droga!
+젠장!
+可惡！
+真可恶！
+そいつを！
+Watch out!
+Attention !
+Attento!
+Pass auf!
+¡Cuidado!
+Осторожно!
+Uważaj!
+Cuidado!
+조심해요!
+小心！
+小心！
+任せろ
+Got it!
+Je m'en occupe !
+Ce l'ho!
+Verstanden!
+Ya voy.
+Понял!
+Rozumiem!
+Deixa comigo!
+걱정 말게!
+交給我！
+没事了！
+しばらくは… 安全だ
+You're safe...for now.
+Tu es en sécurité... pour l'instant...
+Sei al sicuro... Per ora.
+Du bist sicher. Fürs Erste.
+Se acabó. Por ahora.
+Ты в безопасности... Хотя бы на время.
+Jesteś bezpieczny... na razie.
+Você tá seguro... por enquanto.
+이제 안전해... 우선은 말이지.
+你暫時安全了。
+你平安了... 只是暂时而已。
+助かった
+Thanks...
+Merci...
+Grazie.
+Danke...
+Gracias.
+Спасибо...
+Dzięki...
+Valeu...
+고맙군요...
+謝謝...
+谢谢...
+マービン・ブラナーだ
+Marvin Branagh.
+Marvin Branagh.
+Marvin Branagh.
+Marvin Branagh.
+Marvin Branagh.
+Марвин Брэнаг.
+Marvin Branagh.
+Marvin Branagh.
+마빈 브래너라고 하네.
+我是馬文·伯拉納。
+我是马文·伯拉纳。
+レオン・ケネディ…
+Leon Kennedy...
+Leon Kennedy...
+Leon Kennedy.
+Leon Kennedy...
+Leon Kennedy...
+Леон Кеннеди...
+Leon Kennedy...
+Leon Kennedy...
+레온 케네디입니다...
+里昂·甘迺迪...
+我是里昂·肯尼迪...
+もう一人警官がいた…</n>でも…
+There was another officer...</n>I-I couldn't... I couldn't...
+Il y avait un autre officier...</n>J'ai pas pu... J'ai pas pu...
+C'era un altro agente, io non...
+Da war noch ein Officer.</n>Ich konnte... ich konnte nicht...
+Había otro agente y no pude... no pude...
+Там был еще один офицер...</n>Я не смог... не смог...
+Był tam drugi policjant...</n>Nie... Nie mogłem...
+Tinha outro policial...</n>Eu não consegui... Não consegui...
+경관이 또 있었는데…</n>도저히… 구할 수가…
+還有另一名員警...</n>我、我沒能...
+还有另一位警察...</n>可是我... 救不了他...
+立て
+Here...
+Hé...
+Alzati.
+Hier...
+Vamos.
+Давай...
+Trzymaj...
+Segura...
+자…
+來吧...
+来吧...
+お前は悪くない レオン
+I'm sure you did what you could, Leon.
+Je suis sûr que tu as fait ce que tu as pu, Leon.
+Sono certo che hai fatto del tuo meglio, Leon.
+Du hast sicher getan, was du konntest, Leon.
+Seguro que hiciste cuanto pudiste.
+Уверен, ты сделал все, что мог, Леон.
+Na pewno zrobiłeś, co mogłeś, Leon.
+Eu sei que você fez o possível, Leon.
+자넨 할 수 있는 일을 다 했어, 레온.
+里昂，我知道你已經盡力了。
+我知道你尽力了，里昂。
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>放して！　放して！<PAGE></n>やめて！　助けて！<PAGE></n>危ない！<PAGE></n>任せろ<PAGE></n>平気か？<PAGE></n>ええ<PAGE></n>しばらくは… 安全だ<PAGE></n>マービン・ブラナーだ<PAGE></n>ありがとう<PAGE></n>よく生き延びたな<PAGE></n>ええ 自分の身は守れる<PAGE></n>立って
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Get off! Get off!<PAGE></n>Help! Help!<PAGE></n>Watch out!<PAGE></n>I'm on it.<PAGE></n>You alright?<PAGE></n>Yeah.<PAGE></n>You're safe...for now.<PAGE></n>Marvin Branagh.<PAGE></n>Thanks.<PAGE></n>Obviously someone taught you well.<PAGE></n>Yeah, I know how to take care of myself.<PAGE></n>Come on.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Lâche-moi ! Lâche-moi !<PAGE></n>À l'aide ! À l'aide !<PAGE></n>Attention !<PAGE></n>Je m'en occupe !<PAGE></n>Ça va ?<PAGE></n>Ouais...<PAGE></n>C'est fini... pour l'instant.<PAGE></n>Marvin Branagh.<PAGE></n>Merci.<PAGE></n>Tu as appris à te défendre, on dirait.<PAGE></n>Oui, disons que je sais me débrouiller.<PAGE></n>Viens.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Lasciami! Lasciami!<PAGE></n>Aiuto! Aiuto!<PAGE></n>Attento!<PAGE></n>Tranquilla.<PAGE></n>Stai bene?<PAGE></n>Sì.<PAGE></n>Sei al sicuro... Per ora.<PAGE></n>Marvin Branagh. <PAGE></n>Grazie.<PAGE></n>Devo dire che te la cavi bene.<PAGE></n>Sì... So come badare a me stessa.<PAGE></n>Forza.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Lass los! Lass los!<PAGE></n>Hilfe! Hilfe!<PAGE></n>Pass auf!<PAGE></n>Ich bin dran.<PAGE></n>Alles klar?<PAGE></n>Ja.<PAGE></n>Du bist sicher. Vorerst.<PAGE></n>Marvin Branagh. <PAGE></n>Danke.<PAGE></n>Du wurdest wohl gut ausgebildet.<PAGE></n>Ja, ich weiß, wie man auf sich aufpasst.<PAGE></n>Komm her.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>¡Suelta! ¡Suelta!<PAGE></n>¡Ayuda! ¡Ayuda!<PAGE></n>¡Cuidado!<PAGE></n>Ya voy.<PAGE></n>¿Estás bien?<PAGE></n>Sí.<PAGE></n>Se acabó. Por ahora.<PAGE></n>Marvin Branagh.<PAGE></n>Gracias.<PAGE></n>Se ve que alguien te ha enseñado bien.<PAGE></n>Sí, puedo arreglármelas sola.<PAGE></n>Vamos.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Отвали! Отцепись!<PAGE></n>На помощь! Помогите!<PAGE></n>Осторожно!<PAGE></n>Я этим займусь.<PAGE></n>Все в порядке?<PAGE></n>Да.<PAGE></n>Ты в безопасности... Хотя бы на время.<PAGE></n>Марвин Брэнаг.<PAGE></n>Спасибо.<PAGE></n>Смотрю, кто-то тебя хорошо обучил.<PAGE></n>Да. Я могу о себе позаботиться.<PAGE></n>Давай.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Puść mnie! Puszczaj!<PAGE></n>Pomocy! Pomocy!<PAGE></n>Uważaj!<PAGE></n>Zajmę się nim.<PAGE></n>Żyjesz?<PAGE></n>Tak.<PAGE></n>Jesteś bezpieczna... na razie.<PAGE></n>Marvin Branagh.<PAGE></n>Dzięki.<PAGE></n>Ktoś cię nieźle wyszkolił.<PAGE></n>Tak, umiem o siebie zadbać.<PAGE></n>Chodź.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>Solta! Sai!<PAGE></n>Socorro! Me ajuda!<PAGE></n>Cuidado!<PAGE></n>Deixa comigo.<PAGE></n>Você tá bem?<PAGE></n>Tô.<PAGE></n>Você tá segura... por enquanto.<PAGE></n>Marvin Branagh.<PAGE></n>Valeu.<PAGE></n>Obviamente, você foi bem instruída.<PAGE></n>É, eu sei cuidar de mim mesma.<PAGE></n>Aqui.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>꺼져! 꺼지라고!<PAGE></n>도와주세요! 제발!<PAGE></n>조심해요!<PAGE></n>맡겨둬요.<PAGE></n>괜찮습니까?<PAGE></n>네.<PAGE></n>이제 안전해요... 우선은 말이죠.<PAGE></n>마빈 브래너라고 합니다.<PAGE></n>고마워요.<PAGE></n>누군지 모르지만 제대로 가르친 것 같군요.<PAGE></n>네, 제 자신을 지킬 방법은 알고 있죠.<PAGE></n>일어나요.
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>放開！放開我！<PAGE></n>救命！救命啊！<PAGE></n>小心！<PAGE></n>交給我。<PAGE></n>你還好吧？<PAGE></n>是啊。<PAGE></n>你暫時安全了。<PAGE></n>我是馬文·伯拉納。<PAGE></n>謝了。<PAGE></n>你身手還不賴。<PAGE></n>是啊，我知道該怎麼照顧自己。<PAGE></n>起來吧。
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>放开！放开我！<PAGE></n>救命！救命！<PAGE></n>小心！<PAGE></n>知道了。<PAGE></n>你没事吧？<PAGE></n>还好。<PAGE></n>你平安了... 只是暂时而已。<PAGE></n>我是马文·伯拉纳。<PAGE></n>谢谢你。<PAGE></n>看来有人教过你几招。<PAGE></n>是的，我知道怎样照顾好自己。<PAGE></n>跟我来。
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+<TIME 8.75, 11.43><TIME 12.97, 15.15><TIME 19.17, 19.8><TIME 19.85, 20.7><TIME 23.39, 24.24><TIME 24.74, 25.44><TIME 25.86, 28.46><TIME 31.47, 32.5><TIME 36.36, 37.29><TIME 38.57, 40.47><TIME 40.96, 43.65><TIME 44.63, 45.41>
+放して！　放して！
+Get off! Get off!
+Lâche-moi ! Lâche-moi !
+Lasciami! Lasciami!
+Lass los! Lass los!
+¡Suelta! ¡Suelta!
+Отвали! Отцепись!
+Puść mnie! Puszczaj!
+Solta! Sai!
+꺼져! 꺼지라고!
+放開！放開我！
+放开！放开我！
+やめて！　助けて！
+Help! Help!
+À l'aide ! À l'aide !
+Aiuto! Aiuto!
+Hilfe! Hilfe!
+¡Ayuda! ¡Ayuda!
+На помощь! Помогите!
+Pomocy! Pomocy!
+Socorro! Me ajuda!
+도와주세요! 제발!
+救命！救命啊！
+救命！救命！
+危ない！
+Watch out!
+Attention !
+Attento!
+Pass auf!
+¡Cuidado!
+Осторожно!
+Uważaj!
+Cuidado!
+조심해요!
+小心！
+小心！
+任せろ
+I'm on it.
+Je m'en occupe !
+Tranquilla.
+Ich bin dran.
+Ya voy.
+Я этим займусь.
+Zajmę się nim.
+Deixa comigo.
+맡겨둬요.
+交給我。
+知道了。
+平気か？
+You alright?
+Ça va ?
+Stai bene?
+Alles klar?
+¿Estás bien?
+Все в порядке?
+Żyjesz?
+Você tá bem?
+괜찮습니까?
+你還好吧？
+你没事吧？
+ええ
+Yeah.
+Ouais...
+Sì.
+Ja.
+Sí.
+Да.
+Tak.
+Tô.
+네.
+是啊。
+还好。
+しばらくは… 安全だ
+You're safe...for now.
+C'est fini... pour l'instant.
+Sei al sicuro... Per ora.
+Du bist sicher. Vorerst.
+Se acabó. Por ahora.
+Ты в безопасности... Хотя бы на время.
+Jesteś bezpieczna... na razie.
+Você tá segura... por enquanto.
+이제 안전해요... 우선은 말이죠.
+你暫時安全了。
+你平安了... 只是暂时而已。
+マービン・ブラナーだ
+Marvin Branagh.
+Marvin Branagh.
+Marvin Branagh. 
+Marvin Branagh. 
+Marvin Branagh.
+Марвин Брэнаг.
+Marvin Branagh.
+Marvin Branagh.
+마빈 브래너라고 합니다.
+我是馬文·伯拉納。
+我是马文·伯拉纳。
+ありがとう
+Thanks.
+Merci.
+Grazie.
+Danke.
+Gracias.
+Спасибо.
+Dzięki.
+Valeu.
+고마워요.
+謝了。
+谢谢你。
+よく生き延びたな
+Obviously someone taught you well.
+Tu as appris à te défendre, on dirait.
+Devo dire che te la cavi bene.
+Du wurdest wohl gut ausgebildet.
+Se ve que alguien te ha enseñado bien.
+Смотрю, кто-то тебя хорошо обучил.
+Ktoś cię nieźle wyszkolił.
+Obviamente, você foi bem instruída.
+누군지 모르지만 제대로 가르친 것 같군요.
+你身手還不賴。
+看来有人教过你几招。
+ええ 自分の身は守れる
+Yeah, I know how to take care of myself.
+Oui, disons que je sais me débrouiller.
+Sì... So come badare a me stessa.
+Ja, ich weiß, wie man auf sich aufpasst.
+Sí, puedo arreglármelas sola.
+Да. Я могу о себе позаботиться.
+Tak, umiem o siebie zadbać.
+É, eu sei cuidar de mim mesma.
+네, 제 자신을 지킬 방법은 알고 있죠.
+是啊，我知道該怎麼照顧自己。
+是的，我知道怎样照顾好自己。
+立って
+Come on.
+Viens.
+Forza.
+Komm her.
+Vamos.
+Давай.
+Chodź.
+Aqui.
+일어나요.
+起來吧。
+跟我来。

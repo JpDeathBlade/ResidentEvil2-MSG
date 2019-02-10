@@ -1,0 +1,242 @@
+﻿<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>ダメだ</n>カードキーがいる<PAGE></n>おい マジかよ…<PAGE></n><PAGE></n>クソッ！　離れろ！<PAGE></n>そこ<PAGE></n>誰だ？<PAGE></n>気を抜かないで<PAGE></n>銃を下ろして<PAGE></n>FBIよ<PAGE></n>どうも ご協力――<PAGE></n>感謝します<PAGE></n>よく ここまで来られたわね<PAGE></n>FBIだって？</n>何が起きてる？<PAGE></n>悪いけど それは機密情報なの<PAGE></n>どこへ行くんだ？<PAGE></n>自分の命が惜しいなら</n>くだらない質問はよして ここを出るのね
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Damn. Need a key card...<PAGE></n>You gotta be kidding me...<PAGE></n>Agh!<PAGE></n>Get off of me!<PAGE></n>Hey.<PAGE></n>Who is that?<PAGE></n>Stay sharp.<PAGE></n>Lower it.<PAGE></n>FBI.<PAGE></n>Sorry... Thank you—<PAGE></n>For your help.<PAGE></n>Surprised you made it this far.<PAGE></n>FBI, huh? What's going on here?<PAGE></n>Sorry. That information's classified.<PAGE></n>Where are you going?<PAGE></n>Do yourself a favor: stop asking questions</n>and get the hell out of here.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Merde. Il me faut la carte...<PAGE></n>Oh c'est pas vrai...<PAGE></n><PAGE></n>Tu vas me lâcher ?!<PAGE></n>Hé !<PAGE></n>Qui êtes-vous ?<PAGE></n>Attention !<PAGE></n>Baisse ça.<PAGE></n>FBI.<PAGE></n>Désolé. Merci...<PAGE></n>Pour votre aide...<PAGE></n>Je me demande comment tu as survécu.<PAGE></n>FBI, hein ? Qu'est-ce qui se passe ici ?<PAGE></n>Désolée. Cette information est confidentielle.<PAGE></n>Vous allez où ?<PAGE></n>Un conseil pour ton bien :</n>ne pose pas de questions, et fiche le camp d'ici.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Diavolo... Serve la tessera.<PAGE></n>Cos'è, uno scherzo?!<PAGE></n><PAGE></n>E lasciami!<PAGE></n>Ehi!<PAGE></n>Chi sei?<PAGE></n>Sta' attento!<PAGE></n>Abbassala.<PAGE></n>FBI.<PAGE></n>Mi scusi... Grazie.<PAGE></n>... per l'aiuto.<PAGE></n>Strano tu sia ancora vivo.<PAGE></n>FBI, eh? Che succede qui?<PAGE></n>Mi spiace. Informazione confidenziale.<PAGE></n>Dove va?<PAGE></n>Per il tuo bene, smetti di fare domande e vattene da qui.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Mist. Nicht ohne Karte...<PAGE></n>Das glaub ich einfach nicht...<PAGE></n><PAGE></n>Runter von mir!<PAGE></n>Hey.<PAGE></n>Wer ist da?!<PAGE></n>Aufgepasst.<PAGE></n>Weg damit.<PAGE></n>FBI.<PAGE></n>Tschuldigung. Danke.<PAGE></n>Für die Hilfe.<PAGE></n>Überrascht mich, dass Sie noch leben.<PAGE></n>FBI, was?</n>Was geht hier vor sich?<PAGE></n>Bedaure.</n>Die Information ist streng geheim.<PAGE></n>Wo gehen Sie hin?<PAGE></n>Tun Sie sich 'nen Gefallen: Stellen Sie keine</n>Fragen und verschwinden Sie von hier.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Vaya. Requiere tarjeta...<PAGE></n>No puede ser...<PAGE></n><PAGE></n>¡Suéltame!<PAGE></n><PAGE></n>¿Quién eres?<PAGE></n>Cuidado.<PAGE></n>Bájala.<PAGE></n>F.B.I.<PAGE></n>Lo siento... Gracias...<PAGE></n>Por la ayuda.<PAGE></n>Me sorprende que hayas llegado aquí.<PAGE></n>¿F.B.I? ¿Qué está pasando?<PAGE></n>Lo siento. Es información confidencial.<PAGE></n>¿Adónde vas?<PAGE></n>Hazte un favor: deja de preguntar</n>y sal ya de aquí.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Черт. Нужна ключ-карта.<PAGE></n>Да ладно?!<PAGE></n>А-а!<PAGE></n>Отойди от меня!<PAGE></n>Эй.<PAGE></n>Кто это?<PAGE></n>Будь настороже.<PAGE></n>Опусти оружие.<PAGE></n>ФБР.<PAGE></n>Прошу прощения. Спасибо...<PAGE></n>За помощь.<PAGE></n>Не ожидала, что вы заберетесь так далеко.<PAGE></n>ФБР, значит? И что тут происходит?<PAGE></n>Не могу сказать. Информация засекречена.<PAGE></n>Вы куда?<PAGE></n>Сделайте себе одолжение: перестаньте</n>задавать вопросы и убирайтесь отсюда.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Cholera. Potrzebna karta magnetyczna...<PAGE></n>To chyba jakiś żart...<PAGE></n>Ach!<PAGE></n>Złaź ze mnie!<PAGE></n>Hej.<PAGE></n>Kto to?<PAGE></n>Ostrożnie.<PAGE></n>Opuść to.<PAGE></n>FBI.<PAGE></n>Przepraszam... Dziękuję...<PAGE></n>Za pomoc.<PAGE></n>Dziwię się, że dotarłeś tak daleko.<PAGE></n>FBI, tak? Co się tutaj dzieje?<PAGE></n>Obawiam się, że to utajnione informacje.<PAGE></n>Dokąd się wybierasz?<PAGE></n>Zrób sobie przysługę: przestań zadawać</n>pytania i wynoś się stąd.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>Droga. Preciso de um cartão...<PAGE></n>Só pode ser brincadeira...<PAGE></n>Argh!<PAGE></n>Sai!<PAGE></n>Ei.<PAGE></n>Quem tá aí?!<PAGE></n>Atenção.<PAGE></n>Abaixa a arma.<PAGE></n>FBI.<PAGE></n>Desculpa... Obrigado...<PAGE></n>... pela ajuda.<PAGE></n>Não acredito que você chegou tão longe.<PAGE></n>FBI, é? O que tá acontecendo aqui?<PAGE></n>Desculpa. É confidencial.<PAGE></n>Aonde você vai?<PAGE></n>Quer um conselho? Para de fazer</n>pergunta e dá o fora daqui.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>젠장. 키 카드가 필요해...<PAGE></n>말도 안 돼...<PAGE></n>악!<PAGE></n>떨어져!<PAGE></n>이봐.<PAGE></n>누구야?<PAGE></n>정신 차려.<PAGE></n>총은 내리고.<PAGE></n>FBI다.<PAGE></n>미안... 도와줘서...<PAGE></n>고맙군.<PAGE></n>지금까지 살아남았다니 놀라운걸.<PAGE></n>FBI라고? 여기서</n>무슨 일이 일어나는 거지?<PAGE></n>미안하지만, 기밀이라서.<PAGE></n>어디 가는 거야?<PAGE></n>조언 하나 할게. 질문은 그만 하고</n>당장 여기서 나가.
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>可惡，我需要門禁卡...<PAGE></n>別跟我開玩笑吧…<PAGE></n>啊！<PAGE></n>走開！<PAGE></n>嗨。<PAGE></n>是誰？<PAGE></n>別放鬆警戒。<PAGE></n>放下武器。<PAGE></n>我是 FBI。<PAGE></n>抱歉... 謝謝你...<PAGE></n>謝謝你救我。<PAGE></n>真沒想到你能找到這裡來。<PAGE></n>你是 FBI 的人？這裡發生了什麼事？<PAGE></n>抱歉，這是機密資訊。<PAGE></n>你要去哪裡？<PAGE></n>為了你自己好，別再問問題了，</n>趕快離開這裡。
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>可恶，没有钥匙卡...<PAGE></n>还让不让我活了...<PAGE></n>呃啊！<PAGE></n>滚开！<PAGE></n>嗨。<PAGE></n>是谁！？<PAGE></n>别松懈。<PAGE></n>把枪放下。<PAGE></n>我是联邦调查员。<PAGE></n>抱歉，谢谢你...<PAGE></n>谢谢你救了我。<PAGE></n>真想不到你能找到这里来。<PAGE></n>联邦调查员吗？这里到底出了什么事？<PAGE></n>抱歉，这是机密情报。<PAGE></n>你要去哪里？<PAGE></n>为了你自己着想，别再问问题了。</n>赶紧离开这里。
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+<TIME 2.15, 4.63><TIME 11.65, 12.96><TIME 14.94, 15.73><TIME 17.03, 18.32><TIME 28.95, 30.2><TIME 32.0, 32.96><TIME 33.96, 35.63><TIME 44.09, 45.59><TIME 46.69, 48.16><TIME 49.67, 52.26><TIME 54.75, 55.69><TIME 58.5, 60.28><TIME 62.0, 64.55><TIME 64.62, 67.42><TIME 67.5, 68.4><TIME 70.82, 75.48>
+ダメだ</n>カードキーがいる
+Damn. Need a key card...
+Merde. Il me faut la carte...
+Diavolo... Serve la tessera.
+Mist. Nicht ohne Karte...
+Vaya. Requiere tarjeta...
+Черт. Нужна ключ-карта.
+Cholera. Potrzebna karta magnetyczna...
+Droga. Preciso de um cartão...
+젠장. 키 카드가 필요해...
+可惡，我需要門禁卡...
+可恶，没有钥匙卡...
+おい マジかよ…
+You gotta be kidding me...
+Oh c'est pas vrai...
+Cos'è, uno scherzo?!
+Das glaub ich einfach nicht...
+No puede ser...
+Да ладно?!
+To chyba jakiś żart...
+Só pode ser brincadeira...
+말도 안 돼...
+別跟我開玩笑吧…
+还让不让我活了...
+Agh!
+А-а!
+Ach!
+Argh!
+악!
+啊！
+呃啊！
+クソッ！　離れろ！
+Get off of me!
+Tu vas me lâcher ?!
+E lasciami!
+Runter von mir!
+¡Suéltame!
+Отойди от меня!
+Złaź ze mnie!
+Sai!
+떨어져!
+走開！
+滚开！
+そこ
+Hey.
+Hé !
+Ehi!
+Hey.
+Эй.
+Hej.
+Ei.
+이봐.
+嗨。
+嗨。
+誰だ？
+Who is that?
+Qui êtes-vous ?
+Chi sei?
+Wer ist da?!
+¿Quién eres?
+Кто это?
+Kto to?
+Quem tá aí?!
+누구야?
+是誰？
+是谁！？
+気を抜かないで
+Stay sharp.
+Attention !
+Sta' attento!
+Aufgepasst.
+Cuidado.
+Будь настороже.
+Ostrożnie.
+Atenção.
+정신 차려.
+別放鬆警戒。
+别松懈。
+銃を下ろして
+Lower it.
+Baisse ça.
+Abbassala.
+Weg damit.
+Bájala.
+Опусти оружие.
+Opuść to.
+Abaixa a arma.
+총은 내리고.
+放下武器。
+把枪放下。
+FBIよ
+FBI.
+FBI.
+FBI.
+FBI.
+F.B.I.
+ФБР.
+FBI.
+FBI.
+FBI다.
+我是 FBI。
+我是联邦调查员。
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV250_0060_pl2000
+どうも ご協力――
+Sorry... Thank you—
+Désolé. Merci...
+Mi scusi... Grazie.
+Tschuldigung. Danke.
+Lo siento... Gracias...
+Прошу прощения. Спасибо...
+Przepraszam... Dziękuję...
+Desculpa... Obrigado...
+미안... 도와줘서...
+抱歉... 謝謝你...
+抱歉，谢谢你...
+感謝します
+For your help.
+Pour votre aide...
+... per l'aiuto.
+Für die Hilfe.
+Por la ayuda.
+За помощь.
+Za pomoc.
+... pela ajuda.
+고맙군.
+謝謝你救我。
+谢谢你救了我。
+よく ここまで来られたわね
+Surprised you made it this far.
+Je me demande comment tu as survécu.
+Strano tu sia ancora vivo.
+Überrascht mich, dass Sie noch leben.
+Me sorprende que hayas llegado aquí.
+Не ожидала, что вы заберетесь так далеко.
+Dziwię się, że dotarłeś tak daleko.
+Não acredito que você chegou tão longe.
+지금까지 살아남았다니 놀라운걸.
+真沒想到你能找到這裡來。
+真想不到你能找到这里来。
+FBIだって？</n>何が起きてる？
+FBI, huh? What's going on here?
+FBI, hein ? Qu'est-ce qui se passe ici ?
+FBI, eh? Che succede qui?
+FBI, was?</n>Was geht hier vor sich?
+¿F.B.I? ¿Qué está pasando?
+ФБР, значит? И что тут происходит?
+FBI, tak? Co się tutaj dzieje?
+FBI, é? O que tá acontecendo aqui?
+FBI라고? 여기서</n>무슨 일이 일어나는 거지?
+你是 FBI 的人？這裡發生了什麼事？
+联邦调查员吗？这里到底出了什么事？
+悪いけど それは機密情報なの
+Sorry. That information's classified.
+Désolée. Cette information est confidentielle.
+Mi spiace. Informazione confidenziale.
+Bedaure.</n>Die Information ist streng geheim.
+Lo siento. Es información confidencial.
+Не могу сказать. Информация засекречена.
+Obawiam się, że to utajnione informacje.
+Desculpa. É confidencial.
+미안하지만, 기밀이라서.
+抱歉，這是機密資訊。
+抱歉，这是机密情报。
+どこへ行くんだ？
+Where are you going?
+Vous allez où ?
+Dove va?
+Wo gehen Sie hin?
+¿Adónde vas?
+Вы куда?
+Dokąd się wybierasz?
+Aonde você vai?
+어디 가는 거야?
+你要去哪裡？
+你要去哪里？
+自分の命が惜しいなら</n>くだらない質問はよして ここを出るのね
+Do yourself a favor: stop asking questions</n>and get the hell out of here.
+Un conseil pour ton bien :</n>ne pose pas de questions, et fiche le camp d'ici.
+Per il tuo bene, smetti di fare domande e vattene da qui.
+Tun Sie sich 'nen Gefallen: Stellen Sie keine</n>Fragen und verschwinden Sie von hier.
+Hazte un favor: deja de preguntar</n>y sal ya de aquí.
+Сделайте себе одолжение: перестаньте</n>задавать вопросы и убирайтесь отсюда.
+Zrób sobie przysługę: przestań zadawać</n>pytania i wynoś się stąd.
+Quer um conselho? Para de fazer</n>pergunta e dá o fora daqui.
+조언 하나 할게. 질문은 그만 하고</n>당장 여기서 나가.
+為了你自己好，別再問問題了，</n>趕快離開這裡。
+为了你自己着想，别再问问题了。</n>赶紧离开这里。

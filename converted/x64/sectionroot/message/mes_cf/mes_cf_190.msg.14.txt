@@ -1,0 +1,283 @@
+﻿<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>地下に通じてるぞ<PAGE></n>これで 外に出られる<PAGE></n>ブラナー警部補！　マービン！<PAGE></n>行きましょう<PAGE></n>さあ マービン…<PAGE></n>今すぐ病院へ行かないと<PAGE></n>俺はいいから…<PAGE></n>早く逃げろ<PAGE></n>つかまって…<PAGE></n>行くんだ！<PAGE></n>でもまだ何とかなります</n>一緒に…<PAGE></n>もう手遅れだ<PAGE></n>俺だってそうしたいさ</n>だがもう間に合わない<PAGE></n>これ以上 被害は出せない<PAGE></n>あとはお前に任せた<PAGE></n>だから行け<PAGE></n>分かりました<PAGE></n>やりとげます マービン
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>So it goes underground... Huh.<PAGE></n>That's it—that's our way out.<PAGE></n>Lieutenant Branagh! Marvin!<PAGE></n>It's time to go!<PAGE></n>Hey, Marvin...<PAGE></n>We need to get you to a hospital right now.<PAGE></n>No, no... I...<PAGE></n>Save yourself...<PAGE></n>Come on, I've got you—<PAGE></n>GO!<PAGE></n>Look, we can still make it out of</n>here together, if you just gimme—<PAGE></n>It's too late.<PAGE></n>I tried Leon...</n>But I couldn't stop it.<PAGE></n>We can't let this thing spread.<PAGE></n>It's on you now.<PAGE></n>Just go...<PAGE></n>I understand.<PAGE></n>I won't let you down, Marvin.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Ça mène bien en bas...<PAGE></n>C'est bon, on peut sortir.<PAGE></n>Lieutenant Branagh ! Marvin !<PAGE></n>On fiche le camp !<PAGE></n>Hé, Marvin...<PAGE></n>On doit vous emmener à l'hôpital sans tarder.<PAGE></n>Non, non... Je...<PAGE></n>Sauve ta peau.<PAGE></n>Allez, je vais vous aider...<PAGE></n>Va-t'en !<PAGE></n>On peut encore sortir d'ici tous les deux, mais donnez...<PAGE></n>C'est trop tard, Leon.<PAGE></n>J'ai essayé, tu sais... Mais j'ai pas pu l'arrêter.<PAGE></n>On peut pas laisser ça se propager.<PAGE></n>Je compte sur toi.<PAGE></n>Va-t'en...<PAGE></n>Très bien.<PAGE></n>Comptez sur moi, Marvin.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Così va sottoterra...<PAGE></n>Bene... Usciremo da qui.<PAGE></n>Tenente Branagh! Marvin!<PAGE></n>Dobbiamo andare!<PAGE></n>Ehi, Marvin...<PAGE></n>La portiamo subito in ospedale.<PAGE></n>No, no... Io...<PAGE></n>Pensa a salvarti.<PAGE></n>Forza, la aiuto...<PAGE></n>Vai!<PAGE></n>Senta, possiamo ancora uscire insieme,</n>serve solo...<PAGE></n>È troppo tardi.<PAGE></n>Ci ho provato Leon. Ma ora è troppo tardi.<PAGE></n>Non possiamo lasciarlo diffondere.<PAGE></n>Ora tocca a te.<PAGE></n>Adesso vai!<PAGE></n>Va bene.<PAGE></n>Non la deluderò, Marvin.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Da geht es nach unten...<PAGE></n>Das ist er – unser Weg raus.<PAGE></n>Lieutenant Branagh! Marvin!<PAGE></n>Zeit zu gehen!<PAGE></n>Hey, Marvin...<PAGE></n>Wir müssen Sie ins Krankenhaus bringen, sofort.<PAGE></n>Nein, nein... Ich...<PAGE></n>Rette dich selbst...<PAGE></n>Kommen Sie, ich hab Sie...<PAGE></n>Geh!<PAGE></n>Hören Sie, wir können's immer noch</n>beide raus schaffen, wenn Sie mir nur...<PAGE></n>Es ist zu spät.<PAGE></n>Hab's versucht, Leon...</n>Aber ich konnt's nicht stoppen.<PAGE></n>Das darf sich nicht ausbreiten.<PAGE></n>Jetzt liegt's an dir.<PAGE></n>Jetzt geh...<PAGE></n>Verstanden.<PAGE></n>Ich werd tun, was ich kann, Marvin.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Un subterráneo...<PAGE></n>Eso es. Nuestra salida.<PAGE></n>¡Teniente Branagh! ¡Marvin!<PAGE></n>Hora de irnos.<PAGE></n>Eh, Marvin...<PAGE></n>Tiene que ir ya a un hospital...<PAGE></n>No, no... Yo...<PAGE></n>Sálvate...<PAGE></n>Vamos, podemos...<PAGE></n>¡VE!<PAGE></n>Mire, podemos salir de aquí juntos, solo deje...<PAGE></n>Ya es muy tarde.<PAGE></n>Lo intenté Leon, pero no he podido.<PAGE></n>No podemos dejar que se extienda.<PAGE></n>Confío en ti.<PAGE></n>Ahora vete...<PAGE></n>Entiendo.<PAGE></n>No te fallaré, Marvin.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Так она ведет под землю... Хм.<PAGE></n>Вот он... Вот он, наш выход.<PAGE></n>Лейтенант Брэнаг! Марвин!<PAGE></n>Пора уходить!<PAGE></n>Эй, Марвин...<PAGE></n>Нужно доставить вас в больницу.<PAGE></n>Нет, нет... Я...<PAGE></n>Спасайся сам...<PAGE></n>Ну же, держитесь за меня...<PAGE></n>УХОДИ!<PAGE></n>Послушайте, мы ведь можем выбраться</n>отсюда вместе, просто дайте мне...<PAGE></n>Слишком поздно.<PAGE></n>Леон, я пытался это остановить...</n>Но не вышло.<PAGE></n>Нельзя допустить, чтобы эта зараза распространилась.<PAGE></n>Теперь все зависит от тебя.<PAGE></n>Просто уходи...<PAGE></n>Понимаю.<PAGE></n>Я вас не подведу, Марвин.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Czyli tędy schodzi się do podziemi... Hm.<PAGE></n>O to chodziło — tędy się wydostaniemy.<PAGE></n>Poruczniku Branagh! Marvin!<PAGE></n>Zbieramy się!<PAGE></n>Hej, Marvin...<PAGE></n>Musimy cię zabrać do szpitala, jak najszybciej.<PAGE></n>Nie, nie... Ja...<PAGE></n>Ratuj siebie...<PAGE></n>Chodź, pomogę ci...<PAGE></n>IDŹ!<PAGE></n>Posłuchaj, możemy się jeszcze stąd wydostać,</n>musisz mi tylko...<PAGE></n>Za późno.<PAGE></n>Próbowałem, Leon...</n>ale nie udało mi się tego powstrzymać.<PAGE></n>To się nie może rozprzestrzenić.<PAGE></n>Teraz to twoje zadanie.<PAGE></n>Idź już...<PAGE></n>Rozumiem.<PAGE></n>Nie zawiodę cię, Marvin.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>Então a passagem vai pelo subsolo... Hm.<PAGE></n>É isso! É a nossa saída.<PAGE></n>Tenente Branagh! Marvin!<PAGE></n>A gente tem que ir!<PAGE></n>Ei, Marvin...<PAGE></n>Você tem que ir pra um hospital imediatamente.<PAGE></n>Não, não... Eu...<PAGE></n>Você tem que se salvar...<PAGE></n>Qual é, eu tô aqui...<PAGE></n>VAI!<PAGE></n>Não, a gente ainda pode sair daqui junto,</n>você só tem que me...<PAGE></n>É tarde demais.<PAGE></n>Eu tentei, Leon...</n>mas não deu pra impedir.<PAGE></n>A gente não pode deixar essa coisa se espalhar.<PAGE></n>Agora, é com você.<PAGE></n>Vai logo...<PAGE></n>Entendi.<PAGE></n>Não vou te decepcionar, Marvin.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>지하로 가야 하는군... 흠.<PAGE></n>됐어. 여기로 나가면 되겠다.<PAGE></n>경감님! 마빈 경감님!<PAGE></n>이제 갈 시간이에요!<PAGE></n>저기, 마빈...<PAGE></n>지금 당장 병원에 가야겠어요.<PAGE></n>아니, 아니야... 난...<PAGE></n>자네를 먼저 생각해...<PAGE></n>자, 제가 잡아 드릴게요.<PAGE></n>가!<PAGE></n>같이 빠져나갈 수 있을 겁니다.</n>그냥 제가...<PAGE></n>너무 늦었어.<PAGE></n>나도 노력했어, 레온…</n>하지만 어쩔 수 없었네.<PAGE></n>다른 곳까지 번지도록 둘 수는 없네.<PAGE></n>이제 자네한테 달렸어.<PAGE></n>그냥 가...<PAGE></n>이해합니다.<PAGE></n>실망시키지 않겠어요, 마빈.
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>嗯，原來這通往地下。<PAGE></n>沒錯，可以從這逃出去。<PAGE></n>伯拉納副隊長！馬文！<PAGE></n>我們該走了！<PAGE></n>喂，馬文...<PAGE></n>我得馬上送你去醫院。<PAGE></n>不用，我...<PAGE></n>救你自己...<PAGE></n>別這樣，我來幫你...<PAGE></n>走！<PAGE></n>我們還是可以一起</n>活著離開這裡，只要你...<PAGE></n>來不及了。<PAGE></n>里昂，我盡力了...</n>但還是沒辦法。<PAGE></n>我們不能讓這東西擴散出去。<PAGE></n>就靠你了。<PAGE></n>快走...<PAGE></n>我明白。<PAGE></n>馬文，我不會讓你失望的。
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>看来这里可以通往地下... 对吧。<PAGE></n>找到了！我们可以从这里逃出去。<PAGE></n>伯拉纳警长！马文！<PAGE></n>该走了！<PAGE></n>喂，马文...<PAGE></n>我们得立刻送你去医院。<PAGE></n>不用了，我不行了...<PAGE></n>你自己快逃吧...<PAGE></n>别这样，我带你走...<PAGE></n>快走！<PAGE></n>听我说，我们还有机会</n>一起逃离这里，只要你...<PAGE></n>来不及了。<PAGE></n>我试过了，里昂...</n>但是拿它无可奈何。<PAGE></n>我们不能让这东西扩散。<PAGE></n>现在全靠你了。<PAGE></n>快走吧...<PAGE></n>我明白了。<PAGE></n>我不会辜负你的期待，马文。
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+<TIME 10.07, 12.27><TIME 13.0, 14.8><TIME 15.68, 17.91><TIME 20.5, 21.27><TIME 22.82, 24.61><TIME 27.06, 29.29><TIME 30.38, 32.08><TIME 32.85, 34.21><TIME 34.72, 35.63><TIME 35.7, 36.5><TIME 38.08, 40.81><TIME 42.6, 44.74><TIME 47.0, 51.5><TIME 53.31, 55.5><TIME 56.69, 58.25><TIME 59.39, 60.5><TIME 66.02, 67.09><TIME 86.59, 88.32>
+地下に通じてるぞ
+So it goes underground... Huh.
+Ça mène bien en bas...
+Così va sottoterra...
+Da geht es nach unten...
+Un subterráneo...
+Так она ведет под землю... Хм.
+Czyli tędy schodzi się do podziemi... Hm.
+Então a passagem vai pelo subsolo... Hm.
+지하로 가야 하는군... 흠.
+嗯，原來這通往地下。
+看来这里可以通往地下... 对吧。
+これで 外に出られる
+That's it—that's our way out.
+C'est bon, on peut sortir.
+Bene... Usciremo da qui.
+Das ist er – unser Weg raus.
+Eso es. Nuestra salida.
+Вот он... Вот он, наш выход.
+O to chodziło — tędy się wydostaniemy.
+É isso! É a nossa saída.
+됐어. 여기로 나가면 되겠다.
+沒錯，可以從這逃出去。
+找到了！我们可以从这里逃出去。
+ブラナー警部補！　マービン！
+Lieutenant Branagh! Marvin!
+Lieutenant Branagh ! Marvin !
+Tenente Branagh! Marvin!
+Lieutenant Branagh! Marvin!
+¡Teniente Branagh! ¡Marvin!
+Лейтенант Брэнаг! Марвин!
+Poruczniku Branagh! Marvin!
+Tenente Branagh! Marvin!
+경감님! 마빈 경감님!
+伯拉納副隊長！馬文！
+伯拉纳警长！马文！
+行きましょう
+It's time to go!
+On fiche le camp !
+Dobbiamo andare!
+Zeit zu gehen!
+Hora de irnos.
+Пора уходить!
+Zbieramy się!
+A gente tem que ir!
+이제 갈 시간이에요!
+我們該走了！
+该走了！
+行けそうです！
+It's time to go!
+On fiche le camp !
+Dobbiamo andare!</n>
+Zeit zu gehen!
+Пора уходить!
+Zbieramy się!
+A gente tem que ir!
+이제 갈 시간이에요!
+我們該走了！
+该走了！
+さあ マービン…
+Hey, Marvin...
+Hé, Marvin...
+Ehi, Marvin...
+Hey, Marvin...
+Eh, Marvin...
+Эй, Марвин...
+Hej, Marvin...
+Ei, Marvin...
+저기, 마빈...
+喂，馬文...
+喂，马文...
+今すぐ病院へ行かないと
+We need to get you to a hospital right now.
+On doit vous emmener à l'hôpital sans tarder.
+La portiamo subito in ospedale.
+Wir müssen Sie ins Krankenhaus bringen, sofort.
+Tiene que ir ya a un hospital...
+Нужно доставить вас в больницу.
+Musimy cię zabrać do szpitala, jak najszybciej.
+Você tem que ir pra um hospital imediatamente.
+지금 당장 병원에 가야겠어요.
+我得馬上送你去醫院。
+我们得立刻送你去医院。
+俺はいいから…
+No, no... I...
+Non, non... Je...
+No, no... Io...
+Nein, nein... Ich...
+No, no... Yo...
+Нет, нет... Я...
+Nie, nie... Ja...
+Não, não... Eu...
+아니, 아니야... 난...
+不用，我...
+不用了，我不行了...
+早く逃げろ
+Save yourself...
+Sauve ta peau.
+Pensa a salvarti.
+Rette dich selbst...
+Sálvate...
+Спасайся сам...
+Ratuj siebie...
+Você tem que se salvar...
+자네를 먼저 생각해...
+救你自己...
+你自己快逃吧...
+つかまって…
+Come on, I've got you—
+Allez, je vais vous aider...
+Forza, la aiuto...
+Kommen Sie, ich hab Sie...
+Vamos, podemos...
+Ну же, держитесь за меня...
+Chodź, pomogę ci...
+Qual é, eu tô aqui...
+자, 제가 잡아 드릴게요.
+別這樣，我來幫你...
+别这样，我带你走...
+行くんだ！
+GO!
+Va-t'en !
+Vai!
+Geh!
+¡VE!
+УХОДИ!
+IDŹ!
+VAI!
+가!
+走！
+快走！
+でもまだ何とかなります</n>一緒に…
+Look, we can still make it out of</n>here together, if you just gimme—
+On peut encore sortir d'ici tous les deux, mais donnez...
+Senta, possiamo ancora uscire insieme,</n>serve solo...
+Hören Sie, wir können's immer noch</n>beide raus schaffen, wenn Sie mir nur...
+Mire, podemos salir de aquí juntos, solo deje...
+Послушайте, мы ведь можем выбраться</n>отсюда вместе, просто дайте мне...
+Posłuchaj, możemy się jeszcze stąd wydostać,</n>musisz mi tylko...
+Não, a gente ainda pode sair daqui junto,</n>você só tem que me...
+같이 빠져나갈 수 있을 겁니다.</n>그냥 제가...
+我們還是可以一起</n>活著離開這裡，只要你...
+听我说，我们还有机会</n>一起逃离这里，只要你...
+もう手遅れだ
+It's too late.
+C'est trop tard, Leon.
+È troppo tardi.
+Es ist zu spät.
+Ya es muy tarde.
+Слишком поздно.
+Za późno.
+É tarde demais.
+너무 늦었어.
+來不及了。
+来不及了。
+俺だってそうしたいさ</n>だがもう間に合わない
+I tried Leon...</n>But I couldn't stop it.
+J'ai essayé, tu sais... Mais j'ai pas pu l'arrêter.
+Ci ho provato Leon. Ma ora è troppo tardi.
+Hab's versucht, Leon...</n>Aber ich konnt's nicht stoppen.
+Lo intenté Leon, pero no he podido.
+Леон, я пытался это остановить...</n>Но не вышло.
+Próbowałem, Leon...</n>ale nie udało mi się tego powstrzymać.
+Eu tentei, Leon...</n>mas não deu pra impedir.
+나도 노력했어, 레온…</n>하지만 어쩔 수 없었네.
+里昂，我盡力了...</n>但還是沒辦法。
+我试过了，里昂...</n>但是拿它无可奈何。
+これ以上 被害は出せない
+We can't let this thing spread.
+On peut pas laisser ça se propager.
+Non possiamo lasciarlo diffondere.
+Das darf sich nicht ausbreiten.
+No podemos dejar que se extienda.
+Нельзя допустить, чтобы эта зараза распространилась.
+To się nie może rozprzestrzenić.
+A gente não pode deixar essa coisa se espalhar.
+다른 곳까지 번지도록 둘 수는 없네.
+我們不能讓這東西擴散出去。
+我们不能让这东西扩散。
+あとはお前に任せた
+It's on you now.
+Je compte sur toi.
+Ora tocca a te.
+Jetzt liegt's an dir.
+Confío en ti.
+Теперь все зависит от тебя.
+Teraz to twoje zadanie.
+Agora, é com você.
+이제 자네한테 달렸어.
+就靠你了。
+现在全靠你了。
+だから行け
+Just go...
+Va-t'en...
+Adesso vai!
+Jetzt geh...
+Ahora vete...
+Просто уходи...
+Idź już...
+Vai logo...
+그냥 가...
+快走...
+快走吧...
+分かりました
+I understand.
+Très bien.
+Va bene.
+Verstanden.
+Entiendo.
+Понимаю.
+Rozumiem.
+Entendi.
+이해합니다.
+我明白。
+我明白了。
+やりとげます マービン
+I won't let you down, Marvin.
+Comptez sur moi, Marvin.
+Non la deluderò, Marvin.
+Ich werd tun, was ich kann, Marvin.
+No te fallaré, Marvin.
+Я вас не подведу, Марвин.
+Nie zawiodę cię, Marvin.
+Não vou te decepcionar, Marvin.
+실망시키지 않겠어요, 마빈.
+馬文，我不會讓你失望的。
+我不会辜负你的期待，马文。
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>地下に通じてるみたい<PAGE></n>これで 地獄から抜け出せる<PAGE></n>ねえマービン！　やったわ！</n>抜け道があった！<PAGE></n>マービン 早くここを出ましょう</n>さあ<PAGE></n>大丈夫？<PAGE></n>いや 俺はもうダメだ<PAGE></n>一人で逃げろ<PAGE></n>ダメよ 早く病院へ行かないと<PAGE></n><PAGE></n>いいから行け<PAGE></n>こうなったらもう手遅れだ<PAGE></n>今すぐ町を出ろ<PAGE></n>あなたを置いていけない<PAGE></n>クレア　頼むから行くんだ</n>俺を助けると思って<PAGE></n>分かった<PAGE></n>ねえ マービン…<PAGE></n>ありがとう
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>Looks like it leads underground...<PAGE></n>Good. We can get out of this hellhole.<PAGE></n>Hey Marvin! Guess what!</n>Think I found a way out!<PAGE></n>Marvin, come on.</n>Let's get you out of here. Let's go.<PAGE></n>Are you OK?<PAGE></n>No, I... Just go.<PAGE></n>Save yourself.<PAGE></n>C'mon, it's bad.<PAGE></n>We've got to get you to a hospital now—<PAGE></n>PLEASE, Claire...<PAGE></n>We both know how this is going to end.<PAGE></n>Get out of the city.<PAGE></n>I can't just leave you here.<PAGE></n>Claire, please... Go... Do this for me.<PAGE></n>OK...<PAGE></n>Hey, Marvin...<PAGE></n>Thank you.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>On dirait que ça mène au sous-sol...<PAGE></n>Super. On va pouvoir sortir d'ici.<PAGE></n>Hé Marvin ! C'est bon !</n>Il y a bien une issue !<PAGE></n>Marvin, debout.</n>On fiche le camp d'ici. Allez !<PAGE></n>Est-ce que ça va ?<PAGE></n>Non, je... Vas-y.<PAGE></n>Sauve ta peau.<PAGE></n>Qu'est-ce que vous racontez ?<PAGE></n>Il faut vous emmener à l'hôpital...<PAGE></n>Je t'en prie, Claire...<PAGE></n>On sait tous les deux comment ça va se finir.<PAGE></n>Il faut que tu quittes la ville.<PAGE></n>Je peux pas vous laisser ici.<PAGE></n>Claire, s'il te plaît... Va-t'en...</n>Fais ça pour moi.<PAGE></n>D'accord.<PAGE></n>Marvin...<PAGE></n>Merci.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>Sembra vada sottoterra.<PAGE></n>Bene. Si esce da questo casino.<PAGE></n>Ehi Marvin! Indovini!</n>C'è davvero un'uscita!<PAGE></n>Marvin, sveglia. Su, andiamo. Presto.<PAGE></n>Sta bene?<PAGE></n>No, io... Tu vai.<PAGE></n>Pensa a salvarti.<PAGE></n>Ascolti, è grave.<PAGE></n>Devo portarla in ospedale.<PAGE></n>Ti prego, Claire...<PAGE></n>Sappiamo entrambi come andrà a finire.<PAGE></n>Lascia questa città.<PAGE></n>Non posso lasciarla qui.<PAGE></n>Claire, ti prego... vai... Fallo per me.<PAGE></n>Ok.<PAGE></n>Ehi, Marvin...<PAGE></n>Grazie.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>Da geht's wohl unter die Erde...<PAGE></n>Gut. Wir können raus aus dem Loch hier.<PAGE></n>Hey, Marvin! Aufwachen!</n>Da ist ein Weg raus!<PAGE></n>Marvin, kommen Sie.</n>Holen wir Sie hier raus. Los.<PAGE></n>Alles okay?<PAGE></n>Nein, ich... Geh nur.<PAGE></n>Rette dich selbst.<PAGE></n>Kommen Sie, das ist übel.<PAGE></n>Sie müssen dringend ins Krankenhaus...<PAGE></n>Bitte, Claire...<PAGE></n>Wir beide wissen, wie das ausgeht.<PAGE></n>Verschwinde aus der Stadt.<PAGE></n>Ich lass Sie nicht einfach hier.<PAGE></n>Claire, bitte... Geh...</n>Tu es für mich.<PAGE></n>Okay...<PAGE></n>Hey, Marvin... <PAGE></n>Danke.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>Parece que lleva al subsuelo...<PAGE></n>Bien. Podemos salir de aquí.<PAGE></n>¡Eh Marvin! ¿Sabes?</n>¡Encontré la salida!<PAGE></n>Marvin, vamos.</n>Voy a sacarte. Venga.<PAGE></n>¿Estás bien?<PAGE></n>No, yo... Vete ya.<PAGE></n>Sálvate.<PAGE></n>Venga...<PAGE></n>tenemos que ir a un hospital ya...<PAGE></n>Por favor, Claire...<PAGE></n>Ambos sabemos cómo termina esto.<PAGE></n>Sal de la ciudad.<PAGE></n>No puedo dejarte aquí.<PAGE></n>Claire, por favor. Vete...</n>Hazlo por mí.<PAGE></n>Vale.<PAGE></n>Eh, Marvin...<PAGE></n>Gracias.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>Кажется, проход ведет под землю...<PAGE></n>Отлично. Теперь мы можем выбраться из этой чертовой дыры.<PAGE></n>Марвин, знаете что?</n>Похоже, я нашла выход!<PAGE></n>Давайте, Марвин.</n>Пора выбираться отсюда. Идемте.<PAGE></n>Вы в порядке?<PAGE></n>Нет, я... Просто уходи.<PAGE></n>Спасайся сама...<PAGE></n>Рана совсем плоха.<PAGE></n>Вас скорее нужно доставить в больницу...<PAGE></n>ПОЖАЛУЙСТА, Клэр...<PAGE></n>Мы оба знаем, чем это закончится.<PAGE></n>Уезжай из города.<PAGE></n>Я не могу вас здесь бросить.<PAGE></n>Клэр, пожалуйста... Уходи... Ради меня.<PAGE></n>Что ж...<PAGE></n>Марвин...<PAGE></n>Спасибо.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>To chyba droga do podziemi...<PAGE></n>Dobrze. Wydostaniemy się z tego piekła.<PAGE></n>Hej, Marvin! Nie zgadniesz!</n>Znalazłam wyjście!<PAGE></n>Marvin, no chodź.</n>Spadamy stąd. Rusz się.<PAGE></n>Nic ci nie jest?<PAGE></n>Nie, ja... Idź już.<PAGE></n>Ratuj siebie.<PAGE></n>Przestań, źle to wygląda.<PAGE></n>Musimy cię natychmiast zabrać do szpitala...<PAGE></n>PROSZĘ, Claire...<PAGE></n>Oboje wiemy, jak to się skończy.<PAGE></n>Uciekaj z miasta.<PAGE></n>Nie mogę cię tu zostawić.<PAGE></n>Claire, proszę... Idź... Zrób to dla mnie.<PAGE></n>OK...<PAGE></n>Hej, Marvin...<PAGE></n>Dziękuję.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>Parece que a passagem vai pelo subsolo...<PAGE></n>Ótimo. A gente vai poder sair desse inferno.<PAGE></n>Ei, Marvin! Adivinha!</n>Acho que eu encontrei uma saída!<PAGE></n>Vem, Marvin.</n>Vou te tirar daqui. Vamos.<PAGE></n>Você tá bem?<PAGE></n>Não, eu... Vai embora.<PAGE></n>Você tem que se salvar.<PAGE></n>Qual é, isso aí tá feio.<PAGE></n>Você tem que ir já pra um hospital...<PAGE></n>POR FAVOR, Claire...<PAGE></n>A gente já sabe como vai acabar.<PAGE></n>Sai da cidade.<PAGE></n>Eu não posso te deixar aqui.<PAGE></n>Claire, por favor... Vai... Faz isso por mim.<PAGE></n>Ok...<PAGE></n>Ei, Marvin...<PAGE></n>Valeu.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>지하로 이어지는 것 같네...<PAGE></n>좋아. 이 지옥에서 나갈 수 있겠어.<PAGE></n>마빈! 있죠!</n>출구를 찾은 것 같아요!<PAGE></n>마빈, 자.</n>우리 빨리 나가요. 어서요.<PAGE></n>괜찮아요?<PAGE></n>아니, 난... 그냥 가세요.<PAGE></n>본인을 먼저 지켜요.<PAGE></n>그럼 안 되죠. 같이 가요.<PAGE></n>지금 당장 병원에 가야 해요.<PAGE></n>제발, 클레어...<PAGE></n>우리 둘 다 어떻게 될지 알고 있잖아요.<PAGE></n>이 도시를 떠나요.<PAGE></n>이렇게 혼자 두고 갈 순 없어요.<PAGE></n>클레어, 제발...가요...나를 위해서라도요.<PAGE></n>알았어요...<PAGE></n>저기, 마빈...<PAGE></n>고마워요.
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>看來這裡通往地下...<PAGE></n>很好，這下能離開這鬼地方了。<PAGE></n>喂，馬文！</n>我好像找到一條出路了！<PAGE></n>馬文，走吧。</n>我們離開這裡。走。<PAGE></n>你還好嗎？<PAGE></n>不行，我... 你走吧。<PAGE></n>救你自己。<PAGE></n>你狀況不妙。<PAGE></n>我得立刻帶你去醫院...<PAGE></n>克蕾兒，拜託...<PAGE></n>我們都知道我的下場會如何。<PAGE></n>快離開這座城市。<PAGE></n>我不能把你丟在這裡。<PAGE></n>克蕾兒，拜託，走... 為了我。<PAGE></n>好吧...<PAGE></n>馬文...<PAGE></n>謝謝你。
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>似乎可以从这里进入地下...<PAGE></n>很好，我们终于能逃离这个鬼地方了。<PAGE></n>马文！你知道吗？</n>我找到逃脱路线了！<PAGE></n>马文，来吧。</n>我带你离开这里，一起走吧。<PAGE></n>你还好吗？<PAGE></n>不，我... 别管我了。<PAGE></n>你自己快逃吧。<PAGE></n>别这样。<PAGE></n>我们得赶紧送你去医院。<PAGE></n>拜托你听我说，克莱尔...<PAGE></n>结果会变成怎样，我们都很清楚。<PAGE></n>快点逃离浣熊市！<PAGE></n>我不能把你丢在这里。<PAGE></n>克莱尔，拜托你... 快走，这是我的请求。<PAGE></n>好吧...<PAGE></n>对了，马文...<PAGE></n>谢谢你。
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>
+<TIME 6.43, 8.0><TIME 9.44, 11.45><TIME 11.9, 14.9><TIME 16.41, 19.22><TIME 23.39, 24.31><TIME 29.03, 32.27><TIME 32.6, 33.82><TIME 34.27, 35.44><TIME 35.46, 36.11><TIME 36.15, 37.63><TIME 39.99, 42.12><TIME 43.3, 45.37><TIME 46.62, 48.42><TIME 48.45, 55.13><TIME 64.59, 65.42><TIME 70.24, 71.32><TIME 74.38, 75.3>

@@ -1,0 +1,168 @@
+﻿Return to Game
+Return to Game
+Continuer
+Continua
+Zurück zum Spiel
+Volver al juego
+Вернуться в игру
+Wróć do gry
+Voltar ao Jogo
+게임 돌아가기
+返回遊戲
+返回游戏
+Quit
+Quit
+Quitter
+Esci
+Verlassen
+Salir
+Выход
+Wyjdź
+Sair
+종료
+結束
+退出
+Costume
+Costumes
+Tenues
+Costumi
+Kostüme
+Trajes
+Костюмы
+Stroje
+Trajes
+복장
+服裝
+服装
+ゲームに戻ります
+Exit the pause menu and return to the game.
+Quitter le menu Pause et reprendre la partie.
+Esci dal menu di pausa e torna al gioco.
+Das Pausenmenü verlassen und zum Spiel zurückkehren.
+Sal del menú de pausa y vuelve al juego.
+Выйти из меню паузы и вернуться в игру.
+Wyjdź z menu pauzy i wróć do gry.
+Sair do menu de pausa e voltar ao jogo.
+일시 정지 메뉴에서 나가 게임으로 돌아갑니다.
+離開暫停選單並返回遊戲。
+退出暂停菜单并返回游戏。
+メインメニューに戻ります
+Return to the title screen.
+Retourner à l'écran titre.
+Ritorna al menu del titolo.
+Zum Hauptmenü zurückkehren.
+Vuelve a la pantalla del título.
+Вернуться на главный экран.
+Powrót do ekranu tytułowego.
+Voltar à tela inicial.
+타이틀 화면으로 돌아갑니다.
+返回主畫面。
+返回标题画面。
+コスチュームを変更します
+Change character costumes.
+Changer de tenue.
+Cambia i costumi dei personaggi.
+Die Kostüme der Charaktere ändern.
+Cambia el traje de tu personaje.
+Выбрать костюмы персонажей.
+Zmień stroje postaci.
+Trocar os trajes dos personagens.
+캐릭터 복장을 변경합니다.
+更換角色的服裝。
+变更角色的服装。
+PAUSE
+PAUSE
+PAUSE
+PAUSA
+PAUSE
+PAUSA
+ПАУЗА
+PAUZA
+PAUSA
+일시 정지
+暫停
+暂停
+<ICON DEFAULT> スキップ
+<ICON DEFAULT> Skip
+<ICON DEFAULT> Passer
+<ICON DEFAULT> Salta
+<ICON DEFAULT> Überspringen
+<ICON DEFAULT> Saltar
+<ICON DEFAULT> Пропустить
+<ICON DEFAULT> Pomiń
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Pular
+<ICON DEFAULT> 건너뛰기
+<ICON DEFAULT> 跳過
+<ICON DEFAULT> 跳过
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DECIDE> スキップ
+<ICON DECIDE> Skip
+<ICON DECIDE> Passer
+<ICON DECIDE> Salta
+<ICON DECIDE> Überspringen
+<ICON DECIDE> Saltar
+<ICON DECIDE> Пропустить
+<ICON DECIDE> Pomiń
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Pular
+<ICON DECIDE> 건너뛰기
+<ICON DECIDE> 跳過
+<ICON DECIDE> 跳过
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON CANCEL> 戻る
+<ICON CANCEL> Return
+<ICON CANCEL> Retour
+<ICON CANCEL> Indietro
+<ICON CANCEL> Zurück
+<ICON CANCEL> Atrás
+<ICON CANCEL> Назад
+<ICON CANCEL> Wstecz
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> Voltar
+<ICON CANCEL> 뒤로
+<ICON CANCEL> 返回
+<ICON CANCEL> 返回
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 

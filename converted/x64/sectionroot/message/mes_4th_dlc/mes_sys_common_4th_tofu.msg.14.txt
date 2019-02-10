@@ -1,0 +1,72 @@
+﻿HIGH SCORE
+FASTEST TIME:
+MEILLEUR TEMPS :
+MIGLIOR TEMPO:
+SCHNELLSTE ZEIT:
+MEJOR TIEMPO:
+ЛУЧШЕЕ ВРЕМЯ:
+NAJLEPSZY CZAS:
+MENOR TEMPO:
+최단 시간:
+最快時間：
+最快时间：
+[ {0:D2}:{1:D2}:{2:D2} ]
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+CLEAR TIME
+COMPLETION TIME
+TEMPS DE COMPLÉTION
+TEMPO DI COMPLETAMENTO
+ABSCHLUSSZEIT
+TIEMPO
+ВРЕМЯ ПРОХОЖДЕНИЯ
+CZAS UKOŃCZENIA
+TEMPO DE CONCLUSÃO
+완료 시간
+完成時間
+完成时间
+NEW RECORD
+NEW RECORD
+NOUVEAU RECORD
+NUOVO RECORD
+NEUER REKORD
+NUEVO RÉCORD
+НОВЫЙ РЕКОРД
+NOWY REKORD
+NOVO RECORDE
+신기록
+新記錄
+新记录
+Retry
+Retry
+Réessayer
+Riprova
+Erneut versuchen
+Reintentar
+Заново
+Spróbuj ponownie
+Tentar de novo
+재시도
+再試一次
+再试一次
+初めからやり直します
+Retry from the very beginning.
+Réessayer depuis le début.
+Riprova dall'inizio.
+Vom Anfang neu versuchen.
+Volver a intentarlo desde el principio.
+Начать игру с самого начала.
+Spróbuj ponownie od początku.
+Recomeçar o jogo.
+맨 처음부터 다시 시작합니다.
+從最開始的地方再試一次。
+从头开始再试一次。

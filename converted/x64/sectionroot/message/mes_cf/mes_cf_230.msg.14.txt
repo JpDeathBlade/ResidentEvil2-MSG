@@ -1,0 +1,160 @@
+﻿<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>はあ 助かった</n>何なの？<PAGE></n>ねえ 聞こえてる？<PAGE></n>もう安全よ　終わった<PAGE></n>ホントに？<PAGE></n>ええ 安心して</n>もう大丈夫<PAGE></n>そこにあるはしごを下ろしてもらえない？<PAGE></n>一緒にママを捜して<PAGE></n>こんなとこにいるの？<PAGE></n>いると思う<PAGE></n>いてほしい<PAGE></n>ええ… いいわよ</n>捜してあげる
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Oh, crap...</n>Oh... Oh god...<PAGE></n>Hey! Little girl...!?<PAGE></n>It's safe now... It's over.<PAGE></n>Are you sure?<PAGE></n>Yeah, I promise. Everything's fine.<PAGE></n>I just need you to lower that</n>ladder for me.<PAGE></n>Will you help me find my mom?<PAGE></n>...Your mom is down here?<PAGE></n>I think so.<PAGE></n>I hope so.<PAGE></n>Yeah...of course. I'll help you.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Oh, merde...</n>Oh... Oh mon Dieu...<PAGE></n>Hé ! Hé, petite !<PAGE></n>Tu peux venir... C'est terminé.<PAGE></n>Tu es sûre ?<PAGE></n>Oui, c'est promis. Tout va bien.<PAGE></n>Est-ce que tu pourrais abaisser cette échelle pour moi ?<PAGE></n>Tu m'aideras à retrouver ma maman ?<PAGE></n>Ta mère est ici ?<PAGE></n>Je crois, oui.<PAGE></n>J'espère.<PAGE></n>Oui... bien sûr. Je vais t'aider.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Oh merda...</n>Oh... Oh, Dio.<PAGE></n>Ehi! Ragazzina!<PAGE></n>Se n'è andato. È finita.<PAGE></n>Sul serio?<PAGE></n>Sì, promesso. Va tutto bene.<PAGE></n>Dovresti farmi scendere quella scala.<PAGE></n>Mi aiuti a trovare mia mamma?<PAGE></n>Tua mamma è qui sotto?<PAGE></n>Penso di sì.<PAGE></n>Beh, lo spero.<PAGE></n>Sì... Ma certo. Ti aiuterò.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Oh, Kacke...</n>Oh... Oh, Gott...<PAGE></n>Hey! Kleine...!<PAGE></n>Es ist vorbei. Alles okay.<PAGE></n>Ganz sicher?<PAGE></n>Ja, versprochen. Alles ist gut.<PAGE></n>Du musst nur die Leiter für mich runterlassen.<PAGE></n>Suchst du mit mir meine Mom?<PAGE></n>Deine Mom ist hier unten?<PAGE></n>Ich denke schon.<PAGE></n>Ich hoff es.<PAGE></n>Ja... Na klar. Ich helf dir.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Oh, mierda.</n>Oh... Oh Dios.<PAGE></n>¡Eh! ¿¡Pequeña...!?<PAGE></n>Estás a salvo. Ya pasó.<PAGE></n>¿De verdad?<PAGE></n>Sí, lo prometo. Todo está bien.<PAGE></n>Necesito que me bajes esa escalera.<PAGE></n>¿Me ayudarás a buscar a mamá?<PAGE></n>¿Tu mamá está aquí abajo?<PAGE></n>Creo que sí.<PAGE></n>Eso espero.<PAGE></n>Sí... claro. Te ayudaré.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Вот дерьмо...</n>Ох... О, Боже...<PAGE></n>Эй! Малышка!..<PAGE></n>Все хорошо... Все позади.<PAGE></n>Точно?<PAGE></n>Да. Обещаю. Все в порядке.<PAGE></n>Теперь просто спусти для меня лестницу.<PAGE></n>А вы поможете найти мою маму?<PAGE></n>...Твоя мама где-то здесь?<PAGE></n>Вроде бы.<PAGE></n>Надеюсь.<PAGE></n>Да... конечно. Я тебе помогу.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Cholera...</n>O... O, Boże...<PAGE></n>Hej! Mała...!?<PAGE></n>Już jest bezpiecznie... już po wszystkim.<PAGE></n>Na pewno?<PAGE></n>Tak, obiecuję. Już wszystko dobrze.<PAGE></n>Musisz tylko opuścić tę drabinę.<PAGE></n>Pomożesz mi znaleźć moją mamę?<PAGE></n>...Twoja mama jest gdzieś tutaj?<PAGE></n>Chyba tak.<PAGE></n>Mam nadzieję.<PAGE></n>Tak... Oczywiście. Pomogę ci.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>Ai, droga...</n>Ai... meu Deus...<PAGE></n>Ei! Garotinha?!<PAGE></n>Tá tudo bem, já... Acabou.<PAGE></n>Tem certeza?<PAGE></n>Tenho, eu juro. Tá tudo bem.<PAGE></n>Só preciso que você abaixe</n>essa escada pra mim.<PAGE></n>Você me ajuda a achar a minha mãe?<PAGE></n>A sua mãe tá aqui embaixo?<PAGE></n>Acho que sim.<PAGE></n>Espero que sim.<PAGE></n>Tá... claro. Eu te ajudo.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>아, 이런...</n>하...세상에...<PAGE></n>얘! 꼬마야...!?<PAGE></n>이제 안전해... 끝났어.<PAGE></n>정말이요?<PAGE></n>그래, 정말이야. 다 괜찮아.<PAGE></n>그 사다리 좀</n>내 쪽으로 내려줘.<PAGE></n>엄마를 찾게 도와줄 거예요?<PAGE></n>...엄마가 여기 계시니?<PAGE></n>그런 것 같아요.<PAGE></n>그랬으면 좋겠어요.<PAGE></n>그래... 당연하지. 도와줄게.
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>我的天...</n>喔，天哪...<PAGE></n>喂！小妹妹！<PAGE></n>沒事了，都結束了。<PAGE></n>真的嗎？<PAGE></n>對啊，沒騙你。已經安全了。<PAGE></n>我需要你幫我把</n>那個梯子降下來。<PAGE></n>你能不能幫我找媽媽？<PAGE></n>... 你媽媽在這裡？<PAGE></n>應該吧。<PAGE></n>我希望是。<PAGE></n>好，沒問題。我會幫你。
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>糟了...</n>噢，我的天哪...<PAGE></n>喂！小姑娘...！？<PAGE></n>已经安全了，没事了。<PAGE></n>你确定吗？<PAGE></n>是的，我保证。没问题的。<PAGE></n>你能不能帮我把</n>梯子放下来？<PAGE></n>你愿意帮我找我妈吗？<PAGE></n>... 你妈妈在这里？<PAGE></n>我想是的。<PAGE></n>希望她在。<PAGE></n>好，没问题，我帮你找她。
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+<TIME 14.83, 19.41><TIME 34.69, 38.0><TIME 40.29, 43.5><TIME 48.61, 50.0><TIME 51.36, 55.24><TIME 56.5, 59.0><TIME 60.72, 63.24><TIME 65.21, 67.0><TIME 68.14, 69.65><TIME 70.59, 72.0><TIME 76.5, 81.87>
+はあ 助かった</n>何なの？
+Oh, crap...</n>Oh... Oh god...
+Oh, merde...</n>Oh... Oh mon Dieu...
+Oh merda...</n>Oh... Oh, Dio.
+Oh, Kacke...</n>Oh... Oh, Gott...
+Oh, mierda.</n>Oh... Oh Dios.
+Вот дерьмо...</n>Ох... О, Боже...
+Cholera...</n>O... O, Boże...
+Ai, droga...</n>Ai... meu Deus...
+아, 이런...</n>하...세상에...
+我的天...</n>喔，天哪...
+糟了...</n>噢，我的天哪...
+ねえ 聞こえてる？
+Hey! Little girl...!?
+Hé ! Hé, petite !
+Ehi! Ragazzina!
+Hey! Kleine...!
+¡Eh! ¿¡Pequeña...!?
+Эй! Малышка!..
+Hej! Mała...!?
+Ei! Garotinha?!
+얘! 꼬마야...!?
+喂！小妹妹！
+喂！小姑娘...！？
+もう安全よ　終わった
+It's safe now... It's over.
+Tu peux venir... C'est terminé.
+Se n'è andato. È finita.
+Es ist vorbei. Alles okay.
+Estás a salvo. Ya pasó.
+Все хорошо... Все позади.
+Już jest bezpiecznie... już po wszystkim.
+Tá tudo bem, já... Acabou.
+이제 안전해... 끝났어.
+沒事了，都結束了。
+已经安全了，没事了。
+ホントに？
+Are you sure?
+Tu es sûre ?
+Sul serio?
+Ganz sicher?
+¿De verdad?
+Точно?
+Na pewno?
+Tem certeza?
+정말이요?
+真的嗎？
+你确定吗？
+ええ 安心して</n>もう大丈夫
+Yeah, I promise. Everything's fine.
+Oui, c'est promis. Tout va bien.
+Sì, promesso. Va tutto bene.
+Ja, versprochen. Alles ist gut.
+Sí, lo prometo. Todo está bien.
+Да. Обещаю. Все в порядке.
+Tak, obiecuję. Już wszystko dobrze.
+Tenho, eu juro. Tá tudo bem.
+그래, 정말이야. 다 괜찮아.
+對啊，沒騙你。已經安全了。
+是的，我保证。没问题的。
+そこにあるはしごを下ろしてもらえない？
+I just need you to lower that</n>ladder for me.
+Est-ce que tu pourrais abaisser cette échelle pour moi ?
+Dovresti farmi scendere quella scala.
+Du musst nur die Leiter für mich runterlassen.
+Necesito que me bajes esa escalera.
+Теперь просто спусти для меня лестницу.
+Musisz tylko opuścić tę drabinę.
+Só preciso que você abaixe</n>essa escada pra mim.
+그 사다리 좀</n>내 쪽으로 내려줘.
+我需要你幫我把</n>那個梯子降下來。
+你能不能帮我把</n>梯子放下来？
+一緒にママを捜して
+Will you help me find my mom?
+Tu m'aideras à retrouver ma maman ?
+Mi aiuti a trovare mia mamma?
+Suchst du mit mir meine Mom?
+¿Me ayudarás a buscar a mamá?
+А вы поможете найти мою маму?
+Pomożesz mi znaleźć moją mamę?
+Você me ajuda a achar a minha mãe?
+엄마를 찾게 도와줄 거예요?
+你能不能幫我找媽媽？
+你愿意帮我找我妈吗？
+こんなとこにいるの？
+...Your mom is down here?
+Ta mère est ici ?
+Tua mamma è qui sotto?
+Deine Mom ist hier unten?
+¿Tu mamá está aquí abajo?
+...Твоя мама где-то здесь?
+...Twoja mama jest gdzieś tutaj?
+A sua mãe tá aqui embaixo?
+...엄마가 여기 계시니?
+... 你媽媽在這裡？
+... 你妈妈在这里？
+いると思う
+I think so.
+Je crois, oui.
+Penso di sì.
+Ich denke schon.
+Creo que sí.
+Вроде бы.
+Chyba tak.
+Acho que sim.
+그런 것 같아요.
+應該吧。
+我想是的。
+いてほしい
+I hope so.
+J'espère.
+Beh, lo spero.
+Ich hoff es.
+Eso espero.
+Надеюсь.
+Mam nadzieję.
+Espero que sim.
+그랬으면 좋겠어요.
+我希望是。
+希望她在。
+ええ… いいわよ</n>捜してあげる
+Yeah...of course. I'll help you.
+Oui... bien sûr. Je vais t'aider.
+Sì... Ma certo. Ti aiuterò.
+Ja... Na klar. Ich helf dir.
+Sí... claro. Te ayudaré.
+Да... конечно. Я тебе помогу.
+Tak... Oczywiście. Pomogę ci.
+Tá... claro. Eu te ajudo.
+그래... 당연하지. 도와줄게.
+好，沒問題。我會幫你。
+好，没问题，我帮你找她。

@@ -1,0 +1,48 @@
+﻿NEST職員への緊急指示
+[IMPORTANT] NEST-wide Alert
+[IMPORTANT] Alerte à tout le NEST
+[IMPORTANTE] Allerta al NEST
+[WICHTIG] NEST-weiter Alarm
+[IMPORTANTE] Alerta en todo NEST
+[ВНИМАНИЕ] Тревога в ГНЕЗДЕ
+[WAŻNE] Alarm w całym NEST
+[IMPORTANTE] Alerta p/ o NEST
+[중요] 네스트 전 직원에 알림
+[重要] NEST 全面警報
+[重要] 全母巢警报
+ノースエリアにて非常事態が発生。</n>全NEST職員は通常業務を停止し、</n>抗ウィルス剤「DEVIL」の確保を最優先とせよ。</n></n>DEVILは、G生物化への唯一の対抗手段である。</n>G-ウィルスの感染が認められた際は、</n>ただちに対象へ投与したのち、G細胞の除去を行え。
+Due to an incident in the North Area, all NEST</n>personnel are to immediately use the "DEVIL"</n>antiviral agent on themselves.</n></n>DEVIL is the only way to prevent G mutation.</n>If you have been infected with the G-Virus,</n>seek help immediately to target and destroy</n>the G cells in your body.
+En raison d'un incident dans la zone nord, tout</n>le personnel du NEST doit s'auto-administrer</n>l'agent antiviral "DEVIL" immédiatement.</n></n>Le DEVIL est le seul moyen d'empêcher la</n>mutation. Si vous avez été contaminé par le</n>virus G, demandez immédiatement de l'aide afin</n>de cibler et détruire les cellules G dans votre</n>organisme.
+Per via di un incidente nell'area nord, tutto</n>il personale NEST dovrà immediatamente</n>iniettarsi l'agente antivirale "DEVIL".</n></n>DEVIL è l'unico modo per prevenire la</n>mutazione G. Se siete stati infettati dal</n>virus G, cercate subito aiuto per individuare</n>e distruggere le cellule G nel vostro corpo.
+Aufgrund eines Vorfalls im Nordbereich sind</n>alle NEST-Mitarbeiter dazu angehalten, sich das</n>antivirale Agens "DEVIL" zu verabreichen.</n></n>DEVIL ist die einzige Möglichkeit, die</n>G-Mutation zu verhindern. Sollten Sie mit dem</n>G-Virus infiziert sein, suchen Sie umgehend</n>medizinisches Personal auf, um die G-Zellen in</n>Ihrem Körper zu isolieren und zu zerstören.
+Debido a un incidente en la zona norte, todo el</n>personal de NEST debe utilizar inmediatamente el</n>agente antiviral "DEVIL" como protección.</n></n>DEVIL es la única forma de evitar la mutación G.</n>Si te has infectado con el virus G,</n>busca ayuda de inmediato para encontrar</n>y destruir las células G en tu cuerpo.
+Из-за инцидента в северном крыле всему</n>персоналу ГНЕЗДА необходимо немедленно</n>применить антивирусный агент «ДЬЯВОЛ».</n></n>«ДЬЯВОЛ» — единственный способ предотвратить</n>Г-мутацию. Если вы заражены Г-вирусом,</n>немедленно обратитесь за помощью, чтобы</n>своевременно выявить и уничтожить</n>Г-клетки в вашем организме.
+Z powodu incydentu w północnej części cały</n>personel NEST ma natychmiast zaaplikować</n>sobie środek antywirusowy „DEVIL”.</n></n>Tylko DEVIL może zapobiec mutacji wirusa G.</n>W przypadku zarażenia wirusem G należy</n>natychmiast uzyskać pomoc i wyeliminować</n>komórki wirusowe z organizmu.
+Devido a um incidente na Área Norte,</n>todos os funcionários do NEST deverão</n>tomar o antiviral "DIABO" imediatamente.</n></n>É a única maneira de evitar a</n>mutação G. Se você já tiver sido</n>infectado, procure logo auxílio para</n>eliminar as células G em seu corpo.
+북쪽 구역에서 감염 사건이</n>발생했으므로 모든 네스트 직원은</n>즉시 "데빌" 백신을 투약하십시오.</n></n>데빌은 G 바이러스로 인한 신체 변화를</n>막을 수 있는 유일한 백신입니다.</n>G 바이러스에 감염된 인원은 신체 내</n>G 바이러스 세포를 특정해</n>파괴할 수 있도록 즉시</n>도움을 요청하기 바랍니다.
+由於北區發生意外，</n>請所有NEST人員立刻施打抗病毒劑「惡魔」。</n>「惡魔」是唯一預防 G 突變的途徑。</n></n>如果您已感染 G 病毒，</n>請立即尋求協助，</n>以找到您體內的 G 細胞並予以破壞。
+由于北区发生事故，请所有母巢职员</n>立即注射“恶魔”抗病毒剂。</n></n>“恶魔”是防止 G 病毒突变的唯一方法。</n>若您已感染 G 病毒，请立即寻求协助，</n>以便找到并摧毁您体内的 G 细胞。</n></n>
+<CENTER>本メールは、非常事態発生により</n><CENTER>NESTメインシステムから自動送信されました。</n><CENTER>返信はできませんのでご注意ください。
+<CENTER>This email is automatically generated</n><CENTER>in the event of an emergency.</n><CENTER>Please do not reply to this message.
+<CENTER>Cet e-mail est généré automatiquement</n><CENTER>en cas d'urgence.</n><CENTER>Veuillez ne pas répondre à ce message.
+<CENTER>Questa mail è generata automaticamente</n><CENTER>in caso di emergenza.</n><CENTER>Non rispondere a questo messaggio.
+<CENTER>Diese E-Mail wird bei einem Notfall</n><CENTER>automatisch erstellt.</n><CENTER>Bitte antworten Sie nicht auf diese E-Mail.
+<CENTER>Este correo se genera automáticamente</n><CENTER>en caso de emergencia.</n><CENTER>Por favor, no responda a este mensaje.
+<CENTER>Данное письмо рассылается автоматически</n><CENTER>в случае чрезвычайной ситуации.</n><CENTER>Не отвечайте на него.
+<CENTER>Ten e-mail został wygenerowany automatycznie</n><CENTER>po wystąpieniu zagrożenia.</n><CENTER>Prosimy nie odpowiadać na tę wiadomość.
+<CENTER>Este e-mail é gerado automaticamente</n><CENTER>em caso de emergência.</n><CENTER>Favor não responder.
+<CENTER>본 이메일은 긴급 상황 발생 시</n><CENTER>자동 전송되는 이메일입니다.</n><CENTER>본 이메일에 회신하지 마십시오.
+<CENTER>本電子郵件於緊急事件</n><CENTER>發生後自動產生。</n><CENTER>請勿回覆本郵件。
+<CENTER>本电子邮件是在</n><CENTER>紧急事件发生后自动生成。</n><CENTER>请勿回复本邮件。
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

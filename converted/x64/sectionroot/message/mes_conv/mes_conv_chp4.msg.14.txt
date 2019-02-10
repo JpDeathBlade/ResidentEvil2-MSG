@@ -1,0 +1,1889 @@
+﻿１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６
+逃げなさいアネット</n>逃げられるものならね
+You can run, Annette, but you can't hide.
+Tu peux toujours courir, Annette, mais tu ne m'échapperas pas.
+Corri quanto vuoi, Annette. Ma non puoi nasconderti.
+Laufen Sie ruhig, Annette.</n>Sie entkommen mir nicht.
+Puedes correr, Annette, pero no esconderte.
+Беги-беги, Аннет. Но тебе не спрятаться.
+Możesz uciekać, Annette, ale nie schowasz się.
+Pode correr, Annette, mas não pode se esconder.
+아네트, 도망갈 수야 있겠지만</n>숨을 순 없다고.
+雅妮，你再怎麼跑也躲不掉的。
+亚妮，你再怎么跑也躲不掉的。
+秘密道具の出番
+It's secret weapon time.
+C'est l'heure de mon arme secrète.
+È l'ora del gioiellino.
+Zeit für die Spezialwaffe.
+Hora del arma secreta.
+Пришло время для секретного оружия.
+Pora na tajną broń.
+Tá na hora da arma secreta.
+비밀 무기를 쓸 때가 왔군.
+輪到秘密武器上場了。
+该轮到使用秘密武器了。
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV423_0020_pl2000
+あっけないわね
+Candy from a baby.
+Un vrai jeu d'enfant.
+Un gioco da ragazzi.
+Nichts leichter als das.
+Pan comido.
+Легче легкого.
+Jak zabranie dziecku cukierka.
+Fácil, fácil...
+너무 쉬운데.
+太輕鬆了。
+太轻松了。
+<MCVO>立ち入りには リストタグが必要です
+<MCVO>ID wristband required for entry.
+<MCVO>Bracelet d'identification requis.
+<MCVO>Richiesta identificazione con bracciale.
+<MCVO>ID-Armband für Zutritt erforderlich.
+<MCVO>Pulsera ID requerida para entrar.
+<MCVO>Для входа требуется ID-браслет.
+<MCVO>Wstęp tylko z bransoletą z identyfikatorem.
+<MCVO>
+<MCVO>
+<MCVO>Pulseira de ID necessária para entrada.
+<MCVO>입장하려면 ID 손목 밴드가 필요합니다.
+<MCVO>需要 ID 手環才能進入。
+<MCVO>需要身份识别腕带才能进入。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>ケーブルカーへの乗車にはリストタグが必要です
+<MCVO>ID wristband required for cable car entry.
+<MCVO>Bracelet d'identification requis pour le funiculaire.
+<MCVO>Richiesta identificazione con bracciale per la funicolare.
+<MCVO>ID-Armband für Standseilbahnzutritt erforderlich.
+<MCVO>Pulsera ID requerida para acceder al tranvía.
+<MCVO>Для посадки в фуникулер требуется ID-браслет.
+<MCVO>Wstęp do kolejki linowej tylko z bransoletą z identyfikatorem.
+<MCVO>
+<MCVO>
+<MCVO>Pulseira de ID necessária para entrada no bonde.
+<MCVO>케이블 카에 입장하려면 ID 손목 밴드가 필요합니다.
+<MCVO>需要 ID 手環才能進入纜車車廂。
+<MCVO>需要身份识别腕带才能进入缆车车厢。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV425_0010_pl2000
+逃げ足の速さだけは…<PAGE></n>認めてあげる
+Always been good at running, Annette.<PAGE></n>I'll give you that.
+Tu détales toujours aussi vite, Annette.<PAGE></n>Je dois le reconnaître.
+Sempre la migliore a scappare...<PAGE></n>... lo ammetto.
+Immer gut im Weglaufen, Annette.<PAGE></n>Das muss ich Ihnen lassen.
+Siempre se te ha dado bien correr.<PAGE></n>Lo reconozco.
+Ты всегда хорошо бегала, Аннет.<PAGE></n>Этого у тебя не отнимешь.
+Zawsze byłaś mistrzem ucieczek, Annette.<PAGE></n>Muszę oddać ci sprawiedliwość.
+Você sempre foi uma ótima corredora, Annette.<PAGE></n>Admito.
+도망치는 건 항상 잘 했지, 아네트.<PAGE></n>그건 인정해.
+你真的很會逃，雅妮。<PAGE></n>不得不誇你一句。
+你真的很会逃，亚妮。<PAGE></n>不得不夸你一句。
+逃げ足の速さだけは…
+Always been good at running, Annette.
+Tu détales toujours aussi vite, Annette.
+Sempre la migliore a scappare...
+Immer gut im Weglaufen, Annette.
+Siempre se te ha dado bien correr.
+Ты всегда хорошо бегала, Аннет.
+Zawsze byłaś mistrzem ucieczek, Annette.
+Você sempre foi uma ótima corredora, Annette.
+도망치는 건 항상 잘 했지, 아네트.
+你真的很會逃，雅妮。
+你真的很会逃，亚妮。
+認めてあげる
+I'll give you that.
+Je dois le reconnaître.
+... lo ammetto.
+Das muss ich Ihnen lassen.
+Lo reconozco.
+Этого у тебя не отнимешь.
+Muszę oddać ci sprawiedliwość.
+Admito.
+그건 인정해.
+不得不誇你一句。
+不得不夸你一句。
+いたわね アネット
+Got you now.
+Je te tiens, maintenant.
+Ora sei mia.
+Jetzt hab ich Sie.
+Ya te tengo.
+Попалась.
+Już cię mam.
+Agora eu te peguei.
+딱 걸렸어.
+這下逮到你了吧。
+这下逮到你了吧。
+呆れたしつこさね
+Persistent bastard, aren't you?
+Tu parles d'un sacré pot de colle...
+Cocciuto di un bastardo.
+Hartnäckiger Mistkerl, was?
+Menudo pesado eres, ¿eh?
+А ты упертый, да?
+Uparty z ciebie bydlak, co?
+Mas que babaca persistente, hein?
+정말 끈질기네?
+你這混帳就是不肯放棄，是不是？
+你这混蛋就是不肯放弃，是不是？
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV429_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+<COLOR FF0000>#Rejected#</COLOR> CONV430_0010_pl2000
+ちょっとまずいわね… このままじゃ…
+Come on, Ada...this is it!
+Allez, Ada. Cette fois, c'est la fin...
+Maledizione... È la fine!
+Komm schon, Ada... Zusammenreißen!
+Vamos, Ada. Es la hora.
+Ну же, Ада... Время на исходе!
+No dalej, Ada... tak jest!
+Vai, Ada... É agora ou nunca!
+정신 차리자, 에이다... 시간이 얼마 없어!
+快啊，艾達... 現在就是關鍵時刻！
+快啊，艾达... 就是现在！
+やってくれるわ アネット…
+That bitch knows what she's doing...
+Cette garce sait ce qu'elle fait...
+Quella stronza sa il fatto suo.
+Das Miststück weiß, was sie tut...
+Esa zorra sabe lo que hace.
+Эта стерва знает, что делает...
+Ta suka wie, co robi...
+Essa vaca não brinca em serviço...
+자기 일은 참 잘한단 말이지...
+那個臭女人還真行...
+那个臭女人知道她正在做什么吗。。。
+<FONT 1>ゲストアカウントを確認</FONT><PAGE></n><FONT 1>リストタグの貸出期限は</n>[10月][1日]です</FONT><PAGE></n><FONT 1>期限内に返却してください</FONT><PAGE></n>たぶん無理ね
+Visitor clearance confirmed.<PAGE></n>Your ID is authorized until [OCTOBER] [FIRST].<PAGE></n>Please return before this date.<PAGE></n>Not gonna happen...
+Accès visiteur confirmé.<PAGE></n>Votre bracelet est valide jusqu'au [premier] [octobre].<PAGE></n>Veuillez le restituer avant cette date.<PAGE></n>Ça risque pas.
+Account ospite confermato.<PAGE></n>ID autorizzato fino al primo Ottobre.<PAGE></n>Restituirlo entro questa data.<PAGE></n>Non credo proprio.
+Besucherrechte bestätigt.<PAGE></n>Ihre ID ist gültig bis ERSTER OKTOBER.<PAGE></n>Bitte bis zu diesem Datum zurückgeben.<PAGE></n>Könnt ihr vergessen.
+Visitante autorizado.<PAGE></n>Su identidad está autorizada hasta [UNO] [OCTUBRE].<PAGE></n>Regrese antes de esa fecha.<PAGE></n>Ni hablar.
+Уровень доступа «Посетитель».<PAGE></n>Ваш ID действителен до даты [ПЕРВОЕ] [ОКТЯБРЯ].<PAGE></n>Вернитесь до истечения срока действия.<PAGE></n>Не дождешься...
+Potwierdzono uprawnienia gościa.<PAGE></n>Identyfikator ważny do [PIERWSZEGO] [PAŹDZIERNIKA].<PAGE></n>Proszę zwrócić go przed tą datą.<PAGE></n>Nic z tego...
+Autorização de visitante confirmada.<PAGE></n>Sua ID tem autorização até [PRIMEIRO] de [OUTUBRO].<PAGE></n>Volte antes dessa data.<PAGE></n>Pode esquecer...
+방문객 보안 허가 확인.<PAGE></n>귀하의 ID는 [10월] [1일]까지</n>유효합니다.<PAGE></n>그 이전까지 반납하시기 바랍니다.<PAGE></n>그럴 일은 없어...
+訪客權限已確認。<PAGE></n>您的 ID 有效期限至 [十] 月 [一] 日。<PAGE></n>請在日期截止前歸還。<PAGE></n>免談...
+访客权限已确认。<PAGE></n>您的身份识别有效期限至 [十] 月 [一] 日。<PAGE></n>请在日期截止前归还。<PAGE></n>想得美...
+<FONT 1>ゲストアカウントを確認</FONT>
+Visitor clearance confirmed.
+Accès visiteur confirmé.
+Account ospite confermato.
+Besucherrechte bestätigt.
+Visitante autorizado.
+Уровень доступа «Посетитель».
+Potwierdzono uprawnienia gościa.
+Autorização de visitante confirmada.
+방문객 보안 허가 확인.
+訪客權限已確認。
+访客权限已确认。
+<FONT 1>リストタグの貸出期限は</n>[10月][1日]です</FONT>
+Your ID is authorized until [OCTOBER] [FIRST].
+Votre bracelet est valide jusqu'au [premier] [octobre].
+ID autorizzato fino al primo Ottobre.
+Ihre ID ist gültig bis ERSTER OKTOBER.
+Su identidad está autorizada hasta [UNO] [OCTUBRE].
+Ваш ID действителен до даты [ПЕРВОЕ] [ОКТЯБРЯ].
+Identyfikator ważny do [PIERWSZEGO] [PAŹDZIERNIKA].
+Sua ID tem autorização até [PRIMEIRO] de [OUTUBRO].
+귀하의 ID는 [10월] [1일]까지</n>유효합니다.
+您的 ID 有效期限至 [十] 月 [一] 日。
+您的身份识别有效期限至 [十] 月 [一] 日。
+<FONT 1>期限内に返却してください</FONT>
+Please return before this date.
+Veuillez le restituer avant cette date.
+Restituirlo entro questa data.
+Bitte bis zu diesem Datum zurückgeben.
+Regrese antes de esa fecha.
+Вернитесь до истечения срока действия.
+Proszę zwrócić go przed tą datą.
+Volte antes dessa data.
+그 이전까지 반납하시기 바랍니다.
+請在日期截止前歸還。
+请在日期截止前归还。
+たぶん無理ね
+Not gonna happen...
+Ça risque pas.
+Non credo proprio.
+Könnt ihr vergessen.
+Ni hablar.
+Не дождешься...
+Nic z tego...
+Pode esquecer...
+그럴 일은 없어...
+免談...
+想得美...
+エイダ！<PAGE></n>どこだ！？
+Ada!?<PAGE></n>Where are you!?
+Ada !<PAGE></n>Où es-tu ?
+Ada?<PAGE></n>Dove è andata?
+Ada!?<PAGE></n>Wo bist du?!
+¿¡Ada!?<PAGE></n>¡¿Dónde estás?!
+Ада?!<PAGE></n>Где ты?!
+Ada!?<PAGE></n>Gdzie jesteś?!
+Ada?!<PAGE></n>Cadê você?!
+에이다!?<PAGE></n>어디 있어!?
+艾達！？<PAGE></n>你在哪！？
+艾达！？<PAGE></n>你在哪！？
+エイダ！
+Ada!?
+Ada !
+Ada?
+Ada!?
+¿¡Ada!?
+Ада?!
+Ada!?
+Ada?!
+에이다!?
+艾達！？
+艾达！？
+どこだ！？
+Where are you!?
+Où es-tu ?
+Dove è andata?
+Wo bist du?!
+¡¿Dónde estás?!
+Где ты?!
+Gdzie jesteś?!
+Cadê você?!
+어디 있어!?
+你在哪！？
+你在哪！？
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV589_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV590_0010_pl0000
+彼女はどこに…
+Where'd she go?
+Où est-elle passée ?
+Dov'è andata?
+Wo ist sie denn hin?
+¿Dónde estará?
+Куда она пропала?
+Gdzie się podziała?
+Pra onde ela foi?
+어디 간 거지?
+她跑哪去了？
+她去哪了？
+すばらしい臭いだ…
+That's a pleasant smell...
+Engagez-vous, qu'ils disaient...
+Che profumino...
+Das riecht angenehm.
+Qué olor tan agradable.
+Какой приятный запах...
+Przyjemny zapach...
+Que cheirinho gostoso...
+냄새 참 좋네...
+這氣味還真迷人...
+这气味还真迷人...
+クソッ！
+Argh... Shit!
+Pouah... Merde !
+Merda!
+Scheiße.
+Mierda.
+Ох... Твою мать!
+Aaa... Cholera!
+Argh... Merda!
+으윽... 젠장!
+呃啊... 該死！
+呃啊... 该死！
+何なんだ！？
+What the hell...!?
+C'est quoi ça ?!
+Cosa cazzo?
+Was zum Teufel?!
+¡¿Qué demonios...?!
+Какого черта?!
+Co do cholery...?!
+Mas que porra é essa?!
+도대체 뭐야...!?
+什麼鬼...！？
+搞什么鬼...！？
+息が… できない…
+Can't...breathe...
+Je peux pas... respirer.
+Non... respiro.
+Kann nicht... atmen...
+No puedo... respirar...
+Трудно... дышать...
+Nie mogę... oddychać...
+Não... consigo... respirar...
+숨을... 쉴 수가 없어...
+無法... 呼吸了...
+无法... 呼吸了...
+毒を… 出さないと…
+Need this...toxin...out...
+Faut que j'élimine... cette toxine...
+Devo eliminare... le tossine.
+Das Gift... muss... raus...
+Tengo que... eliminar la toxina.
+Нужно... вывести... токсин...
+Muszę pozbyć się... tej... toksyny...
+Preciso... tirar... essa... toxina...
+독소를... 빼내야... 해...
+必須... 趕快解毒...
+必须... 赶快解毒...
+ケーブルカー…</n>ここに…？
+A cable car...interesting.
+Un funiculaire... Intéressant.
+Una funicolare... Interessante.
+Eine Standseilbahn... Interessant.
+Un tranvía... Interesante.
+Фуникулер... Интересно.
+Kolejka linowa... ciekawe.
+Um bonde? Interessante...
+케이블 카라... 흥미로운걸.
+纜車... 有意思。
+缆车... 有意思。
+あのウィルス…<PAGE></n>ネズミが拡散させたのか
+The virus...<PAGE></n>I'll bet those rats spread it.
+Le virus...<PAGE></n>Je parie que ces rats l'ont propagé.
+Il virus.<PAGE></n>L'avranno diffuso i ratti.
+Das Virus...<PAGE></n>Ich wette, die Ratten verbreiten es.
+El virus...<PAGE></n>Esas ratas lo han esparcido.
+Вирус...<PAGE></n>Готов поспорить, что его разносят крысы.
+Wirus...<PAGE></n>Założę się, że rozprzestrzeniają go te szczury.
+O vírus...<PAGE></n>Aposto que foram os ratos que espalharam.
+바이러스...<PAGE></n>저 쥐새끼들이 퍼뜨린 게</n>분명하군.
+病毒...<PAGE></n>一定是透過老鼠散播的。
+病毒...<PAGE></n>一定是通过老鼠散播的。
+あのウィルス…
+The virus...
+Le virus...
+Il virus.
+Das Virus...
+El virus...
+Вирус...
+Wirus...
+O vírus...
+바이러스...
+病毒...
+病毒...
+ネズミが拡散させたのか
+I'll bet those rats spread it.
+Je parie que ces rats l'ont propagé.
+L'avranno diffuso i ratti.
+Ich wette, die Ratten verbreiten es.
+Esas ratas lo han esparcido.
+Готов поспорить, что его разносят крысы.
+Założę się, że rozprzestrzeniają go te szczury.
+Aposto que foram os ratos que espalharam.
+저 쥐새끼들이 퍼뜨린 게</n>분명하군.
+一定是透過老鼠散播的。
+一定是通过老鼠散播的。
+エイダ　今 行く
+I'm coming, Ada.
+J'arrive, Ada.
+Arrivo, Ada.
+Ich komme, Ada.
+Ya voy, Ada.
+Я иду, Ада.
+Już idę, Ada.
+Tô chegando, Ada.
+내가 갈게, 에이다.
+艾達，我來了。
+艾达，我来了。
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV443_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV444_0010_pl0000
+まったく… 最悪の光景だ
+Oh my god...this is getting worse!
+Oh bon sang... C'est de pire en pire !
+Oh Dio, ma è sempre peggio.
+Oh, mein Gott.</n>Das wird ja immer schlimmer!
+Oh Dios mío, ¡esto va a peor!
+О боже... Все хуже и хуже!
+O mój Boże... jest coraz gorzej!
+Meu Deus... a coisa tá piorando!
+세상에... 점점 심해지는군!
+我的天啊... 越來越糟糕了！
+天啊... 越来越糟了！
+何が起きたんだ！？
+What the hell was that!?
+C'était quoi ça ?
+Che diavolo era quello?
+Was zum Teufel war das?!
+¡¿Qué ha sido eso?!
+Это еще что за хреновина?
+Co to było, do cholery?!
+Que porra foi essa?!
+저게 도대체 뭐지!?
+那是什麼鬼東西！？
+那是什么鬼东西！？
+頼むよ…
+Come on...!
+Allez...
+Andiamo...
+Komm schon...
+Venga ya...
+Ну давай!..
+No dalej...!
+Qual é!
+제발 좀...!
+拜託！
+拜托！
+ちくしょう…
+Damn.
+Merde.
+Diavolo.
+Verdammt.
+Joder.
+Черт.
+Niech to!
+Merda.
+제길.
+可惡。
+可恶。
+エイダ　あともう少し…
+OK...almost there, Ada.
+OK... J'y suis presque, Ada.
+Ok... Ci sono quasi, Ada.
+Okay... bin fast da, Ada.
+Vale... Ya llego, Ada.
+Готово... Я уже близко, Ада.
+Dobra... zaraz będę, Ada.
+Certo... Falta pouco, Ada.
+좋아... 거의 다 왔어, 에이다.
+好... 艾達，我快到了。
+好... 艾达，我快到了。
+ダメだ<PAGE></n>電源が先か…
+Dammit!<PAGE></n>Need the power on first...
+Eh merde !<PAGE></n>Je dois rétablir le courant...
+Cazzo!<PAGE></n>Devo attivare la corrente.
+Verdammt!<PAGE></n>Muss erst den Strom einschalten...
+Mierda.<PAGE></n>Necesito electricidad...
+Проклятье!<PAGE></n>Нужно сначала включить питание...
+Niech to!<PAGE></n>Najpierw muszę włączyć zasilanie...
+Droga!<PAGE></n>Primeiro, eu preciso ligar a energia...
+젠장!<PAGE></n>먼저 전원을 공급해야겠어...
+可惡！<PAGE></n>必須先啟動電源...
+可恶！<PAGE></n>必须先启动电源...
+ダメだ
+Dammit!
+Eh merde !
+Cazzo!
+Verdammt!
+Mierda.
+Проклятье!
+Niech to!
+Droga!
+젠장!
+可惡！
+可恶！
+電源が先か…
+Need the power on first...
+Je dois rétablir le courant...
+Devo attivare la corrente.
+Muss erst den Strom einschalten...
+Necesito electricidad...
+Нужно сначала включить питание...
+Najpierw muszę włączyć zasilanie...
+Primeiro, eu preciso ligar a energia...
+먼저 전원을 공급해야겠어...
+必須先啟動電源...
+必须先启动电源...
+まずいぞ！
+Jesus Christ!
+Oh la vache !
+Ma che Cristo!
+Oh, mein Gott!
+¡Joder!
+Господи боже!
+Jezu Chryste!
+Santo Deus!
+세상에!
+老天爺啊！
+我的上帝啊！
+ちくしょう！
+Not good!
+Eh merde !
+Maledizione!
+Nicht gut!
+¡Joder!
+Плохо дело!
+Niedobrze!
+Isso não é bom!
+좋지 않군!
+不妙！
+不妙！
+あいつ生きてたのか
+It's still alive!?
+Il est encore vivant ?
+È ancora vivo?
+Er ist noch am Leben?
+¿Está vivo?
+Эта тварь еще жива?!
+Dalej żyje?!
+Aquilo ainda tá vivo?!
+아직도 살아 있어!?
+它還活著！？
+没事的。
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV456_0020_pl0000
+じっとしてろ！
+Now I got you!
+Cette fois je te tiens !
+Sei fottuto!
+Jetzt hab ich dich!
+¡Ya te tengo!
+Ну теперь держись!
+Teraz cię mam!
+Agora eu te peguei!
+이제 맛 좀 보여주지!
+這下你躲不掉了！
+这次我逮着你了！
+待ってろよ！
+Let's do this!
+Tu vas voir !
+Facciamola finita!
+Jetzt aber!
+Allá vamos.
+Сейчас ты у меня получишь!
+Do roboty!
+Vamos acabar com isso!
+해보자고!
+來吧！
+来吧！
+何か手はある…
+Gotta be another way...!
+Il doit y avoir un autre moyen !
+Ci sarà un altro modo!
+Muss 'n anderen Weg geben.
+Habrá otro modo...
+Должен быть другой способ!..
+Musi być inny sposób...!
+Deve ter outro jeito!
+다른 방법이 있을 텐데...!
+一定有別的辦法！
+一定还有其他办法！
+あのクレーンを使おう
+Bet I can use the crane...
+Je peux utiliser la grue...
+Forse posso usare la gru.
+Vielleicht der Kran...
+Podría usar la grúa...
+Думаю, кран может помочь...
+Założę się, że mogę użyć żurawia...
+Aposto que dá para usar o guindaste...
+저 크레인을 이용할 수 있겠군...
+我猜可以用起重機...
+祈祷我能用这起重机。。。
+これでお別れだといいが
+Let's hope that's the last of him.
+J'espère que c'est fini cette fois.
+Spero che questo sia l'ultimo.
+Ich hoffe, den bin ich los.
+Esperemos que sea la última vez.
+Надеюсь, теперь с ним покончено.
+Mam nadzieję, że już po nim.
+Tomara que tenha sido o nosso último encontro.
+저게 마지막이었다면 좋겠네.
+希望它不會再復活了。
+希望它不会再复活了。
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV458_0010_pl0000
+NESTへはケーブルカーで行けるわ<PAGE></n>このリストタグがあれば動かせる<PAGE></n>いいね<PAGE></n>どこでそれを？<PAGE></n>借りたの<PAGE></n>とにかく あと少しよ
+The cable car'll take us down to NEST.<PAGE></n>This wristband's our ticket to ride.<PAGE></n>Nice.<PAGE></n>Where'd you get that?<PAGE></n>Borrowed it.<PAGE></n>Anyway, we're almost there.
+Le funiculaire nous amènera au NEST.<PAGE></n>Ce bracelet est notre ticket.<PAGE></n>Bien.<PAGE></n>Tu l'as trouvé où ?<PAGE></n>Un emprunt.<PAGE></n>Mais peu importe, on y est presque.
+Andremo al NEST con la funicolare.<PAGE></n>Il braccialetto è il lasciapassare.<PAGE></n>Bene.<PAGE></n>Dove l'hai preso?<PAGE></n>In prestito.<PAGE></n>Comunque, ci siamo quasi.
+Die Standseilbahn bringt uns runter zum NEST.<PAGE></n>Dieses Armband ist unsere Fahrkarte.<PAGE></n>Nett.<PAGE></n>Woher hast du das?<PAGE></n>Ausgeliehen.<PAGE></n>Wie auch immer, wir sind fast da.
+El tranvía nos llevará a NEST.<PAGE></n>Esta pulsera es nuestro billete.<PAGE></n>Bien.<PAGE></n>¿De dónde...?<PAGE></n>La cogí.<PAGE></n>En fin, ya casi llegamos.
+Фуникулер отвезет нас в NEST.<PAGE></n>Этот браслет — наш проездной билет.<PAGE></n>Отлично.<PAGE></n>Откуда он у тебя?<PAGE></n>Позаимствовала.<PAGE></n>Ладно, мы почти на месте.
+Kolejka linowa prowadzi do NEST.<PAGE></n>Ta bransoleta to nasza przepustka.<PAGE></n>Nieźle.<PAGE></n>Skąd to masz?<PAGE></n>Pożyczyłam.<PAGE></n>No, to jesteśmy prawie na miejscu.
+O bonde vai levar até o NEST.<PAGE></n>Essa pulseira é o nosso bilhete.<PAGE></n>Ótimo...<PAGE></n>Onde você conseguiu ela?<PAGE></n>Peguei emprestada.<PAGE></n>Enfim, a gente tá quase lá.
+이 케이블 카로</n>네스트까지 이동할 수 있어.<PAGE></n>이 손목 밴드가 이용권이고.<PAGE></n>좋은데.<PAGE></n>어디서 구했어?<PAGE></n>빌렸지.<PAGE></n>어쨌든, 거의 다 왔어.
+這纜車可以載我們到下面的NEST。<PAGE></n>這個手環就是我們的車票。<PAGE></n>很好。<PAGE></n>你從哪裡拿到的？<PAGE></n>借來的。<PAGE></n>無論如何，我們就快到了。
+这台缆车可以载我们到下面的母巢。<PAGE></n>这个手环就是我们的车票。<PAGE></n>很好。<PAGE></n>你从哪弄到的？<PAGE></n>借来的。<PAGE></n>无论如何，我们就快到了。
+NESTへはケーブルカーで行けるわ
+The cable car'll take us down to NEST.
+Le funiculaire nous amènera au NEST.
+Andremo al NEST con la funicolare.
+Die Standseilbahn bringt uns runter zum NEST.
+El tranvía nos llevará a NEST.
+Фуникулер отвезет нас в NEST.
+Kolejka linowa prowadzi do NEST.
+O bonde vai levar até o NEST.
+이 케이블 카로</n>네스트까지 이동할 수 있어.
+這纜車可以載我們到下面的NEST。
+这台缆车可以载我们到下面的母巢。
+このリストタグがあれば動かせる
+This wristband's our ticket to ride.
+Ce bracelet est notre ticket.
+Il braccialetto è il lasciapassare.
+Dieses Armband ist unsere Fahrkarte.
+Esta pulsera es nuestro billete.
+Этот браслет — наш проездной билет.
+Ta bransoleta to nasza przepustka.
+Essa pulseira é o nosso bilhete.
+이 손목 밴드가 이용권이고.
+這個手環就是我們的車票。
+这个手环就是我们的车票。
+いいね
+Nice.
+Bien.
+Bene.
+Nett.
+Bien.
+Отлично.
+Nieźle.
+Ótimo...
+좋은데.
+很好。
+很好。
+どこでそれを？
+Where'd you get that?
+Tu l'as trouvé où ?
+Dove l'hai preso?
+Woher hast du das?
+¿De dónde...?
+Откуда он у тебя?
+Skąd to masz?
+Onde você conseguiu ela?
+어디서 구했어?
+你從哪裡拿到的？
+你从哪弄到的？
+借りたの
+Borrowed it.
+Un emprunt.
+In prestito.
+Ausgeliehen.
+La cogí.
+Позаимствовала.
+Pożyczyłam.
+Peguei emprestada.
+빌렸지.
+借來的。
+借来的。
+とにかく あと少しよ
+Anyway, we're almost there.
+Mais peu importe, on y est presque.
+Comunque, ci siamo quasi.
+Wie auch immer, wir sind fast da.
+En fin, ya casi llegamos.
+Ладно, мы почти на месте.
+No, to jesteśmy prawie na miejscu.
+Enfim, a gente tá quase lá.
+어쨌든, 거의 다 왔어.
+無論如何，我們就快到了。
+无论如何，我们就快到了。
+痛っ…　足が…<PAGE></n>かつごうか？<PAGE></n>結構よ<PAGE></n>子供じゃないんだから
+Urgh...this damn leg...<PAGE></n>Let me carry you—<PAGE></n>No.<PAGE></n>That'd only make me feel worse.
+Ah... ma jambe...<PAGE></n>Laisse-moi te porter.<PAGE></n>Non !<PAGE></n>Je me sentirais encore plus mal.
+Maledetta gamba...<PAGE></n>Lascia che ti aiuti.<PAGE></n>No.<PAGE></n>Non sono la tua ragazza.
+Ah... verdammtes Bein...<PAGE></n>Lass mich dich tragen...<PAGE></n>Nein.<PAGE></n>Ich würd mich nur schlechter fühlen.
+La maldita pierna...<PAGE></n>Deja que te lleve...<PAGE></n>No.<PAGE></n>Me haría sentir peor.
+Охх... чертова нога...<PAGE></n>Давай я тебя понесу...<PAGE></n>Нет.<PAGE></n>Мне только хуже станет.
+Uch… cholerna noga…<PAGE></n>Wezmę cię na ręce —<PAGE></n>Nie.<PAGE></n>To tylko pogorszy sprawę.
+Argh... Perna maldita...<PAGE></n>Deixa que eu te carrego...<PAGE></n>Não.<PAGE></n>Só vai fazer eu me sentir pior.
+윽... 다리가...<PAGE></n>내가 부축해줄게.<PAGE></n>됐어.<PAGE></n>기분만 더 나빠질 뿐이니까.
+嗚呃... 這該死的腿...<PAGE></n>我可以背你...<PAGE></n>不行。<PAGE></n>那只會讓我感覺更糟。
+呜呃... 可恶的腿...<PAGE></n>我可以背你...<PAGE></n>不了。<PAGE></n>那只会让我感觉更糟。
+痛っ…　足が…
+Urgh...this damn leg...
+Ah... ma jambe...
+Maledetta gamba...
+Ah... verdammtes Bein...
+La maldita pierna...
+Охх... чертова нога...
+Uch… cholerna noga…
+Argh... Perna maldita...
+윽... 다리가...
+嗚呃... 這該死的腿...
+呜呃... 可恶的腿...
+かつごうか？
+Let me carry you—
+Laisse-moi te porter.
+Lascia che ti aiuti.
+Lass mich dich tragen...
+Deja que te lleve...
+Давай я тебя понесу...
+Wezmę cię na ręce —
+Deixa que eu te carrego...
+내가 부축해줄게.
+我可以背你...
+我可以背你...
+結構よ
+No.
+Non !
+No.
+Nein.
+No.
+Нет.
+Nie.
+Não.
+됐어.
+不行。
+不了。
+子供じゃないんだから
+That'd only make me feel worse.
+Je me sentirais encore plus mal.
+Non sono la tua ragazza.
+Ich würd mich nur schlechter fühlen.
+Me haría sentir peor.
+Мне только хуже станет.
+To tylko pogorszy sprawę.
+Só vai fazer eu me sentir pior.
+기분만 더 나빠질 뿐이니까.
+那只會讓我感覺更糟。
+那只会让我感觉更糟。
+肩の具合は？<PAGE></n>見た目より痛い<PAGE></n>2人揃って――<PAGE></n>棺桶に片足入れてる
+How's the shoulder?<PAGE></n>Worse than it looks.<PAGE></n>What a pair.<PAGE></n>Both got one foot in the grave.
+Comment va ton épaule ?<PAGE></n>Pire que ça en a l'air.<PAGE></n>On fait la paire.<PAGE></n>Tous les deux un pied dans la tombe.
+Come va la spalla?<PAGE></n>Peggio di come sembri.<PAGE></n>Che bella coppia.<PAGE></n>Entrambi con un piede nella fossa.
+Wie ist die Schulter?<PAGE></n>Schlimmer als es aussieht.<PAGE></n>Was für ein Paar.<PAGE></n>Beide mit einem Fuß im Grab.
+¿Qué tal el hombro?<PAGE></n>Peor de lo que parece.<PAGE></n>Vaya par.<PAGE></n>Ambos con un pie en la tumba.
+Как плечо?<PAGE></n>Хуже, чем выглядит.<PAGE></n>Мы друг друга стоим.<PAGE></n>Оба одной ногой в могиле.
+Jak twój bark?<PAGE></n>Gorzej niż wygląda.<PAGE></n>Niezła z nas para.<PAGE></n>Oboje jedną nogą w grobie.
+E o seu ombro, tá melhor?<PAGE></n>Tá pior do que parece.<PAGE></n>A gente forma uma bela dupla...<PAGE></n>Os dois com o pé na cova.
+어깨는 어때?<PAGE></n>보이는 것보다 더 심각해.<PAGE></n>우리 좀 봐.<PAGE></n>둘 다 무덤에 발을 걸치고 있잖아.
+肩膀還好嗎？<PAGE></n>比看起來更慘。<PAGE></n>我們兩個真搭。<PAGE></n>都已經一腳踏進棺材了。
+肩膀还好吗？<PAGE></n>比看起来更惨。<PAGE></n>我们俩还真搭。<PAGE></n>都已经一脚踏进棺材了。
+肩の具合は？
+How's the shoulder?
+Comment va ton épaule ?
+Come va la spalla?
+Wie ist die Schulter?
+¿Qué tal el hombro?
+Как плечо?
+Jak twój bark?
+E o seu ombro, tá melhor?
+어깨는 어때?
+肩膀還好嗎？
+肩膀还好吗？
+見た目より痛い
+Worse than it looks.
+Pire que ça en a l'air.
+Peggio di come sembri.
+Schlimmer als es aussieht.
+Peor de lo que parece.
+Хуже, чем выглядит.
+Gorzej niż wygląda.
+Tá pior do que parece.
+보이는 것보다 더 심각해.
+比看起來更慘。
+比看起来更惨。
+2人揃って――
+What a pair.
+On fait la paire.
+Che bella coppia.
+Was für ein Paar.
+Vaya par.
+Мы друг друга стоим.
+Niezła z nas para.
+A gente forma uma bela dupla...
+우리 좀 봐.
+我們兩個真搭。
+我们俩还真搭。
+棺桶に片足入れてる
+Both got one foot in the grave.
+Tous les deux un pied dans la tombe.
+Entrambi con un piede nella fossa.
+Beide mit einem Fuß im Grab.
+Ambos con un pie en la tumba.
+Оба одной ногой в могиле.
+Oboje jedną nogą w grobie.
+Os dois com o pé na cova.
+둘 다 무덤에 발을 걸치고 있잖아.
+都已經一腳踏進棺材了。
+都已经一脚踏进棺材了。
+あれで目的地に行けるはず
+That should take us where we need to go.
+Ça devrait nous amener à bon port.
+Con questa dovremmo farcela.
+Das sollte uns zu unserem Ziel bringen.
+Con eso deberíamos llegar.
+Так, а вот и наш транспорт.
+W ten sposób powinniśmy dotrzeć na miejsce.
+O bonde deve levar aonde a gente precisa ir.
+이걸 타면 될 거야.
+搭那個應該就能到我們必須去的地方。
+搭那个应该就能到我们必须去的地方。
+着いたわ
+Here we are.
+On y est.
+Arrivati.
+Da wären wir.
+Ya estamos.
+Ну вот.
+Proszę bardzo.
+Entramos.
+가실까요.
+到了。
+到了。
+この先は片道切符よ<PAGE></n>覚悟はいい？　レオン
+This may be a one-way ride.<PAGE></n>So be prepared, Leon.
+Ça pourrait être un aller simple.<PAGE></n>J'espère que tu es prêt, Leon.
+Potremmo non tornare più...<PAGE></n>... quindi preparati, Leon.
+Wir kommen vielleicht nicht zurück.<PAGE></n>Bereite dich also vor, Leon.
+Puede que no volvamos.<PAGE></n>Así que prepárate.
+Возможно, обратно мы уже не вернемся.<PAGE></n>Будь готов, Леон.
+To może być bilet w jedną stronę.<PAGE></n>Przygotuj się, Leon.
+Talvez seja uma viagem sem volta.<PAGE></n>Então se prepara, Leon.
+편도행이 될 수도 있어.<PAGE></n>준비 단단히 해, 레온.
+這趟可能有去無回。<PAGE></n>里昂，你最好有所準備。
+这趟可能有去无回。<PAGE></n>里昂，你最好有所准备。
+この先は片道切符よ
+This may be a one-way ride.
+Ça pourrait être un aller simple.
+Potremmo non tornare più...
+Wir kommen vielleicht nicht zurück.
+Puede que no volvamos.
+Возможно, обратно мы уже не вернемся.
+To może być bilet w jedną stronę.
+Talvez seja uma viagem sem volta.
+편도행이 될 수도 있어.
+這趟可能有去無回。
+这趟可能有去无回。
+覚悟はいい？　レオン
+So be prepared, Leon.
+J'espère que tu es prêt, Leon.
+... quindi preparati, Leon.
+Bereite dich also vor, Leon.
+Así que prepárate.
+Будь готов, Леон.
+Przygotuj się, Leon.
+Então se prepara, Leon.
+준비 단단히 해, 레온.
+里昂，你最好有所準備。
+里昂，你最好有所准备。
+シェリーは彼女の娘？
+Sherry's...her daughter?
+Sherry... est sa fille ?
+Sherry è... sua figlia?
+Sherry ist ihre Tochter?
+¿Sherry es su hija...?
+Шерри... Ее дочь?
+Sherry to... jej córka?
+A Sherry é... filha dela?
+셰리의... 엄마인가?
+雪莉是... 她的女兒？
+雪莉是... 她的女儿？
+シェリーはどこ…？
+Where did Sherry go...?
+Où est passée Sherry ?
+Dov'è andata Sherry?
+Wo ist Sherry hin?
+¿Adónde ha ido Sherry...?
+Куда пропала Шерри?..
+Gdzie jest Sherry...?
+Pra onde a Sherry foi?
+셰리는 어딜 간 거지...?
+雪莉去哪了？
+雪莉去哪了？
+クソみたいな状況ね …文字通り
+Now I'm gonna smell like shit—literally.
+Et voilà, je suis dans la merde... au sens propre.
+Ora sono nella merda fino al collo... letteralmente.
+Jetzt riech ich wie Scheiße – buchstäblich.
+Ahora voy a oler a mierda, literalmente.
+Теперь от меня будет вонять... говном.
+Teraz będę śmierdzieć jak ściek... dosłownie.
+Agora a coisa vai feder... literalmente.
+개똥 같은 냄새야. 말 그대로 말이지.
+我這下子一定滿身屎味，說真的。
+我这下子一定满身屎味，说真的。
+もう 最低！
+Fuck this!
+Eh merde !
+Oh... fanculo!
+So 'ne Scheiße!
+¡Joder!
+Твою мать!
+Pieprzyć to!
+Puta merda!
+이런 개같은!
+我受夠了！
+我受够了！
+シェリー！？<PAGE></n>聞こえてる！？
+Sherry...!?<PAGE></n>Can you hear me!?
+Sherry ?<PAGE></n>Est-ce que tu m'entends ?
+Sherry?<PAGE></n>Dove sei?
+Sherry!?<PAGE></n>Kannst du mich hören?!
+¿Sherry?<PAGE></n>¿Puedes oírme?
+Шерри?!<PAGE></n>Ты меня слышишь?!
+Sherry...?!<PAGE></n>Słyszysz mnie?!
+Sherry?!<PAGE></n>Tá me ouvindo?!
+셰리...?!<PAGE></n>내 말 들려!?
+雪莉！？<PAGE></n>你聽得到我說話嗎？！
+雪莉！？<PAGE></n>你听得到我说话吗？！
+シェリー！？
+Sherry...!?
+Sherry ?
+Sherry?
+Sherry!?
+¿Sherry?
+Шерри?!
+Sherry...?!
+Sherry?!
+셰리...?!
+雪莉！？
+雪莉！？
+聞こえてる！？
+Can you hear me!?
+Est-ce que tu m'entends ?
+Dove sei?
+Kannst du mich hören?!
+¿Puedes oírme?
+Ты меня слышишь?!
+Słyszysz mnie?!
+Tá me ouvindo?!
+내 말 들려!?
+你聽得到我說話嗎？！
+你听得到我说话吗？！
+何なの！？
+What the fuck!?
+Putain de merde !
+Ma che cazzo?
+Was zur Hölle!?
+¡Joder!
+Что это за херня?!
+Co jest, kurwa?!
+Que porra é essa?!
+도대체 뭐야...!?
+搞什麼！？
+搞什么！？
+息できない…
+Can't breathe...
+J'étouffe...
+Non respiro.
+Kann nicht atmen...
+No respiro...
+Нечем дышать...
+Nie mogę oddychać...
+Não consigo respirar...
+숨을 못 쉬겠어...
+無法呼吸...
+无法呼吸...
+早く解毒… しなきゃ…
+Gotta...stop...toxin...
+Faut que... j'élimine... la toxine...
+Devo eliminare... Il veleno...
+Muss... Gift... stoppen...
+Debo... parar... la toxina...
+Нужно... остановить... токсин...
+Muszę się... zatrzymać... toksyna...
+Preciso... neutralizar... a toxina...
+독소를...차단해야...
+必須... 阻止... 毒素...
+必须... 阻止... 毒素...
+ケーブルカー？<PAGE></n>ここに？
+Cable car...<PAGE></n>Here...?
+Un funiculaire ?<PAGE></n>Ici ?
+Una funicolare?<PAGE></n>Qui?
+Standseilbahn...<PAGE></n>Hier?
+Un tranvía...<PAGE></n>¿Aquí...?
+Фуникулер...<PAGE></n>Здесь?..
+Kolejka linowa...<PAGE></n>Tutaj...?
+Um bonde...<PAGE></n>Aqui?!
+케이블 카...<PAGE></n>이런 곳에...?
+是纜車...<PAGE></n>在這種地方...？
+是缆车...<PAGE></n>在这种地方...？
+ケーブルカー？
+Cable car...
+Un funiculaire ?
+Una funicolare?
+Standseilbahn...
+Un tranvía...
+Фуникулер...
+Kolejka linowa...
+Um bonde...
+케이블 카...
+是纜車...
+是缆车...
+ここに？
+Here...?
+Ici ?
+Qui?
+Hier?
+¿Aquí...?
+Здесь?..
+Tutaj...?
+Aqui?!
+이런 곳에...?
+在這種地方...？
+在这种地方...？
+待っててシェリー</n>すぐ行くわ
+Hold on, Sherry...I'll be right there.
+Tiens bon, Sherry...
+Aspettami, Sherry... Sto arrivando.
+Halte durch, Sherry... Bin gleich da.
+Aguanta, Sherry... Ya llego.
+Подожди, Шерри... Я сейчас.
+Trzymaj się, Sherry... Już do ciebie idę.
+Aguenta aí, Sherry... Tô chegando.
+기다려, 셰리... 내가 금방 갈게.
+撐著，雪莉... 我馬上過去。
+撑住，雪莉... 我马上过去。
+見るんじゃなかった
+Glad I watched that...
+Contente d'avoir vu ça...
+Felice di averlo visto.
+Gut, dass ich das gesehn hab...
+Me alegro de haberlo visto.
+Что ж, было любопытно взглянуть...
+Cieszę się, że to obejrzałam...
+Que bom que eu vi esse vídeo...
+이걸 봐서 다행이네...
+幸好我看了...
+还好我看了...
+ああもう…</n>何ここ… 気味悪い
+OK...this place is...creepy.
+OK... Cet endroit est... flippant.
+Ok... questo posto è... inquietante.
+Okay... hier ist es... gruselig.
+Vale... Este sitio da miedo.
+Да уж... Жуткое местечко.
+Dobra... trochę tu... strasznie.
+Nossa... Aqui é... sinistro.
+그래... 여기 좀... 으스스한데.
+好... 這地方真的很... 噁心。
+好... 这地方真的很... 恶心。
+ひどい…<PAGE></n>あちこちに…
+Oh, Jesus...<PAGE></n>They're everywhere.
+Oh, bon sang...<PAGE></n>Ils sont partout.
+Che schifo...<PAGE></n>Sono ovunque.
+Oh, Gott.<PAGE></n>Die sind überall.
+Oh Dios...<PAGE></n>Son muchos.
+О господи...<PAGE></n>Они везде.
+O, Jezu...<PAGE></n>Są wszędzie.
+Ai, caramba...<PAGE></n>Eles estão por toda parte.
+이런, 세상에...<PAGE></n>사방에 있어.
+噢，天哪...<PAGE></n>到處都是！
+噢，天啊...<PAGE></n>到处都是！
+ひどい…
+Oh, Jesus...
+Oh, bon sang...
+Che schifo...
+Oh, Gott.
+Oh Dios...
+О господи...
+O, Jezu...
+Ai, caramba...
+이런, 세상에...
+噢，天哪...
+噢，天啊...
+あちこちに…
+They're everywhere.
+Ils sont partout.
+Sono ovunque.
+Die sind überall.
+Son muchos.
+Они везде.
+Są wszędzie.
+Eles estão por toda parte.
+사방에 있어.
+到處都是！
+到处都是！
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV474_0020_pl1000
+こういうの苦手なのよね…
+This is not my forte.
+C'est clairement pas mon fort.
+Questo non è il mio forte.
+Das ist nicht meine Stärke.
+Esto no es mi fuerte.
+Да, это явно не по моей части.
+To nie jest moja mocna strona.
+Não é a minha especialidade...
+이런 재주는 없다고.
+這可不是我的專長。
+这可不是我的专长。
+パズルは大嫌い
+God, I hate puzzles.
+Je hais les puzzles.
+Quanto odio i puzzle.
+Gott, ich hasse Puzzles.
+Odio los puzles.
+Боже, ненавижу головоломки.
+Boże, nie cierpię zagadek.
+Ai, detesto quebra-cabeça.
+진짜, 난 퍼즐이 싫어.
+天哪，我討厭解謎。
+天啊，我讨厌解谜。
+頑張ってシェリー… もう少し
+Alright, Sherry...on my way.
+OK, Sherry... Me voilà.
+Arrivo, Sherry. Tieni duro.
+Okay, Sherry...</n>Bin auf dem Weg.
+Aguanta, Sherry... Ya voy.
+Готово... Шерри, я иду.
+Dobra, Sherry... już idę.
+Certo, Sherry... Tô indo.
+좋아, 셰리... 내가 갈게.
+好了，雪莉... 我快到了。
+好了，雪莉... 我快到了。
+電源が落ちてるか…
+Power must be out...
+Le courant doit être coupé...
+Forse non c'è corrente.
+Der Strom muss aus sein...
+No hay corriente...
+Должно быть, нет питания...
+Chyba nie ma prądu...
+A energia deve estar desligada...
+전원이 끊겼네...
+一定是停電了...
+一定是停电了...
+ふざけないで！
+Oh, shit!
+Oh, merde !
+Merda!
+Scheiße!
+¡¡Joder!!
+О черт!
+O kurwa!
+Ai, merda!
+헉, 뭐야!
+噢，該死！
+噢，该死！
+ああ 最悪
+...Seriously!?
+Sérieusement ?
+Non è possibile!
+Im Ernst jetzt?!
+¡¿En serio?!
+Только этого не хватало!
+...Serio?!
+Jura?!
+...진심!?
+... 不會吧！？
+... 不会吧！？
+やっぱり生きてたのね
+Should've known you wouldn't die!
+J'aurais dû me douter que tu reviendrais !
+Ma perché cavolo non vuole morire?
+Hätte wissen sollen, du stirbst nicht!
+Sabía que no morirías.
+Так и знала, что ты не сдохнешь!
+Dlaczego mnie nie dziwi, że nie umierasz?!
+Eu já devia saber que você não morre fácil!
+안 죽었을 줄 진작에 알았어야 했는데!
+早該知道你不會死的！
+早该知道你不会死！
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV481_0020_pl1000
+サプライズプレゼントよ
+Have I got a surprise for you...!
+J'ai une petite surprise pour toi !
+Ho un regalino per te!
+Ich hab' eine Überraschung für dich!
+Tengo una sorpresa para ti...
+У меня для тебя сюрприз!..
+Mam dla ciebie niespodziankę...!
+Eu tenho uma surpresinha pra você!
+깜짝 선물 좀 준비해봤어...!
+我有個驚喜要給你！
+我有个惊喜要给你！
+さあ… アンコールの時間よ
+Alright...time for an encore!
+OK... Même joueur joue encore !
+Come dici? Ne vuoi ancora?
+Okay... Zeit für die Zugabe!
+Vale, vamos a repetir.
+Ладно... Пора с этим кончать!
+Dobra, pora na bis!
+Beleza... Hora do repeteco!
+좋아... 한 번 더!
+好了... 安可時間到！
+好了…再次尝试吧！
+何か手があるはずよ…
+There's gotta be something I can do!
+Je dois pouvoir faire quelque chose !
+Ci sarà qualcosa che posso fare!
+Ich muss doch irgendwas tun können!
+Tiene que haber algo más...
+Должно же тут быть что-то полезное!
+Musi dać się coś zrobić!
+Deve ter alguma coisa que eu possa fazer!
+뭔가 방법이 있을 텐데!
+一定有什麼方法！
+一定有什么方法！
+クレーンが使えるかも
+The crane might work!
+Avec la grue !
+La gru funzionerà!
+Vielleicht mit dem Kran!
+¡La grúa!
+Нужно попробовать кран!
+Może ten żuraw zadziała!
+O guindaste pode funcionar!
+크레인이면 될 거야!
+起重機可能有用！
+起重机可能有用！
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV485_0010_pl1000
+ごめんねシェリー</n>待たせちゃって
+I'm so sorry Sherry... This is taking forever...
+Je suis désolée, Sherry...</n>C'est plus long que prévu...
+Scusami Sherry. Ci vorrà un po' di tempo.
+Tut mir so leid, Sherry.</n>Das dauert alles ewig...
+Lo siento, Sherry... Estoy tardando demasiado...
+Прости меня, Шерри... Быстрее не получается...
+Tak mi przykro, Sherry... Tyle to trwa...
+Perdão, Sherry... Tô demorando demais...
+정말 미안해, 셰리...</n>너무 오래 걸렸어...
+對不起，雪莉... 真的花太久了...
+对不起，雪莉... 我花太久时间了...
+アネットが「研究所は近くにある」って<PAGE></n>待って</n>あのケーブルカー…
+Annette said her lab's not far.<PAGE></n>Wait, that cable car...
+Annette a dit que son labo n'était pas loin.<PAGE></n>Attends... Le funiculaire...
+Annette ha detto che il laboratorio è vicino.<PAGE></n>Aspetta... Quella funicolare...
+Annette sagte, ihr Labor ist nicht weit.<PAGE></n>Moment – die Standseilbahn...
+Annette dijo que estaba cerca.<PAGE></n>Espera, el tranvía...
+Аннет сказала, ее лаборатория недалеко.<PAGE></n>Стоп, этот фуникулер...
+Annette mówiła, że laboratorium jest niedaleko.<PAGE></n>Chwila, kolejka linowa...
+A Annette disse que o laboratório dela não tá longe.<PAGE></n>Peraí, aquele bonde...
+아네트는 연구실이</n>멀지 않은 곳에 있다고 했어.<PAGE></n>잠깐, 저 케이블 카가...
+雅妮說她的實驗室不遠。<PAGE></n>等等，那輛纜車...
+亚妮说她的实验室不远。<PAGE></n>等等，那辆缆车...
+アネットが「研究所は近くにある」って
+Annette said her lab's not far.
+Annette a dit que son labo n'était pas loin.
+Annette ha detto che il laboratorio è vicino.
+Annette sagte, ihr Labor ist nicht weit.
+Annette dijo que estaba cerca.
+Аннет сказала, ее лаборатория недалеко.
+Annette mówiła, że laboratorium jest niedaleko.
+A Annette disse que o laboratório dela não tá longe.
+아네트는 연구실이</n>멀지 않은 곳에 있다고 했어.
+雅妮說她的實驗室不遠。
+亚妮说她的实验室不远。
+待って</n>あのケーブルカー…
+Wait, that cable car...
+Attends... Le funiculaire...
+Aspetta... Quella funicolare...
+Moment – die Standseilbahn...
+Espera, el tranvía...
+Стоп, этот фуникулер...
+Chwila, kolejka linowa...
+Peraí, aquele bonde...
+잠깐, 저 케이블 카가...
+等等，那輛纜車...
+等等，那辆缆车...
+もう少しだからね<PAGE></n>あと少し…
+Almost there, Sherry.<PAGE></n>We're almost there...
+On y est presque, Sherry.<PAGE></n>On y est presque...
+Sherry, su, andiamo, tieni duro.<PAGE></n>Ci siamo quasi...
+Sind fast da, Sherry.<PAGE></n>Wir sind fast da...
+Ya casi estamos. <PAGE></n>Ya llegamos.
+Я уже рядом, Шерри.<PAGE></n>Мы уже рядом...
+Jeszcze trochę, Sherry.<PAGE></n>Jesteśmy prawie na miejscu...
+Quase lá, Sherry.<PAGE></n>A gente tá quase lá...
+거의 다 왔어, 셰리.<PAGE></n>거의 다 왔어...
+雪莉，我就快到了。<PAGE></n>我們就快到了...
+雪莉，就快到了。<PAGE></n>我们就快到了...
+頑張って シェリー
+Hold on, Sherry.
+Tiens bon, Sherry.
+Sono qui, Sherry.
+Halt durch, Sherry.
+Aguanta, Sherry.
+Держись, Шерри.
+Trzymaj się, Sherry.
+Aguenta firme, Sherry.
+버텨줘, 셰리.
+撐著，雪莉。
+撑着，雪莉。
+すぐ治してあげる
+You're gonna be fine.
+Tout va s'arranger.
+Andrà tutto bene.
+Du wirst schon wieder.
+Todo irá bien.
+Все будет в порядке.
+Wszystko będzie dobrze.
+Você vai ficar bem.
+괜찮을 거야.
+你不會有事的。
+你不会有事的。
+頑張って シェリー<PAGE></n>すぐ治してあげる
+Hold on, Sherry.<PAGE></n>You're gonna be fine.
+Tiens bon, Sherry.<PAGE></n>Tout va s'arranger.
+Sono qui, Sherry.<PAGE></n>Andrà tutto bene.
+Halt durch, Sherry.<PAGE></n>Du wirst schon wieder.
+Aguanta, Sherry.<PAGE></n>Todo irá bien.
+Держись, Шерри.<PAGE></n>Все будет в порядке.
+Trzymaj się, Sherry.<PAGE></n>Wszystko będzie dobrze.
+Aguenta firme, Sherry.<PAGE></n>Você vai ficar bem.
+버텨줘, 셰리.<PAGE></n>괜찮을 거야.
+撐著，雪莉。<PAGE></n>你不會有事的。
+撑着，雪莉。<PAGE></n>你不会有事的。
+もう少しだからね
+Almost there, Sherry.
+On y est presque, Sherry.
+Sherry, su, andiamo, tieni duro.
+Sind fast da, Sherry.
+Ya casi estamos. 
+Я уже рядом, Шерри.
+Jeszcze trochę, Sherry.
+Quase lá, Sherry.
+거의 다 왔어, 셰리.
+雪莉，我就快到了。
+雪莉，就快到了。
+あと少し…
+We're almost there...
+On y est presque...
+Ci siamo quasi...
+Wir sind fast da...
+Ya llegamos.
+Мы уже рядом...
+Jesteśmy prawie na miejscu...
+A gente tá quase lá...
+거의 다 왔어...
+我們就快到了...
+我们就快到了...
+よし ケーブルカーよ
+Oh, good. The cable car.
+Super. Le funiculaire.
+Finalmente! La funicolare.
+Oh, gut. Die Seilbahn.
+Genial. El tranvía.
+О, отлично. Фуникулер.
+Och, dobrze. Kolejka linowa.
+Ah, que bom. O bonde...
+아, 잘 됐다. 케이블 카네.
+噢，很好。可以搭纜車。
+噢，很好。可以搭缆车。
+ここへは… もう戻れないかも<PAGE></n>忘れ物ないかな
+OK...better check everything.<PAGE></n>There's no turning back...
+Bon... J'espère que j'ai rien oublié.<PAGE></n>On pourra pas revenir...
+Ok... Spero di non aver dimenticato niente.<PAGE></n>Da qui non si torna.
+Okay... sollte alles überprüfen.<PAGE></n>Es gibt kein Zurück...
+Vale... He de mirar bien.<PAGE></n>No hay marcha atrás...
+Ладно... Нужно все проверить.<PAGE></n>Пути назад не будет...
+Dobra... lepiej wszystko sprawdzę.<PAGE></n>Nie ma odwrotu...
+Tá... Melhor eu conferir tudo.<PAGE></n>Não tem volta...
+좋아... 죄다 확인해보는 게 좋겠어.<PAGE></n>물러설 수는 없으니까…
+好... 最好做個全面檢查。<PAGE></n>接下來就無法回頭了...
+好... 最好做个全面检查。<PAGE></n>接下来就无法回头了...
+ここへは… もう戻れないかも
+OK...better check everything.
+Bon... J'espère que j'ai rien oublié.
+Ok... Spero di non aver dimenticato niente.
+Okay... sollte alles überprüfen.
+Vale... He de mirar bien.
+Ладно... Нужно все проверить.
+Dobra... lepiej wszystko sprawdzę.
+Tá... Melhor eu conferir tudo.
+좋아... 죄다 확인해보는 게 좋겠어.
+好... 最好做個全面檢查。
+好... 最好做个全面检查。
+忘れ物ないかな
+There's no turning back...
+On pourra pas revenir...
+Da qui non si torna.
+Es gibt kein Zurück...
+No hay marcha atrás...
+Пути назад не будет...
+Nie ma odwrotu...
+Não tem volta...
+물러설 수는 없으니까…
+接下來就無法回頭了...
+接下来就无法回头了...
+<MCVO>こちらはNEST直通です<PAGE></n>到着まで しばらくお待ちください
+<MCVO>This tram is bound for NEST.<PAGE></n>Do not exit until the final destination.
+<MCVO>Cette navette va au NEST.<PAGE></n>Veuillez ne pas sortir avant la destination finale.
+<MCVO>Questa vettura è diretta al NEST.<PAGE></n>Non uscire fino a destinazione raggiunta.
+<MCVO>Diese Bahn fährt zum NEST.<PAGE></n>Steigen Sie nicht aus, bevor wir unser Ziel erreichen.
+<MCVO>Tranvía con destino a NEST.<PAGE></n>No salga hasta el destino final.
+<MCVO>Фуникулер направляется в NEST.<PAGE></n>Не покидайте вагон, пока не прибудете в пункт назначения.
+<MCVO>Ta kolejka prowadzi do NEST.<PAGE></n>Proszę nie wysiadać przed ostatnim przystankiem.
+<MCVO>
+<MCVO>
+<MCVO>Este bonde segue até o NEST.<PAGE></n>Não saia do bonde antes da parada final.
+<MCVO>네스트행입니다.<PAGE></n>최종 목적지에 도달할 때까지</n>하차하지 마십시오.
+<MCVO>本車開往NEST。<PAGE></n>到達終點站前請勿下車。
+<MCVO>本车开往母巢。<PAGE></n>到达终点站前请勿下车。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+こちらはNEST直通です
+This tram is bound for NEST.
+Cette navette va au NEST.
+Questa vettura è diretta al NEST.
+Diese Bahn fährt zum NEST.
+Tranvía con destino a NEST.
+Фуникулер направляется в NEST.
+Ta kolejka prowadzi do NEST.
+Este bonde segue até o NEST.
+네스트행입니다.
+本車開往NEST。
+本车开往母巢。
+到着まで しばらくお待ちください
+Do not exit until the final destination.
+Veuillez ne pas sortir avant la destination finale.
+Non uscire fino a destinazione raggiunta.
+Steigen Sie nicht aus, bevor wir unser Ziel erreichen.
+No salga hasta el destino final.
+Не покидайте вагон, пока не прибудете в пункт назначения.
+Proszę nie wysiadać przed ostatnim przystankiem.
+Não saia do bonde antes da parada final.
+최종 목적지에 도달할 때까지</n>하차하지 마십시오.
+到達終點站前請勿下車。
+到达终点站前请勿下车。

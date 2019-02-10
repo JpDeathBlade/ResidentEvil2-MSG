@@ -1,0 +1,32 @@
+﻿テスト用ファイル（1）
+「使わない」ステータスのチェック中。</n>次のページが「使わない」ステータスです。
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+<COLOR FF0000>#Rejected#</COLOR> Mes_File_47_02
+前のページに警告文が出てたら良い。
+<END>

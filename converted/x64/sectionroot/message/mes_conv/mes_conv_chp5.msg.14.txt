@@ -1,0 +1,3997 @@
+﻿１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６
+<MCVO>隔壁が完全に開放されるまで</n>しばらくお待ちください
+<MCVO>For your safety, stand clear until the doors are fully open.
+<MCVO>Pour votre sécurité, veuillez attendre</n>l'ouverture complète des portes.
+<MCVO>Per sicurezza, attendere che le porte siano completamente aperte.
+<MCVO>Halten Sie bitte Abstand,</n>bis die Türen vollständig geöffnet wurden.
+<MCVO>Por su seguridad, espere hasta que</n>las puertas se abran del todo.
+<MCVO>В целях безопасности не подходите к дверям,</n>пока они полностью не откроются.
+<MCVO>Ze względów bezpieczeństwa proszę nie podchodzić do drzwi</n>aż do ich całkowitego otwarcia.
+<MCVO>
+<MCVO>
+<MCVO>Para sua segurança, espere a abertura completa das portas.
+<MCVO>안전을 위해, 문이 완전히 열릴 때까지</n>뒤로 물러서시기 바랍니다.
+<MCVO>為了您的安全，門完全打開前請勿靠近。
+<MCVO>为了您的安全，车门完全打开前请勿靠近。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>ようこそNESTへ<PAGE></n>ご訪問を歓迎いたします
+<MCVO>Welcome to NEST.<PAGE></n>Enjoy your visit.
+<MCVO>Bienvenue au NEST.<PAGE></n>Agréable visite à tous.
+<MCVO>Benvenuti al NEST.<PAGE></n>Godetevi la visita.
+<MCVO>Willkommen im NEST.<PAGE></n>Genießen Sie Ihren Aufenthalt.
+<MCVO>Bienvenidos a NEST.<PAGE></n>Disfruten de su visita.
+<MCVO>Добро пожаловать в NEST.<PAGE></n>Желаем приятно провести время.
+<MCVO>Witamy w NEST.<PAGE></n>Życzymy miłego pobytu.
+<MCVO>
+<MCVO>
+<MCVO>Bem-vindos ao NEST.<PAGE></n>Tenham uma ótima visita.
+<MCVO>네스트에 오신 걸 환영합니다.<PAGE></n>즐거운 방문 되십시오.
+<MCVO>歡迎來到NEST。<PAGE></n>祝您參訪愉快。
+<MCVO>欢迎来到母巢。<PAGE></n>祝您参访愉快。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+ようこそNESTへ
+Welcome to NEST.
+Bienvenue au NEST.
+Benvenuti al NEST.
+Willkommen im NEST.
+Bienvenidos a NEST.
+Добро пожаловать в NEST.
+Witamy w NEST.
+Bem-vindos ao NEST.
+네스트에 오신 걸 환영합니다.
+歡迎來到NEST。
+欢迎来到母巢。
+ご訪問を歓迎いたします
+Enjoy your visit.
+Agréable visite à tous.
+Godetevi la visita.
+Genießen Sie Ihren Aufenthalt.
+Disfruten de su visita.
+Желаем приятно провести время.
+Życzymy miłego pobytu.
+Tenham uma ótima visita.
+즐거운 방문 되십시오.
+祝您參訪愉快。
+祝您参访愉快。
+さて… G-ウィルスはどこだ？
+OK... I wonder where the G-Virus is?
+OK... Je me demande où est le virus G.
+Ok. Dove terranno il virus G?
+Okay... Ich frage mich, wo das G-Virus ist?
+Vale... ¿Dónde estará el virus G?
+Так... Интересно, где Г-вирус?
+Dobra... ciekawe, gdzie jest wirus G.
+Certo... Onde será que tá o Vírus G?
+좋아... G 바이러스는 어디 있는 거지?
+好... 不知道 G 病毒在哪裡？
+好的…我想要知道G病毒在哪里？
+<PAGE></n>必ず治すわ<PAGE></n>頑張ってシェリー</n>大丈夫よ
+<PAGE></n>I'm getting you treatment.<PAGE></n>Just hold on, Sherry. It's OK.
+<PAGE></n>Je vais te soigner.<PAGE></n>Tiens bon, Sherry. Ça va aller.
+<PAGE></n>Cerco la medicina.<PAGE></n>Sherry, va tutto bene.
+<PAGE></n>Ich bring dir ein Heilmittel.<PAGE></n>Halt einfach durch, Sherry. Ist okay.
+<PAGE></n>Vamos a curarte.<PAGE></n>Aguanta, Sherry. Todo irá bien.
+<PAGE></n>Я найду лекарство.<PAGE></n>Держись, Шерри. Все хорошо.
+<PAGE></n>Zdobędę dla ciebie lekarstwo.<PAGE></n>Trzymaj się, Sherry. Wszystko jest w porządku.
+<PAGE></n>Tô indo pegar um remédio pra você.<PAGE></n>Aguenta firme, Sherry. Vai ficar tudo bem.
+<PAGE></n>치료약을 갖다 줄게.<PAGE></n>조금만 기다려줘, 셰리. 괜찮아.
+<PAGE></n>我會想辦法治好你的。<PAGE></n>撐著，雪莉。
+<PAGE></n>我会想办法 治好你的。 撑着，雪莉。<PAGE></n>没事的 。
+必ず治すわ
+I'm getting you treatment.
+Je vais te soigner.
+Cerco la medicina.
+Ich bring dir ein Heilmittel.
+Vamos a curarte.
+Я найду лекарство.
+Zdobędę dla ciebie lekarstwo.
+Tô indo pegar um remédio pra você.
+치료약을 갖다 줄게.
+我會想辦法治好你的。
+我会想办法 治好你的。 撑着，雪莉。
+頑張ってシェリー</n>大丈夫よ
+Just hold on, Sherry. It's OK.
+Tiens bon, Sherry. Ça va aller.
+Sherry, va tutto bene.
+Halt einfach durch, Sherry. Ist okay.
+Aguanta, Sherry. Todo irá bien.
+Держись, Шерри. Все хорошо.
+Trzymaj się, Sherry. Wszystko jest w porządku.
+Aguenta firme, Sherry. Vai ficar tudo bem.
+조금만 기다려줘, 셰리. 괜찮아.
+撐著，雪莉。
+没事的 。
+<MCVO>この先は職員専用エリアです<PAGE></n>ゲストの方の立ち入りはご遠慮ください
+<MCVO>Authorized staff only beyond this point.<PAGE></n>Guests must refrain from entering.
+<MCVO>Cette zone est réservée au personnel habilité.<PAGE></n>Les visiteurs ne sont pas autorisés à entrer.
+<MCVO>Accesso consentito solo al personale autorizzato.<PAGE></n>L'accesso è vietato ai visitatori.
+<MCVO>Zugang ab hier nur für autorisiertes Personal.<PAGE></n>Gäste haben keinen Zutritt.
+<MCVO>Acceso solo a personal autorizado.<PAGE></n>Acceso a invitados restringido.
+<MCVO>Только для персонала с правом доступа.<PAGE></n>Посетителям вход запрещен.
+<MCVO>Wstęp tylko dla upoważnionego personelu.<PAGE></n>Wstęp dla gości wzbroniony.
+<MCVO>
+<MCVO>
+<MCVO>Apenas funcionários autorizados a partir daqui.<PAGE></n>Visitantes não podem entrar.
+<MCVO>이 지점부터는 승인된 직원만 출입할 수 있습니다.<PAGE></n>방문객은 입장을 삼가주십시오.
+<MCVO>僅限授權員工進入此區。<PAGE></n>訪客請勿進入。
+<MCVO>仅限授权员工进入此区。<PAGE></n>访客请勿进入。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+この先は職員専用エリアです
+Authorized staff only beyond this point.
+Cette zone est réservée au personnel habilité.
+Accesso consentito solo al personale autorizzato.
+Zugang ab hier nur für autorisiertes Personal.
+Acceso solo a personal autorizado.
+Только для персонала с правом доступа.
+Wstęp tylko dla upoważnionego personelu.
+Apenas funcionários autorizados a partir daqui.
+이 지점부터는 승인된 직원만 출입할 수 있습니다.
+僅限授權員工進入此區。
+仅限授权员工进入此区。
+ゲストの方の立ち入りはご遠慮ください
+Guests must refrain from entering.
+Les visiteurs ne sont pas autorisés à entrer.
+L'accesso è vietato ai visitatori.
+Gäste haben keinen Zutritt.
+Acceso a invitados restringido.
+Посетителям вход запрещен.
+Wstęp dla gości wzbroniony.
+Visitantes não podem entrar.
+방문객은 입장을 삼가주십시오.
+訪客請勿進入。
+访客请勿进入。
+<MCVO>最新の生化学研究に基づいて</n>バランスの取れたメニューをご提供します<PAGE></n>健康的でおいしい食事をお楽しみください
+<MCVO>Our menu is designed for your nutritional needs</n>using our latest biological research.<PAGE></n>Please enjoy our tasty selection of healthy foods.
+<MCVO>Notre menu basé sur nos recherches biologiques</n>répond à tous vos besoins nutritionnels.<PAGE></n>Goûtez notre sélection d'aliments bons pour la santé.
+<MCVO>I nostri menu vengono incontro alle vostre esigenze</n>grazie alle più avanzate tecnologie.<PAGE></n>Provate i nostri piatti, ideali per una sana alimentazione.
+<MCVO>Unser Menü ist basierend auf unserer aktuellsten</n>Bio-Forschung auf Ihren Nährstoffbedarf zugeschnitten.<PAGE></n>Genießen Sie unsere Auswahl gesunder Nahrungsmittel.
+<MCVO>Nuestro menú cubrirá sus necesidades nutricionales</n>gracias a nuestros avances en biología.<PAGE></n>Disfrute de nuestra selección de comidas saludables.
+<MCVO>Наше меню содержит все необходимые питательные вещества</n>и основано на последних биологических исследованиях.<PAGE></n>Насладитесь нашей коллекцией вкусных и здоровых блюд.
+<MCVO>Nasze menu przygotowano na podstawie badań naukowych</n>i umożliwia ono zaspokojenie potrzeb żywieniowych.<PAGE></n>Życzymy miłego delektowania się naszą zdrową żywnością.
+<MCVO>
+<MCVO>
+<MCVO>Desenvolvemos nosso cardápio pensando em suas necessidades</n>nutricionais, com base em nossas pesquisas mais recentes.<PAGE></n>Aproveite nossa seleção deliciosa de alimentos saudáveis.
+<MCVO>메뉴는 우리의 최신 생물 연구를 통해</n>필요 영양을 공급하도록 구성됐습니다.<PAGE></n>저희가 준비한 건강하고 맛있는</n>음식을 즐겨 주시기 바랍니다.
+<MCVO>我們的菜單根據最先進的生物研究結果，</n>專為您的營養需求所設計。<PAGE></n>請享用我們美味的健康餐點。
+<MCVO>我们的菜单根据最先进的生物研究结果，</n>专为您的营养需求所设计。<PAGE></n>请享用我们的美味健康餐点。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+最新の生化学研究に基づいて</n>バランスの取れたメニューをご提供します
+Our menu is designed for your nutritional needs</n>using our latest biological research.
+Notre menu basé sur nos recherches biologiques</n>répond à tous vos besoins nutritionnels.
+I nostri menu vengono incontro alle vostre esigenze</n>grazie alle più avanzate tecnologie.
+Unser Menü ist basierend auf unserer aktuellsten</n>Bio-Forschung auf Ihren Nährstoffbedarf zugeschnitten.
+Nuestro menú cubrirá sus necesidades nutricionales</n>gracias a nuestros avances en biología.
+Наше меню содержит все необходимые питательные вещества</n>и основано на последних биологических исследованиях.
+Nasze menu przygotowano na podstawie badań naukowych</n>i umożliwia ono zaspokojenie potrzeb żywieniowych.
+Desenvolvemos nosso cardápio pensando em suas necessidades</n>nutricionais, com base em nossas pesquisas mais recentes.
+메뉴는 우리의 최신 생물 연구를 통해</n>필요 영양을 공급하도록 구성됐습니다.
+我們的菜單根據最先進的生物研究結果，</n>專為您的營養需求所設計。
+我们的菜单根据最先进的生物研究结果，</n>专为您的营养需求所设计。
+健康的でおいしい食事をお楽しみください
+Please enjoy our tasty selection of healthy foods.
+Goûtez notre sélection d'aliments bons pour la santé.
+Provate i nostri piatti, ideali per una sana alimentazione.
+Genießen Sie unsere Auswahl gesunder Nahrungsmittel.
+Disfrute de nuestra selección de comidas saludables.
+Насладитесь нашей коллекцией вкусных и здоровых блюд.
+Życzymy miłego delektowania się naszą zdrową żywnością.
+Aproveite nossa seleção deliciosa de alimentos saudáveis.
+저희가 준비한 건강하고 맛있는</n>음식을 즐겨 주시기 바랍니다.
+請享用我們美味的健康餐點。
+请享用我们的美味健康餐点。
+こいつは使えそうだ
+This might come in handy.
+Ça pourrait me servir.
+Questo mi tornerà utile.
+Das könnte nützlich sein.
+Esto puede servirme.
+Может пригодиться.
+To może się przydać.
+Isso pode ser útil.
+이거 쓸모가 있겠어.
+這可能會有用。
+这可能会有用。
+これ使えそう
+This should come in handy.
+Ça devrait être utile.
+Questo mi sarà utile.
+Das sollte nützlich sein.
+Esto me servirá.
+Сгодится.
+To powinno się przydać.
+Talvez isso seja útil.
+이거 쓸모가 있겠어.
+這一定會有用。
+这一定会有用。
+<MCVO>リー研究員 カートライト部長がお呼びです</n>イーストエリアへお越しください
+<MCVO>Dr. Li, your presence is urgently requested by Chief Cartwright</n>in the East Area.
+<MCVO>Dr. Li, le Chef Cartwright vous demande</n>de toute urgence dans la zone est.
+<MCVO>Dr. Li, il direttore Cartwright la desidera</n>con urgenza nell'area est.
+<MCVO>Dr. Li, Chief Cartwright erfordert dringend Ihre</n>Anwesenheit im Ostbereich.</n>
+<MCVO>Dr. Li, el Jefe Cartwright le necesita</n>urgentemente en el área este.
+<MCVO>Доктор Ли, вас срочно вызывает шеф Картрайт.</n>Явитесь в восточное крыло.
+<MCVO>Doktorze Li, dowódca Cartwright pilnie Pana potrzebuje</n>w obszarze wschodnim.
+<MCVO>
+<MCVO>
+<MCVO>Dr. Li, o chefe Cartwright exige sua presença</n>com urgência na Área Leste.
+<MCVO>리 박사님, 동쪽 구역으로 와 달라는</n>카트라이트 주임님의 긴급 요청입니다.
+<MCVO>李博士，卡特萊特局長請您立刻到東區。
+<MCVO>李医师，卡特怀特局长请您立刻到</n>东区。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+G-ウィルスはウェストエリアか…よし
+G-Virus is in the West Area... Got it.
+Le virus G est dans la zone ouest... compris.
+Il virus G è nell'area ovest. Bene.
+Das G-Virus ist im Westbereich...</n>Alles klar.
+Virus G en el área oeste... Vale.
+Г-вирус в западном крыле... Ясно.
+Wirus G jest w obszarze zachodnim... rozumiem.
+O Vírus G tá na Área Oeste... Entendi.
+G 바이러스가 서쪽 구역에 있다고... 알겠어.
+G 病毒在西區... 懂了。
+G 病毒在西区... 收到。
+それじゃ…</n>抗ウィルス剤はウェストエリアか…
+So...the antiviral agent's in the West Area.
+Donc l'agent antiviral est dans la zone ouest.
+Ok. L'agente antivirale è nell'area ovest.
+Also ist das Antivirus im Westbereich.
+Así que el agente anti-vírico esté en el área oeste.
+Значит, антивирус в западном крыле.
+A zatem... środek antywirusowy jest w obszarze zachodnim.
+Então... o agente antiviral tá na Área Oeste.
+그러니까... 백신은 서쪽 구역에 있다는 거네.
+所以... 抗病毒劑在西區。
+所以... 抗病毒剂在西区。
+<MCVO>アクセスには上級職員権限が必要です
+<MCVO>Senior Staff clearance required for bridge access.
+<MCVO>L'accès à la passerelle est réservé aux cadres supérieurs.
+<MCVO>Accesso al ponte riservato al personale dirigente.
+<MCVO>Führungspersonalrechte für Brückenzugang erforderlich.
+<MCVO>El acceso al puente requiere</n>autorización de un superior.
+<MCVO>Для доступа к мосту требуется допуск старшего персонала.
+<MCVO>Wstęp na most wymaga uprawnień personelu wyższego szczebla.
+<MCVO>
+<MCVO>
+<MCVO>Autorização de Executivo necessária para acesso à ponte.
+<MCVO>다리에 접근하려면</n>고급 보안 허가가 필요합니다.
+<MCVO>需主管級員工安全層級才能操作橋樑。
+<MCVO>需高级职员安全层级才能操作桥梁。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>アクセスには上級職員権限が必要です
+<MCVO>Senior Staff clearance required for computer access.
+<MCVO>L'accès à l'ordinateur est réservé aux cadres supérieurs.
+<MCVO>Accesso al computer riservato al personale dirigente.
+<MCVO>Führungspersonalrechte für Computerzugriff erforderlich.
+<MCVO>El acceso al ordenador requiere</n>autorización de un superior.
+<MCVO>Для доступа к компьютеру требуется допуск старшего персонала.
+<MCVO>Dostęp do komputera wymaga uprawnień personelu wyższego szczebla.
+<MCVO>
+<MCVO>
+<MCVO>Autorização de Executivo necessária para acesso ao computador.
+<MCVO>컴퓨터에 접근하려면</n>고급 보안 허가가 필요합니다.
+<MCVO>需主管級員工安全層級才能使用電腦。
+<MCVO>需高级职员安全层级才能使用计算机。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+一体… 何があったんだ…
+Jesus... What happened here?
+Bon sang... Qu'est-ce qui s'est passé ici ?
+Merda... Cos'è successo qui?
+Oh, Gott...</n>Was ist hier passiert?
+Dios... ¿Qué ha pasado aquí?
+Боже... Что тут случилось?
+Jezu... Co tu się stało?
+Meu Deus... O que aconteceu aqui?
+세상에... 도대체 무슨 일이 있었던 거지?
+天啊... 這裡怎麼了？
+天啊... 这里怎么了？
+ああ ひどい…</n>何があったの
+Oh, god. That's...terrible.
+Oh mon Dieu... C'est affreux !
+Oddio! È terribile!
+Oh, Gott.</n>Das ist furchtbar.
+Dios, es terrible...
+Боже мой. Какой... ужас.
+O Boże. To... straszne.
+Meu Deus... Que coisa horrível...
+이런, 세상에나. 정말...끔찍해.
+天啊，太... 可怕了。
+天啊，太... 可怕了。
+<MCVO>カートリッジが空です<PAGE></n>薬液を充填してください
+<MCVO>Cartridge empty.<PAGE></n>Refill with treatment solution.
+<MCVO>Cartouche vide.<PAGE></n>Veuillez la remplir avec une solution.
+<MCVO>Contenitore vuoto.<PAGE></n>Riempire con una soluzione.
+<MCVO>Kartusche leer.<PAGE></n>Bitte mit Lösung nachfüllen.
+<MCVO>Cartucho agotado.<PAGE></n>Rellénelo con nuevo tratamiento.
+<MCVO>Картридж пуст.<PAGE></n>Наполните его рабочим раствором.
+<MCVO>Pojemnik jest pusty.<PAGE></n>Proszę napełnić go roztworem.
+<MCVO>
+<MCVO>
+<MCVO>Contêiner vazio.<PAGE></n>Reabasteça com solução de tratamento.
+<MCVO>카트리지가 비었습니다.<PAGE></n>치료 용액을 채워 주십시오.
+<MCVO>噴灑罐是空的。<PAGE></n>請補充藥劑。
+<MCVO>喷洒罐是空的。<PAGE></n>请补充药剂。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+カートリッジが空です
+Cartridge empty.
+Cartouche vide.
+Contenitore vuoto.
+Kartusche leer.
+Cartucho agotado.
+Картридж пуст.
+Pojemnik jest pusty.
+Contêiner vazio.
+카트리지가 비었습니다.
+噴灑罐是空的。
+喷洒罐是空的。
+薬液を充填してください
+Refill with treatment solution.
+Veuillez la remplir avec une solution.
+Riempire con una soluzione.
+Bitte mit Lösung nachfüllen.
+Rellénelo con nuevo tratamiento.
+Наполните его рабочим раствором.
+Proszę napełnić go roztworem.
+Reabasteça com solução de tratamento.
+치료 용액을 채워 주십시오.
+請補充藥劑。
+请补充药剂。
+<MCVO>エラー</n>カートリッジが空です<PAGE></n>薬液を充填してください
+<MCVO>Error: Empty cartridge.<PAGE></n>Refill with treatment solution.
+<MCVO>Erreur : Cartouche vide.<PAGE></n>Veuillez la remplir avec une solution.
+<MCVO>Errore: contenitore vuoto.<PAGE></n>Riempire con una soluzione.
+<MCVO>Fehler: Kartusche leer.<PAGE></n>Bitte mit Lösung nachfüllen.
+<MCVO>Error: cartucho agotado.<PAGE></n>Rellénelo con nuevo tratamiento.
+<MCVO>Ошибка: картридж пуст.<PAGE></n>Наполните его рабочим раствором.
+<MCVO>Błąd: Pusty pojemnik.<PAGE></n>Proszę napełnić go roztworem.
+<MCVO>
+<MCVO>
+<MCVO>Erro: contêiner vazio.<PAGE></n>Reabasteça com solução de tratamento.
+<MCVO>오류: 카트리지가 비어 있음.<PAGE></n>치료 용액을 채워 주십시오.
+<MCVO>錯誤：噴灑罐是空的。<PAGE></n>請補充藥劑。
+<MCVO>错误：喷洒罐是空的。<PAGE></n>请补充药剂。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+エラー</n>カートリッジが空です
+Error: Empty cartridge.
+Erreur : Cartouche vide.
+Errore: contenitore vuoto.
+Fehler: Kartusche leer.
+Error: cartucho agotado.
+Ошибка: картридж пуст.
+Błąd: Pusty pojemnik.
+Erro: contêiner vazio.
+오류: 카트리지가 비어 있음.
+錯誤：噴灑罐是空的。
+错误：喷洒罐是空的。
+薬液を充填してください
+Refill with treatment solution.
+Veuillez la remplir avec une solution.
+Riempire con una soluzione.
+Bitte mit Lösung nachfüllen.
+Rellénelo con nuevo tratamiento.
+Наполните его рабочим раствором.
+Proszę napełnić go roztworem.
+Reabasteça com solução de tratamento.
+치료 용액을 채워 주십시오.
+請補充藥劑。
+请补充药剂。
+<MCVO>エラー</n>薬液の温度が 適切な範囲ではありません
+<MCVO>ERROR: Solution temperature is outside acceptable range.
+<MCVO>Erreur : Température de la solution en dehors des limites acceptables.
+<MCVO>Errore: la temperatura della soluzione è oltre i limiti.
+<MCVO>Fehler: Temperatur der Lösung</n>außerhalb des akzeptablen Bereichs.
+<MCVO>Error: La temperatura del tratamiento no es la adecuada.
+<MCVO>ОШИБКА: температура раствора вне допустимых пределов.
+<MCVO>BŁĄD: Temperatura roztworu poza dopuszczalnym zakresem.
+<MCVO>
+<MCVO>
+<MCVO>ERRO: a temperatura da solução está fora da faixa aceitável.
+<MCVO>오류: 용액의 온도가</n>허용 범위를 벗어납니다.
+<MCVO>錯誤：藥劑溫度超出容許範圍。
+<MCVO>错误：药剂温度超出容许范围。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV369_0040_vo0080
+<MCVO>現在 マニュアルモードです<PAGE></n>カートリッジに合うように</n>液量を調整してください
+<MCVO>Manual mode engaged.<PAGE></n>Adjust amount of solution to match cartridge capacity.
+<MCVO>Mode manuel activé.<PAGE></n>Ajustez le volume de solution en fonction de la cartouche.
+<MCVO>Modalità manuale attivata.<PAGE></n>Regolare la soluzione in base alla capacità del contenitore.
+<MCVO>Manueller Modus aktiviert.<PAGE></n>Bitte Lösungsmenge an Kartuschenkapazität anpassen.
+<MCVO>Modo manual activado.<PAGE></n>Equipare el tratamiento</n>con la capacidad del cartucho.
+<MCVO>Включен ручной режим.<PAGE></n>Настройте объем раствора в соответствии с вместимостью картриджа.
+<MCVO>Aktywowano tryb ręczny.<PAGE></n>Proszę dostosować ilość roztworu do wielkości pojemnika.
+<MCVO>
+<MCVO>
+<MCVO>Modo manual ativado.<PAGE></n>Ajuste a dose da solução de acordo com a capacidade do contêiner.
+<MCVO>수동 모드 시작.<PAGE></n>카트리지 용량에 맞게</n>용액의 양을 조절하십시오.
+<MCVO>啟動手動模式。<PAGE></n>請根據噴灑罐容量調整藥劑量。
+<MCVO>启动手动模式。<PAGE></n>请根据喷洒罐容量调整药剂量。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+現在 マニュアルモードです
+Manual mode engaged.
+Mode manuel activé.
+Modalità manuale attivata.
+Manueller Modus aktiviert.
+Modo manual activado.
+Включен ручной режим.
+Aktywowano tryb ręczny.
+Modo manual ativado.
+수동 모드 시작.
+啟動手動模式。
+启动手动模式。
+カートリッジに合うように</n>液量を調整してください
+Adjust amount of solution to match cartridge capacity.
+Ajustez le volume de solution en fonction de la cartouche.
+Regolare la soluzione in base alla capacità del contenitore.
+Bitte Lösungsmenge an Kartuschenkapazität anpassen.
+Equipare el tratamiento</n>con la capacidad del cartucho.
+Настройте объем раствора в соответствии с вместимостью картриджа.
+Proszę dostosować ilość roztworu do wielkości pojemnika.
+Ajuste a dose da solução de acordo com a capacidade do contêiner.
+카트리지 용량에 맞게</n>용액의 양을 조절하십시오.
+請根據噴灑罐容量調整藥劑量。
+请根据喷洒罐容量调整药剂量。
+<MCVO>薬液を充填しました
+<MCVO>Solution refilled.
+<MCVO>Cartouche remplie.
+<MCVO>Soluzione ricaricata.
+<MCVO>Lösung nachgefüllt.
+<MCVO>Tratamiento rellenado.
+<MCVO>Картридж заполнен.
+<MCVO>Uzupełniono roztwór.
+<MCVO>
+<MCVO>
+<MCVO>Solução reabastecida.
+<MCVO>용액이 채워졌습니다.
+<MCVO>藥劑已補充。
+<MCVO>药剂已补充。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV372_0020_vo0080
+<PAGE></n>氷漬けにされちまう
+<PAGE></n>Who left the freezer open!?
+<PAGE></n>Qui a laissé le congélo ouvert ?
+<PAGE></n>Chi ha lasciato il freezer aperto?
+<PAGE></n>Wer hat den Gefrierschrank aufgelassen?
+<PAGE></n>¿Quién ha abierto el congelador?
+<PAGE></n>Кто открыл морозилку?!
+<PAGE></n>Kto nie zamknął zamrażarki!?
+<PAGE></n>Quem deixou a geladeira aberta?!
+<PAGE></n>누가 냉장고를 열어둔 거야!?
+<PAGE></n>誰忘了關冰箱？
+<PAGE></n>谁忘了关冰箱！？
+氷漬けにされちまう
+Who left the freezer open!?
+Qui a laissé le congélo ouvert ?
+Chi ha lasciato il freezer aperto?
+Wer hat den Gefrierschrank aufgelassen?
+¿Quién ha abierto el congelador?
+Кто открыл морозилку?!
+Kto nie zamknął zamrażarki!?
+Quem deixou a geladeira aberta?!
+누가 냉장고를 열어둔 거야!?
+誰忘了關冰箱？
+谁忘了关冰箱！？
+<PAGE></n>さむ… この格好は大失敗
+<PAGE></n>Damn... Shoulda packed my parka.
+<PAGE></n>Si j'avais su, j'aurais pris ma parka.
+<PAGE></n>Cavolo. Avrei dovuto portarmi il cappotto.
+<PAGE></n>Verdammt. Hätte meinen Parka einpacken sollen.
+<PAGE></n>Vaya. Debería haber traído un abrigo.
+<PAGE></n>Черт... Надо было захватить что-нибудь потеплее.
+<PAGE></n>Niech to… Szkoda, że nie wzięłam puchówki.
+<PAGE></n>Droga. Eu devia ter trazido um casaco.
+<PAGE></n>이런... 파카 가져올걸 그랬네.
+<PAGE></n>可惡。應該帶防寒外套的。
+<PAGE></n>可恶... 应该带防寒外套的。
+さむ… この格好は大失敗
+Damn... Shoulda packed my parka.
+Si j'avais su, j'aurais pris ma parka.
+Cavolo. Avrei dovuto portarmi il cappotto.
+Verdammt. Hätte meinen Parka einpacken sollen.
+Vaya. Debería haber traído un abrigo.
+Черт... Надо было захватить что-нибудь потеплее.
+Niech to… Szkoda, że nie wzięłam puchówki.
+Droga. Eu devia ter trazido um casaco.
+이런... 파카 가져올걸 그랬네.
+可惡。應該帶防寒外套的。
+可恶... 应该带防寒外套的。
+<MCVO>おかえりなさい リー研究員<PAGE></n>メッセージが［5］件あります
+<MCVO>Welcome back, Dr. Li.<PAGE></n>You have [5] new messages.
+<MCVO>Bienvenue, Dr. Li.<PAGE></n>Vous avez [5] nouveaux messages.
+<MCVO>Bentornato Dr. Li.<PAGE></n>Ci sono [5] nuovi messaggi.
+<MCVO>Willkommen zurück, Dr. Li.<PAGE></n>Sie haben 5 neue Nachrichten.
+<MCVO>Bienvenido, Dr. Li.<PAGE></n>Tiene [5] mensajes nuevos.
+<MCVO>Здравствуйте, доктор Ли.<PAGE></n>У вас [5] новых сообщений.
+<MCVO>Witamy, doktorze Li.<PAGE></n>Ma pan [5] nowych wiadomości.
+<MCVO>
+<MCVO>
+<MCVO>Bem-vindo, Dr. Li.<PAGE></n>Você tem [5] mensagens novas.
+<MCVO>어서 오세요, 리 박사님.<PAGE></n>현재 [5]개의 신규 메시지가 있습니다.
+<MCVO>李博士，歡迎回來。<PAGE></n>您有 [5] 則新訊息。
+<MCVO>李医师，欢迎回来。<PAGE></n>您有 [5] 则新信息。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+おかえりなさい リー研究員
+Welcome back, Dr. Li.
+Bienvenue, Dr. Li.
+Bentornato Dr. Li.
+Willkommen zurück, Dr. Li.
+Bienvenido, Dr. Li.
+Здравствуйте, доктор Ли.
+Witamy, doktorze Li.
+Bem-vindo, Dr. Li.
+어서 오세요, 리 박사님.
+李博士，歡迎回來。
+李医师，欢迎回来。
+メッセージが［5］件あります
+You have [5] new messages.
+Vous avez [5] nouveaux messages.
+Ci sono [5] nuovi messaggi.
+Sie haben 5 neue Nachrichten.
+Tiene [5] mensajes nuevos.
+У вас [5] новых сообщений.
+Ma pan [5] nowych wiadomości.
+Você tem [5] mensagens novas.
+현재 [5]개의 신규 메시지가 있습니다.
+您有 [5] 則新訊息。
+您有 [5] 则新信息。
+<MCVO>おかえりなさい リー研究員
+<MCVO>Welcome back, Dr. Li.
+<MCVO>Bienvenue, Dr. Li.
+<MCVO>Bentornato, Dottor Li.
+<MCVO>Willkommen zurück, Dr. Li.
+<MCVO>Bienvenido, Dr. Li.
+<MCVO>Здравствуйте, доктор Ли.
+<MCVO>Witamy, doktorze Li.
+<MCVO>
+<MCVO>
+<MCVO>Bem-vindo, Dr. Li.
+<MCVO>어서 오세요, 리 박사님.
+<MCVO>李博士，歡迎回來。
+<MCVO>李博士，欢迎回来。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>メッセージが［4］件あります
+<MCVO>You have [4] new messages.
+<MCVO>Vous avez [4] nouveaux messages.
+<MCVO>Ci sono [4] nuovi messaggi.
+<MCVO>Sie haben 4 neue Nachrichten.
+<MCVO>Tiene [4] mensajes nuevos.
+<MCVO>У вас [4] новых сообщения.
+<MCVO>Ma Pan nowe wiadomości w liczbie [4].
+<MCVO>
+<MCVO>
+<MCVO>Você tem [4] mensagens novas.
+<MCVO>현재 [4]개의 신규 메시지가 있습니다.
+<MCVO>您有 [4] 則新訊息。
+<MCVO>您有 [4] 则新信息。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>おかえりなさい リー研究員
+<MCVO>Welcome back, Dr. Li.
+<MCVO>Bienvenue, Dr. Li.
+<MCVO>Bentornato, Dottor Li.
+<MCVO>Willkommen zurück, Dr. Li.
+<MCVO>Bienvenido, Dr. Li.
+<MCVO>Здравствуйте, доктор Ли.
+<MCVO>Witamy, doktorze Li.
+<MCVO>
+<MCVO>
+<MCVO>Bem-vindo, Dr. Li.
+<MCVO>어서 오세요, 리 박사님.
+<MCVO>李博士，歡迎回來。
+<MCVO>李医师，欢迎回来。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>メッセージが［3］件あります
+<MCVO>You have [3] new messages.
+<MCVO>Vous avez [3] nouveaux messages.
+<MCVO>Ci sono [3] nuovi messaggi.
+<MCVO>Sie haben 3 neue Nachrichten.
+<MCVO>Tiene [3] mensajes nuevos.
+<MCVO>У вас [3] новых сообщения.
+<MCVO>Ma Pan nowe wiadomości w liczbie [3].
+<MCVO>
+<MCVO>
+<MCVO>Você tem [3] mensagens novas.
+<MCVO>현재 [3]개의 신규 메시지가 있습니다.
+<MCVO>您有 [3] 則新訊息。
+<MCVO>您有 [3] 则新信息。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>おかえりなさい リー研究員
+<MCVO>Welcome back, Dr. Li.
+<MCVO>Bienvenue, Dr. Li.
+<MCVO>Bentornato, Dottor Li.
+<MCVO>Willkommen zurück, Dr. Li.
+<MCVO>Bienvenido, Dr. Li.
+<MCVO>Здравствуйте, доктор Ли.
+<MCVO>Witamy, doktorze Li.
+<MCVO>
+<MCVO>
+<MCVO>Bem-vindo, Dr. Li.
+<MCVO>어서 오세요, 리 박사님.
+<MCVO>李博士，歡迎回來。
+<MCVO>李医师，欢迎回来。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>メッセージが［2］件あります
+<MCVO>You have [2] new messages.
+<MCVO>Vous avez [2] nouveaux messages.
+<MCVO>Ci sono [2] nuovi messaggi.
+<MCVO>Sie haben 2 neue Nachrichten.
+<MCVO>Tiene [2] mensajes nuevos.
+<MCVO>У вас [2] новых сообщения.
+<MCVO>Ma Pan nowe wiadomości w liczbie [2].
+<MCVO>
+<MCVO>
+<MCVO>Você tem [2] mensagens novas.
+<MCVO>현재 [2]개의 신규 메시지가 있습니다.
+<MCVO>您有 [2] 則新訊息。
+<MCVO>您有 [2] 则新信息。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>おかえりなさい リー研究員
+<MCVO>Welcome back, Dr. Li.
+<MCVO>Bienvenue, Dr. Li.
+<MCVO>Bentornato, Dottor Li.
+<MCVO>Willkommen zurück, Dr. Li.
+<MCVO>Bienvenido, Dr. Li.
+<MCVO>Здравствуйте, доктор Ли.
+<MCVO>Witamy, doktorze Li.
+<MCVO>
+<MCVO>
+<MCVO>Bem-vindo, Dr. Li.
+<MCVO>어서 오세요, 리 박사님.
+<MCVO>李博士，歡迎回來。
+<MCVO>李医师，欢迎回来。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>メッセージが［1］件あります
+<MCVO>You have [1] new message.
+<MCVO>Vous avez [1] nouveau message.
+<MCVO>C'è [1] nuovo messaggio.
+<MCVO>Sie haben 1 neue Nachricht.
+<MCVO>Tiene [1] mensaje nuevo.
+<MCVO>У вас [1] новое сообщение.
+<MCVO>Ma Pan nowe wiadomości w liczbie [1].
+<MCVO>
+<MCVO>
+<MCVO>Você tem [1] mensagem nova.
+<MCVO>현재 [1]개의 신규 메시지가 있습니다.
+<MCVO>您有 [1] 則新訊息。
+<MCVO>您有 [1] 则新信息。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV375_0010_vo0080
+<MCVO>冷却が終了しました
+<MCVO>Cooling complete.
+<MCVO>Refroidissement terminé.
+<MCVO>Raffreddamento completato.
+<MCVO>Kühlvorgang abgeschlossen.
+<MCVO>Enfriamiento completado.
+<MCVO>Охлаждение завершено.
+<MCVO>Zakończono chłodzenie.
+<MCVO>
+<MCVO>
+<MCVO>Refrigeração concluída.
+<MCVO>냉각 완료.
+<MCVO>冷卻完成。
+<MCVO>冷却完成。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV376_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV600_0010_vo0080
+これでよし
+That did the trick.
+Ça a marché.
+Ha funzionato.
+Das hat funktioniert.
+Ha funcionado.
+Сработало.
+No i po sprawie.
+Pronto, resolvido.
+이거면 되겠지.
+成功了。
+成功了。
+雑草は駆除しないとね
+So much for the weed infestation.
+Ça, c'est ce que j'appelle désherber.
+Davvero un ottimo diserbante.
+So viel zum Thema Unkrautbefall.
+Vaya éxito con la plaga.
+Подумаешь тоже, сорняки разрослись.
+Chwasty wytępione.
+Problema de erva-daninha: resolvido.
+식물 습격은 이쯤 해야겠네.
+雜草肆虐就到此為止了。
+杂草肆虐就到此为止了。
+<MCVO>警告　規定の濃度を超えた薬液が</n>許可なく散布されました<PAGE></n>この操作はログに保存され</n>あなたは懲戒処分される可能性があります
+<MCVO>Warning: You have dispersed a dangerous solution</n>without authorization.<PAGE></n>Your actions have been logged and you</n>may be subject to disciplinary measures.
+<MCVO>Alerte : Vous avez répandu une solution</n>dangereuse sans autorisation.<PAGE></n>Vos actions ont été enregistrées et vous pourrez</n>faire l'objet de mesures disciplinaires.
+<MCVO>Attenzione. Soluzione pericolosa dispersa senza autorizzazione.<PAGE></n>Siete stati monitorati e sarete soggetti a misure disciplinari.
+<MCVO>Warnung: Sie haben ohne Genehmigung</n>eine gefährliche Lösung zerstäubt.<PAGE></n>Ihre Taten wurden aufgezeichnet und Sie müssen</n>sich etwaigen Disziplinarmaßnahmen unterziehen.
+<MCVO>Atención: Ha dispersado un tratamiento</n>peligroso sin autorización.<PAGE></n>Sus acciones han sido registradas y</n>será sujeto a medidas disciplinarias.
+<MCVO>Внимание! Вы распылили опасный раствор</n>без получения предварительного разрешения.<PAGE></n>Ваши действия задокументированы, и против вас могут быть</n>применены дисциплинарные меры.
+<MCVO>Ostrzeżenie: Rozpylono niebezpieczny roztwór</n>bez upoważnienia.<PAGE></n>Działania zostały zarejestrowane i mogą</n>skutkować postępowaniem dyscyplinarnym.
+<MCVO>
+<MCVO>
+<MCVO>Aviso: você espalhou uma solução perigosa</n>sem autorização.<PAGE></n>Suas ações foram registradas e você poderá</n>sofrer medidas disciplinares.
+<MCVO>경고: 위험 용액을 승인 없이 살포했습니다.<PAGE></n>귀하의 활동이 기록되었으며 징계 조치가 내려질 수 있습니다.
+<MCVO>警告：您未經授權就噴灑危險藥劑。</n><PAGE></n>系統已記錄您的行為，您可能會受到懲戒。</n>
+<MCVO>警告：您未经授权就喷洒危险药剂。</n><PAGE></n>系统已记录您的行为，</n>您可能会受到惩戒。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+警告　規定の濃度を超えた薬液が</n>許可なく散布されました
+Warning: You have dispersed a dangerous solution</n>without authorization.
+Alerte : Vous avez répandu une solution</n>dangereuse sans autorisation.
+Attenzione. Soluzione pericolosa dispersa senza autorizzazione.
+Warnung: Sie haben ohne Genehmigung</n>eine gefährliche Lösung zerstäubt.
+Atención: Ha dispersado un tratamiento</n>peligroso sin autorización.
+Внимание! Вы распылили опасный раствор</n>без получения предварительного разрешения.
+Ostrzeżenie: Rozpylono niebezpieczny roztwór</n>bez upoważnienia.
+Aviso: você espalhou uma solução perigosa</n>sem autorização.
+경고: 위험 용액을 승인 없이 살포했습니다.
+警告：您未經授權就噴灑危險藥劑。</n>
+警告：您未经授权就喷洒危险药剂。</n>
+この操作はログに保存され</n>あなたは懲戒処分される可能性があります
+Your actions have been logged and you</n>may be subject to disciplinary measures.
+Vos actions ont été enregistrées et vous pourrez</n>faire l'objet de mesures disciplinaires.
+Siete stati monitorati e sarete soggetti a misure disciplinari.
+Ihre Taten wurden aufgezeichnet und Sie müssen</n>sich etwaigen Disziplinarmaßnahmen unterziehen.
+Sus acciones han sido registradas y</n>será sujeto a medidas disciplinarias.
+Ваши действия задокументированы, и против вас могут быть</n>применены дисциплинарные меры.
+Działania zostały zarejestrowane i mogą</n>skutkować postępowaniem dyscyplinarnym.
+Suas ações foram registradas e você poderá</n>sofrer medidas disciplinares.
+귀하의 활동이 기록되었으며 징계 조치가 내려질 수 있습니다.
+系統已記錄您的行為，您可能會受到懲戒。</n>
+系统已记录您的行为，</n>您可能会受到惩戒。
+クソッ！　またあいつか！？
+Shit. Him again!?
+Merde ! Encore lui ?
+Merda. Di nuovo?
+Scheiße.</n>Er schon wieder?!
+¡Mierda! ¡¿Él otra vez?!
+Черт. Опять он?!
+Cholera. Znowu on?!
+Merda. Ele de novo?!
+젠장. 또 저 자식이야!?
+糟糕。又是他！？
+糟糕。又是他！？
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV494_0020_vo0080
+<MCVO>おかえりなさい カートライト部長<PAGE></n>メッセージが［2］件あります
+<MCVO>Welcome back, Chief Cartwright.<PAGE></n>You have [2] new messages.
+<MCVO>Bienvenue, Chef Cartwright.<PAGE></n>Vous avez [2] nouveaux messages.
+<MCVO>Bentornato, direttore Cartwright.<PAGE></n>Ci sono [2] nuovi messaggi.
+<MCVO>Willkommen zurück, Chief Cartwright.<PAGE></n>Sie haben 2 neue Nachrichten.
+<MCVO>Bienvenido, Jefe Cartwright.<PAGE></n>Tiene [2] mensajes nuevos.
+<MCVO>С возвращением, шеф Картрайт.<PAGE></n>У вас [2] новых сообщения.
+<MCVO>Witamy, Panie Cartwright.<PAGE></n>Ma Pan nowe wiadomości w liczbie [2].
+<MCVO>
+<MCVO>
+<MCVO>Bem-vindo de volta, chefe Cartwright.<PAGE></n>Você tem [2] mensagens novas.
+<MCVO>어서 오세요, 카트라이트 주임님.<PAGE></n>현재 [2]개의 신규 메시지가 있습니다.
+<MCVO>卡特萊特局長，歡迎回來。<PAGE></n>您有 [2] 則新訊息。
+<MCVO>卡特怀特局长，欢迎回来。<PAGE></n>您有 [2] 则新信息。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+おかえりなさい カートライト部長
+Welcome back, Chief Cartwright.
+Bienvenue, Chef Cartwright.
+Bentornato, direttore Cartwright.
+Willkommen zurück, Chief Cartwright.
+Bienvenido, Jefe Cartwright.
+С возвращением, шеф Картрайт.
+Witamy, Panie Cartwright.
+Bem-vindo de volta, chefe Cartwright.
+어서 오세요, 카트라이트 주임님.
+卡特萊特局長，歡迎回來。
+卡特怀特局长，欢迎回来。
+メッセージが［2］件あります
+You have [2] new messages.
+Vous avez [2] nouveaux messages.
+Ci sono [2] nuovi messaggi.
+Sie haben 2 neue Nachrichten.
+Tiene [2] mensajes nuevos.
+У вас [2] новых сообщения.
+Ma Pan nowe wiadomości w liczbie [2].
+Você tem [2] mensagens novas.
+현재 [2]개의 신규 메시지가 있습니다.
+您有 [2] 則新訊息。
+您有 [2] 则新信息。
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV378_0010_vo0080
+G-ウィルスはこの先か…？
+Hopefully the G sample's up here...
+J'espère que l'échantillon est là...
+Spero che il campione sia qui.
+Hoffentlich ist die G-Probe hier...
+Espero que la muestra esté aquí...
+Надеюсь, Г-образец где-то тут...
+Mam nadzieję, że jest tu próbka wirusa G...
+Espero que a amostra do G esteja por aqui...
+G 표본이 여기 있다면 좋겠는데...
+希望 G 病毒樣本在這裡...
+希望 G 病毒样本就在这里...
+抗ウィルス剤を見つけないと
+I gotta find that antiviral agent soon...
+Faut que je me dépêche de trouver cet agent antiviral...
+Devo trovare l'agente antivirale.
+Ich muss schnell das Antivirus finden...
+Debo encontrar ese agente anti-vírico.
+Нужно поскорее найти антивирус...
+Muszę szybko znaleźć ten środek antywirusowy...
+Preciso achar logo esse agente antiviral...
+백신을 빨리 찾아야 하는데...
+我得快點找到抗病毒劑...
+我得快点找到抗病毒剂...
+今のがG-ウィルス？
+So those were G samples?
+C'était des échantillons du virus ?
+Sono questi i campioni del G?
+Also waren das... G-Proben?
+¿Eso eran muestras del G?
+Значит, это были Г-образцы?
+Więc to były próbki wirusa G?
+Aquelas eram amostras do G?
+저게 G 표본이었나?
+所以那些是 G 病毒樣本嗎？
+所以那些是 G 病毒样本吗？
+バーキン…？</n>シェリーのお父さん…？
+Birkin? That must be Sherry's—
+Birkin ? Ça doit être le père de...
+Birkin? Allora è il padre Sherry...
+Birkin?</n>Das ist wohl Sherrys...
+¿Birkin...? Ese es el padre de...
+Биркин? Должно быть, это отец...
+Birkin? To na pewno ojciec Sherry...
+Birkin?! Sherry... Será que ele...?
+버킨이라고? 셰리랑 관계가 있는 게 분명해—
+柏金？那一定就是雪莉的...
+柏金？那一定就是雪莉的...
+よし　エイダのところへ
+Alright, now back to Ada.
+Il est temps d'aller retrouver Ada.
+Ok, posso tornare da Ada.
+Okay, jetzt zurück zu Ada.
+Vale, de vuelta con Ada.
+Ладно, пора возвращаться к Аде.
+Dobra, wracam do Ady.
+Ótimo, agora é só voltar até a Ada.
+좋아, 이제 에이다에게 돌아가야겠어.
+好了，該繼續找艾達了。
+好了，该继续找艾达了。
+よかった…</n>抗ウィルス剤<PAGE></n>シェリーに届けなきゃ
+Thank god...the antiviral agent...<PAGE></n>Gotta get back to Sherry...
+Enfin... L'agent antiviral...<PAGE></n>Faut que je retourne voir Sherry.
+Finalmente... L'agente antivirale.<PAGE></n>Devo tornare da Sherry.
+Gott sei Dank. Das Antivirus.<PAGE></n>Ich muss zurück zu Sherry...
+¡Gracias a Dios! El agente anti-vírico.<PAGE></n>He de volver con Sherry.
+Слава богу... Антивирус...<PAGE></n>Нужно вернуться к Шерри...
+Dzięki Bogu... środek antywirusowy...<PAGE></n>Muszę wracać do Sherry...
+Graças a Deus... O agente antiviral...<PAGE></n>Preciso voltar até a Sherry...
+다행이야... 백신을 찾았어...<PAGE></n>셰리에게 돌아가야 해...
+太好了... 是抗病毒劑...<PAGE></n>必須趕回雪莉身邊...
+太好了... 是抗病毒剂...<PAGE></n>必须赶回雪莉身边...
+よかった…</n>抗ウィルス剤
+Thank god...the antiviral agent...
+Enfin... L'agent antiviral...
+Finalmente... L'agente antivirale.
+Gott sei Dank. Das Antivirus.
+¡Gracias a Dios! El agente anti-vírico.
+Слава богу... Антивирус...
+Dzięki Bogu... środek antywirusowy...
+Graças a Deus... O agente antiviral...
+다행이야... 백신을 찾았어...
+太好了... 是抗病毒劑...
+太好了... 是抗病毒剂...
+シェリーに届けなきゃ
+Gotta get back to Sherry...
+Faut que je retourne voir Sherry.
+Devo tornare da Sherry.
+Ich muss zurück zu Sherry...
+He de volver con Sherry.
+Нужно вернуться к Шерри...
+Muszę wracać do Sherry...
+Preciso voltar até a Sherry...
+셰리에게 돌아가야 해...
+必須趕回雪莉身邊...
+必须赶回雪莉身边...
+<MCVO>警告　レベル4ウィルスの</n>不正な持ち出しを検出しました<PAGE></n>施設封鎖を開始します<PAGE></n>施設封鎖完了後</n>自己破壊コードを実行します
+<MCVO>Attention: Unauthorized removal of a [Level 4] virus detected.<PAGE></n>Facility lockdown initiated.<PAGE></n>Self-destruct sequence will begin when lockdown is complete.
+<MCVO>Attention : Retrait non autorisé d'un virus de [niveau 4] détecté.<PAGE></n>Début du confinement de la structure.<PAGE></n>La séquence d'autodestruction sera lancée</n>une fois le confinement terminé.
+<MCVO>Attenzione. Rilevata rimozione non autorizzata di un virus di livello 4.<PAGE></n>Avvio isolamento struttura.<PAGE></n>Al termine, verrà avviata la sequenza di autodistruzione.
+<MCVO>Achtung:</n>Unautorisierte Entfernung eines Level-4-Virus erkannt.<PAGE></n>Abriegelung der Anlage eingeleitet.<PAGE></n>Selbstzerstörungssequenz startet nach Abschluss der Abriegelung.
+<MCVO>Atención: Detectada extracción no</n>autorizada de virus de nivel 4.<PAGE></n>Iniciado cierre de instalaciones.<PAGE></n>La secuencia de auto-destrucción</n>comenzará tras completarse el cierre.
+<MCVO>Внимание! Обнаружено несанкционированное изъятие вируса [уровня 4].<PAGE></n>Переход в режим блокировки.<PAGE></n>После завершения блокировки запустится программа самоуничтожения.
+<MCVO>Uwaga: wykryto nieupoważnione usunięcie wirusa [poziomu 4].<PAGE></n>Wszczęto kwarantannę.<PAGE></n>Po odizolowaniu placówki nastąpi samozniszczenie.
+<MCVO>
+<MCVO>
+<MCVO>Atenção: Detectada a remoção não autorizada de um vírus de [Nível 4].<PAGE></n>Iniciando o isolamento das instalações.<PAGE></n>A sequência de autodestruição será iniciada</n>no final do processo de isolamento.
+<MCVO>주의: [레벨 4] 바이러스의 무단 반출이 감지되었습니다.<PAGE></n>시설 격리 실시.<PAGE></n>격리가 완료되면 자폭 절차가 시작됩니다.
+<MCVO>注意：系統偵測到有人未經授權取走 [第 4 級] 病毒。<PAGE></n>本設施的緊急封鎖程序已啟動。<PAGE></n>封鎖完畢後將會執行自我毀滅程序。
+<MCVO>注意：系统侦测到有人未经授权取走 [第 4 级] 病毒。<PAGE></n>本设施的封锁程序已启动。<PAGE></n>封锁完毕将开始执行自我毁灭程序。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>警告　レベル4ウィルスの</n>不正な持ち出しを検出しました
+<MCVO>Attention: Unauthorized removal of a [Level 4] virus detected.
+<MCVO>Attention : Retrait non autorisé d'un virus de [niveau 4] détecté.
+<MCVO>Attenzione. Rilevata rimozione non autorizzata di un virus di livello 4.
+<MCVO>Achtung:</n>Unautorisierte Entfernung eines Level-4-Virus erkannt.
+<MCVO>Atención: Detectada extracción no</n>autorizada de virus de nivel 4.
+<MCVO>Внимание! Обнаружено несанкционированное изъятие вируса [уровня 4].
+<MCVO>Uwaga: wykryto nieupoważnione usunięcie wirusa [poziomu 4].
+<MCVO>
+<MCVO>
+<MCVO>Atenção: Detectada a remoção não autorizada de um vírus de [Nível 4].
+<MCVO>주의: [레벨 4] 바이러스의 무단 반출이 감지되었습니다.
+<MCVO>注意：系統偵測到有人未經授權取走 [第 4 級] 病毒。
+<MCVO>注意：系统侦测到有人未经授权取走 [第 4 级] 病毒。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>施設封鎖を開始します
+<MCVO>Facility lockdown initiated.
+<MCVO>Début du confinement de la structure.
+<MCVO>Avvio isolamento struttura.
+<MCVO>Abriegelung der Anlage eingeleitet.
+<MCVO>Iniciado cierre de instalaciones.
+<MCVO>Переход в режим блокировки.
+<MCVO>Wszczęto kwarantannę.
+<MCVO>
+<MCVO>
+<MCVO>Iniciando o isolamento das instalações.
+<MCVO>시설 격리 실시.
+<MCVO>本設施的緊急封鎖程序已啟動。
+<MCVO>本设施的封锁程序已启动。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>施設封鎖完了後</n>自己破壊コードを実行します
+<MCVO>Self-destruct sequence will begin when lockdown is complete.
+<MCVO>La séquence d'autodestruction sera lancée</n>une fois le confinement terminé.
+<MCVO>Al termine, verrà avviata la sequenza di autodistruzione.
+<MCVO>Selbstzerstörungssequenz startet nach Abschluss der Abriegelung.
+<MCVO>La secuencia de auto-destrucción</n>comenzará tras completarse el cierre.
+<MCVO>После завершения блокировки запустится программа самоуничтожения.
+<MCVO>Po odizolowaniu placówki nastąpi samozniszczenie.
+<MCVO>
+<MCVO>
+<MCVO>A sequência de autodestruição será iniciada</n>no final do processo de isolamento.
+<MCVO>격리가 완료되면 자폭 절차가 시작됩니다.
+<MCVO>封鎖完畢後將會執行自我毀滅程序。
+<MCVO>封锁完毕将开始执行自我毁灭程序。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>クラスA収容違反を検出<PAGE></n>対象が無力化されるまで</n>実験室を隔離します
+<MCVO>[Class A] breach detected.<PAGE></n>Lab quarantined until target is neutralized.
+<MCVO>Infraction de [classe A] détectée.<PAGE></n>Laboratoire en quarantaine jusqu'à neutralisation de la cible.
+<MCVO>Rilevata violazione di livello A.<PAGE></n>Laboratorio isolato fino a neutralizzazione minaccia.
+<MCVO>Klasse-A-Ausbruch erkannt.<PAGE></n>Labor unter Quarantäne bis das Ziel eliminiert wurde.
+<MCVO>Detectada infracción de clase A.<PAGE></n>Cuarentena iniciada hasta neutralización del objetivo.
+<MCVO>Обнаружено нарушение [класса A].<PAGE></n>Лаборатория изолирована до нейтрализации цели.
+<MCVO>Wykryto naruszenie zabezpieczeń [klasy A].<PAGE></n>Laboratorium jest objęte kwarantanną do czasu zneutralizowania celu.
+<MCVO>
+<MCVO>
+<MCVO>Violação [classe A] detectada.<PAGE></n>Laboratório em quarentena até neutralização do alvo.
+<MCVO>[A 등급] 침입 감지.<PAGE></n>대상을 제압할 때까지</n>연구실 격리 실시.
+<MCVO>偵測到 [A 級] 入侵。<PAGE></n>目標停止行動前將封鎖實驗室。
+<MCVO>侦测到 [A 级] 入侵。<PAGE></n>目标停止行动前将封锁实验室。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+クラスA収容違反を検出
+[Class A] breach detected.
+Infraction de [classe A] détectée.
+Rilevata violazione di livello A.
+Klasse-A-Ausbruch erkannt.
+Detectada infracción de clase A.
+Обнаружено нарушение [класса A].
+Wykryto naruszenie zabezpieczeń [klasy A].
+Violação [classe A] detectada.
+[A 등급] 침입 감지.
+偵測到 [A 級] 入侵。
+侦测到 [A 级] 入侵。
+対象が無力化されるまで</n>実験室を隔離します
+Lab quarantined until target is neutralized.
+Laboratoire en quarantaine jusqu'à neutralisation de la cible.
+Laboratorio isolato fino a neutralizzazione minaccia.
+Labor unter Quarantäne bis das Ziel eliminiert wurde.
+Cuarentena iniciada hasta neutralización del objetivo.
+Лаборатория изолирована до нейтрализации цели.
+Laboratorium jest objęte kwarantanną do czasu zneutralizowania celu.
+Laboratório em quarentena até neutralização do alvo.
+대상을 제압할 때까지</n>연구실 격리 실시.
+目標停止行動前將封鎖實驗室。
+目标停止行动前将封锁实验室。
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV498_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV534_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV499_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV535_0010_pl1000
+<MCVO>対象の無力化を確認<PAGE></n>隔離を解除します
+<MCVO>Target has been neutralized.<PAGE></n>Ending quarantine.
+<MCVO>La cible est neutralisée.<PAGE></n>Fin de la quarantaine.
+<MCVO>Minaccia neutralizzata.<PAGE></n>Isolamento terminato.
+<MCVO>Ziel wurde eliminiert.<PAGE></n>Quarantäne aufgehoben.
+<MCVO>Objetivo neutralizado.<PAGE></n>Fin de la cuarentena.
+<MCVO>Цель нейтрализована.<PAGE></n>Изоляция отменена.
+<MCVO>Cel został zneutralizowany.<PAGE></n>Zakończenie kwarantanny.
+<MCVO>
+<MCVO>
+<MCVO>Alvo neutralizado.<PAGE></n>Encerrando quarentena.
+<MCVO>대상이 제압되었습니다.<PAGE></n>격리를 해제합니다.
+<MCVO>目標已停止行動。<PAGE></n>解除封鎖。
+<MCVO>目标已停止行动。<PAGE></n>解除封锁。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+対象の無力化を確認
+Target has been neutralized.
+La cible est neutralisée.
+Minaccia neutralizzata.
+Ziel wurde eliminiert.
+Objetivo neutralizado.
+Цель нейтрализована.
+Cel został zneutralizowany.
+Alvo neutralizado.
+대상이 제압되었습니다.
+目標已停止行動。
+目标已停止行动。
+隔離を解除します
+Ending quarantine.
+Fin de la quarantaine.
+Isolamento terminato.
+Quarantäne aufgehoben.
+Fin de la cuarentena.
+Изоляция отменена.
+Zakończenie kwarantanny.
+Encerrando quarentena.
+격리를 해제합니다.
+解除封鎖。
+解除封锁。
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV381_0030_vo0080
+作業用リフトの使用が可能です
+Service lift is now operational.
+Ascenseur de service opérationnel.
+L'ascensore di servizio è ora in funzione.
+Service-Lift ist jetzt betriebsbereit.
+Ascensor de servicio operativo.
+Грузовой лифт готов к эксплуатации.
+Winda towarowa już działa.
+O elevador de manutenção está funcionando.
+이제 엘리베이터가 가동됩니다.
+載貨電梯現已開始運轉。
+载货升降机现已开始运转。
+急いで戻らないと
+Gotta get back to Sherry...
+J'espère que Sherry va bien.
+Devo tornare da Sherry.
+Muss zurück zu Sherry...
+He de volver con Sherry.
+Нужно вернуться к Шерри...
+Muszę wracać do Sherry...
+Preciso voltar até a Sherry...
+셰리에게 돌아가야 해...
+必須趕回雪莉身邊...
+必须赶回雪莉身边...
+<MCVO>警告</n>自己破壊コードが実行されました<PAGE></n>中央エレベーターから</n>最下層のプラットフォームへ 至急避難してください
+<MCVO>Attention: Self-destruct sequence initiated.<PAGE></n>Use the Central Elevator to evacuate immediately to the bottom-level train platform.
+<MCVO>Attention : Séquence d'autodestruction activée.<PAGE></n>Utilisez l'ascenseur central pour évacuer</n>immédiatement vers le quai du niveau inférieur.
+<MCVO>Attenzione. Sequenza di autodistruzione avviata.<PAGE></n>Utilizzare immediatamente l'ascensore</n>centrale per raggiungere il piano inferiore.
+<MCVO>Achtung: Selbstzerstörungssequenz eingeleitet.<PAGE></n>Nutzen Sie den zentralen Fahrstuhl zur unverzüglichen</n>Evakuierung zum Bahnsteig im Tiefgeschoss.
+<MCVO>Atención: secuencia de autodestrucción iniciada.<PAGE></n>Use el ascensor central para evacuar</n>inmediatamente al andén inferior.
+<MCVO>Внимание! Запущена программа самоуничтожения.<PAGE></n>Немедленно воспользуйтесь центральным лифтом</n>и спуститесь на нижнюю станцию.
+<MCVO>Uwaga: rozpoczęto procedurę samozniszczenia.<PAGE></n>Proszę ewakuować się centralną windą do peronu na dolnym piętrze.
+<MCVO>
+<MCVO>
+<MCVO>Atenção: Iniciando sequência de autodestruição.<PAGE></n>Usem o elevador central para evacuar até</n>a plataforma do trem no pavimento inferior.
+<MCVO>주의: 자폭 절차가 시작되었습니다.<PAGE></n>지금 즉시 중앙 엘리베이터를 사용해</n>시설 하부 플랫폼으로 대피하십시오.
+<MCVO>注意：自我毀滅程序已啟動。<PAGE></n>請立即使用中央電梯撤離至底層的列車月台。
+<MCVO>注意：自我毁灭程序已启动。<PAGE></n>请立即使用中央电梯撤离至底层的列车月台。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+警告</n>自己破壊コードが実行されました
+Attention: Self-destruct sequence initiated.
+Attention : Séquence d'autodestruction activée.
+Attenzione. Sequenza di autodistruzione avviata.
+Achtung: Selbstzerstörungssequenz eingeleitet.
+Atención: secuencia de autodestrucción iniciada.
+Внимание! Запущена программа самоуничтожения.
+Uwaga: rozpoczęto procedurę samozniszczenia.
+Atenção: Iniciando sequência de autodestruição.
+주의: 자폭 절차가 시작되었습니다.
+注意：自我毀滅程序已啟動。
+注意：自我毁灭程序已启动。
+中央エレベーターから</n>最下層のプラットフォームへ 至急避難してください
+Use the Central Elevator to evacuate immediately to the bottom-level train platform.
+Utilisez l'ascenseur central pour évacuer</n>immédiatement vers le quai du niveau inférieur.
+Utilizzare immediatamente l'ascensore</n>centrale per raggiungere il piano inferiore.
+Nutzen Sie den zentralen Fahrstuhl zur unverzüglichen</n>Evakuierung zum Bahnsteig im Tiefgeschoss.
+Use el ascensor central para evacuar</n>inmediatamente al andén inferior.
+Немедленно воспользуйтесь центральным лифтом</n>и спуститесь на нижнюю станцию.
+Proszę ewakuować się centralną windą do peronu na dolnym piętrze.
+Usem o elevador central para evacuar até</n>a plataforma do trem no pavimento inferior.
+지금 즉시 중앙 엘리베이터를 사용해</n>시설 하부 플랫폼으로 대피하십시오.
+請立即使用中央電梯撤離至底層的列車月台。
+请立即使用中央电梯撤离至底层的列车月台。
+<MCVO>立ち入りできません</n>施設封鎖モード 実行中
+<MCVO>No entry allowed: facility lockdown engaged.
+<MCVO>Entrée interdite : Procédure de confinement en cours.
+<MCVO>Ingresso vietato: avviato isolamento struttura.
+<MCVO>Kein Zugang erlaubt. Anlagenverriegelung eingeleitet.
+<MCVO>Entrada no permitida. Instalaciones cerradas.
+<MCVO>Вход воспрещен: комплекс заблокирован.
+<MCVO>Wstęp wzbroniony: wszczęto kwarantannę.
+<MCVO>
+<MCVO>
+<MCVO>Entrada proibida: isolamento das instalações ativado.
+<MCVO>입장 불가. 시설 폐쇄 중.
+<MCVO>禁止進入：</n>本設施的緊急封鎖程序已啟動。
+<MCVO>禁止进入：</n>本设施的紧急封锁程序已启动。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>立ち入りできません</n>施設封鎖モード 実行中
+<MCVO>No entry allowed: facility lockdown engaged.
+<MCVO>Entrée interdite : Procédure de confinement en cours.
+<MCVO>Ingresso non consentito: isolamento struttura avviato.
+<MCVO>Kein Zugang erlaubt. Anlagenverriegelung eingeleitet.
+<MCVO>Entrada no permitida. Instalaciones cerradas.
+<MCVO>Вход воспрещен: комплекс заблокирован.
+<MCVO>Wstęp wzbroniony: wszczęto kwarantannę.
+<MCVO>
+<MCVO>
+<MCVO>Entrada proibida: isolamento das instalações ativado.
+<MCVO>입장 불가. 시설 폐쇄 중.
+<MCVO>禁止進入：本設施的緊急封鎖程序已啟動。
+<MCVO>禁止进入：本设施的紧急封锁程序已启动。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+シェリー… 歩けそう？<PAGE></n>うん…<PAGE></n>急かしたくはないけど 行かなきゃ
+Sherry, can you walk faster?<PAGE></n>Yeah...<PAGE></n>I don't wanna rush you but, we have to go.
+Sherry, tu peux marcher plus vite ?<PAGE></n>Oui...<PAGE></n>Je veux pas te presser, mais on doit y aller.
+Ce la fai a camminare più veloce?<PAGE></n>Sì...<PAGE></n>Scusami piccola, ma dobbiamo sbrigarci.
+Sherry, kannst du schneller laufen?<PAGE></n>Ja...<PAGE></n>Ich will dich nicht hetzen, aber wir müssen los.
+Sherry, ¿puedes ir más rápido?<PAGE></n>Sí...<PAGE></n>Odio meterte prisa, pero debemos irnos.
+Шерри, можешь идти быстрее?<PAGE></n>Ага...<PAGE></n>Не хочу тебя подгонять, но нам нужно идти.
+Sherry, możesz iść szybciej?<PAGE></n>Tak…<PAGE></n>Nie chcę cię poganiać, ale musimy iść.
+Sherry, você consegue andar mais rápido?<PAGE></n>Consigo...<PAGE></n>Não quero te apressar, mas a gente tem que ir.
+셰리, 좀 더 빨리 걸을 수 있겠니?<PAGE></n>네...<PAGE></n>재촉하고 싶진 않지만, 서둘러야 해.
+雪莉，你可以走快點嗎？<PAGE></n>好...<PAGE></n>我不想催你，但我們得快點離開。
+雪莉，你可以走快点吗？<PAGE></n>嗯… 好…<PAGE></n>我不想催你，但我们得赶紧离开。
+シェリー… 歩けそう？
+Sherry, can you walk faster?
+Sherry, tu peux marcher plus vite ?
+Ce la fai a camminare più veloce?
+Sherry, kannst du schneller laufen?
+Sherry, ¿puedes ir más rápido?
+Шерри, можешь идти быстрее?
+Sherry, możesz iść szybciej?
+Sherry, você consegue andar mais rápido?
+셰리, 좀 더 빨리 걸을 수 있겠니?
+雪莉，你可以走快點嗎？
+雪莉，你可以走快点吗？
+うん…
+Yeah...
+Oui...
+Sì...
+Ja...
+Sí...
+Ага...
+Tak…
+Consigo...
+네...
+好...
+嗯… 好…
+急かしたくはないけど 行かなきゃ
+I don't wanna rush you but, we have to go.
+Je veux pas te presser, mais on doit y aller.
+Scusami piccola, ma dobbiamo sbrigarci.
+Ich will dich nicht hetzen, aber wir müssen los.
+Odio meterte prisa, pero debemos irnos.
+Не хочу тебя подгонять, но нам нужно идти.
+Nie chcę cię poganiać, ale musimy iść.
+Não quero te apressar, mas a gente tem que ir.
+재촉하고 싶진 않지만, 서둘러야 해.
+我不想催你，但我們得快點離開。
+我不想催你，但我们得赶紧离开。
+急かしたくはないけど 行かなきゃ
+I hate to rush you, but we have to hurry.
+Désolée de te presser, mais il faut se dépêcher.
+Odio metter fretta, ma dobbiamo andare.
+Ich will dich nicht hetzen, aber wir müssen los.
+Odio presionar, pero debemos irnos.
+Не хочу тебя гнать, но нам надо поторопиться.
+Nie chcę cię poganiać, ale pora na nas.
+Detesto te apressar, mas a gente precisa correr.
+재촉하긴 싫지만, 서둘러야 해.
+我不想趕你，可是我們得趕快走了。
+我不想赶你，可是我们得走了。
+さあ 急ぎましょう
+Let's get the hell outta here.
+Fichons vite le camp d'ici.
+Andiamo via da qui.
+Lass uns schnell hier abhauen.
+Salgamos de aquí ya.
+Давай убираться отсюда.
+Zabierajmy się stąd w cholerę.
+Vamos dar o fora desse inferno.
+얼른 여길 벗어나자.
+我們快點離開這個鬼地方。
+我们快点离开这个鬼地方。
+あの クレア…？<PAGE></n>なあに？<PAGE></n>親切にしてくれてありがとう</n>助けてくれた<PAGE></n>クレアに会えてよかった<PAGE></n>私もあなたに会えてよかった<PAGE></n>でもお礼を言うなら ここを出てからね
+Um, Claire...?<PAGE></n>Yeah?<PAGE></n>Thank you for being so nice to me... For helping me.<PAGE></n>I'm really glad I met you.<PAGE></n>I'm glad I met you too, Sherry.<PAGE></n>But save your thanks until I get you out of this place.
+Euh... Claire ?<PAGE></n>Oui ?<PAGE></n>Merci pour tout ce que tu fais pour moi... pour ton aide.<PAGE></n>Je suis contente de t'avoir rencontrée.<PAGE></n>Moi aussi je suis contente, Sherry...<PAGE></n>Mais tu me remercieras quand on sera sorties d'ici.
+Claire?<PAGE></n>Sì?<PAGE></n>Grazie per essere gentile con me.</n>Per avermi salvata.<PAGE></n>Sono felice di averti incontrata.<PAGE></n>Sono felice anch'io, Sherry.<PAGE></n>Ma adesso pensiamo a uscire da qui.
+Ähm, Claire?<PAGE></n>Ja?<PAGE></n>Danke, dass du so nett zu mir bist...</n>dass du mir hilfst.<PAGE></n>Bin so froh, dich getroffen zu haben.<PAGE></n>Bin auch froh, dich getroffen zu haben, Sherry.<PAGE></n>Aber spar dir den Dank,</n>bis ich dich hier rausbekommen hab.
+¿Claire?<PAGE></n>¿Sí?<PAGE></n>Gracias por ser tan buena conmigo.</n>Por ayudarme.<PAGE></n>Me alegra haberte conocido.<PAGE></n>Yo también me alegro, Sherry.<PAGE></n>Pero no me des las gracias hasta que te saque.
+К-Клэр?..<PAGE></n>Да?<PAGE></n>Спасибо, что была так добра ко мне... Что помогла.<PAGE></n>Я рада, что встретила тебя.<PAGE></n>Я тоже рада, что встретила тебя, Шерри.<PAGE></n>Но оставим благодарности. Сначала давай выберемся отсюда.
+Em, Claire...?<PAGE></n>Tak?<PAGE></n>Dziękuję, że byłaś dla mnie taka dobra... że mi pomogłaś.<PAGE></n>Naprawdę cieszę się, że cię poznałam.<PAGE></n>Ja też się cieszę, Sherry.<PAGE></n>Wstrzymaj się jednak z podziękowaniami, aż się stąd wydostaniemy.
+Ahm, Claire?<PAGE></n>Diga.<PAGE></n>Obrigada por ser tão legal comigo... por me ajudar.<PAGE></n>Tô feliz de ter te conhecido.<PAGE></n>Eu também, Sherry.<PAGE></n>Mas me agradece depois que eu te tirar daqui.
+음, 클레어 언니..?<PAGE></n>응?<PAGE></n>저한테 이렇게 친절하게 대해주셔서</n>정말 고마워요... 절 도와줘서요.<PAGE></n>언니를 만나서 정말 기뻐요.<PAGE></n>나도 널 만나서 기뻐, 셰리.<PAGE></n>하지만 감사의 인사는</n>여길 빠져나간 다음에 해줘.
+呃，克蕾兒...？<PAGE></n>怎麼了？<PAGE></n>謝謝你對我這麼好... 謝謝你幫我。<PAGE></n>我真的很高興能遇到你。<PAGE></n>雪莉，我也很高興能遇到你。<PAGE></n>不過等到我帶你離開這裡之後再謝我吧。
+嗯... 克莱尔？<PAGE></n>怎么了？<PAGE></n>谢谢你对我这么好，谢谢你帮我。<PAGE></n>我真的很高兴能遇到你。<PAGE></n>雪莉，我也很高兴能遇到你。<PAGE></n>不过谢谢的话，等我带你离开这里后再说吧。
+あの クレア…？
+Um, Claire...?
+Euh... Claire ?
+Claire?
+Ähm, Claire?
+¿Claire?
+К-Клэр?..
+Em, Claire...?
+Ahm, Claire?
+음, 클레어 언니..?
+呃，克蕾兒...？
+嗯... 克莱尔？
+なあに？
+Yeah?
+Oui ?
+Sì?
+Ja?
+¿Sí?
+Да?
+Tak?
+Diga.
+응?
+怎麼了？
+怎么了？
+親切にしてくれてありがとう</n>助けてくれた
+Thank you for being so nice to me... For helping me.
+Merci pour tout ce que tu fais pour moi... pour ton aide.
+Grazie per essere gentile con me.</n>Per avermi salvata.
+Danke, dass du so nett zu mir bist...</n>dass du mir hilfst.
+Gracias por ser tan buena conmigo.</n>Por ayudarme.
+Спасибо, что была так добра ко мне... Что помогла.
+Dziękuję, że byłaś dla mnie taka dobra... że mi pomogłaś.
+Obrigada por ser tão legal comigo... por me ajudar.
+저한테 이렇게 친절하게 대해주셔서</n>정말 고마워요... 절 도와줘서요.
+謝謝你對我這麼好... 謝謝你幫我。
+谢谢你对我这么好，谢谢你帮我。
+クレアに会えてよかった
+I'm really glad I met you.
+Je suis contente de t'avoir rencontrée.
+Sono felice di averti incontrata.
+Bin so froh, dich getroffen zu haben.
+Me alegra haberte conocido.
+Я рада, что встретила тебя.
+Naprawdę cieszę się, że cię poznałam.
+Tô feliz de ter te conhecido.
+언니를 만나서 정말 기뻐요.
+我真的很高興能遇到你。
+我真的很高兴能遇到你。
+私もあなたに会えてよかった
+I'm glad I met you too, Sherry.
+Moi aussi je suis contente, Sherry...
+Sono felice anch'io, Sherry.
+Bin auch froh, dich getroffen zu haben, Sherry.
+Yo también me alegro, Sherry.
+Я тоже рада, что встретила тебя, Шерри.
+Ja też się cieszę, Sherry.
+Eu também, Sherry.
+나도 널 만나서 기뻐, 셰리.
+雪莉，我也很高興能遇到你。
+雪莉，我也很高兴能遇到你。
+でもお礼を言うなら ここを出てからね
+But save your thanks until I get you out of this place.
+Mais tu me remercieras quand on sera sorties d'ici.
+Ma adesso pensiamo a uscire da qui.
+Aber spar dir den Dank,</n>bis ich dich hier rausbekommen hab.
+Pero no me des las gracias hasta que te saque.
+Но оставим благодарности. Сначала давай выберемся отсюда.
+Wstrzymaj się jednak z podziękowaniami, aż się stąd wydostaniemy.
+Mas me agradece depois que eu te tirar daqui.
+하지만 감사의 인사는</n>여길 빠져나간 다음에 해줘.
+不過等到我帶你離開這裡之後再謝我吧。
+不过谢谢的话，等我带你离开这里后再说吧。
+ったく 冗談きついぜ！
+Uh... Is this a fucking joke?
+Oh... C'est pas le moment !
+E tu da dove cazzo sbuchi?
+Soll das ein verdammter Witz sein?
+¿Esto es una broma?
+Это что, мать вашу, шутка?
+Yy... to jakiś pieprzony żart?
+Quê? Você só pode estar de sacanagem!
+어... 지금 장난하는 거야?
+呃... 這是在開我玩笑嗎？
+呃... 这是一个该死的玩笑吗？
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV523_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV515_0030_vo0080
+こいつは何なんだ？
+What is it with this thing!?
+Putain mais c'est quoi ce truc ?
+Come cazzo lo ammazzo?
+Was ist dieses Ding nur?
+¿Qué pasa con esta cosa?
+Да что это за хрень такая?!
+Co jest z tym cholerstwem?!
+Qual é o problema dessa coisa?!
+저건 도대체 문제가 뭐야!?
+這東西到底怎麼回事！？
+这东西到底怎么回事！？
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV502_0010_pl0000
+おっと… ヤバイぞ
+Uh-oh... Not good!
+Oh non... Ça craint !
+Oh-oh! Non va bene!
+Oh-oh... Nicht gut!
+Oh, oh... Aquí viene.
+Ой-ой... Плохо дело!
+O-o... Niedobrze!
+Opa... Isso não é bom!
+어어... 좋지 않은데!
+糟糕... 不妙了！
+糟糕... 不妙了！
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV504_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV505_0010_pl0000
+どこから出てきたんだ？
+Where did this thing come from!?
+D'où ça sort ce truc ?
+Da dove è sbucato questo?
+Wo kommt das Ding denn her?
+¿De dónde ha salido esto?
+Откуда эта штука здесь взялась?!
+Skąd to się tu wzięło?!
+De onde veio essa coisa?!
+도대체 어디서 튀어나온 거야!?
+這東西是從哪冒出來的！？
+这东西是从哪冒出来的！？
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV571_0010_pl0000
+このドア なんで開かないのよ！？<PAGE></n>ちょっと待って！<PAGE></n>シェリー 何を…<PAGE></n>反対側から開けられるかも！
+Of course the stupid thing is locked—<PAGE></n>Hold on!<PAGE></n>Sherry what're you—!?<PAGE></n>I think I can open it from the other side!
+Évidemment, cette foutue porte est fermée...<PAGE></n>Attends !<PAGE></n>Sherry ? Qu'est-ce que tu...<PAGE></n>Je crois que je peux l'ouvrir de l'intérieur !
+Ovviamente la porta è bloccata.<PAGE></n>Aspetta!<PAGE></n>Sherry? Che stai...<PAGE></n>Forse posso aprirla dall'altra parte!
+Natürlich ist das Mistteil verschlossen.<PAGE></n>Warte!<PAGE></n>Sherry? Was machst du?<PAGE></n>Ich glaub, ich kann sie von der anderen Seite öffnen!
+Por supuesto, la puerta está cerrada.<PAGE></n>¡Espera!<PAGE></n>¿¡Sherry, qué...!?<PAGE></n>Creo que puedo abrir desde el otro lado.
+Ну конечно, заперто...<PAGE></n>Жди здесь!<PAGE></n>Шерри, что ты...<PAGE></n>Кажется, это можно открыть с другой стороны!
+Oczywiście to cholerstwo jest zamknięte...<PAGE></n>Poczekaj!<PAGE></n>Sherry, co ty...?!<PAGE></n>Czekaj… Chyba mogę to otworzyć z drugiej strony!
+É claro que essa merda tá trancada...<PAGE></n>Espera um pouco!<PAGE></n>Sherry, o que você tá...?<PAGE></n>Eu acho que dá pra eu abrir pelo outro lado!
+당연히 잠겨 있겠지—<PAGE></n>잠깐만요!<PAGE></n>셰리, 지금 뭐 하는—!?<PAGE></n>반대쪽에서 열 수 있을 거 같아요!
+我就知道，這蠢東西鎖住了...<PAGE></n>等等！<PAGE></n>雪莉，你在做什麼！？<PAGE></n>我想我可以從另一頭把門打開！
+我就知道，这蠢东西锁住了...<PAGE></n>等等！<PAGE></n>雪莉，你在做什么！？<PAGE></n>我想我可以从另一边打开它！
+このドア なんで開かないのよ！？
+Of course the stupid thing is locked—
+Évidemment, cette foutue porte est fermée...
+Ovviamente la porta è bloccata.
+Natürlich ist das Mistteil verschlossen.
+Por supuesto, la puerta está cerrada.
+Ну конечно, заперто...
+Oczywiście to cholerstwo jest zamknięte...
+É claro que essa merda tá trancada...
+당연히 잠겨 있겠지—
+我就知道，這蠢東西鎖住了...
+我就知道，这蠢东西锁住了...
+ちょっと待って！
+Hold on!
+Attends !
+Aspetta!
+Warte!
+¡Espera!
+Жди здесь!
+Poczekaj!
+Espera um pouco!
+잠깐만요!
+等等！
+等等！
+シェリー 何を…
+Sherry what're you—!?
+Sherry ? Qu'est-ce que tu...
+Sherry? Che stai...
+Sherry? Was machst du?
+¿¡Sherry, qué...!?
+Шерри, что ты...
+Sherry, co ty...?!
+Sherry, o que você tá...?
+셰리, 지금 뭐 하는—!?
+雪莉，你在做什麼！？
+雪莉，你在做什么！？
+反対側から開けられるかも！
+I think I can open it from the other side!
+Je crois que je peux l'ouvrir de l'intérieur !
+Forse posso aprirla dall'altra parte!
+Ich glaub, ich kann sie von der anderen Seite öffnen!
+Creo que puedo abrir desde el otro lado.
+Кажется, это можно открыть с другой стороны!
+Czekaj… Chyba mogę to otworzyć z drugiej strony!
+Eu acho que dá pra eu abrir pelo outro lado!
+반대쪽에서 열 수 있을 거 같아요!
+我想我可以從另一頭把門打開！
+我想我可以从另一边打开它！
+もう最悪ね あんたたち！
+Goddammit your timing sucks!
+Oh bordel, c'est franchement pas le moment !
+Oh merda, non è proprio il momento.
+Mann, verdammt mieses Timing!
+¡Mierda, no es el momento!
+Черт, только вас тут не хватало!
+Niech to, to nie jest dobry moment!
+Não tinha hora pior pra aparecer, não?
+타이밍 한 번 정말 개떡 같네!
+可惡，還真會挑時間！
+可恶，还真会挑时间！
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV556_0020_pl3000
+開いたよ！
+I got it!
+J'ai réussi !
+Ce l'ho fatta!
+Ich hab's!
+Lo tengo.
+Получилось!
+Dobra!
+Consegui!
+됐어요!
+我成功了！
+我成功了！
+急いで クレア！
+Hurry, Claire!
+Vite, Claire !
+Sbrigati, Claire!
+Schnell, Claire!
+¡Date prisa!
+Скорее, Клэр!
+Szybciej, Claire!
+Rápido, Claire!
+빨리요, 클레어 언니!
+克蕾兒，快點！
+克莱尔，快点！
+どうしたの クレア？</n>早く来て！
+C'mon Claire! We have to hurry!
+Allez, Claire ! Il faut qu'on se dépêche !
+Presto, Claire! Dobbiamo sbrigarci!
+Komm schon, Claire!</n>Wir müssen uns beeilen!
+¡Vamos, Claire! ¡Tenemos que irnos!
+Давай, Клэр! Нужно спешить!
+No dalej, Claire! Musimy się spieszyć!
+Vem, Claire! A gente tem que correr!
+가요, 언니! 서둘러야 해요!
+克蕾兒，拜託！我們得趕快了！
+克莱尔，拜托！我们得赶快了！
+ああ！　すごいわシェリー<PAGE></n>だってチームだもん
+Huh, nice work, Sherry!<PAGE></n>We make a good team.
+Bien joué, Sherry !<PAGE></n>On fait une bonne équipe.
+Bravissima, Sherry!<PAGE></n>Siamo una bella squadra.
+Gut gemacht, Sherry!<PAGE></n>Wir sind ein gutes Team.
+¡Bien hecho, Sherry!<PAGE></n>Somos un buen equipo.
+Хм. Да ты просто умница, Шерри!<PAGE></n>Мы отличная команда.
+Dobra robota, Sherry!<PAGE></n>Niezły z nas zespół.
+Hm. Bom trabalho, Sherry!<PAGE></n>A gente forma uma ótima dupla.
+아, 잘 했어, 셰리!<PAGE></n>우리 둘 손발이 딱딱 맞네요.
+喔，雪莉，做得好！<PAGE></n>我們真是好搭檔。
+嗯，雪莉，做得好！<PAGE></n>我们真是好搭档。
+ああ！　すごいわシェリー
+Huh, nice work, Sherry!
+Bien joué, Sherry !
+Bravissima, Sherry!
+Gut gemacht, Sherry!
+¡Bien hecho, Sherry!
+Хм. Да ты просто умница, Шерри!
+Dobra robota, Sherry!
+Hm. Bom trabalho, Sherry!
+아, 잘 했어, 셰리!
+喔，雪莉，做得好！
+嗯，雪莉，做得好！
+だってチームだもん
+We make a good team.
+On fait une bonne équipe.
+Siamo una bella squadra.
+Wir sind ein gutes Team.
+Somos un buen equipo.
+Мы отличная команда.
+Niezły z nas zespół.
+A gente forma uma ótima dupla.
+우리 둘 손발이 딱딱 맞네요.
+我們真是好搭檔。
+我们真是好搭档。
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0010_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0020_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CONV543_0030_pl3000
+大丈夫！？
+You OK!?
+Ça va ?
+Tutto ok?
+Alles okay?!
+¿Estás bien?
+Ты в порядке?!
+Wszystko w porządku?!
+Você tá bem?!
+괜찮아요!?
+你還好嗎！？
+你还好吗！？
+ええ… 平気よ
+Yeah...all good.
+Ouais... Je crois.
+Sì, sto bene.
+Ja... Alles gut.
+Sí... Todo bien.
+Да... В полном.
+Tak... wszystko gra.
+Tô... Tá tudo bem.
+그럼... 괜찮아.
+嗯... 沒事。
+嗯... 没事。
+シェリー！</n>ついて来てる？<PAGE></n>走るのは得意！<PAGE></n>頑張って！</n>あともう少しよ！
+Sherry!? You hangin' in there!?<PAGE></n>I'm right behind you!<PAGE></n>Attagirl! Think we're almost outta here...!
+Sherry ! Tu tiens le coup ?<PAGE></n>Je suis derrière toi !<PAGE></n>Continue comme ça ! Je crois qu'on y est presque !
+Sherry! Ce la fai?<PAGE></n>Sono dietro di te.<PAGE></n>Brava! Tra poco saremo fuori di qui!
+Sherry? Hältst du durch?!<PAGE></n>Bin direkt hinter dir!<PAGE></n>Das machst du gut!</n>Ich glaub, wir sind hier fast raus!
+¡¿Sherry?! ¡¿Estás bien?!<PAGE></n>¡¡Te sigo!!<PAGE></n>¡Buena chica!</n>¡Ya casi estamos fuera!
+Шерри?! Как ты там?!<PAGE></n>Я прямо за тобой!<PAGE></n>Молодец! Кажется, мы почти добрались!..
+Sherry?! Trzymasz się jakoś?!<PAGE></n>Jestem tuż za tobą!<PAGE></n>Tak trzymaj! Zaraz się stąd wydostaniemy...!
+Sherry?! Tá tudo bem aí?!<PAGE></n>Tô bem atrás de você!<PAGE></n>Isso aí, garota! Acho que a gente tá quase na saída!
+셰리!? 괜찮은 거지!?<PAGE></n>바로 뒤에 있어요!<PAGE></n>잘 하고 있어! 거의 다 빠져나온 것 같아!
+雪莉？！你還行嗎？！<PAGE></n>我跟在你後面！<PAGE></n>很棒！出口應該快到了...！
+雪莉！？你还行吗！？<PAGE></n>我在你后面！<PAGE></n>很棒！应该快到出口了！
+シェリー！</n>ついて来てる？
+Sherry!? You hangin' in there!?
+Sherry ! Tu tiens le coup ?
+Sherry! Ce la fai?
+Sherry? Hältst du durch?!
+¡¿Sherry?! ¡¿Estás bien?!
+Шерри?! Как ты там?!
+Sherry?! Trzymasz się jakoś?!
+Sherry?! Tá tudo bem aí?!
+셰리!? 괜찮은 거지!?
+雪莉？！你還行嗎？！
+雪莉！？你还行吗！？
+走るのは得意！
+I'm right behind you!
+Je suis derrière toi !
+Sono dietro di te.
+Bin direkt hinter dir!
+¡¡Te sigo!!
+Я прямо за тобой!
+Jestem tuż za tobą!
+Tô bem atrás de você!
+바로 뒤에 있어요!
+我跟在你後面！
+我在你后面！
+頑張って！</n>あともう少しよ！
+Attagirl! Think we're almost outta here...!
+Continue comme ça ! Je crois qu'on y est presque !
+Brava! Tra poco saremo fuori di qui!
+Das machst du gut!</n>Ich glaub, wir sind hier fast raus!
+¡Buena chica!</n>¡Ya casi estamos fuera!
+Молодец! Кажется, мы почти добрались!..
+Tak trzymaj! Zaraz się stąd wydostaniemy...!
+Isso aí, garota! Acho que a gente tá quase na saída!
+잘 하고 있어! 거의 다 빠져나온 것 같아!
+很棒！出口應該快到了...！
+很棒！应该快到出口了！
+クレア！　あれ使えるかな？<PAGE></n>試してみる！
+Claire! Maybe we can use that!?<PAGE></n>Worth a try!
+Claire ! On peut peut-être utiliser ça !<PAGE></n>Ça vaut le coup d'essayer !
+Claire! Forse possiamo usare quello!<PAGE></n>Beh, proviamo!
+Claire! Vielleicht können wir die benutzen?<PAGE></n>Versuchen wir's!
+¡Claire! ¡Igual podemos usar eso!<PAGE></n>¡Probemos!
+Клэр! Может, это поможет?<PAGE></n>Можно попробовать!
+Claire! Może możemy użyć tego?!<PAGE></n>Warto spróbować!
+Claire! Será que dá fugir nesse trem?!<PAGE></n>Não custa tentar!
+언니! 저걸 사용하는 건 어때요!?<PAGE></n>괜찮겠는데!
+克蕾兒！也許可以用那個！？<PAGE></n>值得試試！
+克莱尔！也许可以用那个！？<PAGE></n>值得试试！
+クレア！　あれ使えるかな？
+Claire! Maybe we can use that!?
+Claire ! On peut peut-être utiliser ça !
+Claire! Forse possiamo usare quello!
+Claire! Vielleicht können wir die benutzen?
+¡Claire! ¡Igual podemos usar eso!
+Клэр! Может, это поможет?
+Claire! Może możemy użyć tego?!
+Claire! Será que dá fugir nesse trem?!
+언니! 저걸 사용하는 건 어때요!?
+克蕾兒！也許可以用那個！？
+克莱尔！也许可以用那个！？
+試してみる！
+Worth a try!
+Ça vaut le coup d'essayer !
+Beh, proviamo!
+Versuchen wir's!
+¡Probemos!
+Можно попробовать!
+Warto spróbować!
+Não custa tentar!
+괜찮겠는데!
+值得試試！
+值得试试！
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV546_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV547_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV548_0010_pl1000
+あんたと遊んでるヒマはないの！
+I don't have time for your shit!
+Ça commence à bien faire, merde !
+Non ho tempo per questa merda!
+Ich hab keine Zeit für deine Scheiße!
+¡No tengo tiempo para esto!
+Пошел на хер! Урод! У меня нет на это времени!
+Nie mam czasu na zabawę!
+Não tenho tempo pra essa palhaçada!
+이럴 시간 없단 말이야!
+我沒時間陪你耗！
+我没时间陪你耗！
+そろそろ あきらめたらどう！？
+Why can't you just die!?
+Est-ce que tu vas mourir à la fin ?
+Ma perché non muori?
+Warum stirbst du nicht endlich?!
+¡¿Por qué no se muere?!
+Почему ты никак не сдохнешь?!
+Możesz łaskawie umrzeć?!
+Por que você não morre logo?!
+그냥 좀 죽지 그래!?
+你為什麼不趕快死！？
+你为什么就是死不了！？
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV608_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV609_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV610_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV611_0010_pl1000
+<MCVO>最下層エリアに到着しました
+<MCVO>You have arrived at the bottom level.
+<MCVO>Vous êtes arrivé au niveau inférieur.
+<MCVO>Siete arrivati al livello inferiore.
+<MCVO>Sie haben die unterste Ebene erreicht.
+<MCVO>Ha llegado al nivel inferior.
+<MCVO>Вы прибыли на нижний уровень.
+<MCVO>Jesteś na dolnym poziomie.
+<MCVO>
+<MCVO>
+<MCVO>Você chegou ao nível inferior.
+<MCVO>최저층에 도착했습니다.
+<MCVO>您已到達最底層。
+<MCVO>您已到达最底层。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV518_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV519_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV520_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV521_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0010_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0020_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0030_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0040_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0050_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0060_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0070_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0080_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0090_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<COLOR FF0000>#Rejected#</COLOR> CONV522_0100_vo0080
+<MCVO>爆発まであと10分
+<MCVO>Ten minutes until detonation.
+<MCVO>Dix minutes avant détonation.
+<MCVO>Dieci minuti alla detonazione.
+<MCVO>10 Minuten bis zur Detonation.
+<MCVO>Diez minutos para la detonación.
+<MCVO>Десять минут до взрыва.
+<MCVO>Dziesięć minut do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Dez minutos para a explosão.
+<MCVO>폭파 10분 전.
+<MCVO>距離爆炸還有十分鐘。
+<MCVO>距离爆炸还有十分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと9分
+<MCVO>Nine minutes until detonation.
+<MCVO>Neuf minutes avant détonation.
+<MCVO>Nove minuti alla detonazione.
+<MCVO>9 Minuten bis zur Detonation.
+<MCVO>Nueve minutos para la detonación.
+<MCVO>Девять минут до взрыва.
+<MCVO>Dziewięć minut do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Nove minutos para a explosão.
+<MCVO>폭파 9분 전.
+<MCVO>距離爆炸還有九分鐘。
+<MCVO>距离爆炸还有九分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと8分
+<MCVO>Eight minutes until detonation.
+<MCVO>Huit minutes avant détonation.
+<MCVO>Otto minuti alla detonazione.
+<MCVO>8 Minuten bis zur Detonation.
+<MCVO>Ocho minutos para la detonación.
+<MCVO>Восемь минут до взрыва.
+<MCVO>Osiem minut do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Oito minutos para a explosão.
+<MCVO>폭파 8분 전.
+<MCVO>距離爆炸還有八分鐘。
+<MCVO>距离爆炸还有八分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと7分
+<MCVO>Seven minutes until detonation.
+<MCVO>Sept minutes avant détonation.
+<MCVO>Sette minuti alla detonazione.
+<MCVO>7 Minuten bis zur Detonation.
+<MCVO>Siete minutos para la detonación.
+<MCVO>Семь минут до взрыва.
+<MCVO>Siedem minut do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Sete minutos para a explosão.
+<MCVO>폭파 7분 전.
+<MCVO>距離爆炸還有七分鐘。
+<MCVO>距离爆炸还有七分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと6分
+<MCVO>Six minutes until detonation.
+<MCVO>Six minutes avant détonation.
+<MCVO>Sei minuti alla detonazione.
+<MCVO>6 Minuten bis zur Detonation.
+<MCVO>Seis minutos para la detonación.
+<MCVO>Шесть минут до взрыва.
+<MCVO>Sześć minut do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Seis minutos para a explosão.
+<MCVO>폭파 6분 전.
+<MCVO>距離爆炸還有六分鐘。
+<MCVO>距离爆炸还有六分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと5分
+<MCVO>Five minutes until detonation.
+<MCVO>Cinq minutes avant détonation.
+<MCVO>Cinque minuti alla detonazione.
+<MCVO>5 Minuten bis zur Detonation.
+<MCVO>Cinco minutos para la detonación.
+<MCVO>Пять минут до взрыва.
+<MCVO>Pięć minut do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Cinco minutos para a explosão.
+<MCVO>폭파 5분 전.
+<MCVO>距離爆炸還有五分鐘。
+<MCVO>距离爆炸还有五分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと4分
+<MCVO>Four minutes until detonation.
+<MCVO>Quatre minutes avant détonation.
+<MCVO>Quattro minuti alla detonazione.
+<MCVO>4 Minuten bis zur Detonation.
+<MCVO>Cuatro minutos para la detonación.
+<MCVO>Четыре минуты до взрыва.
+<MCVO>Cztery minuty do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Quatro minutos para a explosão.
+<MCVO>폭파 4분 전.
+<MCVO>距離爆炸還有四分鐘。
+<MCVO>距离爆炸还有四分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと3分
+<MCVO>Three minutes until detonation.
+<MCVO>Trois minutes avant détonation.
+<MCVO>Tre minuti alla detonazione.
+<MCVO>3 Minuten bis zur Detonation.
+<MCVO>Tres minutos para la detonación.
+<MCVO>Три минуты до взрыва.
+<MCVO>Trzy minuty do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Três minutos para a explosão.
+<MCVO>폭파 3분 전.
+<MCVO>距離爆炸還有三分鐘。
+<MCVO>距离爆炸还有三分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと2分
+<MCVO>Two minutes until detonation.
+<MCVO>Deux minutes avant détonation.
+<MCVO>Due minuti alla detonazione.
+<MCVO>2 Minuten bis zur Detonation.
+<MCVO>Dos minutos para la detonación.
+<MCVO>Две минуты до взрыва.
+<MCVO>Dwie minuty do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Dois minutos para a explosão.
+<MCVO>폭파 2분 전.
+<MCVO>距離爆炸還有二分鐘。
+<MCVO>距离爆炸还有二分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>爆発まであと1分
+<MCVO>One minute until detonation.
+<MCVO>Une minute avant détonation.
+<MCVO>Un minuto alla detonazione.
+<MCVO>1 Minute bis zur Detonation.
+<MCVO>Un minuto para la detonación.
+<MCVO>Одна минута до взрыва.
+<MCVO>Jedna minuta do detonacji.
+<MCVO>
+<MCVO>
+<MCVO>Um minuto para a explosão.
+<MCVO>폭파 1분 전.
+<MCVO>距離爆炸還有一分鐘。
+<MCVO>距离爆炸还有一分钟。
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+<MCVO>
+死ねない事情でもあるのか！？
+You got a problem with death!?
+Un problème avec la mort ?
+Non vuoi proprio morire, eh?
+Hast du Probleme mit dem Sterben?
+¿Algún problema con la muerte?
+Сдохни уже наконец!
+Masz jakiś problem z umieraniem?!
+Por que você não morre de uma vez?!
+진짜 죽어볼래!?
+你就那麼不想死嗎！？
+你就那么不想死吗！？
+弾が欲しいって？<PAGE></n>ほらよ！
+You want more bullets...?<PAGE></n>Be my guest!
+Tu aimes le plomb ?<PAGE></n>Tu vas être servi !
+Ti piace il piombo?<PAGE></n>Serviti pure!
+Willst du mehr Kugeln?<PAGE></n>Kannst du haben!
+¿Quieres más balas?<PAGE></n>¡Con mucho gusto!
+Хочешь больше пуль?..<PAGE></n>На, получай!
+Chcesz więcej naboi...?<PAGE></n>Proszę bardzo!
+Quer levar mais chumbo?<PAGE></n>Fica à vontade!
+총알 맛 좀 더 보고 싶은가...?<PAGE></n>원하는 대로 해주지!
+你想吃更多子彈嗎？<PAGE></n>請慢用！
+你想吃更多子弹吗？<PAGE></n>请慢用！
+弾が欲しいって？
+You want more bullets...?
+Tu aimes le plomb ?
+Ti piace il piombo?
+Willst du mehr Kugeln?
+¿Quieres más balas?
+Хочешь больше пуль?..
+Chcesz więcej naboi...?
+Quer levar mais chumbo?
+총알 맛 좀 더 보고 싶은가...?
+你想吃更多子彈嗎？
+你想吃更多子弹吗？
+ほらよ！
+Be my guest!
+Tu vas être servi !
+Serviti pure!
+Kannst du haben!
+¡Con mucho gusto!
+На, получай!
+Proszę bardzo!
+Fica à vontade!
+원하는 대로 해주지!
+請慢用！
+请慢用！
+決着をつけるぞ！　クソ野郎
+Let's finish this, asshole!
+Finissons-en, espèce d'enfoiré !
+Facciamola finita, stronzo!
+Bringen wir's zu Ende, Arschloch.
+Acabemos con esto, gilipollas.
+Пора с тобой кончать, засранец!
+Kończymy zabawę, dupku!
+Vamos acabar com isso, seu desgraçado!
+이제 끝 좀 보자, 이 개자식!
+該結束了，混帳！
+该结束了，混蛋！
+どうだ！</n>まだ足りないか！？
+C'mon! Want some more!?
+Allez ! T'en veux encore ?!
+Avanti! Ne vuoi ancora?
+Komm schon!</n>Willst du noch mehr?!
+¡Vamos! ¿Quieres más?
+Ну давай! Хочешь еще?!
+No dalej! Chcesz jeszcze?!
+Pode vir! Tá querendo mais, é?!
+덤벼! 아직 부족하잖아!?
+來吧！想要再來一點嗎！？
+来吧！还想要再来吗！？
+ちくしょう</n>いいから死んでくれ！
+Christ, just die already!
+Bordel ! Est-ce que tu vas crever ?
+Cazzo! E muori una buona volta!
+Scheiße, stirb endlich!
+¡Dios, muere de una vez!
+Да сдохни ты уже!
+Chryste, zdechnij już wreszcie!
+Morre logo, desgraça!
+세상에, 좀 죽어라!
+天啊，快死吧！
+天啊，快死吧！
+もう会わずに済むと思ったのに
+We gotta stop meeting like this.
+Ça commence à être lourd...
+Devo piacerti davvero, eh?
+Diese Treffen müssen echt aufhören.
+Tenemos que dejar de vernos así.
+Довольно с меня этих встреч.
+Musimy się rozstać, na dobre.
+A gente precisa parar de se encontrar assim.
+이런 식으로 만나는 건</n>이제 그만해야 할 것 같은데.
+我們不要再這樣情況下碰面了。
+我们不要碰面了。
+弾が好きなんでしょ？</n>遠慮しないで！
+Hope you like bullets 'cause I got a helluva lot more!
+J'espère que t'aimes les balles parce que j'en ai encore un paquet !
+Spero ti piaccia il piombo, perché ne ho un bel po'.
+Ich hoffe du magst Kugeln;</n>ich hab noch viel mehr!
+Espero que te gusten las balas porque tengo un montón.
+Надеюсь, ты любишь пули, потому что у меня их до хрена!
+Mam nadzieję, że lubisz kule, bo mam ich tu jeszcze sporo!
+Espero que você goste de chumbo, porque eu tenho um monte aqui!
+총알 좋아했으면 좋겠네.</n>아직 많이 있거든!
+希望你愛吃子彈，我這裡還有很多！
+希望你爱吃子弹，我这里还有很多！
+ああもう！</n>なんでまだ生きてるのよ！？
+For fuck sake! How the hell are you still kickin'!?
+Putain mais merde ! Comment il peut être encore en vie !
+Come cazzo fai a essere ancora vivo?
+Scheiße, wie kannst du noch leben?!
+¡Joder! ¿Cómo es que sigues pataleando?
+Да мать твою! Какого черта ты еще живой?!
+Do kurwy nędzy! Jakim cudem jeszcze żyjesz?!
+Pelo amor de Deus! Como você ainda tá de pé?!
+빌어먹을!</n>언제까지 이럴 거야!?
+搞什麼！你為什麼還活蹦亂跳的！？
+搞什么！你为什么还活蹦乱跳的！？
+クリスがいつも言ってた</n>「容赦するな」って
+Like Chris likes to say, "Show no mercy!"
+Comme dirait Chris, "pas de pitié" !
+Come diceva sempre Chris, "nessuna pietà"!
+Wie Chris immer sagt: Sei gnadenlos.
+Como dice Chris: ¡"Sin piedad"!
+Как говорит Крис, «никакой жалости!».
+Jak mawiał Chris: „Nie ma litości!”
+Como o Chris costuma dizer, "Sem dó nem piedade"!
+오빠가 그랬어.</n>"자비를 베풀지 말라"고!
+套一句克里斯愛說的：「手下不留情！」
+套一句克里斯常说的：“手下不留情！”
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV553_0010_pl1000

@@ -1,0 +1,820 @@
+﻿使う
+Use
+Utiliser
+Usa
+Benutzen
+Usar
+Использовать
+Użyj
+Usar
+사용
+使用
+使用
+調べる
+Examine
+Examiner
+Esamina
+Untersuchen
+Examinar
+Изучить
+Obejrzyj
+Examinar
+검사
+檢查
+检查
+ショートカット登録
+Shortcut
+Raccourci
+Scelta rapida
+Schnellzugriff
+Acceso rápido
+Быстрый доступ
+Skrót
+Atalho
+단축키
+快捷欄位
+快捷槽位
+装備する
+Equip
+Équiper
+Equipaggia
+Ausrüsten
+Equipar
+Выбрать
+Wyposaż
+Equipar
+장착
+裝備
+装备
+装備を外す
+Unequip
+Déséquiper
+Rimuovi
+Nicht ausrüsten
+Quitar
+Убрать
+Zdejmij
+Desequipar
+장착 해제
+卸下
+卸下
+装備する
+Equip
+Équiper
+Equipaggia
+Ausrüsten
+Equipar
+Выбрать
+Wyposaż
+Equipar
+장착
+裝備
+装备
+装備を外す
+Unequip
+Déséquiper
+Rimuovi
+Nicht ausrüsten
+Quitar
+Убрать
+Zdejmij
+Desequipar
+장착 해제
+卸下
+卸下
+装着
+Attach
+Attacher
+Unisci
+Anbringen
+Acoplar
+Прикрепить
+Zamontuj
+Instalar
+부착
+加裝
+加装
+パーツを外す
+Remove Parts
+Retirer des éléments
+Rimuovi parti
+Zubehör entfernen
+Quitar partes
+Снять детали
+Usuń części
+Remover Peça
+부품 제거
+移除零件
+移除零件
+入れ替え
+Swap
+Échanger
+Scambia
+Austauschen
+Intercambiar
+Заменить
+Zamień
+Trocar
+바꾸기
+交換
+交换
+<ICON DECIDE>　調べる
+<ICON DECIDE>　Examine
+<ICON DECIDE>　Examiner
+<ICON DECIDE>　Esamina
+<ICON DECIDE>　Untersuchen
+<ICON DECIDE>　Examinar
+<ICON DECIDE>　Изучить
+<ICON DECIDE>　Obejrzyj
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　Examinar
+<ICON DECIDE>　검사
+<ICON DECIDE>　檢查
+<ICON DECIDE>　检查
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+<ICON DECIDE>　
+組み合わせ
+Combine
+Combiner
+Combina
+Kombinieren
+Combinar
+Объединить
+Połącz
+Combinar
+조합
+組合
+组合
+組み合わせ
+Combine
+Combiner
+Combina
+Kombinieren
+Combinar
+Объединить
+Połącz
+Combinar
+조합
+組合
+组合
+捨てる
+Discard
+Jeter
+Scarta
+Wegwerfen
+Descartar
+Выбросить
+Wyrzuć
+Descartar
+폐기
+丟棄
+丢弃
+預ける
+Store
+Déposer
+Deposita
+Verstauen
+Guardar
+Хранить
+Przechowaj
+Armazenar
+보관
+存放
+存放
+取り出す
+Take Out
+Prendre
+Prendi
+Herausnehmen
+Coger
+Достать
+Wyjmij
+Retirar
+꺼내기
+取出
+取出
+置き換え
+Swap
+Échanger
+Inserisci
+Austauschen
+Intercambiar
+Заменить
+Zamień
+Trocar
+바꾸기
+交換
+交换
+特になにも無いようだ
+Nothing of note.
+Rien de particulier.
+Niente di rilevante.
+Hier ist nichts Besonderes.
+Nada interesante.
+Ничего необычного.
+Nic ciekawego.
+Nada importante.
+내용 없음.
+沒什麼值得注意的。
+没什么值得留意的。
+CUSTOM PARTS
+CUSTOM PARTS
+ÉLÉMENTS
+MODIFICHE
+SPEZIALZUBEHÖR
+PIEZAS ADICIONALES
+ОСОБЫЕ ДЕТАЛИ
+NIESTANDARDOWE CZĘŚCI
+PEÇAS PERSONALIZADAS
+맞춤형 부품
+改裝零件
+改装零件
+FINE
+FINE
+OK
+NORMALE
+GESUND
+BIEN
+ХОРОШО
+DOBRY
+BEM
+정상
+良好
+良好
+CAUTION
+CAUTION
+ATTENTION
+ATTENZIONE
+WARNUNG
+ATENCIÓN
+ВНИМАНИЕ
+NIEPOKOJĄCY
+CUIDADO
+주의
+注意
+注意
+DANGER
+DANGER
+DANGER
+PERICOLO
+GEFAHR
+PELIGRO
+ОПАСНОСТЬ
+NIEBEZPIECZNY
+PERIGO
+위험
+危險
+危险
+POISON
+POISONED
+POISON
+AVVELENAMENTO
+VERGIFTET
+VENENO
+ОТРАВЛЕНИЕ
+ZATRUCIE
+VENENO
+중독됨
+中毒
+中毒
+NO DATA
+NO DATA
+Aucune donnée
+NESSUN DATO
+KEINE DATEN
+SIN DATOS
+НЕТ ДАННЫХ
+BRAK DANYCH
+NÃO HÁ DADOS
+데이터 없음
+無資料
+无数据
+アイテムを使用します
+Use item.
+Utiliser l'objet.
+Usa l'oggetto.
+Objekt benutzen.
+Utilizar el objeto.
+Использовать предмет.
+Użyj przedmiotu.
+Usar item.
+아이템을 사용합니다.
+使用物品。
+使用物品。
+アイテムを組み合わせます
+Combine items.
+Combiner des objets.
+Combina l'oggetto.
+Objekte kombinieren.
+Combinar dos objetos.
+Объединить предметы.
+Połącz przedmioty.
+Combinar itens.
+아이템을 조합합니다.
+組合物品。
+组合物品。
+アイテムを調べます
+Examine item.
+Examiner l'objet.
+Esamina l'oggetto.
+Objekt untersuchen.
+Examinar el objeto.
+Изучить предмет.
+Obejrzyj przedmiot.
+Examinar item.
+아이템을 검사합니다.
+檢查物品。
+检查物品。
+アイテムを置きます
+Get item.
+Déposer un objet.
+Prendi oggetto.
+Objekt nehmen.
+Consigue un objeto.
+Взять предмет.
+Zabierz przedmiot.
+Pegar item.
+아이템을 획득합니다.
+取得物品。
+取得物品。
+武器を装備します
+Equip weapon.
+Équiper une arme.
+Equipaggia l'arma.
+Waffe ausrüsten.
+Equipar arma.
+Использовать оружие.
+Wyposaż broń.
+Equipar arma.
+무기를 장착합니다.
+裝備武器。
+装备武器。
+装備を外します
+Unequip weapon.
+Déséquiper une arme.
+Riponi l'arma.
+Waffe nicht ausrüsten.
+Desequipar arma.
+Убрать оружие.
+Przestań używać broni.
+Desequipar arma.
+장착된 무기를 해제합니다.
+卸下武器。
+卸下武器。
+サブウェポンを装備します
+Equip sub-weapon.
+Équiper une arme secondaire.
+Equipaggia l'arma secondaria.
+Nebenwaffe ausrüsten.
+Equipar arma secundaria.
+Использовать доп. оружие.
+Wyposaż pomocniczą broń.
+Equipar arma secundária.
+보조 무기를 장착합니다.
+裝備次要武器。
+装备次要武器。
+装備を外します
+Unequip sub-weapon.
+Déséquiper une arme secondaire.
+Rimuovi arma secondaria
+Nebenwaffe nicht ausrüsten.
+Quitar arma secundaria.
+Убрать доп. оружие.
+Przestań używać pomocniczej broni.
+Desequipar arma secundária.
+장착된 보조 무기를 해제합니다.
+卸下次要武器。
+卸下次要武器。
+カスタムパーツを外します
+Remove custom parts.
+Retirer des éléments de personnalisation.
+Rimuovi le modifiche.
+Spezialzubehör entfernen.
+Quita algunas piezas adicionales.
+Снять особые детали.
+Usuń niestandardowe części.
+Remover peças personalizadas.
+맞춤형 부품을 제거합니다.
+移除改裝零件。
+移除改装零件。
+ショートカットに登録します
+Register to shortcuts.
+Mettre en raccourci.
+Aggiungi alla scelta rapida.
+Zum Schnellzugriff hinzufügen.
+Añadirlo al acceso rápido.
+Назначить быстрый доступ.
+Przypisz do skrótów.
+Registrar nos atalhos.
+단축키를 등록합니다.
+掛載至快捷欄位。
+挂载至快捷槽位。
+アイテムを捨てます
+Discard item.
+Jeter l'objet.
+Scarta l'oggetto.
+Objekt wegwerfen.
+Deshazte del objeto.
+Выбросить предмет.
+Wyrzuć przedmiot.
+Descartar item.
+아이템을 폐기합니다.
+丟棄物品。
+丢弃物品。
+登録する場所を選択してください
+Select a slot to register to.
+Sélectionnez un emplacement.
+Seleziona uno slot.
+Einen Platz auswählen, auf dem die Waffe registriert werden soll.
+Elige en qué espacio añadirlo.
+Выберите ячейку для назначения.
+Wybierz miejsce do przypisania.
+Selecione um espaço para registrar.
+등록할 슬롯을 선택합니다.
+選擇要掛載的欄位。
+选择要挂载的槽位。
+組み合わせるアイテムを選択してください
+Select item to combine.
+Sélectionnez un autre objet.
+Seleziona un oggetto da combinare.
+Zu kombinierendes Objekt auswählen.
+Elige qué objeto quieres combinar.
+Выберите предмет для объединения.
+Wybierz przedmiot do połączenia.
+Selecione o item para combinar.
+조합할 아이템을 선택합니다.
+選擇要組合的物品。
+选择要组合的物品。
+移動する場所を選択してください
+Select a new slot for this item.
+Sélectionnez un nouvel emplacement pour cet objet.
+Seleziona uno slot per questo oggetto.
+Einen neuen Platz für das Objekt wählen.
+Selecciona un nuevo espacio para este objeto.
+Выберите новую ячейку для предмета.
+Wybierz nowe miejsce na przedmiot.
+Selecione um novo espaço para este item.
+이 아이템을 위한 새 슬롯을 선택합니다.
+為此物品選擇新欄位。
+为此物品选择新槽位。
+アイテムを入れ替えます
+Swap items.
+Échanger les objets.
+Scambia oggetti.
+Objekte tauschen.
+Intercambia objetos.
+Заменить предметы.
+Zamień przedmioty.
+Trocar itens.
+아이템을 바꿉니다.
+交換物品位置。
+交换物品。
+使用するアイテムを選択してください
+Select an item to use.
+Sélectionnez un objet à utiliser.
+Seleziona un oggetto da usare.
+Zu verwendendes Objekt wählen.
+Elige qué objeto quieres utilizar.
+Какой предмет нужно использовать?
+Wybierz przedmiot do użycia.
+Selecione um item para usar.
+사용할 아이템을 선택합니다.
+選擇要使用的物品。
+选择一个要使用的物品。
+預けるアイテムを選択してください
+Select an item to store.
+Sélectionnez un objet à déposer.
+Seleziona un oggetto da inviare alla cassa oggetti.
+Objekt zum Verstauen auswählen.
+Elige qué objeto quieres guardar.
+Выберите предмет для хранения.
+Wybierz przedmiot do przechowania.
+Selecione um item para armazenar.
+보관할 아이템을 선택합니다.
+選擇要存放的物品。
+选择一个要存放的物品。
+アイテムを預けます
+Put this item in the box.
+Déposer cet objet dans le coffre.
+Invialo alla cassa oggetti.
+Das Objekt in die Box legen.
+Deja el objeto en el baúl.
+Положите этот предмет в ящик.
+Umieść przedmiot w skrzyni.
+Coloque esse item no baú.
+이 아이템을 상자에 넣습니다.
+將此物品放入箱中。
+将这个物品放入箱子中。
+取り出すアイテムを選択してください
+Select an item to take out.
+Sélectionnez un objet à prendre.
+Seleziona un oggetto da portare con te.
+Objekt zum Herausnehmen auswählen.
+Elige qué objeto quieres llevarte.
+Какой предмет нужно достать?
+Wybierz przedmiot do wyjęcia.
+Selecione um item para retirar.
+꺼낼 아이템을 선택합니다.
+選擇要取出的物品。
+选择一个要取出的物品。
+アイテムを取り出します
+Take this item out of the box.
+Prendre cet objet du coffre.
+Invia l'oggetto al tuo inventario.
+Das Objekt aus der Box herausnehmen.
+Coge este objeto del baúl.
+Достаньте этот предмет из ящика.
+Wyjmij przedmiot ze skrzyni.
+Tirar este item do baú.
+이 아이템을 상자에서 꺼냅니다.
+將此物品自箱中取出。
+将这个物品从箱中取出。
+アイテムを置き換えて入手します
+Swap with new item.
+Remplacer par le nouvel objet.
+Inserisci il nuovo oggetto in questo slot.
+Mit neuem Objekt austauschen.
+Intercambia el objeto por otro nuevo.
+Заменить на новый предмет.
+Zamień z nowym przedmiotem.
+Trocar por item novo.
+새 아이템으로 바꿉니다.
+與新物品交換位置。
+与新物品交换。
+このアイテムを捨てますか？</n>（一度捨てたアイテムは、拾うことができません）
+Discarded items cannot be recovered.</n></n>Discard item?
+Les objets jetés ne peuvent pas être récupérés.</n></n>Jeter cet objet ?
+Gli oggetti scartati non possono essere recuperati.</n></n>Scartare l'oggetto?
+Das Objekt wegwerfen?</n>(Weggeworfene Objekte gehen</n>unwiederbringlich verloren.)
+No podrás recuperar un objeto tras deshacerte de él.</n></n>¿Quieres deshacerte de este objeto?
+Выброшенные предметы не вернуть.</n></n>Все равно выбросить?
+Wyrzuconych przedmiotów nie można odzyskać.</n></n>Wyrzucić ten przedmiot?
+Não é possível recuperar itens descartados. Quer descartar o item?
+아이템을 폐기하면 복구할 수 없습니다.</n></n>폐기하시겠습니까?
+物品丟棄後無法收回。</n></n>確定要丟棄物品嗎？
+已丢弃的物品无法取回。</n></n>是否要丢弃物品？
+弾薬
+Ammo
+Munitions
+Munizioni
+Munition
+Munición
+Боеприпасы
+Amunicja
+Munição
+탄약
+彈藥
+弹药
+素材
+Resource
+Ressource
+Materiale
+Material
+Recurso
+Ресурс
+Zasób
+Recurso
+자원
+資源
+资源
+カスタムパーツ
+Custom Part
+Élément
+Parte di modifica
+Spezialzubehör
+Pieza adicional
+Особая деталь
+Niestandardowa część
+Peça Personalizada
+맞춤형 부품
+改裝零件
+改装零件
+回復アイテム
+Recovery Item
+Objet de soin
+Oggetto curativo
+Heilendes Objekt
+Objeto curativo
+Средство восстановления
+Przedmiot regenerujący
+Item de Recuperação
+회복 아이템
+治療物品
+治疗物品
+キーアイテム
+Key Item
+Objet clé
+Oggetto chiave
+Wichtiges Objekt
+Objeto clave
+Сюжетный предмет
+Kluczowy przedmiot
+Item Importante
+열쇠 아이템
+關鍵物品
+关键物品
+サブウェポン
+Sub-weapon
+Arme secondaire
+Arma secondaria
+Nebenwaffe
+Arma secundaria
+Доп. оружие
+Pomocnicza broń
+Arma secundária
+보조 무기
+次要武器
+次要武器
+メインウェポン
+Main Weapon
+Arme principale
+Arma principale
+Hauptwaffe
+Arma principal
+Основное оружие
+Główna broń
+Arma Principal
+주 무기
+主要武器
+主要武器
+ハンドガン
+Handgun
+Arme de poing
+Pistola
+Pistole
+Pistola
+Пистолет
+Pistolet
+Pistola
+권총
+手槍
+手枪
+大型拳銃
+High-caliber Handgun
+Pistolet de gros calibre
+Pistola di grosso calibro
+Großkaliberpistole
+Pistola de gran calibre
+Крупнокалиберный пистолет
+Pistolet dużego kalibru
+Pistola de Alto Calibre
+대구경 권총
+大口徑手槍
+大口径手枪
+ショットガン
+Shotgun
+Fusil à pompe
+Fucile
+Flinte
+Escopeta
+Дробовик
+Strzelba
+Espingarda
+산탄총
+散彈槍
+散弹枪
+サブマシンガン
+Submachine Gun
+Pistolet-mitrailleur
+Pistola mitragliatrice
+Machinenpistole
+Subfusil
+Пистолет-пулемет
+Pistolet maszynowy
+Submetralhadora
+기관단총
+衝鋒槍
+冲锋枪
+マグナム
+MAG
+MAG
+MAG
+MAG
+MAG
+Револьвер
+MAG
+MAG
+MAG
+麥格農
+马格南
+グレネードランチャー
+Grenade Launcher
+Lance-grenades
+Lanciagranate
+Granatwerfer
+Lanzagranadas
+Гранатомет
+Granatnik
+Lança-Granadas
+유탄 발사기
+榴彈發射器
+榴弹发射器
+火炎放射器
+Flamethrower
+Lance-flammes
+Lanciafiamme
+Flammenwerfer
+Lanzallamas
+Огнемет
+Miotacz ognia
+Lança-Chamas
+화염방사기
+火焰噴射器
+火焰喷射器
+スタンガン
+Stun Gun
+Arme incapacitante
+Arma incapacitante
+Elektroschocker
+Pistola aturdidora
+Электрошокер
+Paralizator
+Arma de Atordoamento
+전기충격기
+電擊槍
+电击枪
+対戦車砲
+Anti-tank Weapon
+Arme antichar
+Arma anticarro
+Panzerabwehrlenkwaffe
+Arma antitanque
+Противотанковое орудие
+Broń przeciwpancerna
+Arma Antitanque
+대전차 무기
+反坦克武器
+反坦克武器
+ガトリングガン
+Gatling Gun
+Gatling
+Mitragliatrice Gatling
+Gatling-Waffe
+Ametralladora
+Пулемет Гатлинга
+Minigun
+Metralhadora
+개틀링 기관총
+格林機槍
+格林机关枪
+ハッキングツール
+Hacking Gadget
+Appareil de piratage
+Strumento per l'hacking
+Hacking-Gadget
+Aparato para hackear
+Устройство для взлома
+Urządzenie do hakowania
+Aparelho de Invasão
+해킹 장치
+入侵工具
+黑客工具
+E
+E
+E
+E
+A
+E
+В
+E
+E
+E
+E
+E
+これ以上持てない
+Your inventory is full.
+Votre inventaire est plein.
+Il tuo inventario è pieno.
+Ihr Inventar ist voll.
+Tu inventario está lleno.
+Нет места для снаряжения.
+Nie masz miejsca w ekwipunku.
+Seu inventário está cheio.
+인벤토리가 가득 찼습니다.
+您的物品欄已滿。
+物品栏已满。
+並び順
+Sort
+Trier
+Ordina per
+Sortieren
+Ordenar
+Сортировать
+Sortuj
+Organizar
+정렬
+排序
+排序

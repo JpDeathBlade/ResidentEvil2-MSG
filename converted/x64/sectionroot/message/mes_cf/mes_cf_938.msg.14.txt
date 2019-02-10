@@ -1,0 +1,92 @@
+﻿<TIME 9.29, 10.99><TIME 11.59, 13.49>なぜ戻った？<PAGE></n>死神に会いたくなった
+<TIME 9.29, 10.99><TIME 11.59, 13.49>Why’d you come back?<PAGE></n>I wanted to meet the Grim Reaper.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>Pourquoi tu es revenu ?<PAGE></n>Je voulais rencontrer la Faucheuse.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>Perché sei tornato?<PAGE></n>Volevo incontrare Mr. Morte.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>Wieso bist du zurück?<PAGE></n>Ich wollte den Sensenmann treffen.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>¿Por qué has vuelto?<PAGE></n>Quería conocer a Mr. Death.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>Зачем было возвращаться?<PAGE></n>Хотелось встретиться с Мрачным жнецом.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>Dlaczego wróciłeś?<PAGE></n>Chcę poznać Ponurego żniwiarza.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>Por que você voltou?<PAGE></n>Eu queria conhecer o Ceifador Sinistro.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>왜 돌아온 거지?<PAGE></n>사신을 만나고 싶었거든.
+<TIME 9.29, 10.99><TIME 11.59, 13.49>你為什麼要回來？<PAGE></n>我想要會會死神。
+<TIME 9.29, 10.99><TIME 11.59, 13.49>你为什么要回来？<PAGE></n>我想要会会死神。
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+<TIME 9.29, 10.99><TIME 11.59, 13.49>
+なぜ戻った？
+Why’d you come back?
+Pourquoi tu es revenu ?
+Perché sei tornato?
+Wieso bist du zurück?
+¿Por qué has vuelto?
+Зачем было возвращаться?
+Dlaczego wróciłeś?
+Por que você voltou?
+왜 돌아온 거지?
+你為什麼要回來？
+你为什么要回来？
+死神に会いたくなった
+I wanted to meet the Grim Reaper.
+Je voulais rencontrer la Faucheuse.
+Volevo incontrare Mr. Morte.
+Ich wollte den Sensenmann treffen.
+Quería conocer a Mr. Death.
+Хотелось встретиться с Мрачным жнецом.
+Chcę poznać Ponurego żniwiarza.
+Eu queria conhecer o Ceifador Sinistro.
+사신을 만나고 싶었거든.
+我想要會會死神。
+我想要会会死神。
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>死神に会いたくなった
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>I wanted to meet the Grim Reaper.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>Je voulais rencontrer la Faucheuse.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>Volevo incontrare Mr. Morte.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>Ich wollte den Sensenmann treffen.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>Quería conocer a Mr. Death.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>Хотелось встретиться с Мрачным жнецом.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>Chcę poznać Ponurego żniwiarza.
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>Eu queria conhecer o Ceifador Sinistro.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>사신을 만나고 싶었거든.
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>我想要會會死神。
+<TIME 9.29, 10.75><TIME 10.85, 12.93><PAGE></n>我想要会会死神。
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+<TIME 9.29, 10.75><TIME 10.85, 12.93>
+死神に会いたくなった
+I wanted to meet the Grim Reaper.
+Je voulais rencontrer la Faucheuse.
+Volevo incontrare Mr. Morte.
+Ich wollte den Sensenmann treffen.
+Quería conocer a Mr. Death.
+Хотелось встретиться с Мрачным жнецом.
+Chcę poznać Ponurego żniwiarza.
+Eu queria conhecer o Ceifador Sinistro.
+사신을 만나고 싶었거든.
+我想要會會死神。
+我想要会会死神。

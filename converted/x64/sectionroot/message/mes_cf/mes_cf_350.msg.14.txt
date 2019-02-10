@@ -1,0 +1,246 @@
+﻿<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>どこにあるの？<PAGE></n>近くにあるから すぐ分かる<PAGE></n>シェリーは無事？<PAGE></n>今はな<PAGE></n>もし指一本でも触れたら…<PAGE></n>バカなガキだ</n>あれを落とさなければ見逃してやったのに<PAGE></n>心配するな</n>もうじきすべて終わる<PAGE></n>どこかから出られるはず…
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>Where is that?<PAGE></n>In the neighborhood. You'll find it.<PAGE></n>Is Sherry alright?<PAGE></n>...For now.<PAGE></n>I swear, you bastard, if you hurt her—<PAGE></n>Stupid kid. If you just hadn't dropped</n>that fucking thing, I could let you go...<PAGE></n>Don't worry, Sherry. It'll be all over soon.<PAGE></n>There has to be a way out of here...
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>Où ça ?<PAGE></n>Dans le quartier. Tu le trouveras.<PAGE></n>Sherry va bien ?<PAGE></n>Pour l'instant...<PAGE></n>Espèce d'ordure, si tu lui fais du mal...<PAGE></n>Sale mioche. Si tu n'avais pas laissé</n>tomber ce truc, j'aurais pu te libérer...<PAGE></n>T'inquiète pas, Sherry. Tout ça sera bientôt fini.<PAGE></n>Faut que je trouve un moyen de sortir d'ici...
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>E dov'è?<PAGE></n>È qui vicino. Lo troverai.<PAGE></n>Sherry sta bene?<PAGE></n>Per ora.<PAGE></n>Bastardo, se le fai del male...<PAGE></n>Stupida mocciosa. Se solo non lo avessi</n>fatto cadere, ti avrei lasciata andare. <PAGE></n>Non temere, Sherry. Presto sarà tutto finito.<PAGE></n>Ci sarà un modo per uscire.
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>Wo ist das?<PAGE></n>In der Nachbarschaft. Du findest es schon.<PAGE></n>Ist Sherry okay?<PAGE></n>Vorerst.<PAGE></n>Ich schwör, Sie Mistkerl, wenn Sie ihr wehtun...<PAGE></n>Dumme Göre. Hättest du das blöde Ding</n>nicht fallen lassen, könntest du gehen...<PAGE></n>Keine Sorge, Sherry.</n>Das ist alles bald vorbei.<PAGE></n>Irgendwo muss es hier rausgehen.
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>¿Dónde está?<PAGE></n>Lo tienes cerca. Lo verás.<PAGE></n>¿Sherry está bien?<PAGE></n>Por ahora.<PAGE></n>Te juro que como la toques...<PAGE></n>Niña estúpida. Si no hubieras perdido eso,</n>te dejaría marchar.<PAGE></n>Tranquila Sherry. Pronto acabará todo.<PAGE></n>Tengo que salir de aquí.
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>И где это?<PAGE></n>Неподалеку. Не пропустишь.<PAGE></n>Шерри в порядке?<PAGE></n>...Пока да.<PAGE></n>Клянусь, сволочь, если ее тронешь...<PAGE></n>Тупая девчонка. Если бы не потеряла</n>эту гребанную штуку, я бы отпустил тебя...<PAGE></n>Спокойно, Шерри. Скоро все закончится.<PAGE></n>Отсюда же должен быть выход.
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>Gdzie to jest?<PAGE></n>Niedaleko. Znajdziesz.<PAGE></n>Sherry jest cała?<PAGE></n>...póki co.<PAGE></n>Przysięgam, sukinsynu,</n>jeśli zrobisz jej krzywdę...<PAGE></n>Głupi dzieciak. Gdybyś nie upuściła</n>tego cholerstwa, pozwoliłbym ci odejść...<PAGE></n>Nie martw się, Sherry. Niedługo będzie po wszystkim.<PAGE></n>Na pewno da się stąd jakoś wydostać...
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>Onde fica?<PAGE></n>Fica por aqui. Você vai achar.<PAGE></n>A Sherry tá bem?<PAGE></n>Por enquanto, sim.<PAGE></n>Eu juro, seu merda, se você encostar um dedo nela...<PAGE></n>Menina idiota. Se não tivesse deixado aquela merda cair,</n>eu poderia te deixar ir embora...<PAGE></n>Fica tranquila, Sherry. Vai acabar logo, logo.<PAGE></n>Tem que ter um jeito de sair daqui.
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>그게 어딘데?<PAGE></n>근처에 있지. 찾을 수 있을 거야.<PAGE></n>셰리는 괜찮아?<PAGE></n>...지금이야 그렇지.<PAGE></n>이 개자식,</n>셰리에게 손 하나라도 까딱했다간...<PAGE></n>멍청하긴. 그걸 떨어뜨리지만 않았어도</n>그냥 보내줄 수도 있었는데 말이야...<PAGE></n>걱정하지 말렴, 셰리. 곧 다 끝날 테니까.<PAGE></n>빠져나갈 방법이 분명 있을 거야...
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>那在哪？<PAGE></n>就在附近，你會找到的。<PAGE></n>雪莉沒事吧？<PAGE></n>... 暫時還好。<PAGE></n>我發誓，你這混蛋，要是你敢傷害她...<PAGE></n>蠢孩子。要是你沒有弄掉那東西，</n>我就會放你走了...<PAGE></n>雪莉，別擔心。很快就會結束了。<PAGE></n>一定有辦法可以離開這裡...
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>在哪里？<PAGE></n>就在附近，你会看到的。<PAGE></n>雪莉没事吧？<PAGE></n>... 暂时还好。<PAGE></n>混蛋，我发誓，如果你胆敢伤害她...<PAGE></n>傻孩子。假如你没弄掉那鬼东西，</n>我可能还会放你走呢...<PAGE></n>别担心，雪莉。这一切很快就会过去的。<PAGE></n>总会有办法离开这里...
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+<TIME 1.28, 2.41><TIME 2.58, 4.44><TIME 5.76, 6.58><TIME 7.00, 8.20><TIME 10.0, 11.63><TIME 17.89, 24.63><TIME 30.26, 35.15><TIME 38.68, 40.23>
+どこにあるの？
+Where is that?
+Où ça ?
+E dov'è?
+Wo ist das?
+¿Dónde está?
+И где это?
+Gdzie to jest?
+Onde fica?
+그게 어딘데?
+那在哪？
+在哪里？
+近くにあるから すぐ分かる
+In the neighborhood. You'll find it.
+Dans le quartier. Tu le trouveras.
+È qui vicino. Lo troverai.
+In der Nachbarschaft. Du findest es schon.
+Lo tienes cerca. Lo verás.
+Неподалеку. Не пропустишь.
+Niedaleko. Znajdziesz.
+Fica por aqui. Você vai achar.
+근처에 있지. 찾을 수 있을 거야.
+就在附近，你會找到的。
+就在附近，你会看到的。
+シェリーは無事？
+Is Sherry alright?
+Sherry va bien ?
+Sherry sta bene?
+Ist Sherry okay?
+¿Sherry está bien?
+Шерри в порядке?
+Sherry jest cała?
+A Sherry tá bem?
+셰리는 괜찮아?
+雪莉沒事吧？
+雪莉没事吧？
+今はな
+...For now.
+Pour l'instant...
+Per ora.
+Vorerst.
+Por ahora.
+...Пока да.
+...póki co.
+Por enquanto, sim.
+...지금이야 그렇지.
+... 暫時還好。
+... 暂时还好。
+もし指一本でも触れたら…
+I swear, you bastard, if you hurt her—
+Espèce d'ordure, si tu lui fais du mal...
+Bastardo, se le fai del male...
+Ich schwör, Sie Mistkerl, wenn Sie ihr wehtun...
+Te juro que como la toques...
+Клянусь, сволочь, если ее тронешь...
+Przysięgam, sukinsynu,</n>jeśli zrobisz jej krzywdę...
+Eu juro, seu merda, se você encostar um dedo nela...
+이 개자식,</n>셰리에게 손 하나라도 까딱했다간...
+我發誓，你這混蛋，要是你敢傷害她...
+混蛋，我发誓，如果你胆敢伤害她...
+バカなガキだ</n>あれを落とさなければ見逃してやったのに
+Stupid kid. If you just hadn't dropped</n>that fucking thing, I could let you go...
+Sale mioche. Si tu n'avais pas laissé</n>tomber ce truc, j'aurais pu te libérer...
+Stupida mocciosa. Se solo non lo avessi</n>fatto cadere, ti avrei lasciata andare. 
+Dumme Göre. Hättest du das blöde Ding</n>nicht fallen lassen, könntest du gehen...
+Niña estúpida. Si no hubieras perdido eso,</n>te dejaría marchar.
+Тупая девчонка. Если бы не потеряла</n>эту гребанную штуку, я бы отпустил тебя...
+Głupi dzieciak. Gdybyś nie upuściła</n>tego cholerstwa, pozwoliłbym ci odejść...
+Menina idiota. Se não tivesse deixado aquela merda cair,</n>eu poderia te deixar ir embora...
+멍청하긴. 그걸 떨어뜨리지만 않았어도</n>그냥 보내줄 수도 있었는데 말이야...
+蠢孩子。要是你沒有弄掉那東西，</n>我就會放你走了...
+傻孩子。假如你没弄掉那鬼东西，</n>我可能还会放你走呢...
+Stupid kid. If you just hadn't dropped</n>that fucking thing, I could let you go...
+Sale mioche. Si tu n'avais pas laissé</n>tomber ce truc, j'aurais pu te libérer...
+Stupida mocciosa. Se solo non lo avessi</n>fatto cadere, ti avrei lasciata andare. 
+Dumme Göre. Hättest du das blöde Ding</n>nicht fallen lassen, könntest du gehen...
+Тупая девчонка. Если бы не потеряла</n>эту гребанную штуку, я бы отпустил тебя...
+Głupi dzieciak. Gdybyś nie upuściła</n>tego cholerstwa, pozwoliłbym ci odejść...
+Menina idiota. Se não tivesse deixado aquela merda cair,</n>eu poderia te deixar ir embora...
+멍청하긴. 그걸 떨어뜨리지만 않았어도</n>그냥 보내줄 수도 있었는데 말이야...
+蠢孩子。要是你沒有弄掉那東西，</n>我就會放你走了...
+傻孩子。假如你没弄掉那鬼东西，</n>我可能还会放你走呢...
+心配するな</n>もうじきすべて終わる
+Don't worry, Sherry. It'll be all over soon.
+T'inquiète pas, Sherry. Tout ça sera bientôt fini.
+Non temere, Sherry. Presto sarà tutto finito.
+Keine Sorge, Sherry.</n>Das ist alles bald vorbei.
+Tranquila Sherry. Pronto acabará todo.
+Спокойно, Шерри. Скоро все закончится.
+Nie martw się, Sherry. Niedługo będzie po wszystkim.
+Fica tranquila, Sherry. Vai acabar logo, logo.
+걱정하지 말렴, 셰리. 곧 다 끝날 테니까.
+雪莉，別擔心。很快就會結束了。
+别担心，雪莉。这一切很快就会过去的。
+どこかから出られるはず…
+There has to be a way out of here...
+Faut que je trouve un moyen de sortir d'ici...
+Ci sarà un modo per uscire.
+Irgendwo muss es hier rausgehen.
+Tengo que salir de aquí.
+Отсюда же должен быть выход.
+Na pewno da się stąd jakoś wydostać...
+Tem que ter um jeito de sair daqui.
+빠져나갈 방법이 분명 있을 거야...
+一定有辦法可以離開這裡...
+总会有办法离开这里...
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0100_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0110_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0120_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100
+<COLOR FF0000>#Rejected#</COLOR> CF350_0130_pl5100

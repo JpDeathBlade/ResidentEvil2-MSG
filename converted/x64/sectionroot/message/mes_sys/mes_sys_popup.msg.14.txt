@@ -1,0 +1,432 @@
+﻿セーブしています。</n>電源を切らないでください。
+Saving content.</n>Please don't turn off the power.
+Sauvegarde du contenu...</n>Ne pas éteindre.
+Salvataggio dati in corso...</n>Non spegnere la console.
+Inhalt wird gespeichert.</n>Bitte schalten Sie die Stromversorgung nicht aus.
+Guardando el contenido.</n>Por favor, no apagues la consola.
+Сохранение...</n>Не отключайте питание.
+Trwa zapisywanie zawartości.</n>Nie wyłączaj zasilania.
+Salvando conteúdo.</n>Não desligue.
+콘텐츠 저장 중입니다.</n>전원을 끄지 마십시오.
+正在儲存內容。</n>請勿關閉電源。
+正在保存内容。</n>请勿关闭电源。
+ゲームを終了しますか？</n>（セーブされていない進行データは失われます）
+Quit the game?</n>(All unsaved progress will be lost.)
+Quitter la partie ?</n>(Toute progression non sauvegardée sera perdue.)
+Uscire dal gioco?</n>(I progressi non salvati andranno persi.)
+Das Spiel beenden?</n>(Nicht gespeicherter Fortschritt geht verloren.)
+¿Quieres salir del juego?</n>(Todo progreso no guardado se perderá.)
+Выйти из игры?</n>(Несохраненный прогресс будет потерян.)
+Wyjść z gry?</n>(Wszystkie niezapisane postępy zostaną utracone).
+Sair do jogo?</n>(Todo progresso não salvo será perdido.)
+게임을 종료하시겠습니까?</n>(저장되지 않은 진행 데이터는 모두 손실됩니다)
+確定要結束遊戲嗎？</n>（您將失去所有尚未儲存的進度。）
+是否要退出游戏？</n>（将失去所有未保存的进度。）
+このゲームはオートセーブに対応しています。</n>上のアイコン表示中は、</n>PlayStation®4本体の電源を切らないでください。
+This game has an autosave feature.</n>Do not turn off the PlayStation®4 system when the icon above is displayed.
+Ce jeu dispose d'une fonction de sauvegarde automatique.</n>N'éteignez pas le système PlayStation®4 lorsque l'icône ci-dessus apparaît.
+Questo gioco possiede una funzione di autosalvataggio.</n>Non spegnere il sistema PlayStation®4 quando questa icona è visualizzata.
+Dieses Spiel verfügt über eine automatische Speicherfunktion.</n>Bitte schalten Sie das PlayStation®4-System nicht aus,</n>wenn das obige Symbol angezeigt wird.
+Este juego tiene una función de autoguardado.</n>No apagues el sistema PlayStation®4 cuando se muestre este icono.
+В игре есть функция автосохранения.</n>Не выключайте систему PlayStation®4, пока на экране отображается этот значок.
+Ta gra korzysta z funkcji autozapisu.</n>Nie wyłączaj systemu PlayStation®4, gdy widzisz powyższą ikonę.
+Este jogo salva automaticamente.</n>Não desligue o sistema PlayStation®4 enquanto o ícone acima estiver aparecendo na tela.
+이 게임에는 자동 저장 기능이 있습니다.</n>위 아이콘이 표시된 상태에서는 PlayStation®4 본체를 끄지 마십시오.
+本遊戲具有自動儲存功能。</n>當自動儲存圖示出現於上方時，請勿關閉 PlayStation®4 主機。
+本游戏具有自动保存功能。</n>当自动存档图标于上方显示时，请勿关闭 PlayStation®4 主机。
+このゲームはオートセーブに対応しています。</n>上のアイコン表示中は、</n>Xbox One 本体の電源を切らないでください。
+This game has an autosave feature.</n>Do not turn off the Xbox One console when the icon above is displayed.
+Ce jeu dispose d'une fonction de sauvegarde automatique.</n>N'éteignez pas la console Xbox One lorsque l'icône ci-dessus apparaît.
+Questo gioco possiede una funzione di autosalvataggio.</n>Non spegnere la console Xbox One quando questa icona è visualizzata.
+Dieses Spiel verfügt über eine automatische Speicherfunktion.</n>Bitte schalten Sie Ihre Xbox One Konsole nicht aus,</n>wenn das obige Symbol angezeigt wird.
+Este juego tiene una función de autoguardado.</n>No apagues la consola Xbox One cuando se muestre este icono.
+В игре есть функция автосохранения.</n>Не выключайте консоль Xbox One, пока на экране отображается этот значок.
+Ta gra korzysta z funkcji autozapisu.</n>Nie wyłączaj konsoli Xbox One, gdy widzisz powyższą ikonę.
+Este jogo salva automaticamente.</n>Não desligue o console Xbox One enquanto o ícone acima estiver aparecendo na tela.
+이 게임에는 자동 저장 기능이 있습니다.</n>위 아이콘이 표시된 상태에서는 Xbox One 본체를 끄지 마십시오.
+本遊戲具有自動儲存功能。</n>當自動儲存圖示出現於上方時，請勿關閉 Xbox One 主機。
+本游戏具有自动保存功能。</n>当自动存档图标于上方显示时，请勿关闭 Xbox One 主机。
+このゲームはオートセーブに対応しています。</n>上のアイコン表示中は、</n>PCの電源を切らないでください。
+This game has an autosave feature.</n>Do not turn off your PC when the icon above is displayed.
+Ce jeu dispose d'une fonction de sauvegarde automatique.</n>N'éteignez pas votre PC lorsque l'icône ci-dessus apparaît.
+Questo gioco possiede una funzione di autosalvataggio.</n>Non spegnere il PC quando questa icona è visualizzata.
+Dieses Spiel verfügt über eine automatische Speicherfunktion.</n>Bitte schalten Sie Ihren PC nicht aus,</n>wenn das obige Symbol angezeigt wird.
+Este juego tiene una función de autoguardado.</n>No apagues tu PC cuando se muestre este icono.
+В игре есть функция автосохранения.</n>Не выключайте ПК, пока на экране отображается этот значок.
+Ta gra korzysta z funkcji autozapisu.</n>Nie wyłączaj komputera, gdy widzisz powyższą ikonę.
+Este jogo salva automaticamente.</n>Não desligue o computador enquanto o ícone acima estiver aparecendo na tela.
+이 게임에는 자동 저장 기능이 있습니다.</n>위 아이콘이 표시된 상태에서는 PC를 끄지 마십시오.
+本遊戲具有自動儲存功能。</n>當自動儲存圖示出現於上方時，請勿關閉電腦。
+本游戏具有自动保存功能。</n>当自动存档图标于上方显示时，请勿关闭您的电脑。
+ゲームを終了しますか？
+Quit the game?
+Quitter la partie ?
+Uscire dal gioco?
+Das Spiel wirklich beenden?
+¿Quieres salir del juego?
+Выйти из игры?
+Wyjść z gry?
+Sair do jogo?
+게임을 종료하시겠습니까?
+確定要結束遊戲嗎？
+是否要退出游戏？
+現在設定できる項目を初期状態に戻します。</n>よろしいですか？
+Reset everything to their default settings?
+Rétablir les paramètres par défaut ?</n>
+Ripristinare tutto alle impostazioni predefinite?
+Die Standardeinstellungen wiederherstellen?
+¿Quieres volver a la configuración por defecto?
+Сбросить все настройки до значений по умолчанию?
+Przywrócić ustawienia domyślne?
+Redefinir tudo para a configuração padrão?
+모든 설정을 기본 설정으로 되돌리시겠습니까?
+要將所有設定重設為預設設定嗎？
+是否要将所有设置重设为默认设置？
+武器のカスタムパーツを取り外して</n>入れ替えますか？
+Remove custom parts and swap?
+Retirer les éléments et effectuer le remplacement ?
+Rimuovere le modifiche e scambiarle?
+Spezialzubehör entfernen und austauschen?
+¿Quieres quitar las piezas adicionales</n>y proceder con el intercambio?
+Убрать детали и заменить их?
+Usunąć niestandardowe części i zamienić?
+Remover peças personalizadas e trocar?
+맞춤형 부품을 제거하고 바꾸시겠습니까?
+要移除改裝零件並交換嗎？
+是否要移除改装零件并交换？
+コスチュームが解放されました。</n></n>メインメニュー、またはポーズメニューの</n>「Costume」から変更できます。
+Costume unlocked.</n></n>You can change costumes from the STORY menu</n>or from "Costumes" in the pause menu.
+Tenue débloquée.</n></n>Vous pouvez changer de tenue à partir du menu Campagne</n>ou via l'option "Tenues" du menu Pause.
+Costume sbloccato.</n></n>Puoi cambiare i costumi alla voce "Costumi"</n>nel menu "Storia", o nel menu di pausa.
+Es wurde ein Kostüm freigeschaltet.</n></n>Sie können Kostüme im Kampagnenmenü oder im</n>Pausenmenü unter "Kostüme" ändern.
+Traje desbloqueado.</n></n>Cambia los trajes en el menú de historia</n>o desde "Trajes" en el menú de pausa.
+Костюм открыт.</n></n>Вы можете сменить новый костюм в меню «ИСТОРИЯ»</n>или в разделе «Костюмы» меню паузы.
+Odblokowano strój.</n></n>Możesz zmieniać stroje z poziomu menu HISTORIA</n>lub sekcji „Stroje” w menu pauzy.
+Traje desbloqueado.</n></n>Você pode trocar os trajes no menu HISTÓRIA</n>ou na seção "Trajes" do menu de pausa.
+복장이 잠금 해제되었습니다.</n></n>스토리 메뉴 또는 일시 정지 메뉴의 "복장"에서</n>복장을 변경할 수 있습니다.
+已解除服裝的鎖定。</n></n>您可以從劇情選單更換服裝，</n>或是在暫停選單的「服裝」選項中更換。
+已解锁服装。</n></n>您可以通过剧情菜单</n>或暂停菜单中的“服装”变更服装。
+全てのキャラクターのコスチュームを</n>シナリオに応じて変化する通常コスチュームに変更しますか？
+Switch all characters back to their normal costumes?
+Revenir aux tenues normales pour tous les personnages ?
+Vuoi usare i costumi standard per tutti i personaggi?
+Allen Charakteren wieder ihre normalen Kostüme anziehen?
+¿Quieres poner los trajes normales a todos los personajes de nuevo?
+Переодеть всех персонажей обратно в их обычные костюмы?
+Zmienić stroje wszystkich postaci na normalne?
+Voltar todos os personagens para os trajes normais?
+모든 캐릭터를 일반 복장으로 변경하시겠습니까?
+要將所有角色的服裝更換回一般服裝嗎？
+是否要将所有角色的服装切换回一般服装？
+全てのキャラクターのコスチュームを</n>シナリオに応じて変化するクラシックコスチュームに変更しますか？
+Switch all characters to their alternative costumes?
+Utiliser les tenues alternatives pour tous les personnages ?
+Vuoi usare i costumi alternativi per tutti i personaggi?
+Allen Charakteren ihre alternativen Kostüme anziehen?
+¿Quieres poner los trajes alternativos a todos los personajes?
+Переодеть всех персонажей в альтернативные костюмы?
+Zmienić stroje wszystkich postaci na alternatywne?
+Colocar todos os personagens em trajes alternativos?
+모든 캐릭터를 대체 복장으로 변경하시겠습니까?
+要將所有角色的服裝切換成替換服裝嗎？
+是否要将所有角色的服装切换为替代服装？
+メインメニューの「Extra」に</n>新たなゲームモードが追加されました。
+A new game mode has been added to</n>"Extra Modes" in the Main Menu.
+Un nouveau mode de jeu a été ajouté à la section</n>"Modes additionnels" du menu principal.
+Una nuova modalità di gioco è stata aggiunta</n>in "Modalità extra" nel menu principale.
+Ein neuer Spielmodus wurde den Zusatzmodi im Hauptmenü hinzugefügt.
+Se ha añadido un nuevo modo a la sección</n>"Modos extra" del menú principal.
+В раздел «Доп. режимы» главного меню</n>добавлен новый режим игры.
+Do menu głównego w sekcji „Dodatkowe tryby”</n>dodano nowy tryb gry.
+Um novo modo foi adicionado aos</n>"Modos Extras" no menu principal.
+새 게임 모드가 메인 메뉴의</n>"추가 모드"에 추가되었습니다.
+新的遊戲模式已新增至</n>主畫面中的「額外模式」。
+新的游戏模式已添加至</n>主菜单中的“额外模式”。
+ボーナス∞武器はゲーム中の</n>アイテムボックスに追加されます。
+∞ Bonus weapon(s) added to the in-game item box.
+Arme(s) bonus ∞ ajoutée(s) au coffre à objets.
+Armi bonus ∞ aggiunte alla cassa oggetti.
+∞ Bonus-Waffe(n) wurde(n) der Inventarbox hinzugefügt.
+Arma(s) extra ∞ añadida(s) al baúl del juego.
+В ящик с предметами добавлено ∞ бонусное оружие.
+Do skrzynki na przedmioty w grze dodano bronie bonusowe (∞).
+∞ arma(s) bônus colocada(s) no baú.
+∞ 보너스 무기가 인게임 아이템 상자에 추가되었습니다.
+已將無限獎勵武器新增至遊戲中的置物箱。
+已将无限奖励武器添加至您的游戏内物品箱。
+特別な武器が追加されました。
+Deluxe weapon(s) added.
+Arme(s) spéciale(s) ajoutée(s).
+È stata aggiunta un'arma speciale.
+Deluxe-Waffe(n) wurde(n) hinzugefügt.
+Arma(s) especial(es) añadida(s).
+Добавлено премиум-оружие.
+Dodano bronie deluxe.
+Arma(s) deluxe adicionada(s).
+디럭스 무기가 추가되었습니다.
+已新增豪華武器。
+已添加豪华武器。
+「Costume」の項目が追加されました。</n>キャラクターの衣装を変更できます。
+"Costumes" has been added.</n>Use this option to change characters' outfits.
+L'option "Tenues" a été ajoutée.</n>Sélectionnez-la pour changer les tenues des personnages.
+È stata aggiunta l'opzione "Costumi".</n>Usala per cambiare i vestiti dei personaggi.
+Der Menüpunkt "Kostüme" wurde hinzugefügt.</n>Über diese Option können Charakter-Outfits geändert werden.
+Se han añadido "Trajes". Usa esta opción</n>para cambiar el aspecto de los personajes.
+Добавлен раздел «Костюмы».</n>В нем можно выбрать костюмы для персонажей.
+Dodano opcję „Stroje”.</n>Użyj jej, by zmienić stroje postaci.
+A opção "Trajes" foi adicionada.</n>Você pode usá-la para trocar as roupas dos personagens.
+"복장"이 추가되었습니다.</n>이 옵션을 사용해 캐릭터 복장을 변경할 수 있습니다.
+已新增「服裝」。</n>您可以使用這個選項來更換角色的服裝。
+已添加“服装”。</n>请使用该选项为角色变更服装。
+特別なコスチュームを入手しました。</n>「Costume」の項目から変更できます。
+Obtained a special costume.</n>You can change costumes from the Costume menu.
+Tenue spéciale obtenue.</n>Vous pouvez changer de tenue dans le menu "Tenues".
+Hai ottenuto un costume speciale.</n>Puoi cambiare i costumi dal menu "Costumi".
+Sie haben ein Spezialkostüm erhalten.</n>Sie können die Kostüme im Kostüm-Menü wechseln.
+Has conseguido un traje especial.</n>Puedes cambiar los trajes en el menú de Trajes.
+Получен особый костюм.</n>Костюмы можно менять в меню «Костюмы».
+Uzyskano strój specjalny.</n>Możesz go założyć w menu Stroje.
+Traje especial obtido.</n>Você pode trocar os trajes no menu de Trajes.
+특별 복장을 획득했습니다.</n>복장은 복장 메뉴에서 변경할 수 있습니다.
+已取得特殊服裝。</n>您可以在服裝選單中更換服裝。
+已获得特殊服装。</n>您可以通过“服装”菜单变更服装。
+特別な武器を入手しました。</n>ゲーム中のアイテムボックスに追加されます。
+Deluxe weapon(s) added to the in-game item box.
+Arme(s) spéciale(s) ajoutée(s) au coffre à objets.
+Armi speciali aggiunte alla cassa oggetti.
+Deluxe-Waffe(n) wurde(n) der Inventarbox im Spiel hinzugefügt.
+Arma(s) especial(es) añadida(s) al baúl del juego.</n>
+В ящик с предметами добавлено премиум-оружие.
+Do skrzynki na przedmioty w grze dodano bronie deluxe.
+Arma(s) deluxe colocada(s) no baú.
+디럭스 무기가 인게임 아이템 상자에 추가되었습니다.
+已將豪華武器新增至遊戲中的置物箱。
+已将豪华武器添加至您的游戏内物品箱。
+セーブ中です。</n>しばらくお待ちください。
+Saving content...</n>Please wait.
+Sauvegarde du contenu...</n>Veuillez patienter.
+Salvataggio dati in corso...</n>Si prega di attendere.
+Inhalt wird gespeichert.</n>Bitte warten.
+Guardando contenido...</n>Por favor, espera.
+Идет сохранение...</n>Подождите.
+Trwa zapisywanie zawartości...</n>Proszę czekać.
+Salvando conteúdo...</n>Por favor, aguarde.
+저장 중입니다.</n>잠시 기다리십시오.
+正在儲存內容...</n>請稍候。
+正在保存内容...</n>请稍候。
+PlayStation™Storeへ接続しますか？
+Go to PlayStation™Store?
+Aller au PlayStation™Store ?
+Accedere a PlayStation™Store?
+Zum PlayStation™Store wechseln?
+¿Quieres ir a PlayStation™Store?
+Перейти в PlayStation™Store?
+Przejść do PlayStation™Store?
+Acessar a PlayStation™Store?
+PlayStation™Store로 이동하시겠습니까?
+要前往 PlayStation™Store 嗎？
+是否要前往 PlayStation™Store？
+Xbox Games ストアへ接続しますか？
+Go to the Xbox Games Store?
+Aller au Marché Xbox Games ?
+Vuoi visitare l'Xbox Games Store?
+Zum Xbox Games Store wechseln?
+¿Quieres ir a la Tienda Xbox Games?
+Перейти в магазин Xbox Games?
+Przejść do sklepu Xbox Games?
+Acessar a Loja Xbox Games?
+Xbox Games 스토어로 이동하시겠습니까?
+要前往 Xbox Games 市集嗎？
+是否要前往 Xbox Games 商店？
+オンラインストアへ接続しますか？
+Go to the online store?
+Aller à la boutique en ligne ?
+Vuoi visitare il negozio online?
+Zum Online-Store wechseln?
+¿Quieres ir a la tienda online?
+Перейти в онлайн-магазин?
+Przejść do sklepu online?
+Acessar a loja online?
+온라인 스토어로 이동하시겠습니까?
+要前往線上商店嗎？
+是否要前往在线商店？
+スピーカータイプを「Dolby Atmos」に設定する場合は、</n>出力機器側の設定も必要です。</n></n>出力機器の設定が適していない場合、</n>正しく音が出力されない可能性があります。
+If you set your sound output device type to Dolby Atmos,</n>you must also configure your audio output device.</n></n>If your output device is not properly configured,</n>there is a possibility that audio will not be output correctly.
+Si vous réglez le paramètre de sortie audio sur Dolby Atmos,</n>vous devez aussi configurer votre périphérique de sortie audio.</n></n>S'il n'est pas configuré, il se peut que le son ne sorte pas correctement.
+Se imposti l'uscita audio in "Dolby Atmos", dovrai</n>anche configurare il dispositivo di uscita audio collegato</n></n>Nel caso in cui questo non sia configurato nel modo giusto,</n>è probabile che l'audio non si senta correttamente.
+Wenn Sie das Ausgabegerät auf Dolby Atmos setzen,</n>müssen Sie zudem Ihr Audioausgabegerät konfigurieren.</n></n>Wenn Ihr Ausgabegerät nicht korrekt konfiguriert ist,</n>kann es sein, dass der Ton nicht richtig widergegeben wird.
+Debes configurar el dispositivo de salida de audio</n>si los altavoces tienen Dolby Atmos activado.</n></n>Si el dispositivo de salida no se configura correctamente,</n>puede que haya problemas con el sonido.
+Выбрав Dolby Atmos в качестве типа устройства звукового вывода,</n>не забудьте настроить ваше устройство воспроизведения.</n></n>Если устройство вывода настроено неправильно,</n>то звук в игре может проигрываться некорректно.
+Jeśli wybranym typem dźwiękowego urządzenia wyjściowego jest Dolby Atmos,</n>musisz również skonfigurować urządzenie wyjściowe audio.</n></n>W przypadku jego braku dźwięk może być odtwarzany nieprawidłowo.
+Se você tiver selecionado a opção Dolby Atmos para o tipo de dispositivo de</n>saída de som, também é necessário configurar o dispositivo de saída de áudio.</n></n>Se o dispositivo não estiver configurado corretamente,</n>pode haver problemas na saída de áudio.
+사운드 출력 장치 유형을 돌비 애트모스로 설정할 경우,</n>오디오 출력 장치도 구성해야 합니다.</n></n>출력 장치가 제대로 구성되지 않으면,</n>오디오 출력이 올바르지 않을 수 있습니다.
+如果您將音訊輸出裝置類型設定為杜比全景聲，</n>您還必須設定您的音訊輸出裝置。</n></n>如果沒有適當設定輸出裝置，</n>聲音將無法正確地輸出。
+如果您将音效输出设备类型设为杜比全景声，</n>则必须同时配置您的音频输出设备。</n></n>如果您尚未正确配置输出设备，</n>声音可能无法正确地输出。
+ゲームモード「HARDCORE」でセーブする際は、</n>アイテム「インクリボン」が必要になります。</n>また、このモードではオートセーブがされません。</n></n>ゲームモード「HARDCORE」でゲームを開始しますか？
+"Hardcore" game mode requires the use of Ink Ribbons to save.</n>In addition, there is no autosave in this game mode.</n></n>Start a new game in "Hardcore" mode?
+En mode "Hardcore", la sauvegarde nécessite des rubans encreurs.</n>Il n'y a pas de sauvegarde automatique dans ce mode.</n></n>Commencer une nouvelle partie en mode "Hardcore" ?
+La modalità di gioco "Estrema" richiede l'uso dei nastri d'inchiostro per salvare.</n>Il salvataggio automatico inoltre, è disattivato.
+Im Spielmodus "Veteran" braucht man zum Speichern Farbbänder.</n>Außerdem wird nicht automatisch gespeichert.</n></n>Das Spiel im Modus "Veteran" starten?
+En modo "Hardcore" necesitarás cintas de tinta para guardar.</n>Además, no existe la función de autoguardado.</n></n>¿Quieres empezar a jugar en modo "Hardcore"?
+В режиме игры «Хардкор» для сохранения нужны цветные ленты.</n>Кроме того, функция автосохранения здесь отключена.</n></n>Начать игру в режиме «Хардкор»?
+Zapisywanie stanu gry w trybie „Hardcore” wymaga taśmy z tuszem.</n>Oprócz tego funkcja autozapisu jest wyłączona.</n></n>Zacząć grę w trybie „Hardcore”?
+No modo "Intenso", é necessário gastar Fitas de Tinta para salvar.</n>Além disso, não há opção de salvamento automático.</n></n>Iniciar jogo no modo "Intenso"?
+"하드코어" 게임 모드에서는 저장 시 잉크 리본이 필요하며</n>자동 저장이 되지 않습니다.</n></n>"하드코어" 모드로 새 게임을 시작하시겠습니까?
+「硬派」遊戲模式需要使用墨水色帶才能儲存遊戲。</n>另外，此遊戲模式沒有自動儲存功能。</n></n>要以「硬派」模式開始新遊戲嗎？
+在“专家”游戏模式中需要使用墨带才能存档。</n>除此之外，此游戏模式没有自动保存功能。</n></n>要以“专家”模式开始新游戏吗？
+「照準アシスト」をオンにしますか？</n></n>「照準アシスト」は敵への照準をアシストする機能です。</n>狙うのが苦手な方は、この設定をオンにすることをオススメします。</n></n>※この項目はいつでもオプションから変更できます
+Turn on aim assist?</n></n>Aim assist helps you target enemies.</n>Recommended for players who have trouble</n>taking down enemies.</n></n>This option can be changed via Options at any time.
+Activer l'aide à la visée ?</n></n>Cette option vous aide à viser les ennemis.</n>Elle est conseillée pour les joueurs qui ont du mal à</n>éliminer les ennemis.</n></n>Elle peut être modifiée à tout moment via le menu Options.
+Vuoi attivare la mira assistita?</n></n>La mira assistita ti aiuta a puntare i nemici.</n>Consigliata per i giocatori che faticano</n>a sconfiggere i nemici.</n></n>Puoi cambiare questa impostazione in qualsiasi momento dalle Opzioni.
+Zielhilfe einschalten?</n></n>Die Zielhilfe hilft Ihnen beim Anvisieren von Gegnern.</n>Empfohlen für Spieler, die Schwierigkeiten haben, Gegner auszuschalten.</n></n>Diese Option kann in den Optionen jederzeit geändert werden.
+¿Quieres activar la asistencia de apuntado?</n></n>Esta opción te ayuda al apuntar a los enemigos.</n>Es recomendable para jugadores que tengan</n>problemas para eliminar a los enemigos.</n></n>Puedes hacerlo en cualquier momento en Opciones.
+Включить помощь в прицеливании?</n></n>Помощь в прицеливании помогает точнее прицеливаться.</n>Используйте его, если</n>вам сложно убивать врагов.</n></n>Эту функцию в любое время можно отключить в настройках.
+Włączyć asystenta celowania?</n></n>Ułatwia celowanie we wrogów.</n>Ta funkcja jest przeznaczona dla graczy, którzy mają kłopoty</n>z zabijaniem wrogów.</n></n>Można ją w dowolnym momencie zmienić w menu Opcje.
+Ativar auxílio de mira?</n></n>A funcionalidade facilita a mira.</n>É recomendada para jogadores com dificuldade</n>para matar os inimigos.</n></n>A opção pode ser alterada no menu de Opções.
+조준 지원을 켜시겠습니까?</n></n>목표물을 조준하는 데 도움이 되는 조준 지원은</n>적을 처치하는 데 어려움을 겪는 플레이어에게 권장됩니다.</n></n>조준 지원 기능은 옵션에서 언제든 변경할 수 있습니다.
+要開啟瞄準輔助嗎？</n></n>瞄準輔助能協助您瞄準敵人。</n>建議玩家可在遇到困難擊殺</n>敵人時使用。</n></n>此選項可隨時在選項選單中變更。
+是否要开启瞄准辅助？</n></n>瞄准辅助能协助您瞄准敌人。</n>推荐击杀敌人时遇到</n>困难的玩家使用。</n></n>该选项可以随时通过选项菜单中进行切换。
+このセーブデータは、互換性がないため使用することができません。
+This save data is not compatible and cannot be used.
+Impossible d'utiliser ces données de sauvegarde.</n>Elles ne sont pas compatibles.
+I dati di salvataggio non sono compatibili e non possono essere utilizzati.
+Diese Speicherdaten sind nicht kompatibel</n>und können nicht verwendet werden.
+Los datos guardados no son compatibles y no se pueden usar.
+Нельзя использовать несовместимые сохранения.
+Ten zapis gry jest niekompatybilny i nie można go użyć.
+Os dados salvos não compatíveis. Não será possível usá-los.
+이 저장 데이터는 호환되지 않아 사용할 수 없습니다.
+此儲檔不相容，因此無法使用。
+该存档不兼容，无法使用。
+このExtra用セーブデータは、互換性がないため使用することができません。
+This extra save data is not compatible and cannot be used.
+Impossible d'utiliser ces données de sauvegarde additionnelles.</n>Elles ne sont pas compatibles.
+Questi dati di salvataggio aggiuntivi non sono</n>compatibili e non possono essere utilizzati.
+Diese Zusatz-Speicherdaten sind nicht kompatibel</n>und können nicht verwendet werden.
+Estos datos guardados extra no son compatibles y no pueden utilizarse.
+Нельзя использовать несовместимые дополнительные сохранения.
+Ten dodatkowy zapis gry jest niekompatybilny i nie można go użyć.
+Os dados extras salvos não são compatíveis. Não será possível usá-los.
+이 추가 저장 데이터는 호환되지 않아 사용할 수 없습니다.
+此附加儲檔不相容，因此無法使用。
+该附加存档不兼容，无法使用。
+「New Game (2nd)」の項目が解放されました。</n>メインメニューの「Story」から選択できます。  </n></n>「New Game (2nd)」はエンディングや</n>一部のゲーム展開が異なります。
+"New Game [2nd Run]" has been unlocked.</n>Select it under "Story" from the main menu.</n></n>The ending and certain parts of the game</n>are different in the 2nd Run scenarios.
+"Nouvelle partie (bis)" est maintenant disponible</n>dans la section "Campagne" du menu principal.</n></n>La fin et certaines parties du jeu diffèrent dans</n>les scénarios bis.
+Hai sbloccato "Nuova partita (2)".</n>Selezionala in "Storia" dal menu principale.</n></n>In "Nuova partita (2)" il finale e alcune</n>sezioni di gioco saranno differenti.
+Sie haben "Neues Spiel [2. Durchgang]" freigeschaltet.</n>Wählen Sie es im Hauptmenü unter "Kampagne" aus.</n></n>Das Ende und bestimmte Abschnitte des Spiels</n>unterscheiden sich vom 1. Durchgang.
+Se ha desbloqueado "Nueva partida [2]".</n>Lo encontrarás debajo de "Historia" en el menú principal.</n></n>El final y algunas partes del juego serán</n>diferentes en los escenarios [2].
+Открыта «Новая игра [2-е прохождение]».</n>Выберите ее в разделе «История» в главном меню.</n></n>Во втором прохождении отличаются концовка</n>и некоторые моменты игры.
+Tryb „Nowa gra [2nd Run]” został odblokowany.</n>Wybierz go z sekcji „Historia” w menu głównym.</n></n>Podczas drugiego przejścia gry zakończenie</n>i niektóre części rozgrywki wyglądają inaczej.
+"Novo Jogo [2ª Jornada]" foi desbloqueado.</n>Selecione-o em "História", no menu principal.</n></n>O final e certas partes do jogo são diferentes</n>nas histórias da 2ª Jornada.
+"새 게임 [두 번째 도전]"이 잠금 해제되었습니다.</n>메인 메뉴의 "스토리"에서 선택하십시오.</n></n>두 번째 도전 시나리오에서는 엔딩과</n>게임 특정 부분이 달라질 수 있습니다.
+「新遊戲 [二周目]」已解除鎖定。</n>請於主畫面的「劇情」中選擇。</n></n>在二周目的故事情節裡，</n>結局與某些部分的遊戲內容將有所不同。
+“新游戏 [第 2 版本]”已解锁。</n>请于主菜单的“剧情”中选择。</n></n>在第二版本的故事情节里，</n>结局与部分的游戏内容将有所不同。
+ゲームモードを「ASSISTED」に変更してコンティニューしますか？</n>　・照準操作がアシストされます</n>　・体力が一定値まで自動回復します</n>　・敵の強さが少し下がります</n></n>※一度変更すると元に戻すことができません
+Switch to "Assisted" game mode and continue?</n></n>・Aim assist</n>・Recover a certain amount of health automatically</n>・Enemies are a little weaker</n></n>Warning: Once you change the game mode,</n>it cannot be changed back.
+Passer en mode "Facile" et continuer ?</n></n>・Aide à la visée</n>・Récupération automatique d'une certaine quantité de vie</n>・Ennemis un peu moins résistants</n></n>Attention : une fois effectué, le changement de mode</n>ne peut être annulé.
+Passare alla modalità "Assistita" e continuare?</n></n>・Mira assistita</n>・Recupero automatico della salute (parziale)</n>・Nemici più deboli</n></n>Una volta modificata la difficoltà,</n>non potrai cambiarla nuovamente.
+Zum Spielmodus "Assistiert" wechseln und fortfahren?</n></n>・Zielhilfe</n>・Teilweise Auto-Erholung der Gesundheit</n>・Gegner sind etwas schwächer</n></n>Warnung: Wenn der Spielmodus geändert wird,</n>kann er nicht zurückgesetzt werden.
+¿Quieres cambiar a modo "Asistido" y continuar?</n></n>・Asistencia al apuntar</n>・Recuperarás salud automáticamente</n>・Los enemigos serán más débiles</n></n>Aviso: una vez cambies el modo de juego,</n>no podrás volver atrás.
+Переключиться на упрощенный режим и продолжить?</n></n>・Помощь в прицеливании</n>・Часть здоровья восстанавливается автоматически</n>・Враги слабее</n></n>Внимание! Режим игры нельзя будет</n>изменить повторно.
+Zmienić tryb gry na „Wspomaganie” i kontynuować?</n></n>・Wspomaganie celowania </n>・Automat. odzyskiwanie określonej ilości zdrowia</n>・Wrogowie są trochę słabsi</n></n>Ostrzeżenie: Po zmianie trybu gry</n>nie będzie można cofnąć tej decyzji.
+Trocar para o modo "Facilitado" e continuar?</n></n>・Auxílio de mira</n>・Recupera um pouco de vida automaticamente</n>・Inimigos um pouco mais fracos</n></n>Atenção: Se mudar o modo de jogo,</n>não tem volta.
+"지원" 모드로 바꾼 후 진행하시겠습니까?</n></n>- 조준 지원</n>- 자동으로 체력 일부 회복</n>- 약한 적</n></n>경고: 게임 모드를 변경하고 나면,</n>되돌릴 수 없습니다.
+要切換至「輔助」遊戲模式繼續進行遊戲嗎？</n></n>・瞄準輔助</n>・自動回復一定的生命值</n>・敵人稍微弱一些</n></n>警告：一旦變更難度，便無法再變更回來。</n>
+要切换至“辅助”游戏模式继续进行游戏吗？</n></n>・瞄准辅助</n>・自动回复一定的生命值</n>・敌人稍弱一些</n></n>警告：一旦变更游戏模式，便无法再变更回来。</n>
+ゲームモードを「ASSISTED」に変更しました。
+Game mode changed to "Assisted."
+Vous jouez maintenant en mode "Facile".
+Modalità cambiata in "Assistita".
+Der Spielmodus wurde zu "Assistiert" geändert.
+Modo de juego cambiado a "Asistido".
+Выбран упрощенный режим игры.
+Tryb gry został zmieniony na „Wspomaganie”.
+Modo de jogo trocado para "Facilitado".
+게임 모드가 "지원"으로 변경되었습니다.
+遊戲模式已變更為「輔助」。
+已变更为“辅助”游戏模式。
+新規キャラクターが解放されました。
+New characters have been unlocked.
+De nouveaux personnages ont été déverrouillés.
+Nuovi personaggi disponibili.
+Neue Charaktere wurden freigeschaltet.
+Nuevos personajes desbloqueados.
+Открыты новые персонажи.
+Odblokowano nowe postaci.
+Novos personagens desbloqueados.
+새 캐릭터가 잠금 해제되었습니다.
+已解除新角色的鎖定。
+已解锁新角色。
+HDRモードでプレイしますか？
+Enable HDR?
+Activer le mode HDR ?
+Abilitare la modalità HDR?
+HDR aktivieren?
+¿Quieres activar el modo HDR?
+Включить HDR?
+Włączyć tryb HDR?
+Habilitar HDR?
+HDR을 활성화합니까?
+要啟用 HDR 嗎？
+要启用 HDR 吗？
+HDRモードに切り替えました。
+HDR enabled.
+HDR activé.
+HDR abilitato.
+HDR aktiviert.
+Modo HDR activado.
+HDR включен.
+Tryb HDR włączony.
+HDR habilitado.
+HDR이 활성화되었습니다.
+HDR 已啟用。
+HDR 已启用。
+HDRモードの切り替えに失敗しました。</n>「HDRモード」をオフの状態でゲームを開始します。</n></n>HDR出力に切り替えたい場合は、</n>オプション画面の「HDRモード」の項目から設定してください。
+Failed to enable HDR.</n>Starting game with HDR Mode set to off.</n></n>If you want to enable HDR, set Options → Display → HDR Mode to on.
+L'activation du mode HDR a échoué.</n>Le jeu commencera avec le mode HDR désactivé.</n></n>Si vous souhaitez activer le mode HDR, allez dans</n>Options → Affichage et activez l'option "Mode HDR".
+Attivazione della modalità HDR non riuscita.</n>Il gioco inizierà con la modalità HDR disattivata.</n></n>Per attivare la modalità HDR, accedi a Opzioni → Schermo</n>e seleziona "Sì" alla voce "Modalità HDR".
+HDR konnte nicht aktiviert werden.</n>Das Spiel wird mit deaktiviertem HDR-Modus gestartet.</n></n>Wenn Sie ihn aktivieren möchten, schalten Sie ihn</n>unter Optionen → Anzeige → HDR-Modus ein.
+Error al activar HDR.</n>Iniciando el juego con el modo HDR desactivado.</n></n>Si quieres activar el modo HDR, hazlo en Opciones → Pantalla → HDR (sí)
+Не удалось включить HDR.</n>Игра запустится с отключенным режимом HDR.</n></n>Для включения HDR зайдите в «Настройки», раздел «Экран», и измените параметр «Режим HDR» на «Вкл.».
+Nie udało się włączyć trybu HDR.</n>Rozpoczynanie gry z wyłączonym trybem HDR.</n></n>Jeśli chcesz włączyć tryb HDR, włącz go w obszarze Opcje → Wyświetlanie → Tryb HDR.
+Não foi possível habilitar HDR.</n>Começando o jogo com o Modo HDR desligado.</n></n>Se quiser habilitar HDR, ative a configuração Opções → Exibição → Modo HDR.
+HDR을 활성화하지 못했습니다.</n>HDR 모드로 게임을 시작하는 설정이 꺼져 있습니다.</n></n>HDR을 활성화하려면, 옵션 → 디스플레이 → HDR 모드를 켬으로 설정하세요.
+HDR 不可使用。</n>會在 HDR 無效狀態下開始遊戲。</n></n>如果想使用 HDR, 請在顯示選項裡開啟 HDR 模式。
+HDR 不可使用。</n>会在 HDR 无效状态下开始游戏。</n></n>如果想使用 HDR, 请在显示选项里开启 HDR 模式。
+HDRモードの切り替えに失敗しました。</n>「HDRモード」をオフの状態でゲームを開始します。
+Failed to enable HDR.</n>Starting game with HDR Mode set to off.
+L'activation du mode HDR a échoué.</n>Le jeu commencera avec le mode HDR désactivé.
+Attivazione della modalità HDR non riuscita.</n>Il gioco inizierà con la modalità HDR disattivata.
+HDR konnte nicht aktiviert werden.</n>Das Spiel wird mit deaktiviertem HDR-Modus gestartet.
+Error al activar HDR.</n>Iniciando el juego con el modo HDR desactivado.
+Не удалось включить HDR.</n>Игра запустится с отключенным режимом HDR.
+Nie udało się włączyć trybu HDR.</n>Rozpoczynanie gry z wyłączonym trybem HDR.
+Não foi possível habilitar HDR.</n>Começando o jogo com o Modo HDR desligado.
+HDR을 활성화하지 못했습니다.</n>HDR 모드로 게임을 시작하는 설정이 꺼져 있습니다.
+HDR 不可使用。</n>會在 HDR 無效狀態下開始遊戲。
+HDR 不可使用。</n>会在 HDR 无效状态下开始游戏。
+Extraの内容にはメインストーリーのネタバレを含むものがあります。</n>メインストーリーをクリアしてからのプレイをオススメします。
+The extra modes contain spoilers for the main story.</n>If you want to avoid spoilers, clear the main story first.
+Les modes additionnels contiennent des spoilers sur</n>l'aventure principale. Afin d'éviter les spoilers,</n>nous vous conseillons de finir d'abord l'aventure principale.
+Le modalità extra contengono anticipazioni</n>riguardo la storia principale.</n>Ti consigliamo di completare prima la storia principale.
+Die Zusatzmodi enthalten Spoiler für die Hauptgeschichte.</n>Wenn Sie Spoiler vermeiden möchten, sollten Sie</n>zunächst die Hauptgeschichte abschließen.
+Los modos extra pueden revelar secretos de la historia principal.</n>Si no quieres desvelar ninguna sorpresa, complétala primero.
+Дополнительные режимы игры раскрывают детали основного сюжета.</n>Если хотите избежать спойлеров, сначала пройдите основную игру.
+W dodatkowych trybach pojawiają się spoilery dotyczące głównej fabuły gry.</n>Jeśli nie lubisz spoilerów, ukończ najpierw główną fabułę.
+Os modos extras revelam partes do enredo da história principal.</n>Se não quiser estragar a surpresa, conclua a história principal primeiro.
+추가 모드에는 메인 스토리의 스포일러가 포함되어 있습니다.</n>스포일러를 피하고 싶다면, 메인 스토리를 완료하십시오.
+額外模式將含有故事模式劇情，</n>如果不想被透露劇情請先完成故事模式。
+额外内容将会含有故事模式的剧情，</n>如果不想被透露剧情，请先完成故事模式。
+キーバインドの全ての項目を初期状態に戻します。</n>よろしいですか？
+Reset all key bindings to default?
+Rétablir les configurations de touches par défaut ?
+Ripristinare tutto alle impostazioni predefinite?
+Die Tastenbelegung zurücksetzen?
+¿Reiniciar todas las teclas asignadas</n>a sus valores predeterminados?
+Установить все горячие клавиши по умолчанию?
+Zresetować wszystkie przypisania klawiszy do ustawień domyślnych?
+Redefinir todos comandos para o padrão?
+지정된 모든 키를 기본값으로 재설정하시겠습니까?
+確定要將所有按鍵綁定重設為預設值嗎？
+是否要将所有按键绑定重置为默认值？

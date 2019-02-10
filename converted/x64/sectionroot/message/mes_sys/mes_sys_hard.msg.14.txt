@@ -1,0 +1,384 @@
+﻿ゲームデータの準備が終わっていません。</n>準備が完了するまで、しばらくお待ちください。
+Game data has not finished installing...</n>Please wait.
+L'installation des données de jeu n'est pas terminée.</n>Veuillez patienter.
+L'installazione dei dati di gioco non è ancora terminata.</n>Si prega di attendere.
+Die Installation der Spieldaten ist noch nicht abgeschlossen.</n>Bitte warten.
+Los datos del juego no se han terminado de instalar.</n>Por favor, espera.
+Установка данных игры не завершена...</n>Подождите.
+Instalacja gry nadal trwa…</n>Poczekaj na jej zakończenie.
+A instalação dos dados do jogo ainda não terminou.</n>Aguarde.
+게임 데이터 설치가 완료되지 않았습니다...</n>잠시만 기다리십시오.
+遊戲資料尚未安裝完成...</n>請稍候。
+游戏数据尚未完成安装...</n>请稍候。
+ゲームデータの準備が終わっていないため、メインメニューに戻ります。</n>準備が完了するまで、しばらくお待ちください。</n></n>続きから再開するときは、オートセーブをロードしてください。
+Game data has not finished installing.</n>Please wait until install has finished.</n></n>Now returning to main menu.
+L'installation des données de jeu n'est pas terminée.</n>Veuillez patienter jusqu'à la fin de l'installation.</n></n>Retour au menu principal.
+L'installazione dei dati di gioco non è ancora terminata.</n>Si prega di attenderne il completamento.</n></n>Ritorno al menu principale.
+Die Installation der Spieldaten ist noch nicht abgeschlossen.</n>Bitte warten Sie, bis die Installation abgeschlossen wurde.</n></n>Sie kehren jetzt zum Hauptmenü zurück.
+Los datos del juego no se han terminado de instalar.</n>Espera hasta que la instalación haya terminado.</n></n>Debes volver al menú principal.
+Установка данных игры не завершена.</n>Дождитесь окончания установки.</n></n>Возврат в главное меню.
+Instalacja gry nadal trwa.</n>Poczekaj na jej zakończenie.</n></n>Oczekiwanie na powrót do menu głównego.
+A instalação dos dados do jogo ainda não terminou.</n>Aguarde o fim da instalação.</n></n>Voltando ao menu principal.
+게임 데이터 설치가 완료되지 않았습니다.</n>설치가 완료될 때까지 잠시 기다리십시오.</n></n>이제 메인 메뉴로 돌아갑니다.
+遊戲資料尚未安裝完成。</n>請稍候直至安裝完成。</n></n>系統即將返回主畫面。
+游戏数据尚未完成安装，</n>请等待安装完成。</n></n>即将返回主菜单。
+クリア回数
+Times Completed
+Parties complétées
+Partite completate
+Spieldurchgänge
+Veces completado
+Прохождений
+Liczba przejść
+Vezes Concluído
+완료 횟수
+完成次數
+通关次数
+ゾンビ撃破数
+Zombies Killed
+Zombies tués
+Zombi uccisi
+Zombie-Kills
+Zombis eliminados
+Убито зомби
+Liczba zabitych zombie
+Zumbis Mortos
+처치한 좀비
+擊殺殭屍數
+击倒丧尸数
+ゾンビに噛まれた回数
+Times Bitten
+Morsures
+Morsi subiti
+Gebissen
+Mordiscos recibidos
+Получено укусов
+Liczba ugryzień
+Mordidas
+물린 횟수
+被咬次數
+被咬次数
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+BIOHAZARD RE:2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+RESIDENT EVIL 2
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+BIOHAZARD RE:2 Z Version
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+RESIDENT EVIL 2 / BIOHAZARD RE:2
+メインメニュー
+Main Menu
+Menu principal
+Menu principale
+Hauptmenü
+Menú principal
+Главное меню
+Menu główne
+Menu Principal
+메인 메뉴
+主畫面
+主菜单
+Top Secret
+Top Secret
+Top secret
+Top Secret
+Streng geheim
+Secreto
+Совершенно секретно
+Ściśle tajne
+Confidencial
+일급기밀
+最高機密
+最高机密
+システムセーブデータ
+System saved data
+Données de sauvegarde système
+Dati di salvataggio di sistema
+Systemspeicherdaten
+Datos guardados del sistema
+Сохраненные данные системы
+Systemowy zapis gry
+Dados salvos do sistema
+본체에 저장된 데이터
+主機存檔
+主机存档
+システムセーブデータ Extra
+System saved data (extra)
+Données de sauvegarde système (Extra)
+Dati di salvataggio di sistema (extra)
+Systemspeicherdaten (Zusatz)
+Datos guardados del sistema (Extra)
+Сохраненные данные системы (доп.)
+Systemowy zapis gry (dodatkowy)
+Dados salvos do sistema (Extras)
+본체에 저장된 데이터(추가)
+主機存檔(增加)
+主机存档（附加）
+オートセーブデータ
+Autosave Data
+Données de sauvegarde automatique
+Dati di autosalvataggio
+Auto-Speicherdaten
+Datos de autoguardado
+Данные автосохранения
+Automatycznie zapisane dane
+Dados Salvos Automaticamente
+자동 저장 데이터
+自動儲存資料
+自动保存数据
+スロットセーブデータ{0}
+Slot {0} saved data
+Données de sauvegarde - Emplacement {0}
+Dati di salvataggio slot {0}
+Speicherdaten – Platz {0}
+Espacio de datos guardados {0}
+Ячейка с сохранением {0}
+Zapis gry {0}
+Dados salvos no espaço {0}
+슬롯 {0}에 저장된 데이터
+欄位 {0} 存檔
+槽位 {0} 存档
+レオン編
+Leon
+Leon
+Leon
+Leon
+Leon
+Леон
+Leon
+Leon
+레온
+里昂
+里昂
+クレア編
+Claire
+Claire
+Claire
+Claire
+Claire
+Клэр
+Claire
+Claire
+클레어
+克蕾兒
+克莱尔
+レオン編 (2nd)
+Leon [2nd]
+Leon (bis)
+Leon (2)
+Leon [2. Mal]
+Leon [2]
+Леон [2]
+Leon [2nd]
+Leon [2ª]
+레온 [두 번째]
+里昂 [二周目]
+里昂 [第 2 版本]
+クレア編 (2nd)
+Claire [2nd]
+Claire (bis)
+Claire (2)
+Claire [2. Mal]
+Claire [2]
+Клэр [2]
+Claire [2nd]
+Claire [2ª]
+클레어 [두 번째]
+克蕾兒 [二周目]
+克莱尔 [第 2 版本] 
+ゲームモード : 
+Game Mode:
+Mode :
+Modalità:
+Spielmodus:
+Modo de juego:
+Режим игры:
+Tryb gry:
+Modo de Jogo:
+게임 모드:
+遊戲模式：
+难度：
+セーブ回数 : 
+Times Saved:
+Sauvegardes :
+Salvataggi:
+Speicherzähler:
+Número de guardados:
+Количество сохранений:
+Liczba zapisów gry:
+Salvou:
+저장 횟수:
+儲存次數：
+保存次数：
+エリア名 : 
+Area: 
+Zone :
+Area: 
+Bereich:
+Zona:
+Зона: 
+Obszar: 
+Área: 
+구역: 
+區域： 
+区域： 
+目標 : 
+Goal: 
+Objectif :
+Obiettivo:
+Ziel:
+Objetivo:
+Цель: 
+Cel: 
+Objetivo: 
+목표: 
+目標： 
+目标： 
+設定言語 : 
+Language: 
+Langue :
+Lingua:
+Sprache:
+Idioma:
+Язык: 
+Język: 
+Idioma: 
+언어: 
+語言： 
+语言： 
+キャラクター : 
+Character: 
+Personnage :
+Personaggio:
+Charakter:
+Personaje:
+Персонаж: 
+Postać: 
+Personagem: 
+캐릭터: 
+角色： 
+角色： 
+エイダ
+Ada
+Ada
+Ada
+Ada
+Ada
+Ада
+Ada
+Ada
+에이다
+艾達
+艾达
+シェリー
+Sherry
+Sherry
+Sherry
+Sherry
+Sherry
+Шерри
+Sherry
+Sherry
+셰리
+雪莉
+雪莉
+一部の不具合を修正しました
+Bug fixes
+Correction de bugs
+Risoluzione di bug
+Fehlerbehebungen
+Bugs solucionados
+Исправления неполадок
+Poprawki
+Correção de bug
+버그 수정
+錯誤修復
+错误修复
+The Ghost Survivors モードを追加しました
+Added The Ghost Survivors mode
+Ajout du mode "Les survivants fantômes"
+Aggiunta la modalità "I sopravvissuti fantasma"
+Modus "The Ghost Survivors" hinzugefügt
+El modo "Los otros supervivientes" ha sido añadido.
+Добавлен режим «Выжившие призраки».
+Dodano tryb Widmowi ocalali
+Modo Sobreviventes Perdidos adicionado
+유령 생존자 모드 추가됨
+新增加了幽靈生還者模式
+新增加了幽灵生还者模式
+トロフィーを追加しました
+Added trophies
+Ajout de trophées
+Aggiunti nuovi trofei
+Trophäen hinzugefügt
+Se han añadido trofeos.
+Добавлены призы
+Dodano trofea
+Novos troféus
+트로피 추가
+新增加了獎杯
+新增加了奖杯
+実績を追加しました
+Added achievements
+Ajout de succès
+Aggiunti nuovi obiettivi
+Erfolge hinzugefügt
+Se han añadido logros.
+Добавлены достижения
+Dodano osiągnięcia
+Novas conquistas
+도전 과제 추가
+新增加了成就
+新增加了成就
+一部の表示言語を追加しました
+Added display languages
+Ajout de langues supplémentaires (textes)
+Aggiunta nuova lingua dell'interfaccia
+Anzeigesprachen hinzugefügt
+Se han añadido idiomas del juego.
+Добавлены языки игры
+Dodano wyświetlane języki
+Novos idiomas de exibição
+표시 언어 추가
+新增加了顯示語言
+新增加了显示语言

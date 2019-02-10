@@ -1,0 +1,1380 @@
+﻿「HARDCORE」モード
+"Hardcore" Game Mode
+Mode "Hardcore"
+Modalità di gioco "Estrema"
+Spielmodus "Veteran"
+Modo de juego "Hardcore"
+Режим игры «Хардкор»
+Tryb gry „Hardcore”
+Modo "Intenso"
+"하드코어" 게임 모드
+「硬派」遊戲模式
+“专家”游戏模式
+Story「Leon (2nd)」
+Leon [2nd] Story Mode
+Campagne de Leon (bis)
+Leon (2) Storia
+Leons Kampagne [2. Durchgang]
+Historia de Leon [2]
+Кампания «Леон [2]»
+Historia Leona [2nd]
+História — Leon [2ª]
+레온 [두 번째] 스토리 모드
+里昂 [二周目] 劇情模式
+里昂 [第 2 版本] 剧情模式
+Story「Claire (2nd)」
+Claire [2nd] Story Mode
+Campagne de Claire (bis)
+Claire (2) Storia
+Claires Kampagne [2. Durchgang]
+Historia de Claire [2]
+Кампания «Клэр [2]»
+Historia Claire [2nd]
+História — Claire [2ª]
+클레어 [두 번째] 스토리 모드
+克蕾兒 [二周目] 劇情模式
+克莱尔 [第 2 版本] 剧情模式
+クリアランクS 解放
+S Completion Rank
+Rang de complétion S
+Grado S ora disponibile
+Abschlussrang S erreichbar
+Rango S
+Ранг S
+Ranga S
+Nota de Conclusão S
+S 완료 등급
+通關評價 S
+通关评分 S 级
+Extra「The 4th Survivor」
+Extra Mode - "The 4th Survivor"
+Mode additionnel - "Le 4e survivant"
+Modalità extra - "Il 4° Sopravvissuto"
+Zusatzmodus "The 4th Survivor"
+Modo extra: "El 4.º superviviente"
+Доп. режим «Четвертый выживший»
+Dodatkowy tryb — „Czwarty ocalały”
+Modo Extra — "O 4º Sobrevivente"
+추가 모드 - "4번째 생존자"
+額外模式：「第 4 生還者」
+额外模式：“第 4 生还者”
+Extra「The 豆腐 Survivor」
+Extra Mode - "The Tofu Survivor"
+Mode additionnel - "Le Tofu survivant"
+Modalità extra - "Tofu il Sopravvissuto"
+Zusatzmodus "The Tofu Survivor"
+Modo extra: "El tofu superviviente"
+Доп. режим «Выживший тофу»
+Dodatkowy tryb — „Ocalały Tofu”
+Modo Extra — "O Tofu Sobrevivente"
+추가 모드 - "두부 생존자"
+額外模式：「豆腐生還者」
+额外模式：“豆腐生还者”
+The 豆腐 Survivor「こんにゃく」解放
+The Tofu Survivor (Konjac unlocked)
+Le Tofu survivant (Konjac débloqué)
+Tofu il Sopravvissuto (Konjac)
+The Tofu Survivor (Konjak freigeschaltet)
+El tofu superviviente (Konjac desbloqueado)
+Выживший тофу (разблокировано: Коньяк)
+Ocalały Tofu (odblokowany Konnyaku)
+O Tofu Sobrevivente (Konjac desbloqueado)
+두부 생존자(곤약 잠금 해제됨)
+豆腐生還者（已解除蒟蒻的鎖定）
+豆腐生还者（已解锁蒟蒻）
+The 豆腐 Survivor「ういろう」解放
+The Tofu Survivor (Uiro-Mochi unlocked)
+Le Tofu survivant (Uiro-Mochi débloqué)
+Tofu il Sopravvissuto (Uiro Mochi)
+The Tofu Survivor (Uiro-Mochi freigeschaltet)
+El tofu superviviente (Uiro-Mochi desbloqueado)
+Выживший тофу (разблокировано: Уиро-Моти)
+Ocalały Tofu (odblokowany Uiro-Mochi)
+O Tofu Sobrevivente (Uiro-Mochi desbloqueado)
+두부 생존자(우이로 모치 잠금 해제됨)
+豆腐生還者（已解除外郎糕的鎖定）
+豆腐生还者（已解锁外郎饼）
+The 豆腐 Survivor「プリン」解放
+The Tofu Survivor (Flan unlocked)
+Le Tofu survivant (Flan débloquée)
+Tofu il Sopravvissuto (Flan)
+The Tofu Survivor (Flan freigeschaltet)
+El tofu superviviente (Flan desbloqueada)
+Выживший тофу (разблокировано: Флан)
+Ocalały Tofu (odblokowany Flan)
+O Tofu Sobrevivente (Pudim desbloqueada)
+두부 생존자(푸딩 잠금 해제됨)
+豆腐生還者（已解除焦糖布丁的鎖定）
+豆腐生还者（已解锁焦糖蛋奶）
+The 豆腐 Survivor「杏仁豆腐」解放
+The Tofu Survivor (Annin Tofu unlocked)
+Le Tofu survivant (Annin Tofu débloqué)
+Tofu il Sopravvissuto (Annin Tofu)
+The Tofu Survivor (Annin Tofu freigeschaltet)
+El tofu superviviente (Annin Tofu desbloqueado)
+Выживший тофу (разблокировано: Аннин Тофу)
+Ocalały Tofu (odblokowany Annin Tofu)
+O Tofu Sobrevivente (Tofu de Amêndoa desbloqueado)
+두부 생존자(행인두부 잠금 해제됨)
+豆腐生還者（已解除杏仁豆腐的鎖定）
+豆腐生还者（已解锁杏仁豆腐）
+市街地 A
+Raccoon City A
+Raccoon City A
+Raccoon City A
+Raccoon City A
+Raccoon City A
+Раккун-Сити A
+Raccoon City A
+Raccoon City A
+라쿤 시티 A
+拉昆市 A
+浣熊市 A
+市街地 B
+Raccoon City B
+Raccoon City B
+Raccoon City B
+Raccoon City B
+Raccoon City B
+Раккун-Сити B
+Raccoon City B
+Raccoon City B
+라쿤 시티 B
+拉昆市 B
+浣熊市 B
+市街地 C
+Raccoon City C
+Raccoon City C
+Raccoon City C
+Raccoon City C
+Raccoon City C
+Раккун-Сити C
+Raccoon City C
+Raccoon City C
+라쿤 시티 C
+拉昆市 C
+浣熊市 C
+市街地 D
+Raccoon City D
+Raccoon City D
+Raccoon City D
+Raccoon City D
+Raccoon City D
+Раккун-Сити D
+Raccoon City D
+Raccoon City D
+라쿤 시티 D
+拉昆市 D
+浣熊市 C
+警察署 A
+Police Station A
+Commissariat A
+Centrale di polizia A
+Polizeistation A
+Comisaría A
+Полицейский участок A
+Posterunek A
+Delegacia A
+경찰서 A
+警察局 A
+警察局 A
+警察署 B
+Police Station B
+Commissariat B
+Centrale di polizia B
+Polizeistation B
+Comisaría B
+Полицейский участок B
+Posterunek B
+Delegacia B
+경찰서 B
+警察局 B
+警察局 B
+警察署 C
+Police Station C
+Commissariat C
+Centrale di polizia C
+Polizeistation C
+Comisaría C
+Полицейский участок C
+Posterunek C
+Delegacia C
+경찰서 C
+警察局 C
+警察局 C
+ガンショップ「KENDO」
+Gun Shop "Kendo"
+Armurerie Kendo
+Armeria "Kendo"
+Waffenladen "Kendo"
+Armería "Kendo"
+Оруж. магазин «Кэндо»
+Sklep z bronią „Kendo”
+Loja de Armas "Kendo"
+총포상 "켄도"
+「肯多」槍械店
+“肯多”枪械店
+孤児院
+Orphanage
+Orphelinat
+Orfanotrofio
+Waisenhaus
+Orfanato
+Приют
+Sierociniec
+Orfanato
+고아원
+孤兒院
+孤儿院
+下水道
+Sewers
+Égouts
+Fogne
+Kanalisation
+Cloacas
+Канализация
+Kanały
+Esgotos
+하수도
+下水道
+下水道
+研究所 A
+Lab A
+Labo A
+Laboratorio A
+Labor A
+Laboratorio A
+Лаборатория A
+Laboratorium A
+Laboratório A
+연구실 A
+實驗室 A
+实验室 A
+研究所 B
+Lab B
+Labo B
+Laboratorio B
+Labor B
+Laboratorio B
+Лаборатория B
+Laboratorium B
+Laboratório B
+연구실 B
+實驗室 B
+实验室 B
+初期キービジュアル
+Early Key Visual
+Visuel clé initial
+Bozzetti iniziali
+Frühe Konzeptzeichnung
+Primeros diseños
+Ранние эскизы
+Wczesny motyw graficzny
+Versão da Arte Comercial
+초반 핵심 비주얼
+早期主視覺
+早期主视觉
+ゾンビ
+Zombie
+Zombie
+Zombi
+Zombie
+Zombi
+Зомби
+Zombie
+Zumbi
+좀비
+殭屍
+丧尸
+リッカー
+Licker
+Licker
+Licker
+Licker
+Licker
+Лизун
+Lizacz
+Carnífice
+릭커
+利卡
+舔食者
+アリゲーター
+Alligator
+Alligator
+Alligatore
+Alligator
+Caimán
+Аллигатор
+Aligator
+Crocodilo
+악어
+鱷魚
+鳄鱼
+デザインスケッチ C
+Design Sketch C
+Croquis C
+Bozzetti C
+Designskizze C
+Boceto C
+Набросок дизайна C
+Szkic projektowy C
+Esboço do Design C
+디자인 스케치 C
+設計草稿 C
+设计手稿 C
+イビー
+Ivy
+Ivy
+Ivy
+Ivy
+Hiedra
+Плющ
+Bluszcz
+Ivy
+아이비
+藤蔓
+藤蔓
+タイラント
+Tyrant
+Tyran
+Tyrant
+Tyrant
+Tyrant
+Тиран
+Tyran
+Tirano
+타이런트
+暴君
+暴君
+G第1形態
+G (Stage 1)
+G (1re forme)
+G (stadio 1)
+G (Phase 1)
+G (Fase 1)
+Первая форма «Г»
+G (wersja 1)
+G (Fase 1)
+G(1단계)
+G 第 1 形態
+G 第一形态
+G第2形態
+G (Stage 2)
+G (2e forme)
+G (stadio 2)
+G (Phase 2)
+G (Fase 2)
+Вторая форма «Г»
+G (wersja 2)
+G (Fase 2)
+G(2단계)
+G 第 2 形態
+G 第二形态
+G第3形態
+G (Stage 3)
+G (3e forme)
+G (stadio 3)
+G (Phase 3)
+G (Fase 3)
+Третья форма «Г»
+G (wersja 3)
+G (Fase 3)
+G(3단계)
+G 第 3 形態
+G 第三形态
+G第4形態
+G (Stage 4)
+G (4e forme)
+G (stadio 4)
+G (Phase 4)
+G (Fase 4)
+Четвертая форма «Г»
+G (wersja 4)
+G (Fase 4)
+G(4단계)
+G 第 4 形態
+G 第四形态
+G第5形態
+G (Stage 5)
+G (5e forme)
+G (stadio 5)
+G (Phase 5)
+G (Fase 5)
+Пятая форма «Г»
+G (wersja 5)
+G (Fase 5)
+G(5단계)
+G 第 5 形態
+G 第五形态
+デザインスケッチ A
+Design Sketch A
+Croquis A
+Bozzetti A
+Designskizze A
+Esquema de diseño A
+Набросок дизайна A
+Szkic projektowy A
+Esboço do Design A
+디자인 스케치 A
+設計草稿 A
+设计手稿 A
+デザインスケッチ B
+Design Sketch B
+Croquis B
+Bozzetti B
+Designskizze B
+Esquema de diseño B
+Набросок дизайна B
+Szkic projektowy B
+Esboço do Design B
+디자인 스케치 B
+設計草稿 B
+设计手稿 B
+武器＆アイテム
+Weapons and Items
+Armes et objets
+Armi e oggetti
+Waffen und Objekte
+Armas y objetos
+Оружие и предметы
+Bronie i przedmioty
+Armas e Itens
+무기 및 아이템
+武器和道具
+武器与道具
+画コンテ
+Storyboards
+Story-boards
+Storyboard
+Storyboards
+Guiones gráficos
+Раскадровки
+Scenorysy
+Roteiros
+스토리보드
+分鏡稿
+故事分镜
+警察署 D
+Police Station D
+Commissariat D
+Centrale di polizia D
+Polizeistation D
+Comisaría D
+Полицейский участок D
+Posterunek D
+Delegacia D
+경찰서 D
+警察局 D
+警察局 D
+ロゴ＆マーク
+Logos and Icons
+Logos et emblèmes
+Loghi
+Logos und Symbole
+Logotipos e iconos
+Логотипы и знаки
+Logo i ikony
+Logos e Ícones
+로고 및 아이콘
+商標和圖像
+商标与图标
+コンセプトアートを閲覧します
+View concept art you've unlocked.
+Voir les concept arts débloqués.
+Guarda i concept art che hai sbloccato.
+Freigeschaltete Konzeptgrafiken ansehen.
+Ver el arte conceptual que has desbloqueado.
+См. открытые наброски.
+Wyświetl odblokowaną grafikę.
+Ver as artes desbloqueadas.
+잠금 해제된 컨셉트 아트를 봅니다.
+欣賞已解除鎖定的概念美術。
+欣赏您已解锁的概念美术作品。
+レオン : CASUAL
+Leon (Casual)
+Leon (décontracté)
+Leon (casual)
+Leon (Freizeit)
+Leon (informal)
+Леон (Обычный)
+Leon (zwykły)
+Leon (Casual)
+레온(캐주얼)
+里昂（便服）
+里昂（便服）
+レオン : POLICE
+Leon (Police)
+Leon (uniforme)
+Leon (uniforme di polizia)
+Leon (Polizist)
+Leon (policía)
+Леон (Полицейский)
+Leon (policyjny)
+Leon (Policial)
+레온(경찰복)
+里昂（警服）
+里昂（警服）
+レオン : CLASSIC POLICE
+Leon (Classic Police)
+Leon (uniforme classique)
+Leon (uniforme classica)
+Leon (Klassischer Polizist)
+Leon (policía clásico)
+Леон (Классич. полицейский)
+Leon (klasyczny policyjny)
+Leon (Policial Clássico)
+레온(클래식 경찰복)
+里昂（經典警服）
+里昂（经典警服）
+クレア : JACKET
+Claire (Jacket)
+Claire (veste)
+Claire (giacca)
+Claire (Jacke)
+Claire (chaqueta)
+Клэр (Куртка)
+Claire (kurtka)
+Claire (Jaqueta)
+클레어(재킷)
+克蕾兒（外套）
+克莱尔（外套）
+クレア : TANK TOP
+Claire (Tank Top)
+Claire (débardeur)
+Claire (canotta)
+Claire (Top)
+Claire (camiseta)
+Клэр (Майка)
+Claire (bezrękawnik)
+Claire (Regata)
+클레어(탱크톱)
+克蕾兒（無袖上衣）
+克莱尔（背心）
+クレア : CLASSIC JACKET
+Claire (Classic Jacket)
+Claire (veste classique)
+Claire (giacca classica)
+Claire (Klassische Jacke)
+Claire (chaqueta clásica)
+Клэр (Классич. куртка)
+Claire (klasyczna kurtka)
+Claire (Jaqueta Clássica)
+클레어(클래식 재킷)
+克蕾兒（經典外套）
+克莱尔（经典外套）
+クレア : CLASSIC TANK TOP
+Claire (Classic Tank Top)
+Claire (débardeur classique)
+Claire (canotta classica)
+Claire (Klassisches Top)
+Claire (camiseta clásica)
+Клэр (Классич. майка)
+Claire (klasyczny bezrękawnik)
+Claire (Regata Clássica)
+클레어(클래식 탱크톱)
+克蕾兒（經典無袖上衣）
+克莱尔（经典背心）
+エイダ : COAT
+Ada (Trench Coat)
+Ada (imper)
+Ada (impermeabile)
+Ada (Trenchcoat)
+Ada (gabardina)
+Ада (Пальто)
+Ada (trencz)
+Ada (Sobretudo)
+에이다(트렌치코트)
+艾達（風衣）
+艾达（风衣）
+エイダ : DRESS
+Ada (Cocktail Dress)
+Ada (robe de soirée)
+Ada (abito da cocktail)
+Ada (Cocktailkleid)
+Ada (vestido de noche)
+Ада (Вечернее платье)
+Ada (sukienka koktajlowa)
+Ada (Vestido de Gala)
+에이다(칵테일 드레스)
+艾達（小禮服）
+艾达（小礼服）
+シェリー : SCHOOL UNIFORM
+Sherry (School Uniform)
+Sherry (uniforme)
+Sherry (uniforme scolastica)
+Sherry (Schuluniform)
+Sherry (uniforme)
+Шерри (Школьная форма)
+Sherry (mundurek szkolny)
+Sherry (Uniforme)
+셰리(교복)
+雪莉（學校制服）
+雪莉（学校制服）
+シェリー : SCHOOL UNIFORM（発症）
+Sherry (School Uniform - Infected version)
+Sherry (uniforme - infectée)
+Sherry infetta (uniforme scolastica)
+Sherry (Schuluniform - infizierte Version)
+Sherry (uniforme: infectada)
+Шерри (Школьная форма — заражение)
+Sherry (mundurek szkolny — wirus)
+Sherry (Uniforme — Infectada)
+셰리(교복 - 감염 버전)
+雪莉（學校制服·感染）
+雪莉（学校制服 - 感染）
+シェリー : JACKET
+Sherry (Jacket)
+Sherry (veste)
+Sherry (giacca di Claire)
+Sherry (Jacke)
+Sherry (chaqueta)
+Шерри (Куртка)
+Sherry (kurtka)
+Sherry (Casaco)
+셰리(재킷)
+雪莉（外套）
+雪莉（外套）
+シェリー : CLASSIC SCHOOL UNIFORM
+Sherry (Classic School Uniform)
+Sherry (uniforme classique)
+Sherry (uniforme scolastica classica)
+Sherry (Klassische Schuluniform)
+Sherry (uniforme clásico)
+Шерри (Классич. школьная форма)
+Sherry (klasyczny mundurek szkolny)
+Sherry (Uniforme Clássico)
+셰리(클래식 교복)
+雪莉（經典學校制服）
+雪莉（经典学校制服）
+シェリー : CLASSIC JACKET
+Sherry (Classic Jacket)
+Sherry (veste classique)
+Sherry (giacca di Claire classica)
+Sherry (Klassische Jacke)
+Sherry (chaqueta clásica)
+Шерри (Классич. куртка)
+Sherry (klasyczna kurtka)
+Sherry (Casaco Clássico)
+셰리(클래식 재킷)
+雪莉（經典外套）
+雪莉（经典外套）
+マービン・ブラナー
+Marvin Branagh
+Marvin Branagh
+Marvin Branagh
+Marvin Branagh
+Marvin Branagh
+Марвин Брэнаг
+Marvin Branagh
+Marvin Branagh
+마빈 브래너
+馬文·伯拉納
+马文·伯拉纳
+ブライアン・アイアンズ
+Brian Irons
+Brian Irons
+Brian Irons
+Brian Irons
+Brian Irons
+Брайан Айронс
+Brian Irons
+Brian Irons
+브라이언 아이언스
+布萊恩·艾倫斯
+布莱恩·艾隆斯
+ベン・ベルトリッチ
+Ben Bertolucci
+Ben Bertolucci
+Ben Bertolucci
+Ben Bertolucci
+Ben Bertolucci
+Бен Бертолуччи
+Ben Bertolucci
+Ben Bertolucci
+벤 베르톨루치
+班·貝托魯奇
+本·贝特鲁奇
+アネット・バーキン
+Annette Birkin
+Annette Birkin
+Annette Birkin
+Annette Birkin
+Annette Birkin
+Аннет Биркин
+Annette Birkin
+Annette Birkin
+아네트 버킨
+雅妮·柏金
+亚妮·柏金
+ウィリアム・バーキン
+William Birkin
+William Birkin
+William Birkin
+William Birkin
+William Birkin
+Уильям Биркин
+William Birkin
+William Birkin
+윌리엄 버킨
+威廉·柏金
+威廉·柏金
+Mr.ラクーン
+Mr. Raccoon
+Mr. Raccoon
+Mr. Raccoon
+Mr. Raccoon
+Mr. Raccoon
+М-р Енот
+Pan Szop
+Mr. Raccoon
+미스터 라쿤
+浣熊先生
+浣熊先生
+ゾンビ（男）
+Zombie (Male)
+Zombie (homme)
+Zombi (maschio)
+Zombie (männlich)
+Zombi (hombre)
+Зомби (Мужчина)
+Zombie (mężczyzna)
+Zumbi (Homem)
+좀비(남자)
+殭屍（男）
+男性丧尸
+ゾンビ（女）
+Zombie (Female)
+Zombie (femme)
+Zombi (femmina)
+Zombie (weiblich)
+Zombi (mujer)
+Зомби (Женщина)
+Zombie (kobieta)
+Zumbi (Mulher)
+좀비(여자)
+殭屍（女）
+女性丧尸
+ロバート・ケンド＆エマ・ケンド
+Robert and Emma Kendo
+Robert et Emma Kendo
+Robert ed Emma Kendo
+Robert und Emma Kendo
+Robert y Emma Kendo
+Роберт и Эмма Кендо
+Robert i Emma Kendo
+Robert e Emma Kendo
+로버트 켄도와 엠마 켄도
+羅伯特·肯多和艾瑪·肯多
+罗伯特·肯多与艾玛·肯多
+リッカー
+Licker
+Licker
+Licker
+Licker
+Licker
+Лизун
+Lizacz
+Carnífice
+릭커
+利卡
+舔食者
+ゾンビ犬
+Zombie Dog
+Chien zombie
+Cane zombi
+Zombiehund
+Perro zombi
+Зомби (Собака)
+Zombie pies
+Cão Zumbi
+좀비 개
+殭屍犬
+丧尸犬
+G成体
+G-Adult
+G adulte
+G (Adulto)
+Ausgewachsener G
+G adulto
+Г-взрослый
+Dorosły zarażony wirusem G
+G Adulto
+G 어덜트
+G 完全體
+G 完全体
+G幼体
+G-Young
+G jeune
+G (Forma giovane)
+G-Junges
+G joven
+Г-молодые
+Młode G
+G Infante
+G 유생
+G 幼體
+G 幼体
+イビー
+Ivy
+Ivy
+Ivy
+Ivy
+Hiedra
+Плющ
+Bluszcz
+Ivy
+아이비
+藤蔓
+藤蔓
+ラージローチ
+Giant Roach
+Cafard géant
+Scarafaggio gigante
+Riesenkakerlake
+Cucaracha gigante
+Гигантский таракан
+Gigantyczny karaluch
+Barata Gigante
+거대 바퀴벌레
+巨型蟑螂
+巨型蟑螂
+アリゲーター
+Alligator
+Alligator
+Alligatore
+Alligator
+Caimán
+Аллигатор
+Aligator
+Crocodilo
+악어
+鱷魚
+鳄鱼
+タイラント
+Tyrant
+Tyran
+Tyrant
+Tyrant
+Tyrant
+Тиран
+Tyran
+Tirano
+타이런트
+暴君
+暴君
+スーパータイラント
+Super Tyrant
+Tyran S
+Super Tyrant
+Super Tyrant
+Super Tyrant
+Супертиран
+Super Tyran
+Supertirano
+슈퍼 타이런트
+超級暴君
+超级暴君
+G第1形態
+G (Stage 1)
+G (1re forme)
+G (stadio 1)
+G (Phase 1)
+G (Fase 1)
+Первая форма «Г»
+G (wersja 1)
+G (Fase 1)
+G(1단계)
+G 第 1 形態
+G 第一形态
+G第2形態
+G (Stage 2)
+G (2e forme)
+G (stadio 2)
+G (Phase 2)
+G (Fase 2)
+Вторая форма «Г»
+G (wersja 2)
+G (Fase 2)
+G(2단계)
+G 第 2 形態
+G 第二形态
+G第3形態
+G (Stage 3)
+G (3e forme)
+G (stadio 3)
+G (Phase 3)
+G (Fase 3)
+Третья форма «Г»
+G (wersja 3)
+G (Fase 3)
+G(3단계)
+G 第 3 形態
+G 第三形态
+G第4形態
+G (Stage 4)
+G (4e forme)
+G (stadio 4)
+G (Phase 4)
+G (Fase 4)
+Четвертая форма «Г»
+G (wersja 4)
+G (Fase 4)
+G(4단계)
+G 第 4 形態
+G 第四形态
+G第5形態
+G (Stage 5)
+G (5e forme)
+G (stadio 5)
+G (Phase 5)
+G (Fase 5)
+Пятая форма «Г»
+G (wersja 5)
+G (Fase 5)
+G(5단계)
+G 第 5 形態
+G 第五形态
+コンバットナイフ
+Combat Knife
+Couteau de combat
+Coltello da combattimento
+Kampfmesser
+Cuchillo de combate
+Боевой нож
+Nóż bojowy
+Faca de Combate
+전투 단검
+戰鬥刀
+格斗匕首
+閃光手榴弾
+Flash Grenade
+Grenade assourdissante
+Granata stordente
+Blendgranate
+Granada cegadora
+Световая граната
+Granat błyskowy
+Granada de Atordoamento
+섬광 수류탄
+閃光彈
+闪光弹
+破片手榴弾
+Grenade
+Grenade
+Granata
+Granate
+Granada
+Граната
+Granat
+Granada
+수류탄
+手榴彈
+手榴弹
+EMFスキャナープロジェクター
+EMF Visualizer
+Détecteur CEM
+Rilevatore EMF
+EMF Visualizer
+Visualizador EMF
+Визуализатор ЭМП
+Wizualizator EMF
+Visualizador de CEM
+EMF 비주얼라이저
+電磁場顯像器
+电磁场显像器
+マチルダ
+Matilda
+Matilda
+Matilda
+Matilda
+Matilda
+Матильда
+Matilda
+Matilda
+마틸다
+瑪蒂達
+玛蒂尔达
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+SLS 60
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+JMB Hp3
+ブルーム Hc
+Broom Hc
+Broom Hc
+Broom Hc
+Broom Hc
+Broom Hc
+Broom Hc
+Zmiotka Hc
+Hc Cabo de Vassoura
+브룸 Hc
+布魯 Hc
+布鲁姆 Hc
+サバイバー
+Survivors
+Survivants
+Sopravvissuti
+Überlebende
+Supervivientes
+Выжившие
+Ocalali
+Sobreviventes
+생존자
+生還者
+生还者
+クイックドロウ・アーミー
+Quickdraw Army
+Quickdraw Army
+Quickdraw Army
+Quickdraw Army
+Quickdraw Army
+Quickdraw Army
+Rewolwer Piechoty
+Ás do Gatilho
+퀵드로우 아미
+陸軍快速手槍
+陆军快速手枪
+M 19
+M19
+M19
+M19
+M19
+M19
+M19
+M19
+M19
+M19
+M19
+M19
+サムライエッジ・オリジン
+Samurai Edge (Original Model)
+Samurai Edge (modèle original)
+Samurai Edge (modello originale)
+Samurai Edge (Originalmodell)
+Samurai Edge (Modelo original)
+Клинок самурая (оригинальная модель)
+Honor Samuraja (oryginalny)
+Samurai Edge (Modelo Original)
+사무라이 엣지 (오리지널 모델)
+武士之刃（原型）
+武士之刃（原型）
+W 870
+W-870
+W-870
+W-870
+W-870
+W-870
+W-870
+W-870
+W-870
+W-870
+W-870
+W-870
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+GM 79
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+MQ 11
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+LE 5
+スパークショット
+Spark Shot
+Fusil électrique
+Fucile a scarica elettrica
+Elektroschockgewehr
+Lanzadescargas
+Электропушка
+Iskrownik
+Fuzil de Eletrochoque
+스파크 샷
+高壓電槍
+电击枪
+化学燃料火炎放射器
+Chemical Flamethrower
+Lance-flammes chimique
+Lanciafiamme
+Chemischer Flammenwerfer
+Lanzallamas químico
+Химический огнемет
+Chemiczny miotacz ognia
+Lança-Chamas Químico
+화학 화염방사기
+化學火焰噴射器
+化学火焰喷射器
+ライトニングホーク
+Lightning Hawk
+Lightning Hawk
+Lightning Hawk
+Lightning Hawk
+Lightning Hawk
+Громовой ястреб
+Lightning Hawk
+Falcão-Relâmpago
+라이트닝 호크
+閃電之鷹
+闪电鹰
+MUP
+MUP
+MUP
+MUP
+MUP
+MUP
+MUP
+MUP
+MUP
+MUP
+MUP
+MUP
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+ATM-4
+対戦車ロケット
+Anti-tank Rocket
+Lance-roquettes antichar
+Lanciarazzi anticarro
+Panzerabwehrlenkwaffe
+Lanzamisiles antitanque
+Противотанковая ракета
+Wyrzutnia rakiet
+Foguete Antitanque
+대전차 로켓
+反坦克火箭筒
+反坦克火箭
+ミニガン
+Minigun
+Minigun
+Minigun
+Minigun
+Minigun
+Миниган
+Minigun
+Metralhadora Giratória
+미니건
+機槍
+机枪
+キャサリン・ウォーレン
+Katherine Warren
+Katherine Warren
+Katherine Warren
+Katherine Warren
+Katherine Warren
+Кэтрин Уоррен
+Katherine Warren
+Katherine Warren
+캐서린 워런
+凱瑟琳·瓦倫
+凯瑟琳·沃伦
+コンバットナイフ
+Combat Knife
+Couteau de combat
+Coltello da combattimento
+Kampfmesser
+Cuchillo de combate
+Боевой нож
+Nóż bojowy
+Faca de Combate
+전투 단검
+戰鬥刀
+格斗匕首
+ハンク
+Hunk
+Hunk
+Hunk
+Hunk
+Hunk
+Ханк
+Hunk
+Hunk
+헝크
+漢克
+汉克
+豆腐
+Tofu
+Tofu
+Tofu
+Tofu
+Tofu
+Тофу
+Tofu
+Tofu
+두부
+豆腐
+豆腐
+ういろう
+Uiro-Mochi
+Uiro-Mochi
+Uiro-Mochi
+Uiro-Mochi
+Uiru-Mochi
+Уиро-Моти
+Uiro-Mochi
+Uiro-Mochi
+우이로 모치
+外郎糕
+外郎饼
+杏仁豆腐
+Annin Tofu
+Annin Tofu
+Annin Tofu
+Annin Tofu
+Annin Tofu
+Аннин Тофу
+Annin Tofu
+Tofu de Amêndoa
+행인두부
+杏仁豆腐
+杏仁豆腐
+こんにゃく
+Konjac
+Konjac
+Konjac
+Konjak
+Konjac
+Коньяк
+Konnyaku
+Konjac
+곤약
+蒟蒻
+蒟蒻
+プリン
+Flan
+Flan
+Flan
+Flan
+Flan
+Флан
+Flan
+Pudim
+푸딩
+焦糖布丁
+焦糖蛋奶
+フィギュアを閲覧します
+View in-game models you've unlocked.
+Voir les modèles débloqués.
+Guarda i modelli di gioco che hai sbloccato.
+Freigeschaltete Figuren ansehen.
+Ver los modelos que has desbloqueado.
+Просмотреть открытые модели.
+Wyświetl modele odblokowane w grze.
+Ver modelos do jogo desbloqueados.
+잠금 해제된 인게임 모델을 봅니다.
+欣賞您已解除鎖定的遊戲中模型。
+欣赏您已解锁的游戏中模型。
+[ボーナス∞武器] 
+∞ Bonus Weapon: 
+Arme bonus ∞ : 
+Arma bonus ∞: 
+∞ Bonus-Waffe: 
+Arma extra ∞: 
+∞ бонусное оружие: 
+Broń bonusowa (∞): 
+Arma Bônus ∞: 
+∞ 보너스 무기: 
+無限獎勵武器： 
+无限奖励武器： 
+[フィギュア] 
+Model: 
+Modèle : 
+Modello: 
+Figur: 
+Modelo: 
+Модель: 
+Model: 
+Modelo: 
+모델: 
+模型： 
+模型 
+[ゲームモード] 
+Game Mode: 
+Mode de jeu : 
+Sbloccato: 
+Spielmodus: 
+Modo de juego: 
+Игровой режим: 
+Tryb gry: 
+Modo de Jogo: 
+게임 모드: 
+遊戲模式： 
+游戏模式： 
+[コスチューム] 
+Costume: 
+Tenue : 
+Costume: 
+Kostüm: 
+Traje: 
+Костюм: 
+Strój: 
+Traje: 
+복장: 
+服裝： 
+服装： 
+[コンセプトアート] 
+Concept Art: 
+Concept art : 
+Concept Art: 
+Konzeptgrafik: 
+Diseño: 
+Наброски: 
+Grafika koncepcyjna: 
+Arte Conceitual: 
+컨셉트 아트: 
+概念美術:
+概念美术： 

@@ -1,0 +1,616 @@
+﻿<TIME 0.17, 1.54></n><TIME 2.88, 4.29></n><TIME 4.83, 9.55></n><TIME 9.36, 12.4></n><TIME 13.07, 14.79></n><TIME 15.62, 17.84></n><TIME 20.58, 22.63></n><TIME 23.46, 26.0></n><TIME 26.41, 28.26></n><TIME 29.78, 32.05></n><TIME 35.7, 38.71></n><TIME 38.59, 41.1></n><TIME 41.15, 42.79></n><TIME 42.64, 47.0></n><TIME 47.9, 50.52></n><TIME 52.12, 55.18></n><TIME 56.42, 57.4></n><TIME 57.06, 58.29></n><TIME 60.89, 62.65></n><TIME 63.65, 70.09></n><TIME 70.72, 75.3></n><TIME 76.59, 77.78></n>こうなった原因は？<PAGE></n>さあな<PAGE></n>分かってるのは ここじゃ用心してないと</n>こっちがやられちまうってことだけだ<PAGE></n>先週から出勤のはずが 待機命令が出て…<PAGE></n>もっと早く来てれば…<PAGE></n>今いるだけで十分だ<PAGE></n>準備できました 警部補<PAGE></n>ここから出る方法を探さないとな<PAGE></n>お前が会ったエリオットは――<PAGE></n>この隠し通路を探していたようだ<PAGE></n>それはいい</n>あなたを病院に…<PAGE></n>いや 俺のことは気にするな<PAGE></n>でも置いていくわけには…<PAGE></n>いいか！　これは命令だ！</n>お前は自分の身を守れ<PAGE></n>俺が行けば足手まといになる<PAGE></n>お前に…これを<PAGE></n>でもこれは…<PAGE></n>いいんだ<PAGE></n>俺の二の舞になるな<PAGE></n>もし奴らを見つけたら</n>相手が警官だろうと決してためらうな<PAGE></n>殺すか逃げるか… どちらかだ</n>いいな？<PAGE></n>わかりました
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>Does anyone know what started this?<PAGE></n>Not a clue.<PAGE></n>But honestly, all you need to know is that this</n>place will eat you alive if you aren't careful.<PAGE></n>Yeah...well, I was supposed to start</n>last week and I got a call to stay away.<PAGE></n>I wish I'd come here sooner.<PAGE></n>You're here now, Leon.</n>That's all that matters.<PAGE></n>OK, Lieutenant, I'm ready.<PAGE></n>Hopefully, you'll be able to</n>find a way out of this station.<PAGE></n>That officer you met earlier—Elliot.<PAGE></n>He thought this secret passageway might do the trick.<PAGE></n>This is good news.</n>We can get you to a hospital.<PAGE></n>No, no, I am not the priority here.<PAGE></n>Lieutenant, I'm not just gonna leave you here—<PAGE></n>I'm giving you an order, rookie.</n>You save yourself first.<PAGE></n>I'd come with you, but</n>I'd just slow you down...<PAGE></n>Now...you'll need this.<PAGE></n>I can't take—<PAGE></n>Stop.<PAGE></n>And don't make my mistake.<PAGE></n>If you see one of those things—</n>uniform or not—you do not hesitate.<PAGE></n>You take it out...or you run. Got it!?<PAGE></n>Yes, sir.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>On sait ce qui a causé tout ça ?<PAGE></n>Aucune idée.<PAGE></n>Mais franchement, tout ce que tu dois savoir c'est que</n>cet endroit te bouffera tout cru si tu fais pas attention.<PAGE></n>Je devais commencer la semaine dernière</n>mais on m'a dit de ne pas venir.<PAGE></n>J'aurais aimé être là plus tôt.<PAGE></n>Tu es là maintenant.</n>C'est tout ce qui compte.<PAGE></n>Lieutenant, je suis prêt.<PAGE></n>J'espère que tu trouveras un moyen de sortir d'ici.<PAGE></n>L'officier que tu as vu tout à l'heure, Elliot...<PAGE></n>Il pensait que ce passage secret ferait l'affaire.<PAGE></n>Tant mieux. On pourra vous amener à l'hôpital.<PAGE></n>Non, non, il y a plus important que moi.<PAGE></n>Lieutenant, je peux pas vous laisser là...<PAGE></n>Ceci est un ordre, jeune homme.</n>Tu dois d'abord sauver ta peau.<PAGE></n>J'aimerais venir avec toi, mais ça te ralentirait...<PAGE></n>Tiens... Allez, prends-le.<PAGE></n>Si je fais ça...<PAGE></n>C'est bon, arrête !<PAGE></n>Fais pas la même erreur que moi.<PAGE></n>Si tu croises d'autres de ces choses...</n>uniforme ou pas, tu dois pas hésiter.<PAGE></n>Tu les tues... ou tu cours. Compris ?<PAGE></n>Compris.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>Qualcuno sa com'è iniziato?<PAGE></n>Non ne ho idea.<PAGE></n>Ma onestamente, ti basterà sapere che non</n>si esce vivi da qui se non si fa attenzione.<PAGE></n>Avrei dovuto cominciare la scorsa</n>settimana, ma hanno rimandato.<PAGE></n>Se fossi arrivato prima...<PAGE></n>Ma ora sei qui, Leon. Il resto non conta.<PAGE></n>Ok, tenente. Pronto.<PAGE></n>Forse potrai uscire vivo dalla centrale.<PAGE></n>L'agente che hai incontrato, Elliot...<PAGE></n>... credeva di poter fuggire da</n>questo passaggio segreto.<PAGE></n>Ma è perfetto! La porterò all'ospedale.<PAGE></n>No, io non sono una priorità, ora.<PAGE></n>Tenente, io non la lascerò qui.<PAGE></n>Questo è un ordine, recluta!</n>Devi pensare a salvarti!<PAGE></n>Verrei con te, ma ti rallenterei.<PAGE></n>Ora... Prendi questo.<PAGE></n>Non posso prenderlo...<PAGE></n>Zitto!<PAGE></n>E non fare il mio errore.<PAGE></n>Se incontri uno di quei cosi, con</n>la divisa o meno... tu non esitare.<PAGE></n>O li ammazzi... o scappi. Chiaro?<PAGE></n>Sì, signore.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>Weiß irgendjemand, was das verursacht hat?<PAGE></n>Keine Ahnung.<PAGE></n>Aber ganz ehrlich, es reicht, wenn du weißt, dass du</n>mit Haut und Haar gefressen wirst, wenn du nicht aufpasst.<PAGE></n>Ja... Ich sollte letzte Woche anfangen,</n>aber dann hieß es: "Bleib weg!"<PAGE></n>Wünschte, ich wär früher gekommen.<PAGE></n>Du bist jetzt hier, Leon.</n>Nur das ist wichtig.<PAGE></n>Okay, Lieutenant, ich bin so weit.<PAGE></n>Hoffentlich findest du einen Weg</n>raus aus der Station.<PAGE></n>Der Officer, den du getroffen hast, Elliot.<PAGE></n>Er dachte, dieser Geheimgang</n>wäre der Weg hier raus.<PAGE></n>Das klingt gut.</n>Sie kommen ins Krankenhaus.<PAGE></n>Nein, nein, ich bin nicht die Priorität hier.<PAGE></n>Lieutenant, ich werd Sie nicht einfach hierlassen...<PAGE></n>Das ist ein Befehl Rekrut!</n>Du rettest dich selbst zuerst. <PAGE></n>Ich käme mit dir,</n>aber ich halte dich nur auf...<PAGE></n>Hier... Du brauchst das.<PAGE></n>Ich kann das nicht...<PAGE></n>Stopp.<PAGE></n>Und mach nicht meinen Fehler.<PAGE></n>Wenn du eins von den Dingern siehst –</n>Uniform oder nicht – darfst du nicht zögern.<PAGE></n>Du erledigst es oder rennst. Klar?<PAGE></n>Ja, Sir.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>¿Nadie sabe cómo empezó?<PAGE></n>Ni idea.<PAGE></n>Pero lo que es seguro es que este sitio</n>te comerá vivo si no tienes cuidado.<PAGE></n>Iba a empezar la semana pasada y me dijeron que no.<PAGE></n>Ojalá hubiera venido.<PAGE></n>Estás aquí ahora, es lo que importa.<PAGE></n>¿Teniente...? Listo.<PAGE></n>Con suerte conseguirás salir de la comisaría.<PAGE></n>El agente que viste, Elliot...<PAGE></n>Dijo que este pasaje secreto</n>podría servir...<PAGE></n>Buenas noticias, le llevaré a un hospital.<PAGE></n>No, yo no soy la prioridad.<PAGE></n>Teniente, no voy a dejarle...<PAGE></n>Es una orden, novato.</n>Primero ponte a salvo.<PAGE></n>Iría contigo pero te retrasaría...<PAGE></n>Toma... Lo necesitarás...<PAGE></n>No puedo...<PAGE></n>Basta.<PAGE></n>Y no repitas mi error.<PAGE></n>Si ves a una de esas cosas, uniforme o no,</n>no te lo pienses.<PAGE></n>Te lo cargas o corres. ¿Vale?<PAGE></n>Sí, señor...
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>Кто-нибудь знает, из-за чего все началось?<PAGE></n>Без понятия.<PAGE></n>Но, честно говоря, тебе нужно знать одно:</n>чуть замешкаешься, и это место тебя заживо сожрет.<PAGE></n>Да... Я должен был начать еще на прошлой</n>неделе, но мне позвонили и сказали не приезжать.<PAGE></n>Уже жалею, что не приехал раньше.<PAGE></n>Но теперь ты здесь, Леон.</n>Это главное.<PAGE></n>Ладно. Я готов, лейтенант.<PAGE></n>Надеюсь, ты найдешь способ</n>выбраться из этого участка.<PAGE></n>Тот офицер, которого ты встретил, Эллиот.<PAGE></n>Он думал, что этот секретный проход нас спасет.<PAGE></n>Хорошие новости.</n>Мы можем доставить вас в больницу.<PAGE></n>Нет! Нет, обо мне надо думать в последнюю очередь.<PAGE></n>Лейтенант, я не могу просто бросить вас здесь...<PAGE></n>Это приказ, новобранец!</n>Твоя задача — спастись самому.<PAGE></n>Я бы пошел с тобой,</n>но стану только обузой...<PAGE></n>Вот... Это тебе понадобится.<PAGE></n>Но я не могу...<PAGE></n>Прекрати.<PAGE></n>И не повторяй моих ошибок.<PAGE></n>Если увидишь одну из этих тварей...</n>без разницы, в форме или нет — не медли ни секунды.<PAGE></n>Убивай или убегай. Ясно?<PAGE></n>Да, сэр.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>Wie ktoś, jak to się zaczęło?<PAGE></n>Nic nie wiemy.<PAGE></n>Wiadomo tylko, że jak nie będziesz ostrożny,</n>zostaniesz zjedzony żywcem.<PAGE></n>Taa... Miałem zacząć w zeszłym tygodniu,</n>ale ktoś mi polecił, żebym nie przyjeżdżał.<PAGE></n>Szkoda, że nie zjawiłem się wcześniej.<PAGE></n>Jesteś tu teraz, Leon.</n>To jest najważniejsze.<PAGE></n>Dobra, poruczniku. Jestem gotowy.<PAGE></n>Mam nadzieję, że uda ci się</n>wydostać z tego komisariatu.<PAGE></n>Policjant, którego poznałeś wcześniej... Elliot.<PAGE></n>Miał nadzieję, że uda się skorzystać z tajnego przejścia.<PAGE></n>Brzmi obiecująco.</n>Będziemy mogli zabrać cię do szpitala.<PAGE></n>Nie, nie, mamy ważniejsze rzeczy.<PAGE></n>Poruczniku, nie zostawię pana tutaj...<PAGE></n>To jest rozkaz, młody.</n>Najpierw ratuj siebie.<PAGE></n>Poszedłbym z tobą,</n>ale tylko bym cię spowalniał...<PAGE></n>Masz... przyda ci się.<PAGE></n>Nie mogę tego wziąć...<PAGE></n>Cicho.<PAGE></n>I nie popełnij mojego błędu.<PAGE></n>Jak zobaczysz któregoś z tych potworów...</n>w mundurze czy nie... nie wahaj się.<PAGE></n>Zabij go... albo uciekaj. Zrozumiano!?<PAGE></n>Tak jest.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>Alguém sabe o que começou isso tudo?<PAGE></n>Menor ideia.<PAGE></n>Mas você só precisa saber que esse lugar vai te devorar vivo</n>se você não tomar cuidado.<PAGE></n>Bom, era pra eu ter começado semana passada,</n>mas pediram pra eu esperar.<PAGE></n>Eu queria ter vindo antes.<PAGE></n>Você tá aqui agora, Leon.</n>É o que importa.<PAGE></n>Certo, tenente. Tô pronto.<PAGE></n>Tomara que você consiga encontrar</n>um jeito de sair da delegacia.<PAGE></n>Aquele policial que você encontrou, o Elliot...<PAGE></n>... ele achava que esta passagem secreta poderia ser a solução.<PAGE></n>Ótima notícia.</n>Você vai poder ir pra um hospital.<PAGE></n>Não, não, eu não sou a prioridade.<PAGE></n>Tenente, não vou largar você aqui...<PAGE></n>É uma ordem, novato.</n>Você tem que se salvar primeiro.<PAGE></n>Eu até iria junto,</n>mas eu só te atrasaria...<PAGE></n>Olha... Você vai precisar disto aqui.<PAGE></n>Eu não posso aceitar...<PAGE></n>Para.<PAGE></n>Vê se não comete o mesmo erro que eu.<PAGE></n>Se você vir uma dessas coisas...</n>com ou sem uniforme, não pensa duas vezes.<PAGE></n>Acaba com ela... ou foge. Entendeu?<PAGE></n>Sim, senhor.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>어디서 시작된 건지 아는 사람은 있습니까?<PAGE></n>전혀.<PAGE></n>사실대로 말하지. 조심하지 않으면</n>여기서 산 채로 먹히게 될 거야.<PAGE></n>네... 사실 지난 주부터 근무했어야</n>하는데 오지 말라는 명령을 받았어요.<PAGE></n>더 빨리 왔어야 했는데.<PAGE></n>지금 여기 있잖아, 레온.</n>그러면 된 거지.<PAGE></n>좋아요, 경감님. 전 준비 됐습니다.<PAGE></n>자네가 이 경찰서를</n>나갈 길을 찾을 수 있다면 좋겠군.<PAGE></n>아까 만났던 경관, 엘리엇 말이지.<PAGE></n>엘리엇은 이 비밀 통로로</n>나갈 수 있다고 생각했어.<PAGE></n>좋은 소식이군요.</n>병원에 갈 수 있겠어요.<PAGE></n>아니, 아니. 지금 급한 건 내가 아니야.<PAGE></n>경감님을 여기에 혼자 두고 갈 순 없습니다.<PAGE></n>명령이야, 신입.</n>자네 자신을 먼저 지켜.<PAGE></n>내가 같이 가면</n>자네도 같이 늦어지게 될 테니까...<PAGE></n>자... 이걸 가지고 가게.<PAGE></n>받을 수 없...<PAGE></n>그만.<PAGE></n>그리고 나와 같은 실수는 하지 말게.<PAGE></n>그런 것들을 보게 되면</n>경찰이든 아니든, 망설이지 마.<PAGE></n>없애버리거나... 도망치는 거야. 알겠어?<PAGE></n>네, 알겠습니다.
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>有誰知道這一切的原因嗎？<PAGE></n>沒有人知道。<PAGE></n>你只需要知道一件事，</n>只要一個不注意，可能就會被生吞活剝。<PAGE></n>是啊... 我本來上週就要來報到的，</n>卻接到電話要我別來。<PAGE></n>我應該早點來的。<PAGE></n>里昂，你人在這就夠了，</n>其他都不重要。<PAGE></n>好，副隊長，我準備好了。<PAGE></n>希望你能找到離開</n>這棟警察局的方法。<PAGE></n>你之前遇到的警官... 艾略特。<PAGE></n>他認為這條密道可能可以派上用場。<PAGE></n>太好了。</n>這下可以帶你去醫院了。<PAGE></n>不用，我的事不重要。<PAGE></n>副隊長，我不能把你丟在這裡不管...<PAGE></n>新來的，這是命令。</n>先拯救你自己。<PAGE></n>我很想和你一起去，</n>但我只會拖累你...<PAGE></n>你需要這個。<PAGE></n>我不能拿...<PAGE></n>夠了。<PAGE></n>不要重蹈我的覆轍。<PAGE></n>遇到那些東西...</n>不管是不是警察，你都不要猶豫。<PAGE></n>解決它... 或直接逃命。明白嗎？<PAGE></n>遵命...
+<TIME 0.17, 1.61></n><TIME 2.86, 4.06></n><TIME 4.63, 8.7></n><TIME 9.31, 12.09></n><TIME 13.0, 14.29></n><TIME 15.55, 17.57></n><TIME 20.39, 22.21></n><TIME 23.37, 25.42></n><TIME 26.3, 29.0></n><TIME 29.2, 34.0></n><TIME 35.61, 38.35></n><TIME 38.5, 40.68></n><TIME 40.85, 42.52></n><TIME 42.58, 47.17></n><TIME 47.91, 50.93></n><TIME 52.04, 55.93></n><TIME 56.37, 57.16></n><TIME 57.23, 58.72></n><TIME 60.89, 62.89></n><TIME 63.57, 70.5></n><TIME 70.78, 75.77></n><TIME 76.5, 78.3></n>有人知道这是从何而起吗？<PAGE></n>毫无头绪。<PAGE></n>说实在的，你只要记住一件事。</n>在这里只要你一不小心就会小命不保。<PAGE></n>是的... 我原本上周就该来报到，</n>结果临时收到命令叫我先别来。<PAGE></n>如果我早点赶来就好了。<PAGE></n>你来了就好，里昂。</n>这才是最重要的。<PAGE></n>好的，警长，我准备好了。<PAGE></n>如果顺利的话，</n>希望你能找到离开警察局的方法。<PAGE></n>你之前遇见的那位警官，艾略特...<PAGE></n>他认为可以从这个秘密通道逃出生天。<PAGE></n>那真是太好了，</n>这样就能送你去医院了。<PAGE></n>不，我怎么样并不重要。<PAGE></n>警长，我不能把你丢在这里...<PAGE></n>这是我对你的命令，新人。</n>先救你自己。<PAGE></n>我很想跟你一起去，</n>但我只会拖累你...<PAGE></n>对了... 你会用得上它。<PAGE></n>我不能收...<PAGE></n>别客气了。<PAGE></n>别犯跟我一样的错。<PAGE></n>如果你看见那东西，</n>不管它是否穿着制服... 都不能犹豫。<PAGE></n>解决它... 或者拔腿就跑。明白了吗？<PAGE></n>遵命。
+こうなった原因は？
+Does anyone know what started this?
+On sait ce qui a causé tout ça ?
+Qualcuno sa com'è iniziato?
+Weiß irgendjemand, was das verursacht hat?
+¿Nadie sabe cómo empezó?
+Кто-нибудь знает, из-за чего все началось?
+Wie ktoś, jak to się zaczęło?
+Alguém sabe o que começou isso tudo?
+어디서 시작된 건지 아는 사람은 있습니까?
+有誰知道這一切的原因嗎？
+有人知道这是从何而起吗？
+さあな
+Not a clue.
+Aucune idée.
+Non ne ho idea.
+Keine Ahnung.
+Ni idea.
+Без понятия.
+Nic nie wiemy.
+Menor ideia.
+전혀.
+沒有人知道。
+毫无头绪。
+分かってるのは ここじゃ用心してないと</n>こっちがやられちまうってことだけだ
+But honestly, all you need to know is that this</n>place will eat you alive if you aren't careful.
+Mais franchement, tout ce que tu dois savoir c'est que</n>cet endroit te bouffera tout cru si tu fais pas attention.
+Ma onestamente, ti basterà sapere che non</n>si esce vivi da qui se non si fa attenzione.
+Aber ganz ehrlich, es reicht, wenn du weißt, dass du</n>mit Haut und Haar gefressen wirst, wenn du nicht aufpasst.
+Pero lo que es seguro es que este sitio</n>te comerá vivo si no tienes cuidado.
+Но, честно говоря, тебе нужно знать одно:</n>чуть замешкаешься, и это место тебя заживо сожрет.
+Wiadomo tylko, że jak nie będziesz ostrożny,</n>zostaniesz zjedzony żywcem.
+Mas você só precisa saber que esse lugar vai te devorar vivo</n>se você não tomar cuidado.
+사실대로 말하지. 조심하지 않으면</n>여기서 산 채로 먹히게 될 거야.
+你只需要知道一件事，</n>只要一個不注意，可能就會被生吞活剝。
+说实在的，你只要记住一件事。</n>在这里只要你一不小心就会小命不保。
+先週から出勤のはずが 待機命令が出て…
+Yeah...well, I was supposed to start</n>last week and I got a call to stay away.
+Je devais commencer la semaine dernière</n>mais on m'a dit de ne pas venir.
+Avrei dovuto cominciare la scorsa</n>settimana, ma hanno rimandato.
+Ja... Ich sollte letzte Woche anfangen,</n>aber dann hieß es: "Bleib weg!"
+Iba a empezar la semana pasada y me dijeron que no.
+Да... Я должен был начать еще на прошлой</n>неделе, но мне позвонили и сказали не приезжать.
+Taa... Miałem zacząć w zeszłym tygodniu,</n>ale ktoś mi polecił, żebym nie przyjeżdżał.
+Bom, era pra eu ter começado semana passada,</n>mas pediram pra eu esperar.
+네... 사실 지난 주부터 근무했어야</n>하는데 오지 말라는 명령을 받았어요.
+是啊... 我本來上週就要來報到的，</n>卻接到電話要我別來。
+是的... 我原本上周就该来报到，</n>结果临时收到命令叫我先别来。
+もっと早く来てれば…
+I wish I'd come here sooner.
+J'aurais aimé être là plus tôt.
+Se fossi arrivato prima...
+Wünschte, ich wär früher gekommen.
+Ojalá hubiera venido.
+Уже жалею, что не приехал раньше.
+Szkoda, że nie zjawiłem się wcześniej.
+Eu queria ter vindo antes.
+더 빨리 왔어야 했는데.
+我應該早點來的。
+如果我早点赶来就好了。
+今いるだけで十分だ
+You're here now, Leon.</n>That's all that matters.
+Tu es là maintenant.</n>C'est tout ce qui compte.
+Ma ora sei qui, Leon. Il resto non conta.
+Du bist jetzt hier, Leon.</n>Nur das ist wichtig.
+Estás aquí ahora, es lo que importa.
+Но теперь ты здесь, Леон.</n>Это главное.
+Jesteś tu teraz, Leon.</n>To jest najważniejsze.
+Você tá aqui agora, Leon.</n>É o que importa.
+지금 여기 있잖아, 레온.</n>그러면 된 거지.
+里昂，你人在這就夠了，</n>其他都不重要。
+你来了就好，里昂。</n>这才是最重要的。
+準備できました 警部補
+OK, Lieutenant, I'm ready.
+Lieutenant, je suis prêt.
+Ok, tenente. Pronto.
+Okay, Lieutenant, ich bin so weit.
+¿Teniente...? Listo.
+Ладно. Я готов, лейтенант.
+Dobra, poruczniku. Jestem gotowy.
+Certo, tenente. Tô pronto.
+좋아요, 경감님. 전 준비 됐습니다.
+好，副隊長，我準備好了。
+好的，警长，我准备好了。
+ここから出る方法を探さないとな
+Hopefully, you'll be able to</n>find a way out of this station.
+J'espère que tu trouveras un moyen de sortir d'ici.
+Forse potrai uscire vivo dalla centrale.
+Hoffentlich findest du einen Weg</n>raus aus der Station.
+Con suerte conseguirás salir de la comisaría.
+Надеюсь, ты найдешь способ</n>выбраться из этого участка.
+Mam nadzieję, że uda ci się</n>wydostać z tego komisariatu.
+Tomara que você consiga encontrar</n>um jeito de sair da delegacia.
+자네가 이 경찰서를</n>나갈 길을 찾을 수 있다면 좋겠군.
+希望你能找到離開</n>這棟警察局的方法。
+如果顺利的话，</n>希望你能找到离开警察局的方法。
+お前が会ったエリオットは――
+That officer you met earlier—Elliot.
+L'officier que tu as vu tout à l'heure, Elliot...
+L'agente che hai incontrato, Elliot...
+Der Officer, den du getroffen hast, Elliot.
+El agente que viste, Elliot...
+Тот офицер, которого ты встретил, Эллиот.
+Policjant, którego poznałeś wcześniej... Elliot.
+Aquele policial que você encontrou, o Elliot...
+아까 만났던 경관, 엘리엇 말이지.
+你之前遇到的警官... 艾略特。
+你之前遇见的那位警官，艾略特...
+この隠し通路を探していたようだ
+He thought this secret passageway might do the trick.
+Il pensait que ce passage secret ferait l'affaire.
+... credeva di poter fuggire da</n>questo passaggio segreto.
+Er dachte, dieser Geheimgang</n>wäre der Weg hier raus.
+Dijo que este pasaje secreto</n>podría servir...
+Он думал, что этот секретный проход нас спасет.
+Miał nadzieję, że uda się skorzystać z tajnego przejścia.
+... ele achava que esta passagem secreta poderia ser a solução.
+엘리엇은 이 비밀 통로로</n>나갈 수 있다고 생각했어.
+他認為這條密道可能可以派上用場。
+他认为可以从这个秘密通道逃出生天。
+それはいい</n>あなたを病院に…
+This is good news.</n>We can get you to a hospital.
+Tant mieux. On pourra vous amener à l'hôpital.
+Ma è perfetto! La porterò all'ospedale.
+Das klingt gut.</n>Sie kommen ins Krankenhaus.
+Buenas noticias, le llevaré a un hospital.
+Хорошие новости.</n>Мы можем доставить вас в больницу.
+Brzmi obiecująco.</n>Będziemy mogli zabrać cię do szpitala.
+Ótima notícia.</n>Você vai poder ir pra um hospital.
+좋은 소식이군요.</n>병원에 갈 수 있겠어요.
+太好了。</n>這下可以帶你去醫院了。
+那真是太好了，</n>这样就能送你去医院了。
+いや 俺のことは気にするな
+No, no, I am not the priority here.
+Non, non, il y a plus important que moi.
+No, io non sono una priorità, ora.
+Nein, nein, ich bin nicht die Priorität hier.
+No, yo no soy la prioridad.
+Нет! Нет, обо мне надо думать в последнюю очередь.
+Nie, nie, mamy ważniejsze rzeczy.
+Não, não, eu não sou a prioridade.
+아니, 아니. 지금 급한 건 내가 아니야.
+不用，我的事不重要。
+不，我怎么样并不重要。
+でも置いていくわけには…
+Lieutenant, I'm not just gonna leave you here—
+Lieutenant, je peux pas vous laisser là...
+Tenente, io non la lascerò qui.
+Lieutenant, ich werd Sie nicht einfach hierlassen...
+Teniente, no voy a dejarle...
+Лейтенант, я не могу просто бросить вас здесь...
+Poruczniku, nie zostawię pana tutaj...
+Tenente, não vou largar você aqui...
+경감님을 여기에 혼자 두고 갈 순 없습니다.
+副隊長，我不能把你丟在這裡不管...
+警长，我不能把你丢在这里...
+いいか！　これは命令だ！</n>お前は自分の身を守れ
+I'm giving you an order, rookie.</n>You save yourself first.
+Ceci est un ordre, jeune homme.</n>Tu dois d'abord sauver ta peau.
+Questo è un ordine, recluta!</n>Devi pensare a salvarti!
+Das ist ein Befehl Rekrut!</n>Du rettest dich selbst zuerst. 
+Es una orden, novato.</n>Primero ponte a salvo.
+Это приказ, новобранец!</n>Твоя задача — спастись самому.
+To jest rozkaz, młody.</n>Najpierw ratuj siebie.
+É uma ordem, novato.</n>Você tem que se salvar primeiro.
+명령이야, 신입.</n>자네 자신을 먼저 지켜.
+新來的，這是命令。</n>先拯救你自己。
+这是我对你的命令，新人。</n>先救你自己。
+俺が行けば足手まといになる
+I'd come with you, but</n>I'd just slow you down...
+J'aimerais venir avec toi, mais ça te ralentirait...
+Verrei con te, ma ti rallenterei.
+Ich käme mit dir,</n>aber ich halte dich nur auf...
+Iría contigo pero te retrasaría...
+Я бы пошел с тобой,</n>но стану только обузой...
+Poszedłbym z tobą,</n>ale tylko bym cię spowalniał...
+Eu até iria junto,</n>mas eu só te atrasaria...
+내가 같이 가면</n>자네도 같이 늦어지게 될 테니까...
+我很想和你一起去，</n>但我只會拖累你...
+我很想跟你一起去，</n>但我只会拖累你...
+お前に…これを
+Now...you'll need this.
+Tiens... Allez, prends-le.
+Ora... Prendi questo.
+Hier... Du brauchst das.
+Toma... Lo necesitarás...
+Вот... Это тебе понадобится.
+Masz... przyda ci się.
+Olha... Você vai precisar disto aqui.
+자... 이걸 가지고 가게.
+你需要這個。
+对了... 你会用得上它。
+でもこれは…
+I can't take—
+Si je fais ça...
+Non posso prenderlo...
+Ich kann das nicht...
+No puedo...
+Но я не могу...
+Nie mogę tego wziąć...
+Eu não posso aceitar...
+받을 수 없...
+我不能拿...
+我不能收...
+いいんだ
+Stop.
+C'est bon, arrête !
+Zitto!
+Stopp.
+Basta.
+Прекрати.
+Cicho.
+Para.
+그만.
+夠了。
+别客气了。
+俺の二の舞になるな
+And don't make my mistake.
+Fais pas la même erreur que moi.
+E non fare il mio errore.
+Und mach nicht meinen Fehler.
+Y no repitas mi error.
+И не повторяй моих ошибок.
+I nie popełnij mojego błędu.
+Vê se não comete o mesmo erro que eu.
+그리고 나와 같은 실수는 하지 말게.
+不要重蹈我的覆轍。
+别犯跟我一样的错。
+もし奴らを見つけたら</n>相手が警官だろうと決してためらうな
+If you see one of those things—</n>uniform or not—you do not hesitate.
+Si tu croises d'autres de ces choses...</n>uniforme ou pas, tu dois pas hésiter.
+Se incontri uno di quei cosi, con</n>la divisa o meno... tu non esitare.
+Wenn du eins von den Dingern siehst –</n>Uniform oder nicht – darfst du nicht zögern.
+Si ves a una de esas cosas, uniforme o no,</n>no te lo pienses.
+Если увидишь одну из этих тварей...</n>без разницы, в форме или нет — не медли ни секунды.
+Jak zobaczysz któregoś z tych potworów...</n>w mundurze czy nie... nie wahaj się.
+Se você vir uma dessas coisas...</n>com ou sem uniforme, não pensa duas vezes.
+그런 것들을 보게 되면</n>경찰이든 아니든, 망설이지 마.
+遇到那些東西...</n>不管是不是警察，你都不要猶豫。
+如果你看见那东西，</n>不管它是否穿着制服... 都不能犹豫。
+殺すか逃げるか… どちらかだ</n>いいな？
+You take it out...or you run. Got it!?
+Tu les tues... ou tu cours. Compris ?
+O li ammazzi... o scappi. Chiaro?
+Du erledigst es oder rennst. Klar?
+Te lo cargas o corres. ¿Vale?
+Убивай или убегай. Ясно?
+Zabij go... albo uciekaj. Zrozumiano!?
+Acaba com ela... ou foge. Entendeu?
+없애버리거나... 도망치는 거야. 알겠어?
+解決它... 或直接逃命。明白嗎？
+解决它... 或者拔腿就跑。明白了吗？
+わかりました
+Yes, sir.
+Compris.
+Sì, signore.
+Ja, Sir.
+Sí, señor...
+Да, сэр.
+Tak jest.
+Sim, senhor.
+네, 알겠습니다.
+遵命...
+遵命。
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>ねえ 何があったの？<PAGE></n>一つ確かなのは――<PAGE></n>ここに残ってるのは</n>ゾンビくらいだってことだけだ<PAGE></n>ええ そうみたいね<PAGE></n>それは持っとけ</n>念のためだ<PAGE></n>すぐ出て行くつもりよ</n>クリスを見つけたらね<PAGE></n>本当に妹か？<PAGE></n>そう</n>なんで？　何かあったの？<PAGE></n>いや… 奴は休暇中だ</n>数週間前に――<PAGE></n>ヨーロッパに行った<PAGE></n>休暇？<PAGE></n>それは… よかった…<PAGE></n>まだ朗報がある<PAGE></n>この隠し通路を使えばここから…</n>脱出できそうだ<PAGE></n>いいわね<PAGE></n>平気？</n>病院に行かないと<PAGE></n>いや…俺のことはいい</n>自分で何とかする<PAGE></n>ダメよ</n>放っておくわけにはいかない<PAGE></n>聞くんだクレア</n>自分の身を守れ<PAGE></n>兄貴に会いたいだろ？<PAGE></n>これを… 渡しておく<PAGE></n>でもそれはあなたの…<PAGE></n>いいんだ<PAGE></n>用心しろ<PAGE></n>もし奴らを見つけたら…</n>相手が誰だろうと決してためらうな<PAGE></n>殺すか逃げるか どちらかだ
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>So nobody knows what caused this?<PAGE></n>There's a lot of theories...<PAGE></n>but all I know for sure is that</n>this place is crawling with zombies.<PAGE></n>Yeah. You're telling me...<PAGE></n>Hey, hey...keep that on... Just in case.<PAGE></n>I'm not gonna be around long.</n>Once I find Chris, we're outta here.<PAGE></n>You really Chris's sister?<PAGE></n>Yeah. Why?</n>Did you find something?<PAGE></n>He's on vacation.</n>Europe, I think...<PAGE></n>Left weeks ago.<PAGE></n>Vacation?<PAGE></n>That's...that's great news.<PAGE></n>Well, I've got more for you...<PAGE></n>Looks like there might be a way out</n>through this secret passageway...<PAGE></n>Good.<PAGE></n>Hey... Hey, we should probably</n>get you to a hospital.<PAGE></n>Oh, no... Forget about me.</n>I can take care of myself.<PAGE></n>No, don't be ridiculous,</n>you're gonna need some help—<PAGE></n>Listen, Claire: Save yourself.<PAGE></n>So you can see your brother again.<PAGE></n>Now...you'll probably need this.<PAGE></n>No, I'm not taking that.</n>You're gonna need—<PAGE></n>Shhhh.<PAGE></n>And be careful.<PAGE></n>If you see one of those things—no matter</n>who they were—you can't hesitate.<PAGE></n>Take 'em out if you can, or you run.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>Est-ce qu'on sait ce qui a causé tout ça ?<PAGE></n>Il y a pas mal de théories...<PAGE></n>Mais tout ce dont je suis sûr, c'est que</n>cet endroit est infesté de zombies.<PAGE></n>Ouais, j'ai vu ça...<PAGE></n>Hé, garde ça allumé... On sait jamais.<PAGE></n>Je vais pas traîner ici.</n>Juste le temps de retrouver Chris.<PAGE></n>Tu es vraiment la sœur de Chris ?<PAGE></n>Oui. Pourquoi ?</n>Vous avez quelque chose ?<PAGE></n>Il est en vacances.</n>En Europe, je crois...<PAGE></n>Depuis quelques semaines.<PAGE></n>En vacances ?<PAGE></n>C'est... une bonne nouvelle.<PAGE></n>En parlant de bonne nouvelle...<PAGE></n>Apparemment, il y aurait un moyen</n>de sortir par ce passage secret, là...<PAGE></n>Super.<PAGE></n>Hé... On devrait vous emmener à l'hôpital.<PAGE></n>Non, non... T'en fais pas pour moi.</n>Je peux me débrouiller.<PAGE></n>Hein ? Allez, dites pas de bêtises,</n>il vous faut de l'aide...<PAGE></n>Écoute Claire. Il faut que tu sauves ta peau...<PAGE></n>Que tu puisses revoir ton frère.<PAGE></n>Tiens... Tu vas avoir besoin de ça.<PAGE></n>Non, pas question que je prenne ça. Il vous...<PAGE></n>Chut...<PAGE></n>Sois prudente.<PAGE></n>Si tu croises d'autres de ces choses...</n>peu importe qui ils étaient, tu dois pas hésiter.<PAGE></n>Tue-les si tu peux, sinon cours.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>Ma quindi la causa è sconosciuta?<PAGE></n>Ci sono varie teorie...<PAGE></n>... ma quello che so per certo è che</n>questo posto brulica di zombi.<PAGE></n>Già. L'ho notato.<PAGE></n>Ehi! Lasciala accesa. Non si sa mai.<PAGE></n>Non voglio rimanere qui.</n>Appena trovo Chris, vado via.<PAGE></n>Sei davvero sua sorella?<PAGE></n>Sì. Perché? Sa dove si trova?<PAGE></n>È in vacanza. Europa, credo...<PAGE></n>Da settimane.<PAGE></n>Vacanza?<PAGE></n>Beh, è... un'ottima notizia.<PAGE></n>E ce n'è un'altra...<PAGE></n>Sembra che si possa uscire</n>usando questo passaggio segreto.<PAGE></n>Bene.<PAGE></n>Ehi... dovremmo trovare un ospedale.<PAGE></n>Oh, no... Lascia perdere.</n>Me la cavo da solo.<PAGE></n>No. Non sia ridicolo, ha bisogno di cure...<PAGE></n>Ascoltami Claire. Pensa a salvarti!<PAGE></n>Fallo per tuo fratello.<PAGE></n>Ora... Credo ne avrai bisogno.<PAGE></n>No, non lo prendo.</n>Serve più a...<PAGE></n>Shhh.<PAGE></n>E fa' attenzione.<PAGE></n>Se incontri uno di quei mostri...</n>Non importa chi erano, non esitare.<PAGE></n>Ammazzali se puoi... o scappa.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>Also niemand kennt die Ursache?<PAGE></n>Es gibt viele Theorien...<PAGE></n>Aber ich weiß nur sicher,</n>dass es hier vor Zombies wimmelt.<PAGE></n>Ja. Was Sie nicht sagen.<PAGE></n>Hey, hey... Lass das an...</n>Nur für den Fall.<PAGE></n>Ich werd nicht lang bleiben.</n>Wenn ich Chris finde, sind wir hier raus.<PAGE></n>Du bist wirklich Chris' Schwester?<PAGE></n>Ja. Wieso?</n>Haben Sie was gefunden?<PAGE></n>Er ist verreist.</n>Europa, denke ich...<PAGE></n>Vor Wochen schon weg.<PAGE></n>Verreist?<PAGE></n>Das... ist großartig.<PAGE></n>Ich hab noch mehr für dich...<PAGE></n>Anscheinend gibt's einen Weg raus</n>durch diesen Geheimgang hier...<PAGE></n>Gut.<PAGE></n>Hey...  Sie sollten schnell ins Krankenhaus.<PAGE></n>Oh, nein... Vergiss mich.</n>Ich kümmere mich um mich selbst.<PAGE></n>Nein, das machen Sie nicht,</n>Sie brauchen dringend Hilfe...<PAGE></n>Hör zu, Claire:</n>Rette dich selbst.<PAGE></n>Damit du deinen Bruder wiedersiehst.<PAGE></n>Hier... du brauchst das sicher.<PAGE></n>Nein, ich nehm das nicht.</n>Sie werden das...<PAGE></n>Schhhh.<PAGE></n>Und pass gut auf.<PAGE></n>Wenn du eins von den Dingern siehst –</n>wer immer es auch war – darfst du nicht zögern.<PAGE></n>Schalt es aus, wenn du kannst, oder renn.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>¿Nadie sabe cómo empezó?<PAGE></n>Hay muchas teorías...<PAGE></n>Pero lo que es seguro es que este sitio</n>está plagado de zombis.<PAGE></n>Sí. Me he dado cuenta...<PAGE></n>Eh, no la pierdas. Por si acaso.<PAGE></n>No voy a quedarme mucho.</n>Me iré cuando encuentre a Chris.<PAGE></n>¿Eres hermana de Chris?<PAGE></n>Sí, ¿por qué?</n>¿Sabes dónde está?<PAGE></n>Está de vacaciones, en Europa...<PAGE></n>Desde hace semanas.<PAGE></n>¿Vacaciones?<PAGE></n>Eso... Eso es genial.<PAGE></n>Pues te diré más...<PAGE></n>Parece que hay una salida a través de este pasaje.<PAGE></n>Bien.<PAGE></n>Eh, deberíamos ir a un hospital.<PAGE></n>No, no, olvídame. Puedo cuidarme solo.<PAGE></n>No, no seas ridículo.</n>Necesitas ayuda.<PAGE></n>Escucha Claire, ponte a salvo...<PAGE></n>Para que puedas ver a tu hermano.<PAGE></n>Toma... Lo necesitarás.<PAGE></n>No, vas a necesitarlo...<PAGE></n>Sshhhh.<PAGE></n>Ten cuidado.<PAGE></n>Si ves a una de esas cosas, no importa</n>quienes fueran, no dudes.<PAGE></n>Acaba con ellos, o corre.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>Значит, никто не знает, из-за чего это случилось?<PAGE></n>Есть много версий...<PAGE></n>Но я точно уверен вот в чем:</n>это место просто кишит зомби.<PAGE></n>Да уж. Сама догадываюсь...<PAGE></n>Эй-эй... не снимай... На всякий случай.<PAGE></n>Я здесь надолго не задержусь.</n>Как только найду Криса, сразу уедем отсюда.<PAGE></n>Ты действительно сестра Криса?<PAGE></n>Да. А что?</n>Вы узнали, что с ним?<PAGE></n>Он в отпуске.</n>В Европе, кажется...<PAGE></n>Уехал несколько недель назад.<PAGE></n>В отпуске?<PAGE></n>Это же... просто отличная новость.<PAGE></n>Что ж, у меня есть еще одна...<PAGE></n>Похоже, через этот секретный</n>проход можно выйти отсюда...<PAGE></n>Хорошо.<PAGE></n>Эй... Думаю, надо бы</n>доставить вас в больницу.<PAGE></n>Нет-нет... Обо мне не беспокойся.</n>Я сам о себе позабочусь.<PAGE></n>Ох, не глупите.</n>Вам нужна помощь...<PAGE></n>Послушай меня, Клэр! Спасайся сама.<PAGE></n>Чтобы снова увидиться с братом.<PAGE></n>Вот... Думаю, тебе это пригодится.<PAGE></n>Ну уж нет, не возьму.</n>Вам самому...<PAGE></n>Тише.<PAGE></n>Будь осторожна.<PAGE></n>Если увидишь одну из этих тварей...</n>без разницы, кем она была раньше, не медли ни секунды.<PAGE></n>Убивай их, если сможешь. Или беги.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>Więc nikt nie wie, od czego to się zaczęło?<PAGE></n>Są różne teorie...<PAGE></n>Jedno jest pewne.</n>Roi się tu od zombie.<PAGE></n>Tak. Zauważyłam...<PAGE></n>Hej, hej... nie wyłączaj... Na wszelki wypadek.<PAGE></n>Długo tu nie zabawię.</n>Znajdę Chrisa i spadamy stąd.<PAGE></n>Poważnie jesteś siostrą Chrisa?<PAGE></n>Tak. A co?</n>Znalazłeś coś?<PAGE></n>Jest na urlopie.</n>Chyba w Europie...<PAGE></n>Wyjechał kilka tygodni temu.<PAGE></n>Na urlopie?<PAGE></n>To... świetna wiadomość.<PAGE></n>Mam jeszcze jedną...<PAGE></n>Chyba można stąd wyjść</n>tajnym przejściem...<PAGE></n>Dobrze.<PAGE></n>Hej... hej, powinniśmy chyba</n>zabrać cię do szpitala.<PAGE></n>O, nie... Zapomnij o mnie.</n>Sam o siebie zadbam.<PAGE></n>Nie wygłupiaj się,</n>będziesz potrzebował pomocy...<PAGE></n>Posłuchaj, Claire: ratuj siebie.<PAGE></n>Żebyś mogła zobaczyć się znowu z bratem.<PAGE></n>Masz... na pewno ci się przyda.<PAGE></n>Nie, nie wezmę tego.</n>Będziesz potrzebował...<PAGE></n>Cicho.<PAGE></n>I uważaj na siebie.<PAGE></n>Jak zobaczysz któregoś z tych potworów...</n>nieważne kogo... nie wahaj się.<PAGE></n>Zabij go, jeśli zdołasz, albo uciekaj.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>E ninguém sabe o que aconteceu aqui?<PAGE></n>Tem um monte de teoria...<PAGE></n>... mas eu só sei que este lugar</n>tá infestado de zumbi.<PAGE></n>Nossa. Nem fala...<PAGE></n>Ei, ei... Deixa ligado... Só por precaução.<PAGE></n>Não vou ficar muito tempo.</n>Assim que eu achar o Chris, a gente vai embora.<PAGE></n>Você é mesmo irmã do Chris?<PAGE></n>Sou. Por quê?</n>Descobriu alguma coisa?<PAGE></n>Ele tá de férias.</n>Acho que na Europa...<PAGE></n>Já foi há algumas semanas.<PAGE></n>Férias?<PAGE></n>Mas que... notícia ótima.<PAGE></n>Bom, tem mais...<PAGE></n>Parece que tem uma saída</n>por esta passagem secreta...<PAGE></n>Que bom.<PAGE></n>Ei... Ei, você precisa</n>ir pra um hospital.<PAGE></n>Ah, não... Não se preocupa comigo.</n>Eu cuido de mim mesmo.<PAGE></n>Não, deixa de ser ridículo,</n>você vai precisar de ajuda...<PAGE></n>Me escuta, Claire: você tem que se salvar.<PAGE></n>Pra poder reencontrar o seu irmão.<PAGE></n>Olha... acho que você vai precisar disto aqui.<PAGE></n>Não, não posso aceitar.</n>Você vai precisar...<PAGE></n>Shhhh.<PAGE></n>E toma cuidado.<PAGE></n>Se você vir uma dessas coisas...</n>seja quem for, não pensa duas vezes.<PAGE></n>Tem que matar, se der, senão corre.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>누가 이렇게 만든 건지 아무도 모르나요?<PAGE></n>아주 다양한 이론이 있죠...<PAGE></n>확실한 건 하나,</n>이곳을 좀비들이 점령했다는 겁니다.<PAGE></n>네. 그러게요...<PAGE></n>아, 그건 그냥 둬요...혹시 모르니까.<PAGE></n>전 여기 오래 있지 않을 거예요.</n>오빠를 찾으면 빠져나가야죠.<PAGE></n>진짜 크리스 동생입니까?<PAGE></n>네. 왜요?</n>뭔가 알고 있어요?<PAGE></n>크리스는 휴가 갔어요.</n>유럽이라 했나...<PAGE></n>몇 주 전에 떠났죠.<PAGE></n>휴가요?<PAGE></n>참... 좋은 소식이네요.<PAGE></n>또 알려줄 게 있어요...<PAGE></n>나가는 길이 있는 것 같군요.</n>이 비밀 통로로 가면 됩니다...<PAGE></n>좋아요.<PAGE></n>이봐요, 지금 당장</n>병원에 가야겠어요.<PAGE></n>아, 아니요... 난 신경 쓰지 마요.</n>알아서 할 수 있습니다.<PAGE></n>아니, 바보 같은 소리 마요.</n>도움이 필요한 상황...<PAGE></n>잘 들어요, 클레어. 당신을 지켜요.<PAGE></n>그래야 오빠도 다시 만날 수 있을 거 아닙니까.<PAGE></n>자... 아마 이게 필요할 겁니다.<PAGE></n>됐어요. 필요 없어요.</n>당신에게 필요한...<PAGE></n>쉿.<PAGE></n>조심해요.<PAGE></n>그런 것들을 보게 되면</n>그게 누구든 망설이지 마요.<PAGE></n>할 수 있으면 죽이고, 아니면 도망쳐요.
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>都沒人知道這背後的原因？<PAGE></n>是有各種推論...<PAGE></n>但我只知道</n>這地方佈滿了殭屍。<PAGE></n>是啊，我很清楚...<PAGE></n>喂，請持續開著它... 以防萬一。<PAGE></n>我不打算在這待太久。</n>找到克里斯後，我們就會離開。<PAGE></n>你真的是克里斯的妹妹？<PAGE></n>是啊，怎麼？</n>你找到什麼了嗎？<PAGE></n>他渡假去了。</n>記得是去歐洲...<PAGE></n>幾週前就出發了。<PAGE></n>渡假？<PAGE></n>那、那就太好了。<PAGE></n>還有另一個好消息...<PAGE></n>你似乎可以從</n>這條密道逃出去...<PAGE></n>太好了。<PAGE></n>喂，我們應該</n>先送你去醫院...<PAGE></n>不用... 別管我。</n>我可以顧好自己。<PAGE></n>別鬧了，</n>你需要接受治療...<PAGE></n>克蕾兒，聽著，救你自己。<PAGE></n>你還得和你哥哥相聚。<PAGE></n>你可能會需要這個。<PAGE></n>不行，我不能收。</n>你會需要...<PAGE></n>噓。<PAGE></n>自己小心。<PAGE></n>遇到那些東西...</n>不管它們本來是誰，都不要猶豫。<PAGE></n>解決它們，不然就逃跑。
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>没有人知道事情的成因吗？<PAGE></n>虽然有很多种推论...<PAGE></n>不过我只能确定一件事，</n>这地方已经被丧尸占据了。<PAGE></n>好吧，那还用说...<PAGE></n>嘿... 无线电要开着。以防万一。<PAGE></n>我不会在这里久留。</n>找到克里斯后，我们就离开这里。<PAGE></n>你真的是克里斯的妹妹？<PAGE></n>是的，怎么了？</n>你找到了什么吗？<PAGE></n>他正在休假。</n>应该是去欧洲了...<PAGE></n>几周前出发的。<PAGE></n>休假？<PAGE></n>是吗... 那真是太好了。<PAGE></n>那么，还有一个好消息...<PAGE></n>听说这里有条秘密通道，</n>或许能到外面去...<PAGE></n>太好了。<PAGE></n>哎呀... 看样子</n>我们得送你去医院才行。<PAGE></n>不... 别管我了。</n>我会照顾自己。<PAGE></n>别说傻话了，</n>你必须接受治疗...<PAGE></n>听我说，克莱尔。你必须逃出去。<PAGE></n>这样你才能和你哥哥再会。<PAGE></n>对了... 你可能会用得上它。<PAGE></n>不，我不能拿。</n>你一定会需要...<PAGE></n>别争了。<PAGE></n>还有，小心点。<PAGE></n>如果你看见那东西，</n>不管它是否穿着制服... 都不能犹豫。<PAGE></n>能杀就杀，不然就赶快跑。
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+<TIME 1.03, 2.53><TIME 5.65, 6.94><TIME 7.69, 10.8><TIME 11.13, 12.7><TIME 14.43, 16.92><TIME 18.81, 21.97><TIME 23.21, 24.22><TIME 25.38, 28.46><TIME 29.85, 31.91><TIME 32.38, 33.5><TIME 34.71, 36.0><TIME 37.08, 38.92><TIME 39.05, 40.28><TIME 41.03, 44.36><TIME 45.53, 46.03><TIME 48.2, 51.0><TIME 51.05, 54.08><TIME 54.97, 57.4><TIME 57.47, 60.97><TIME 62.82, 64.1><TIME 67.17, 70.58><TIME 71.69, 73.35><TIME 73.43, 74.16><TIME 77.07, 77.78><TIME 79.89, 85.32><TIME 86.24, 89.92>
+ねえ 何があったの？
+So nobody knows what caused this?
+Est-ce qu'on sait ce qui a causé tout ça ?
+Ma quindi la causa è sconosciuta?
+Also niemand kennt die Ursache?
+¿Nadie sabe cómo empezó?
+Значит, никто не знает, из-за чего это случилось?
+Więc nikt nie wie, od czego to się zaczęło?
+E ninguém sabe o que aconteceu aqui?
+누가 이렇게 만든 건지 아무도 모르나요?
+都沒人知道這背後的原因？
+没有人知道事情的成因吗？
+一つ確かなのは――
+There's a lot of theories...
+Il y a pas mal de théories...
+Ci sono varie teorie...
+Es gibt viele Theorien...
+Hay muchas teorías...
+Есть много версий...
+Są różne teorie...
+Tem um monte de teoria...
+아주 다양한 이론이 있죠...
+是有各種推論...
+虽然有很多种推论...
+ここに残ってるのは</n>ゾンビくらいだってことだけだ
+but all I know for sure is that</n>this place is crawling with zombies.
+Mais tout ce dont je suis sûr, c'est que</n>cet endroit est infesté de zombies.
+... ma quello che so per certo è che</n>questo posto brulica di zombi.
+Aber ich weiß nur sicher,</n>dass es hier vor Zombies wimmelt.
+Pero lo que es seguro es que este sitio</n>está plagado de zombis.
+Но я точно уверен вот в чем:</n>это место просто кишит зомби.
+Jedno jest pewne.</n>Roi się tu od zombie.
+... mas eu só sei que este lugar</n>tá infestado de zumbi.
+확실한 건 하나,</n>이곳을 좀비들이 점령했다는 겁니다.
+但我只知道</n>這地方佈滿了殭屍。
+不过我只能确定一件事，</n>这地方已经被丧尸占据了。
+ええ そうみたいね
+Yeah. You're telling me...
+Ouais, j'ai vu ça...
+Già. L'ho notato.
+Ja. Was Sie nicht sagen.
+Sí. Me he dado cuenta...
+Да уж. Сама догадываюсь...
+Tak. Zauważyłam...
+Nossa. Nem fala...
+네. 그러게요...
+是啊，我很清楚...
+好吧，那还用说...
+それは持っとけ</n>念のためだ
+Hey, hey...keep that on... Just in case.
+Hé, garde ça allumé... On sait jamais.
+Ehi! Lasciala accesa. Non si sa mai.
+Hey, hey... Lass das an...</n>Nur für den Fall.
+Eh, no la pierdas. Por si acaso.
+Эй-эй... не снимай... На всякий случай.
+Hej, hej... nie wyłączaj... Na wszelki wypadek.
+Ei, ei... Deixa ligado... Só por precaução.
+아, 그건 그냥 둬요...혹시 모르니까.
+喂，請持續開著它... 以防萬一。
+嘿... 无线电要开着。以防万一。
+すぐ出て行くつもりよ</n>クリスを見つけたらね
+I'm not gonna be around long.</n>Once I find Chris, we're outta here.
+Je vais pas traîner ici.</n>Juste le temps de retrouver Chris.
+Non voglio rimanere qui.</n>Appena trovo Chris, vado via.
+Ich werd nicht lang bleiben.</n>Wenn ich Chris finde, sind wir hier raus.
+No voy a quedarme mucho.</n>Me iré cuando encuentre a Chris.
+Я здесь надолго не задержусь.</n>Как только найду Криса, сразу уедем отсюда.
+Długo tu nie zabawię.</n>Znajdę Chrisa i spadamy stąd.
+Não vou ficar muito tempo.</n>Assim que eu achar o Chris, a gente vai embora.
+전 여기 오래 있지 않을 거예요.</n>오빠를 찾으면 빠져나가야죠.
+我不打算在這待太久。</n>找到克里斯後，我們就會離開。
+我不会在这里久留。</n>找到克里斯后，我们就离开这里。
+本当に妹か？
+You really Chris's sister?
+Tu es vraiment la sœur de Chris ?
+Sei davvero sua sorella?
+Du bist wirklich Chris' Schwester?
+¿Eres hermana de Chris?
+Ты действительно сестра Криса?
+Poważnie jesteś siostrą Chrisa?
+Você é mesmo irmã do Chris?
+진짜 크리스 동생입니까?
+你真的是克里斯的妹妹？
+你真的是克里斯的妹妹？
+そう</n>なんで？　何かあったの？
+Yeah. Why?</n>Did you find something?
+Oui. Pourquoi ?</n>Vous avez quelque chose ?
+Sì. Perché? Sa dove si trova?
+Ja. Wieso?</n>Haben Sie was gefunden?
+Sí, ¿por qué?</n>¿Sabes dónde está?
+Да. А что?</n>Вы узнали, что с ним?
+Tak. A co?</n>Znalazłeś coś?
+Sou. Por quê?</n>Descobriu alguma coisa?
+네. 왜요?</n>뭔가 알고 있어요?
+是啊，怎麼？</n>你找到什麼了嗎？
+是的，怎么了？</n>你找到了什么吗？
+いや… 奴は休暇中だ</n>数週間前に――
+He's on vacation.</n>Europe, I think...
+Il est en vacances.</n>En Europe, je crois...
+È in vacanza. Europa, credo...
+Er ist verreist.</n>Europa, denke ich...
+Está de vacaciones, en Europa...
+Он в отпуске.</n>В Европе, кажется...
+Jest na urlopie.</n>Chyba w Europie...
+Ele tá de férias.</n>Acho que na Europa...
+크리스는 휴가 갔어요.</n>유럽이라 했나...
+他渡假去了。</n>記得是去歐洲...
+他正在休假。</n>应该是去欧洲了...
+ヨーロッパに行った
+Left weeks ago.
+Depuis quelques semaines.
+Da settimane.
+Vor Wochen schon weg.
+Desde hace semanas.
+Уехал несколько недель назад.
+Wyjechał kilka tygodni temu.
+Já foi há algumas semanas.
+몇 주 전에 떠났죠.
+幾週前就出發了。
+几周前出发的。
+休暇？
+Vacation?
+En vacances ?
+Vacanza?
+Verreist?
+¿Vacaciones?
+В отпуске?
+Na urlopie?
+Férias?
+휴가요?
+渡假？
+休假？
+それは… よかった…
+That's...that's great news.
+C'est... une bonne nouvelle.
+Beh, è... un'ottima notizia.
+Das... ist großartig.
+Eso... Eso es genial.
+Это же... просто отличная новость.
+To... świetna wiadomość.
+Mas que... notícia ótima.
+참... 좋은 소식이네요.
+那、那就太好了。
+是吗... 那真是太好了。
+まだ朗報がある
+Well, I've got more for you...
+En parlant de bonne nouvelle...
+E ce n'è un'altra...
+Ich hab noch mehr für dich...
+Pues te diré más...
+Что ж, у меня есть еще одна...
+Mam jeszcze jedną...
+Bom, tem mais...
+또 알려줄 게 있어요...
+還有另一個好消息...
+那么，还有一个好消息...
+この隠し通路を使えばここから…</n>脱出できそうだ
+Looks like there might be a way out</n>through this secret passageway...
+Apparemment, il y aurait un moyen</n>de sortir par ce passage secret, là...
+Sembra che si possa uscire</n>usando questo passaggio segreto.
+Anscheinend gibt's einen Weg raus</n>durch diesen Geheimgang hier...
+Parece que hay una salida a través de este pasaje.
+Похоже, через этот секретный</n>проход можно выйти отсюда...
+Chyba można stąd wyjść</n>tajnym przejściem...
+Parece que tem uma saída</n>por esta passagem secreta...
+나가는 길이 있는 것 같군요.</n>이 비밀 통로로 가면 됩니다...
+你似乎可以從</n>這條密道逃出去...
+听说这里有条秘密通道，</n>或许能到外面去...
+いいわね
+Good.
+Super.
+Bene.
+Gut.
+Bien.
+Хорошо.
+Dobrze.
+Que bom.
+좋아요.
+太好了。
+太好了。
+平気？</n>病院に行かないと
+Hey... Hey, we should probably</n>get you to a hospital.
+Hé... On devrait vous emmener à l'hôpital.
+Ehi... dovremmo trovare un ospedale.
+Hey...  Sie sollten schnell ins Krankenhaus.
+Eh, deberíamos ir a un hospital.
+Эй... Думаю, надо бы</n>доставить вас в больницу.
+Hej... hej, powinniśmy chyba</n>zabrać cię do szpitala.
+Ei... Ei, você precisa</n>ir pra um hospital.
+이봐요, 지금 당장</n>병원에 가야겠어요.
+喂，我們應該</n>先送你去醫院...
+哎呀... 看样子</n>我们得送你去医院才行。
+いや…俺のことはいい</n>自分で何とかする
+Oh, no... Forget about me.</n>I can take care of myself.
+Non, non... T'en fais pas pour moi.</n>Je peux me débrouiller.
+Oh, no... Lascia perdere.</n>Me la cavo da solo.
+Oh, nein... Vergiss mich.</n>Ich kümmere mich um mich selbst.
+No, no, olvídame. Puedo cuidarme solo.
+Нет-нет... Обо мне не беспокойся.</n>Я сам о себе позабочусь.
+O, nie... Zapomnij o mnie.</n>Sam o siebie zadbam.
+Ah, não... Não se preocupa comigo.</n>Eu cuido de mim mesmo.
+아, 아니요... 난 신경 쓰지 마요.</n>알아서 할 수 있습니다.
+不用... 別管我。</n>我可以顧好自己。
+不... 别管我了。</n>我会照顾自己。
+ダメよ</n>放っておくわけにはいかない
+No, don't be ridiculous,</n>you're gonna need some help—
+Hein ? Allez, dites pas de bêtises,</n>il vous faut de l'aide...
+No. Non sia ridicolo, ha bisogno di cure...
+Nein, das machen Sie nicht,</n>Sie brauchen dringend Hilfe...
+No, no seas ridículo.</n>Necesitas ayuda.
+Ох, не глупите.</n>Вам нужна помощь...
+Nie wygłupiaj się,</n>będziesz potrzebował pomocy...
+Não, deixa de ser ridículo,</n>você vai precisar de ajuda...
+아니, 바보 같은 소리 마요.</n>도움이 필요한 상황...
+別鬧了，</n>你需要接受治療...
+别说傻话了，</n>你必须接受治疗...
+聞くんだクレア</n>自分の身を守れ
+Listen, Claire: Save yourself.
+Écoute Claire. Il faut que tu sauves ta peau...
+Ascoltami Claire. Pensa a salvarti!
+Hör zu, Claire:</n>Rette dich selbst.
+Escucha Claire, ponte a salvo...
+Послушай меня, Клэр! Спасайся сама.
+Posłuchaj, Claire: ratuj siebie.
+Me escuta, Claire: você tem que se salvar.
+잘 들어요, 클레어. 당신을 지켜요.
+克蕾兒，聽著，救你自己。
+听我说，克莱尔。你必须逃出去。
+兄貴に会いたいだろ？
+So you can see your brother again.
+Que tu puisses revoir ton frère.
+Fallo per tuo fratello.
+Damit du deinen Bruder wiedersiehst.
+Para que puedas ver a tu hermano.
+Чтобы снова увидиться с братом.
+Żebyś mogła zobaczyć się znowu z bratem.
+Pra poder reencontrar o seu irmão.
+그래야 오빠도 다시 만날 수 있을 거 아닙니까.
+你還得和你哥哥相聚。
+这样你才能和你哥哥再会。
+これを… 渡しておく
+Now...you'll probably need this.
+Tiens... Tu vas avoir besoin de ça.
+Ora... Credo ne avrai bisogno.
+Hier... du brauchst das sicher.
+Toma... Lo necesitarás.
+Вот... Думаю, тебе это пригодится.
+Masz... na pewno ci się przyda.
+Olha... acho que você vai precisar disto aqui.
+자... 아마 이게 필요할 겁니다.
+你可能會需要這個。
+对了... 你可能会用得上它。
+でもそれはあなたの…
+No, I'm not taking that.</n>You're gonna need—
+Non, pas question que je prenne ça. Il vous...
+No, non lo prendo.</n>Serve più a...
+Nein, ich nehm das nicht.</n>Sie werden das...
+No, vas a necesitarlo...
+Ну уж нет, не возьму.</n>Вам самому...
+Nie, nie wezmę tego.</n>Będziesz potrzebował...
+Não, não posso aceitar.</n>Você vai precisar...
+됐어요. 필요 없어요.</n>당신에게 필요한...
+不行，我不能收。</n>你會需要...
+不，我不能拿。</n>你一定会需要...
+いいんだ
+Shhhh.
+Chut...
+Shhh.
+Schhhh.
+Sshhhh.
+Тише.
+Cicho.
+Shhhh.
+쉿.
+噓。
+别争了。
+用心しろ
+And be careful.
+Sois prudente.
+E fa' attenzione.
+Und pass gut auf.
+Ten cuidado.
+Будь осторожна.
+I uważaj na siebie.
+E toma cuidado.
+조심해요.
+自己小心。
+还有，小心点。
+もし奴らを見つけたら…</n>相手が誰だろうと決してためらうな
+If you see one of those things—no matter</n>who they were—you can't hesitate.
+Si tu croises d'autres de ces choses...</n>peu importe qui ils étaient, tu dois pas hésiter.
+Se incontri uno di quei mostri...</n>Non importa chi erano, non esitare.
+Wenn du eins von den Dingern siehst –</n>wer immer es auch war – darfst du nicht zögern.
+Si ves a una de esas cosas, no importa</n>quienes fueran, no dudes.
+Если увидишь одну из этих тварей...</n>без разницы, кем она была раньше, не медли ни секунды.
+Jak zobaczysz któregoś z tych potworów...</n>nieważne kogo... nie wahaj się.
+Se você vir uma dessas coisas...</n>seja quem for, não pensa duas vezes.
+그런 것들을 보게 되면</n>그게 누구든 망설이지 마요.
+遇到那些東西...</n>不管它們本來是誰，都不要猶豫。
+如果你看见那东西，</n>不管它是否穿着制服... 都不能犹豫。
+殺すか逃げるか どちらかだ
+Take 'em out if you can, or you run.
+Tue-les si tu peux, sinon cours.
+Ammazzali se puoi... o scappa.
+Schalt es aus, wenn du kannst, oder renn.
+Acaba con ellos, o corre.
+Убивай их, если сможешь. Или беги.
+Zabij go, jeśli zdołasz, albo uciekaj.
+Tem que matar, se der, senão corre.
+할 수 있으면 죽이고, 아니면 도망쳐요.
+解決它們，不然就逃跑。
+能杀就杀，不然就赶快跑。

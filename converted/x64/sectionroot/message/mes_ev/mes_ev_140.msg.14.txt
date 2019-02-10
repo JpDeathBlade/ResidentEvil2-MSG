@@ -1,0 +1,561 @@
+﻿<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>ねえ！<PAGE></n>レオン！？<PAGE></n>クレア！<PAGE></n>待ってろ！</n>今 そっちに行く<PAGE></n>分かった！<PAGE></n>クレア　無事でよかった<PAGE></n>大丈夫？</n>ヘリコプターが急に現れて…<PAGE></n>ああ 何とか無事だ<PAGE></n>そのポケットにカギは入ってないわよね？<PAGE></n>ああ あいにく ないな</n>で？　君は大丈夫？<PAGE></n>そうね</n>なんとか… 生き延びてる<PAGE></n>よかった</n>君の兄さんは？<PAGE></n>まだ見つからない<PAGE></n>クレア 希望を捨てるな</n>きっと見つかるさ<PAGE></n>クソ　まずいな<PAGE></n>ええ　夕食の時間ね<PAGE></n>早く逃げろ<PAGE></n>私はいいから自分の心配をして<PAGE></n>クレア 行くんだ</n>早く！<PAGE></n>ねえ</n>生き延びましょう 絶対に
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>HEY!<PAGE></n>LEON!?<PAGE></n>CLAIRE!<PAGE></n>HOLD ON! I'LL BE RIGHT THERE!<PAGE></n>OK!<PAGE></n>Claire...</n>It is so nice to see you.<PAGE></n>How're you doing?</n>That helicopter just came out of nowhere...<PAGE></n>Yeah...I'm in one piece.<PAGE></n>I'm guessing you don't have a key in one</n>of those fancy pockets?<PAGE></n>Unfortunately, no...</n>But, how are you doing?<PAGE></n>You know, just surviving.<PAGE></n>That's good.</n>Any luck with your brother?<PAGE></n>No, not yet.<PAGE></n>Claire, don't lose hope...</n>I'm sure we're gonna find him—<PAGE></n>Dammit. You know what that means...<PAGE></n>Yeah...</n>Dinner time.<PAGE></n>Claire, I think you should go.<PAGE></n>Don't worry about me, Leon.</n>You take care of yourself.<PAGE></n>Claire, you need to go—NOW!<PAGE></n>Hey... Let's get through this.</n>Both of us.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>Hé !<PAGE></n>Leon !?<PAGE></n>Claire !<PAGE></n>Bouge pas ! J'arrive tout de suite !<PAGE></n>D'accord !<PAGE></n>Claire...</n>Je suis content de te voir.<PAGE></n>Comment tu vas ?</n>Cet hélicoptère est sorti de nulle part...<PAGE></n>Ouais... J'ai rien de cassé.<PAGE></n>Évidemment, aucune de ces poches ne contient la clé, je me trompe ?<PAGE></n>Malheureusement, non...</n>Toi, comment tu t'en sors ?<PAGE></n>On va dire que... je survis.<PAGE></n>Tant mieux.</n>Des nouvelles de ton frère ?<PAGE></n>Non, pas encore.<PAGE></n>Claire, garde espoir.</n>On finira par le retrouver...<PAGE></n>Merde. Tu sais ce que ça veut dire...<PAGE></n>Ouais...</n>C'est l'heure du dîner.<PAGE></n>Claire, reste pas ici.<PAGE></n>T'en fais pas pour moi, Leon.</n>Fais attention à toi.<PAGE></n>Claire, va-t'en de là. Allez !<PAGE></n>Hé ! On va s'en sortir. Tous les deux.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>Ehi!<PAGE></n>Leon!<PAGE></n>Claire!<PAGE></n>Aspetta! Arrivo subito.<PAGE></n>Ok!<PAGE></n>Claire! Che sollievo vederti.<PAGE></n>Stai bene? Quell'elicottero è spuntato all'improvviso.<PAGE></n>Sì... Sono tutto intero.<PAGE></n>Scommetto che non hai con te</n>la chiave del cancello, vero?<PAGE></n>Purtroppo, no... Ma, tu stai bene?<PAGE></n>Diciamo, che... sopravvivo.<PAGE></n>Ottimo. Notizie di tuo fratello?<PAGE></n>No, non ancora.<PAGE></n>Claire, non arrenderti.</n>Sono certo che lo troveremo.<PAGE></n>Diavolo! Sai che significa?<PAGE></n>Sì... Ora di cena.<PAGE></n>È meglio che tu vada.<PAGE></n>Non preoccuparti per me. Fai attenzione.<PAGE></n>Claire, devi andare... Ora!<PAGE></n>Ehi... Ce la faremo. Insieme.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>Hey!<PAGE></n>Leon?!<PAGE></n>Claire!<PAGE></n>Warte!</n>Ich bin gleich da!<PAGE></n>Okay!<PAGE></n>Claire...</n>Ich bin so froh, dich zu sehen.<PAGE></n>Wie geht's dir?</n>Der Helikopter kam wie aus dem Nichts...<PAGE></n>Ja... Bin noch in einem Stück.<PAGE></n>Ich schätze, du hast keinen Schlüssel</n>in einer deiner schicken Taschen?<PAGE></n>Tut mir leid, nein...</n>Aber wie geht es dir?<PAGE></n>Weißt du, ich schlag mich durch.<PAGE></n>Das ist gut.</n>Neues in Sachen Bruder?<PAGE></n>Nein, noch nicht.<PAGE></n>Claire, nicht aufgeben.</n>Ich bin sicher, wir finden ihn...<PAGE></n>Mist. Du weißt, was das heißt...<PAGE></n>Ja...</n>Essenszeit.<PAGE></n>Claire, du solltest gehen.<PAGE></n>Sorg dich nicht um mich, Leon.</n>Kümmer dich um dich selbst.<PAGE></n>Claire, verschwinde hier – JETZT!<PAGE></n>Hey... Lass uns das durchstehen.</n>Beide, ja?
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>¡Eh!<PAGE></n>¡¿Leon?!<PAGE></n>¡Claire!<PAGE></n>¡Espera! ¡En seguida voy!<PAGE></n>¡Vale!<PAGE></n>Claire...</n>Me alegro de verte.<PAGE></n>¿Cómo estás?</n>Ese helicóptero salió de la nada...<PAGE></n>Sí... Aún de una pieza.<PAGE></n>Supongo que no tendrás una llave en uno de esos bolsillos...<PAGE></n>Por desgracia, no...</n>Pero, ¿cómo lo llevas?<PAGE></n>Ya sabes... Al pie del cañón.<PAGE></n>Está bien. ¿Sabes de tu hermano?<PAGE></n>No, aún no.<PAGE></n>Claire, tranquila.</n>Seguro que lo encontramos...<PAGE></n>Bueno. Ya sabes lo que hay.<PAGE></n>Sí... Hora de cenar.<PAGE></n>Deberías irte ya.<PAGE></n>No te preocupes por mí.</n>Cuídate también.<PAGE></n>Claire, debes irte... ¡Ya!<PAGE></n>Eh... Saldremos de esta. Los dos.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>Эй!<PAGE></n>Леон?!<PAGE></n>Клэр!<PAGE></n>Подожди меня! Я сейчас!<PAGE></n>Хорошо!<PAGE></n>Клэр...</n>Как же я рад тебя видеть.<PAGE></n>Как ты?</n>Этот вертолет появился из ниоткуда...<PAGE></n>Да... я в порядке.<PAGE></n>Полагаю, ни в одном из твоих</n>чудо-карманов ключа нет?<PAGE></n>К сожалению...</n>Ну да ладно, ты-то как?<PAGE></n>Да так, просто... выживаю.<PAGE></n>Дело хорошее.</n>Как с братом, есть успехи?<PAGE></n>Нет. Пока нет.<PAGE></n>Не сдавайся, Клэр.</n>Я уверен, мы найдем его...<PAGE></n>Черт. Ты ведь знаешь, что сейчас будет...<PAGE></n>Ага...</n>У кого-то обед.<PAGE></n>Клэр, тебе надо уходить.<PAGE></n>Не переживай за меня, Леон.</n>Лучше себя береги.<PAGE></n>Клэр, уходи, прямо сейчас!<PAGE></n>Знаешь, что... Давай выживем.</n>Ты и я.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>HEJ!<PAGE></n>LEON?!<PAGE></n>CLAIRE!<PAGE></n>CZEKAJ! ZARAZ TAM BĘDĘ!<PAGE></n>OK!<PAGE></n>Claire...</n>Cieszę się, że cię widzę.<PAGE></n>Jak się czujesz?</n>Ten helikopter pojawił się znikąd...<PAGE></n>Wiem... Jestem cały.<PAGE></n>Nie masz przypadkiem klucza w którejś</n>z tych specjalnych kieszeni?<PAGE></n>Niestety nie...</n>A jak ty sobie radzisz?<PAGE></n>No wiesz... nie daję się zabić.<PAGE></n>To dobrze.</n>Wiesz już coś o swoim bracie?<PAGE></n>Na razie nic.<PAGE></n>Nie trać nadziei, Claire...</n>Na pewno go znajdziemy...<PAGE></n>Do diabła. Wiesz, co to znaczy...<PAGE></n>Wiem...</n>Pora karmienia.<PAGE></n>Claire, chyba pora na ciebie.<PAGE></n>Nie martw się o mnie, Leon.</n>Pomyśl o sobie.<PAGE></n>Claire, musisz stąd spadać... SZYBKO!<PAGE></n>Hej... Spróbujmy przeżyć.</n>Oboje.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>EI!<PAGE></n>LEON?!<PAGE></n>CLAIRE!<PAGE></n>AGUENTA AÍ! TÔ INDO AÍ!<PAGE></n>Tá bom!<PAGE></n>Claire...</n>Que bom te ver.<PAGE></n>Como você tá?</n>Aquele helicóptero veio do nada...<PAGE></n>É... Eu tô inteiro.<PAGE></n>Por acaso, você não tem uma chave</n>em um desses seus bolsos, tem?<PAGE></n>Infelizmente, não...</n>Mas você tá bem?<PAGE></n>Sabe como é, tô sobrevivendo.<PAGE></n>Que bom.</n>Achou o seu irmão?<PAGE></n>Não. Ainda não.<PAGE></n>Claire, não desanima...</n>A gente vai encontrar...<PAGE></n>Droga. Você sabe o que isso significa...<PAGE></n>Sei...</n>Hora da janta.<PAGE></n>Claire, acho melhor você correr.<PAGE></n>Não se preocupa comigo, Leon.</n>Você também se cuida, viu?<PAGE></n>Claire, você tem que correr... JÁ!<PAGE></n>Ei... A gente sai dessa.</n>Nós dois.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>여기요!<PAGE></n>레온!?<PAGE></n>클레어!<PAGE></n>기다려요! 금방 갈게요!<PAGE></n>좋아요!<PAGE></n>클레어...</n>다시 보니 정말 좋네요.<PAGE></n>괜찮아요?</n>저 헬리콥터가 갑자기 나타났어요...<PAGE></n>네... 말짱해요.<PAGE></n>그 멋진 주머니에</n>열쇠는 없는 것 같네요?<PAGE></n>안타깝게도, 없네요...</n>근데, 괜찮아요?<PAGE></n>알잖아요, 그냥 생존 중이죠.<PAGE></n>잘하고 있네요.</n>오빠는 찾았어요?<PAGE></n>아뇨, 아직.<PAGE></n>클레어, 희망을 잃지 마요.</n>꼭 오빠를 찾을 거…<PAGE></n>이런. 저게 무슨 소리인지 알겠죠...<PAGE></n>네...</n>저녁 식사 시간이네요.<PAGE></n>클레어, 여길 떠나야 해요.<PAGE></n>난 걱정하지 말아요, 레온.</n>당신은 당신을 지켜요.<PAGE></n>클레어, 도망쳐요. 당장!<PAGE></n>저기... 한번 해보죠.</n>우리 둘이서.
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>嗨！<PAGE></n>里昂！？<PAGE></n>克蕾兒！<PAGE></n>等一下！我馬上過去！<PAGE></n>好！<PAGE></n>克蕾兒...</n>看到你真是太好了。<PAGE></n>你還好嗎？</n>那架直升機突然就冒出來...<PAGE></n>是啊，我沒事。<PAGE></n>你身上應該沒有</n>這裡的鑰匙吧？<PAGE></n>沒有...</n>你還好嗎？<PAGE></n>就... 努力生存著。<PAGE></n>那就好。</n>有你哥哥的消息嗎？<PAGE></n>還沒有。<PAGE></n>克蕾兒，別放棄...</n>我們一定能找到他...<PAGE></n>該死。你應該知道這代表什麼了...<PAGE></n>是啊...</n>晚餐時間。<PAGE></n>克蕾兒，你該走了。<PAGE></n>里昂，別替我操心。</n>你自己保重。<PAGE></n>克蕾兒，快走吧。快！<PAGE></n>我們都一定要活下去。</n>答應我。
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>嗨！<PAGE></n>里昂！？<PAGE></n>克莱尔！<PAGE></n>等一下！我这就过去！<PAGE></n>好！<PAGE></n>克莱尔...</n>见到你真是太好了。<PAGE></n>你还好吗？</n>竟然冒出一架直升机...<PAGE></n>是啊... 我没事。<PAGE></n>我猜你那些帅气的口袋里</n>没有我们想要的钥匙对吧？<PAGE></n>很遗憾，你猜中了...</n>那么，你还好吗？<PAGE></n>就... 努力活着。<PAGE></n>挺好的。</n>你找到哥哥了吗？<PAGE></n>没有，还没有。<PAGE></n>克莱尔，别放弃希望...</n>我们一定会找到他的...<PAGE></n>可恶，你知道那是什么意思吧...<PAGE></n>没错...</n>晚餐时间开始了。<PAGE></n>克莱尔，你该走了。<PAGE></n>别为我担心，里昂。</n>你自己小心点。<PAGE></n>克莱尔，你得走了... 快走啊！<PAGE></n>那么... 想办法撑过去。</n>我们俩都得活下去。
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+<TIME 3.34, 4.51><TIME 5.56, 6.86><TIME 9.77, 10.98><TIME 11.03, 12.95><TIME 12.98, 14.23><TIME 22.73, 26.39><TIME 26.41, 28.66><TIME 28.66, 31.34><TIME 32.03, 35.22><TIME 35.24, 40.06><TIME 40.67, 43.41><TIME 43.99, 47.06><TIME 47.19, 48.77><TIME 49.06, 52.68><TIME 57.22, 60.48><TIME 60.55, 63.59><TIME 66.52, 67.59><TIME 67.62, 70.64><TIME 73.28, 75.63><TIME 77.87, 81.39>
+WHOA...!
+ОГО!..
+EJ...!
+OPA!
+워...!
+哇！
+哇！
+ダメか…
+Oh no...
+Oh, nein...
+Oh no...
+О нет...
+O nie...
+Ah, não...
+안 돼...
+天啊...
+糟糕...
+</n>--Ugh…
+Agh...
+</n>Ох...
+</n>--Yyy...
+</n>Ugh...
+</n>--윽…
+</n>呃...
+</n>呃...
+ねえ！
+HEY!
+Hé !
+Ehi!
+Hey!
+¡Eh!
+Эй!
+HEJ!
+EI!
+여기요!
+嗨！
+嗨！
+レオン！？
+LEON!?
+Leon !?
+Leon!
+Leon?!
+¡¿Leon?!
+Леон?!
+LEON?!
+LEON?!
+레온!?
+里昂！？
+里昂！？
+クレア！
+CLAIRE!
+Claire !
+Claire!
+Claire!
+¡Claire!
+Клэр!
+CLAIRE!
+CLAIRE!
+클레어!
+克蕾兒！
+克莱尔！
+待ってろ！</n>今 そっちに行く
+HOLD ON! I'LL BE RIGHT THERE!
+Bouge pas ! J'arrive tout de suite !
+Aspetta! Arrivo subito.
+Warte!</n>Ich bin gleich da!
+¡Espera! ¡En seguida voy!
+Подожди меня! Я сейчас!
+CZEKAJ! ZARAZ TAM BĘDĘ!
+AGUENTA AÍ! TÔ INDO AÍ!
+기다려요! 금방 갈게요!
+等一下！我馬上過去！
+等一下！我这就过去！
+分かった！
+OK!
+D'accord !
+Ok!
+Okay!
+¡Vale!
+Хорошо!
+OK!
+Tá bom!
+좋아요!
+好！
+好！
+クレア　無事でよかった
+Claire...</n>It is so nice to see you.
+Claire...</n>Je suis content de te voir.
+Claire! Che sollievo vederti.
+Claire...</n>Ich bin so froh, dich zu sehen.
+Claire...</n>Me alegro de verte.
+Клэр...</n>Как же я рад тебя видеть.
+Claire...</n>Cieszę się, że cię widzę.
+Claire...</n>Que bom te ver.
+클레어...</n>다시 보니 정말 좋네요.
+克蕾兒...</n>看到你真是太好了。
+克莱尔...</n>见到你真是太好了。
+大丈夫？</n>ヘリコプターが急に現れて…
+How're you doing?</n>That helicopter just came out of nowhere...
+Comment tu vas ?</n>Cet hélicoptère est sorti de nulle part...
+Stai bene? Quell'elicottero è spuntato all'improvviso.
+Wie geht's dir?</n>Der Helikopter kam wie aus dem Nichts...
+¿Cómo estás?</n>Ese helicóptero salió de la nada...
+Как ты?</n>Этот вертолет появился из ниоткуда...
+Jak się czujesz?</n>Ten helikopter pojawił się znikąd...
+Como você tá?</n>Aquele helicóptero veio do nada...
+괜찮아요?</n>저 헬리콥터가 갑자기 나타났어요...
+你還好嗎？</n>那架直升機突然就冒出來...
+你还好吗？</n>竟然冒出一架直升机...
+ああ 何とか無事だ
+Yeah...I'm in one piece.
+Ouais... J'ai rien de cassé.
+Sì... Sono tutto intero.
+Ja... Bin noch in einem Stück.
+Sí... Aún de una pieza.
+Да... я в порядке.
+Wiem... Jestem cały.
+É... Eu tô inteiro.
+네... 말짱해요.
+是啊，我沒事。
+是啊... 我没事。
+そのポケットにカギは入ってないわよね？
+I'm guessing you don't have a key in one</n>of those fancy pockets?
+Évidemment, aucune de ces poches ne contient la clé, je me trompe ?
+Scommetto che non hai con te</n>la chiave del cancello, vero?
+Ich schätze, du hast keinen Schlüssel</n>in einer deiner schicken Taschen?
+Supongo que no tendrás una llave en uno de esos bolsillos...
+Полагаю, ни в одном из твоих</n>чудо-карманов ключа нет?
+Nie masz przypadkiem klucza w którejś</n>z tych specjalnych kieszeni?
+Por acaso, você não tem uma chave</n>em um desses seus bolsos, tem?
+그 멋진 주머니에</n>열쇠는 없는 것 같네요?
+你身上應該沒有</n>這裡的鑰匙吧？
+我猜你那些帅气的口袋里</n>没有我们想要的钥匙对吧？
+ああ あいにく ないな</n>で？　君は大丈夫？
+Unfortunately, no...</n>But, how are you doing?
+Malheureusement, non...</n>Toi, comment tu t'en sors ?
+Purtroppo, no... Ma, tu stai bene?
+Tut mir leid, nein...</n>Aber wie geht es dir?
+Por desgracia, no...</n>Pero, ¿cómo lo llevas?
+К сожалению...</n>Ну да ладно, ты-то как?
+Niestety nie...</n>A jak ty sobie radzisz?
+Infelizmente, não...</n>Mas você tá bem?
+안타깝게도, 없네요...</n>근데, 괜찮아요?
+沒有...</n>你還好嗎？
+很遗憾，你猜中了...</n>那么，你还好吗？
+そうね</n>なんとか… 生き延びてる
+You know, just surviving.
+On va dire que... je survis.
+Diciamo, che... sopravvivo.
+Weißt du, ich schlag mich durch.
+Ya sabes... Al pie del cañón.
+Да так, просто... выживаю.
+No wiesz... nie daję się zabić.
+Sabe como é, tô sobrevivendo.
+알잖아요, 그냥 생존 중이죠.
+就... 努力生存著。
+就... 努力活着。
+よかった</n>君の兄さんは？
+That's good.</n>Any luck with your brother?
+Tant mieux.</n>Des nouvelles de ton frère ?
+Ottimo. Notizie di tuo fratello?
+Das ist gut.</n>Neues in Sachen Bruder?
+Está bien. ¿Sabes de tu hermano?
+Дело хорошее.</n>Как с братом, есть успехи?
+To dobrze.</n>Wiesz już coś o swoim bracie?
+Que bom.</n>Achou o seu irmão?
+잘하고 있네요.</n>오빠는 찾았어요?
+那就好。</n>有你哥哥的消息嗎？
+挺好的。</n>你找到哥哥了吗？
+まだ見つからない
+No, not yet.
+Non, pas encore.
+No, non ancora.
+Nein, noch nicht.
+No, aún no.
+Нет. Пока нет.
+Na razie nic.
+Não. Ainda não.
+아뇨, 아직.
+還沒有。
+没有，还没有。
+クレア 希望を捨てるな</n>きっと見つかるさ
+Claire, don't lose hope...</n>I'm sure we're gonna find him—
+Claire, garde espoir.</n>On finira par le retrouver...
+Claire, non arrenderti.</n>Sono certo che lo troveremo.
+Claire, nicht aufgeben.</n>Ich bin sicher, wir finden ihn...
+Claire, tranquila.</n>Seguro que lo encontramos...
+Не сдавайся, Клэр.</n>Я уверен, мы найдем его...
+Nie trać nadziei, Claire...</n>Na pewno go znajdziemy...
+Claire, não desanima...</n>A gente vai encontrar...
+클레어, 희망을 잃지 마요.</n>꼭 오빠를 찾을 거…
+克蕾兒，別放棄...</n>我們一定能找到他...
+克莱尔，别放弃希望...</n>我们一定会找到他的...
+クソ　まずいな
+Dammit. You know what that means...
+Merde. Tu sais ce que ça veut dire...
+Diavolo! Sai che significa?
+Mist. Du weißt, was das heißt...
+Bueno. Ya sabes lo que hay.
+Черт. Ты ведь знаешь, что сейчас будет...
+Do diabła. Wiesz, co to znaczy...
+Droga. Você sabe o que isso significa...
+이런. 저게 무슨 소리인지 알겠죠...
+該死。你應該知道這代表什麼了...
+可恶，你知道那是什么意思吧...
+ええ　夕食の時間ね
+Yeah...</n>Dinner time.
+Ouais...</n>C'est l'heure du dîner.
+Sì... Ora di cena.
+Ja...</n>Essenszeit.
+Sí... Hora de cenar.
+Ага...</n>У кого-то обед.
+Wiem...</n>Pora karmienia.
+Sei...</n>Hora da janta.
+네...</n>저녁 식사 시간이네요.
+是啊...</n>晚餐時間。
+没错...</n>晚餐时间开始了。
+早く逃げろ
+Claire, I think you should go.
+Claire, reste pas ici.
+È meglio che tu vada.
+Claire, du solltest gehen.
+Deberías irte ya.
+Клэр, тебе надо уходить.
+Claire, chyba pora na ciebie.
+Claire, acho melhor você correr.
+클레어, 여길 떠나야 해요.
+克蕾兒，你該走了。
+克莱尔，你该走了。
+私はいいから自分の心配をして
+Don't worry about me, Leon.</n>You take care of yourself.
+T'en fais pas pour moi, Leon.</n>Fais attention à toi.
+Non preoccuparti per me. Fai attenzione.
+Sorg dich nicht um mich, Leon.</n>Kümmer dich um dich selbst.
+No te preocupes por mí.</n>Cuídate también.
+Не переживай за меня, Леон.</n>Лучше себя береги.
+Nie martw się o mnie, Leon.</n>Pomyśl o sobie.
+Não se preocupa comigo, Leon.</n>Você também se cuida, viu?
+난 걱정하지 말아요, 레온.</n>당신은 당신을 지켜요.
+里昂，別替我操心。</n>你自己保重。
+别为我担心，里昂。</n>你自己小心点。
+クレア 行くんだ</n>早く！
+Claire, you need to go—NOW!
+Claire, va-t'en de là. Allez !
+Claire, devi andare... Ora!
+Claire, verschwinde hier – JETZT!
+Claire, debes irte... ¡Ya!
+Клэр, уходи, прямо сейчас!
+Claire, musisz stąd spadać... SZYBKO!
+Claire, você tem que correr... JÁ!
+클레어, 도망쳐요. 당장!
+克蕾兒，快走吧。快！
+克莱尔，你得走了... 快走啊！
+ねえ</n>生き延びましょう 絶対に
+Hey... Let's get through this.</n>Both of us.
+Hé ! On va s'en sortir. Tous les deux.
+Ehi... Ce la faremo. Insieme.
+Hey... Lass uns das durchstehen.</n>Beide, ja?
+Eh... Saldremos de esta. Los dos.
+Знаешь, что... Давай выживем.</n>Ты и я.
+Hej... Spróbujmy przeżyć.</n>Oboje.
+Ei... A gente sai dessa.</n>Nós dois.
+저기... 한번 해보죠.</n>우리 둘이서.
+我們都一定要活下去。</n>答應我。
+那么... 想办法撑过去。</n>我们俩都得活下去。
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>おい！<PAGE></n>クレア！<PAGE></n>レオン！<PAGE></n>今 そっちへ行く！<PAGE></n>ダメか…<PAGE></n>レオン</n>私たち いつもこんな感じね<PAGE></n>大丈夫か？</n>あのヘリコプターが急に現れて…<PAGE></n>ええ 平気よ<PAGE></n>カギはないよな？<PAGE></n>ええないわ　でも会えてよかった</n>そっちはどう？<PAGE></n>何とかやってる<PAGE></n>とんだ夜ね<PAGE></n>ああ 君の兄さんは？<PAGE></n>それなんだけど…<PAGE></n>これ以上 追い込むわけ？<PAGE></n>レオン 早く逃げて<PAGE></n>俺はいいから 安全な場所へ行くんだ<PAGE></n>ダメよ</n>フェンスがもたない<PAGE></n>早く行って！<PAGE></n>生き延びよう 絶対に
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>HEY!<PAGE></n>CLAIRE!?<PAGE></n>LEON!?<PAGE></n>I'LL BE RIGHT THERE!<PAGE></n>Come on...<PAGE></n>Leon! We really gotta stop meeting like this.<PAGE></n>Are you alright? Police chopper...</n>It just, came out of nowhere...<PAGE></n>Yeah, I'm fine.<PAGE></n>I take it you don't have the key...<PAGE></n>No, I don't... It's good to see your face, though.</n>How are you holding up?<PAGE></n>I am...hanging in there.<PAGE></n>Helluva night, huh?<PAGE></n>Yeah. You find your brother?<PAGE></n>I did actually, he's—<PAGE></n>Just when you think it can't get any worse...<PAGE></n>Leon, you should get going.<PAGE></n>Don't worry about me.</n>Just...get yourself to safety.<PAGE></n>No, Leon, seriously, they're</n>getting through the fence!<PAGE></n>Please, just go!<PAGE></n>We're gonna make it. Both of us.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>Hé !<PAGE></n>Claire ?!<PAGE></n>Leon !<PAGE></n>J'arrive tout de suite !<PAGE></n>Eh merde...<PAGE></n>Leon ! Faudrait qu'on arrête de se voir comme ça.<PAGE></n>Tout va bien ? L'hélicoptère...</n>Il a surgi de nulle part...<PAGE></n>Ouais, ça va.<PAGE></n>Je suppose que tu as pas la clé...<PAGE></n>Non, je l'ai pas... Mais je suis contente de te revoir.</n>Tu tiens le coup ?<PAGE></n>Bah... On fait aller.<PAGE></n>Sacrée nuit, hein ?<PAGE></n>Ouais. Et ton frère ?<PAGE></n>J'ai appris qu'en fait il...<PAGE></n>Moi qui pensais que ça pouvait pas être pire...<PAGE></n>Leon, tu ferais mieux de partir.<PAGE></n>T'inquiète pas pour moi.</n>Essaie... de te mettre à l'abri.<PAGE></n>Leon, je plaisante pas.</n>La clôture va pas tenir !<PAGE></n>Vite, va-t'en !<PAGE></n>On s'en sortira. Tous les deux.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>Ehi!<PAGE></n>Claire!<PAGE></n>Leon!<PAGE></n>Arrivo subito!<PAGE></n>Apriti...<PAGE></n>Leon! Dobbiamo smetterla di incontrarci così.<PAGE></n>Stai bene? Un elicottero è arrivato... all'improvviso.<PAGE></n>Sì, tutto ok.<PAGE></n>Non credo tu abbia la chiave...<PAGE></n>No, non ce l'ho... Felice di vederti, però.</n>Tu stai bene?<PAGE></n>Sì, sopravvivo.<PAGE></n>Che serata, eh?<PAGE></n>Già. E tuo fratello?<PAGE></n>L'ho trovato, ma...<PAGE></n>Quando pensi non possa andar peggio...<PAGE></n>Leon, meglio che tu vada.<PAGE></n>Non ti preoccupare. Tu... mettiti al sicuro.<PAGE></n>No, senti, stanno oltrepassando il cancello!<PAGE></n>Vai, ti prego!<PAGE></n>Ce la faremo. Fidati di me.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>Hey!<PAGE></n>Claire!<PAGE></n>Leon?!<PAGE></n>Ich bin gleich da!<PAGE></n>Komm schon...<PAGE></n>Leon! Wir sollten aufhören mit diesen Treffen.<PAGE></n>Geht's dir gut?</n>Polizeihubschrauber... Wie aus dem Nichts <PAGE></n>Ja, bestens.<PAGE></n>Du hast wohl auch keinen Schlüssel...<PAGE></n>Nein, leider nicht... Ist schön, dein Gesicht zu sehen.</n>Wie schlägst du dich?<PAGE></n>Ich halt irgendwie durch.<PAGE></n>Höllische Nacht, was?<PAGE></n>Ja.</n>Was von deinem Bruder?<PAGE></n>Ja, tatsächlich, er ist...<PAGE></n>Gerade wenn du denkst,</n>es kann nicht schlimmer werden...<PAGE></n>Leon, du solltest gehen.<PAGE></n>Sorg dich nicht um mich.</n>Bring dich einfach in Sicherheit.<PAGE></n>Nein, Leon, wirklich,</n>die sind gleich durch den Zaun!<PAGE></n>Bitte, geh schon!<PAGE></n>Wir schaffen das. Beide.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>¡Eh!<PAGE></n>¿¡Claire...!?<PAGE></n>¡¿Leon?!<PAGE></n>¡Voy para allá!<PAGE></n>Vamos...<PAGE></n>¡Leon! Tenemos que dejar de vernos así.<PAGE></n>¿Estás bien? Ese helicóptero...</n>Salió de la nada.<PAGE></n>Sí, estoy bien.<PAGE></n>No tendrás la llave...<PAGE></n>No, me temo... Pero me alegra verte.</n>¿Cómo vas?<PAGE></n>Voy tirando.<PAGE></n>Vaya noche...<PAGE></n>Sí... ¿Algo de tu hermano?<PAGE></n>Sí, resulta que...<PAGE></n>Y creía que no podía ir a peor...<PAGE></n>Leon, deberías irte.<PAGE></n>No te preocupes. Tú... Ponte a salvo.<PAGE></n>No, en serio, ¡están entrando por la valla!<PAGE></n>¡Vete ya!<PAGE></n>Viviremos. Los dos.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>Эй!<PAGE></n>Клэр?!<PAGE></n>Леон?!<PAGE></n>Я сейчас!<PAGE></n>Давай же...<PAGE></n>Леон! Вечно мы встречаемся при таких вот обстоятельствах.<PAGE></n>Ты в порядке? Полицейский вертолет...</n>Просто появился из ниоткуда...<PAGE></n>Да, я в норме.<PAGE></n>Я так понимаю, ключа у тебя нет...<PAGE></n>Нет... Но я рада тебя видеть.</n>Ты как, держишься?<PAGE></n>Я... пока держусь.<PAGE></n>Ну и ночка выдалась, а?<PAGE></n>И не говори. Нашла своего брата?<PAGE></n>В общем-то, да, он...<PAGE></n>Стоит только решить, что хуже уже быть не может...<PAGE></n>Леон, тебе лучше уходить.<PAGE></n>Не волнуйся за меня.</n>Главное, найди надежное укрытие.<PAGE></n>Леон, я серьезно, они сейчас</n>прорвутся через забор!<PAGE></n>Пожалуйста, уходи!<PAGE></n>Мы выживем. Ты и я.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>HEJ!<PAGE></n>CLAIRE?!<PAGE></n>LEON?!<PAGE></n>IDĘ DO CIEBIE!<PAGE></n>No, dalej...<PAGE></n>Leon! Musimy zacząć się spotykać</n>w lepszych okolicznościach.<PAGE></n>Żyjesz? Ten policyjny śmigłowiec...</n>Pojawił się znikąd...<PAGE></n>Tak, żyję.<PAGE></n>Rozumiem, że nie masz klucza...<PAGE></n>Nie, nie mam... ale i tak miło cię widzieć.</n>Dajesz radę?<PAGE></n>Jakoś się trzymam.<PAGE></n>Wieczór pełen wrażeń, co?<PAGE></n>Oj, tak. Znalazłaś brata?<PAGE></n>Właściwie tak, jest...<PAGE></n>Kiedy już myślisz, że nie może być gorzej...<PAGE></n>Leon, musisz już iść.<PAGE></n>Nie martw się o mnie.</n>Znajdź jakieś... bezpieczne miejsce.<PAGE></n>Serio, Leon,</n>przechodzą przez ogrodzenie!<PAGE></n>Proszę, idź już!<PAGE></n>Przeżyjemy to. Oboje.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>EI!<PAGE></n>CLAIRE?!<PAGE></n>LEON?!<PAGE></n>JÁ TÔ CHEGANDO AÍ!<PAGE></n>Vai...<PAGE></n>Leon! A gente precisa parar de se encontrar assim.<PAGE></n>Você tá bem? O helicóptero da polícia...</n>veio simplesmente do nada...<PAGE></n>Tô bem, sim.<PAGE></n>Imagino que você não tenha a chave...<PAGE></n>Não tenho, não... Nossa, que bom te ver.</n>Como tão as coisas?<PAGE></n>Eu... tô aguentando firme.<PAGE></n>Uma noite e tanto, né?<PAGE></n>É. Encontrou o seu irmão?<PAGE></n>Na verdade, sim, ele...<PAGE></n>Quando você acha que não pode piorar...<PAGE></n>Leon, é melhor você ir.<PAGE></n>Não se preocupa comigo.</n>Vê se... encontra um lugar seguro.<PAGE></n>Não, Leon, sério. </n>Eles tão passando pela cerca!<PAGE></n>Vai logo, por favor!<PAGE></n>A gente vai conseguir. Nós dois.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>여기요!<PAGE></n>클레어!?<PAGE></n>레온!?<PAGE></n>금방 갈게요!<PAGE></n>제발...<PAGE></n>레온! 이런 식으로 만나는 건 이제 그만해야 할 것 같은데요.<PAGE></n>괜찮아요? 경찰 헬리콥터가...</n>갑자기 나타나서...<PAGE></n>네, 난 괜찮아요.<PAGE></n>열쇠는 없나 보군요...<PAGE></n>네, 없어요... 그래도 얼굴 봐서 다행이네요.</n>괜찮아요?<PAGE></n>그냥... 버티고 있어요.<PAGE></n>대단한 밤이에요, 그쵸?<PAGE></n>그러게요. 오빠는 찾았어요?<PAGE></n>그런 셈이에요. 오빤...<PAGE></n>더 나빠질 게 없다고 생각할 때마다 꼭 이러네요...<PAGE></n>레온, 도망쳐요.<PAGE></n>난 걱정하지 마요.</n>꼭... 조심하고 있어요.<PAGE></n>안 돼요. 레온, 저것들이</n>철창을 넘어 올 거예요!<PAGE></n>제발, 그냥 가요!<PAGE></n>괜찮을 거예요. 우리 둘 다.
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>喂！<PAGE></n>克蕾兒！？<PAGE></n>里昂！？<PAGE></n>我馬上過去！<PAGE></n>快呀...<PAGE></n>里昂！我們不要再這樣情況下碰面了。<PAGE></n>你沒事吧？那架警用直升機...</n>突然就冒出來...<PAGE></n>是啊，我沒事。<PAGE></n>我猜你身上應該沒鑰匙...<PAGE></n>沒有，不過能見到你真好。</n>你還好嗎？<PAGE></n>勉強還行吧。<PAGE></n>今晚還真是刺激。<PAGE></n>是啊。找到你哥哥了嗎？<PAGE></n>我找到了，他...<PAGE></n>沒想到情況還可以變更糟...<PAGE></n>里昂，你該走了。<PAGE></n>別擔心我。</n>你... 保護好自己。<PAGE></n>里昂，說真的，它們</n>要越過欄杆了！<PAGE></n>快走！<PAGE></n>我們都會沒事的。相信我。
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>嘿！<PAGE></n>克莱尔！？<PAGE></n>里昂！？<PAGE></n>我马上过去！<PAGE></n>快点...<PAGE></n>里昂！不要每次碰面都那么戏剧性啦。<PAGE></n>你还好吗？警察局的直升机...</n>就这么突然冒出来...<PAGE></n>嗯，我没事。<PAGE></n>我猜你身上没有钥匙...<PAGE></n>确实没有... 不过能见你一面也挺好的。</n>你还好吧？<PAGE></n>勉强还可以吧。<PAGE></n>真是疯狂的一夜，对吧？<PAGE></n>是的。你找到哥哥了吗？<PAGE></n>还真的找到了，他在...<PAGE></n>真是屋漏偏逢连夜雨...<PAGE></n>里昂，你先走。<PAGE></n>别担心我。</n>你... 保护好自己。<PAGE></n>别这样，里昂。听我的，</n>它们快要越过栅栏了。<PAGE></n>拜托你，快走！<PAGE></n>我们能撑过去的。我们俩都会活下去。
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+<TIME 3.67, 4.98><TIME 5.83, 7.29><TIME 10.58, 11.6><TIME 11.64, 13.08><TIME 21.75, 23.05><TIME 25.81, 28.8><TIME 28.82, 32.29><TIME 32.3, 34.43><TIME 35.73, 37.41><TIME 38.43, 43.1><TIME 43.24, 44.52><TIME 44.65, 45.83><TIME 46.23, 48.51><TIME 48.57, 50.49><TIME 55.71, 58.24><TIME 58.9, 61.08><TIME 65.08, 68.35><TIME 70.94, 72.89><TIME 72.9, 74.01><TIME 77.43, 80.45>
+おい！
+HEY!
+Hé !
+Ehi!
+Hey!
+¡Eh!
+Эй!
+HEJ!
+EI!
+여기요!
+喂！
+嘿！
+クレア！
+CLAIRE!?
+Claire ?!
+Claire!
+Claire!
+¿¡Claire...!?
+Клэр?!
+CLAIRE?!
+CLAIRE?!
+클레어!?
+克蕾兒！？
+克莱尔！？
+レオン！
+LEON!?
+Leon !
+Leon!
+Leon?!
+¡¿Leon?!
+Леон?!
+LEON?!
+LEON?!
+레온!?
+里昂！？
+里昂！？
+今 そっちへ行く！
+I'LL BE RIGHT THERE!
+J'arrive tout de suite !
+Arrivo subito!
+Ich bin gleich da!
+¡Voy para allá!
+Я сейчас!
+IDĘ DO CIEBIE!
+JÁ TÔ CHEGANDO AÍ!
+금방 갈게요!
+我馬上過去！
+我马上过去！
+ダメか…
+Come on...
+Eh merde...
+Apriti...
+Komm schon...
+Vamos...
+Давай же...
+No, dalej...
+Vai...
+제발...
+快呀...
+快点...
+レオン</n>私たち いつもこんな感じね
+Leon! We really gotta stop meeting like this.
+Leon ! Faudrait qu'on arrête de se voir comme ça.
+Leon! Dobbiamo smetterla di incontrarci così.
+Leon! Wir sollten aufhören mit diesen Treffen.
+¡Leon! Tenemos que dejar de vernos así.
+Леон! Вечно мы встречаемся при таких вот обстоятельствах.
+Leon! Musimy zacząć się spotykać</n>w lepszych okolicznościach.
+Leon! A gente precisa parar de se encontrar assim.
+레온! 이런 식으로 만나는 건 이제 그만해야 할 것 같은데요.
+里昂！我們不要再這樣情況下碰面了。
+里昂！不要每次碰面都那么戏剧性啦。
+大丈夫か？</n>あのヘリコプターが急に現れて…
+Are you alright? Police chopper...</n>It just, came out of nowhere...
+Tout va bien ? L'hélicoptère...</n>Il a surgi de nulle part...
+Stai bene? Un elicottero è arrivato... all'improvviso.
+Geht's dir gut?</n>Polizeihubschrauber... Wie aus dem Nichts 
+¿Estás bien? Ese helicóptero...</n>Salió de la nada.
+Ты в порядке? Полицейский вертолет...</n>Просто появился из ниоткуда...
+Żyjesz? Ten policyjny śmigłowiec...</n>Pojawił się znikąd...
+Você tá bem? O helicóptero da polícia...</n>veio simplesmente do nada...
+괜찮아요? 경찰 헬리콥터가...</n>갑자기 나타나서...
+你沒事吧？那架警用直升機...</n>突然就冒出來...
+你还好吗？警察局的直升机...</n>就这么突然冒出来...
+ええ 平気よ
+Yeah, I'm fine.
+Ouais, ça va.
+Sì, tutto ok.
+Ja, bestens.
+Sí, estoy bien.
+Да, я в норме.
+Tak, żyję.
+Tô bem, sim.
+네, 난 괜찮아요.
+是啊，我沒事。
+嗯，我没事。
+カギはないよな？
+I take it you don't have the key...
+Je suppose que tu as pas la clé...
+Non credo tu abbia la chiave...
+Du hast wohl auch keinen Schlüssel...
+No tendrás la llave...
+Я так понимаю, ключа у тебя нет...
+Rozumiem, że nie masz klucza...
+Imagino que você não tenha a chave...
+열쇠는 없나 보군요...
+我猜你身上應該沒鑰匙...
+我猜你身上没有钥匙...
+ええないわ　でも会えてよかった</n>そっちはどう？
+No, I don't... It's good to see your face, though.</n>How are you holding up?
+Non, je l'ai pas... Mais je suis contente de te revoir.</n>Tu tiens le coup ?
+No, non ce l'ho... Felice di vederti, però.</n>Tu stai bene?
+Nein, leider nicht... Ist schön, dein Gesicht zu sehen.</n>Wie schlägst du dich?
+No, me temo... Pero me alegra verte.</n>¿Cómo vas?
+Нет... Но я рада тебя видеть.</n>Ты как, держишься?
+Nie, nie mam... ale i tak miło cię widzieć.</n>Dajesz radę?
+Não tenho, não... Nossa, que bom te ver.</n>Como tão as coisas?
+네, 없어요... 그래도 얼굴 봐서 다행이네요.</n>괜찮아요?
+沒有，不過能見到你真好。</n>你還好嗎？
+确实没有... 不过能见你一面也挺好的。</n>你还好吧？
+何とかやってる
+I am...hanging in there.
+Bah... On fait aller.
+Sì, sopravvivo.
+Ich halt irgendwie durch.
+Voy tirando.
+Я... пока держусь.
+Jakoś się trzymam.
+Eu... tô aguentando firme.
+그냥... 버티고 있어요.
+勉強還行吧。
+勉强还可以吧。
+とんだ夜ね
+Helluva night, huh?
+Sacrée nuit, hein ?
+Che serata, eh?
+Höllische Nacht, was?
+Vaya noche...
+Ну и ночка выдалась, а?
+Wieczór pełen wrażeń, co?
+Uma noite e tanto, né?
+대단한 밤이에요, 그쵸?
+今晚還真是刺激。
+真是疯狂的一夜，对吧？
+ああ 君の兄さんは？
+Yeah. You find your brother?
+Ouais. Et ton frère ?
+Già. E tuo fratello?
+Ja.</n>Was von deinem Bruder?
+Sí... ¿Algo de tu hermano?
+И не говори. Нашла своего брата?
+Oj, tak. Znalazłaś brata?
+É. Encontrou o seu irmão?
+그러게요. 오빠는 찾았어요?
+是啊。找到你哥哥了嗎？
+是的。你找到哥哥了吗？
+それなんだけど…
+I did actually, he's—
+J'ai appris qu'en fait il...
+L'ho trovato, ma...
+Ja, tatsächlich, er ist...
+Sí, resulta que...
+В общем-то, да, он...
+Właściwie tak, jest...
+Na verdade, sim, ele...
+그런 셈이에요. 오빤...
+我找到了，他...
+还真的找到了，他在...
+これ以上 追い込むわけ？
+Just when you think it can't get any worse...
+Moi qui pensais que ça pouvait pas être pire...
+Quando pensi non possa andar peggio...
+Gerade wenn du denkst,</n>es kann nicht schlimmer werden...
+Y creía que no podía ir a peor...
+Стоит только решить, что хуже уже быть не может...
+Kiedy już myślisz, że nie może być gorzej...
+Quando você acha que não pode piorar...
+더 나빠질 게 없다고 생각할 때마다 꼭 이러네요...
+沒想到情況還可以變更糟...
+真是屋漏偏逢连夜雨...
+レオン 早く逃げて
+Leon, you should get going.
+Leon, tu ferais mieux de partir.
+Leon, meglio che tu vada.
+Leon, du solltest gehen.
+Leon, deberías irte.
+Леон, тебе лучше уходить.
+Leon, musisz już iść.
+Leon, é melhor você ir.
+레온, 도망쳐요.
+里昂，你該走了。
+里昂，你先走。
+俺はいいから 安全な場所へ行くんだ
+Don't worry about me.</n>Just...get yourself to safety.
+T'inquiète pas pour moi.</n>Essaie... de te mettre à l'abri.
+Non ti preoccupare. Tu... mettiti al sicuro.
+Sorg dich nicht um mich.</n>Bring dich einfach in Sicherheit.
+No te preocupes. Tú... Ponte a salvo.
+Не волнуйся за меня.</n>Главное, найди надежное укрытие.
+Nie martw się o mnie.</n>Znajdź jakieś... bezpieczne miejsce.
+Não se preocupa comigo.</n>Vê se... encontra um lugar seguro.
+난 걱정하지 마요.</n>꼭... 조심하고 있어요.
+別擔心我。</n>你... 保護好自己。
+别担心我。</n>你... 保护好自己。
+ダメよ</n>フェンスがもたない
+No, Leon, seriously, they're</n>getting through the fence!
+Leon, je plaisante pas.</n>La clôture va pas tenir !
+No, senti, stanno oltrepassando il cancello!
+Nein, Leon, wirklich,</n>die sind gleich durch den Zaun!
+No, en serio, ¡están entrando por la valla!
+Леон, я серьезно, они сейчас</n>прорвутся через забор!
+Serio, Leon,</n>przechodzą przez ogrodzenie!
+Não, Leon, sério. </n>Eles tão passando pela cerca!
+안 돼요. 레온, 저것들이</n>철창을 넘어 올 거예요!
+里昂，說真的，它們</n>要越過欄杆了！
+别这样，里昂。听我的，</n>它们快要越过栅栏了。
+早く行って！
+Please, just go!
+Vite, va-t'en !
+Vai, ti prego!
+Bitte, geh schon!
+¡Vete ya!
+Пожалуйста, уходи!
+Proszę, idź już!
+Vai logo, por favor!
+제발, 그냥 가요!
+快走！
+拜托你，快走！
+生き延びよう 絶対に
+We're gonna make it. Both of us.
+On s'en sortira. Tous les deux.
+Ce la faremo. Fidati di me.
+Wir schaffen das. Beide.
+Viviremos. Los dos.
+Мы выживем. Ты и я.
+Przeżyjemy to. Oboje.
+A gente vai conseguir. Nós dois.
+괜찮을 거예요. 우리 둘 다.
+我們都會沒事的。相信我。
+我们能撑过去的。我们俩都会活下去。

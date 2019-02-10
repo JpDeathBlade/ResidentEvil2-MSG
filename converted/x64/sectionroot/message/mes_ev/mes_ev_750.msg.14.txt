@@ -1,0 +1,473 @@
+﻿<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>シェリー！<PAGE></n>クレア よかった<PAGE></n>ママを助けて<PAGE></n>アネット？<PAGE></n>シェ シェリー</n>具合はどう？<PAGE></n>大丈夫<PAGE></n>ママこそ苦しそう<PAGE></n>ママ！<PAGE></n>大丈夫？<PAGE></n>その モニターを見せて<PAGE></n>あぁ よかった<PAGE></n>シェリーは助かる？<PAGE></n>すぐには回復しないけど</n>ええ G-ウィルスは消えてるわ<PAGE></n>今の聞いた？<PAGE></n><PAGE></n>ママ どうしたの？<PAGE></n>あいつに襲われて…<PAGE></n>いいの</n>私なら心配ない<PAGE></n>娘を連れていって お願い<PAGE></n>ごめんねシェリー</n>一人にして<PAGE></n>あなただけは助かって<PAGE></n>ママを置いてけない<PAGE></n>置いてかないわ<PAGE></n><FONT 1>警告　レベル4ウィルスの</n>不正な持ち出しを検出しました</FONT><PAGE></n><FONT 1>施設封鎖を開始します</FONT><PAGE></n><FONT 1>施設封鎖完了後</n>自己破壊コードを実行します</FONT><PAGE></n>どうなってるの？<PAGE></n>自爆…装置が作動したの<PAGE></n>G-ウィルスの漏洩を防ぐために…<PAGE></n>お願い　娘を助けて<PAGE></n>イヤ！<PAGE></n>シェリー</n>ママにさよならして<PAGE></n>さあ早く</n>さよならして<PAGE></n>ねえシェリー　ママはね…<PAGE></n>あなたを愛してたの<PAGE></n>早くここを出ましょう</n>急いで<PAGE></n>お守りってホントね<PAGE></n>クレアがいてくれてよかった<PAGE></n>その話は後でしましょう</n>急がないと　早く
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Hey!<PAGE></n>I knew you'd make it.<PAGE></n>My mom needs help.<PAGE></n>Annette?<PAGE></n>Sh...Sherry... How are you?<PAGE></n>OK...<PAGE></n>But you don't look so good.<PAGE></n>Mommy!?<PAGE></n><PAGE></n>Hey, look at the screen.<PAGE></n>Oh, thank god.<PAGE></n>So, Sherry's gonna be alright?<PAGE></n>She'll be weak for a little while but...</n>Yes, she's free of the G-virus.<PAGE></n>Did you hear that?<PAGE></n><PAGE></n>What happened to her?<PAGE></n>She was attacked by that monster—<PAGE></n>Don't...Don't worry about me.<PAGE></n>Take my daughter...to safety.<PAGE></n>I'm sorry, Sherry...for everything.<PAGE></n>Your life is what is important now—<PAGE></n>We can't just leave her here!<PAGE></n>You're right. We can't—<PAGE></n><FONT 1>Attention: Unauthorized removal of a [Level 4] virus detected.</FONT><PAGE></n><FONT 1>Facility lockdown initiated.</FONT><PAGE></n><FONT 1>Self-destruct sequence will begin when lockdown is complete.</FONT><PAGE></n>What does that mean!?<PAGE></n>It's the...self-destruct code...<PAGE></n>In case the G-Virus leaves the building.<PAGE></n>Please... Save my daughter.<PAGE></n>No...!<PAGE></n>Sherry...Sherry...we gotta say goodbye to your mom.</n>Come on.<PAGE></n>Please say goodbye.<PAGE></n>Please Sherry, listen...<PAGE></n>She loved you, OK?<PAGE></n>We really gotta get going... Come on.<PAGE></n>You were right about this jacket.<PAGE></n>I'm so lucky to have you.<PAGE></n>Listen, we can talk more about that later.</n>We gotta hurry now. Come on.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Hé !<PAGE></n>Tu as réussi.<PAGE></n>Maman a besoin d'aide.<PAGE></n>Annette ?<PAGE></n>Sherry... Comment tu te sens ?<PAGE></n>Ça va...<PAGE></n>Mais je m'inquiète pour toi.<PAGE></n>Maman ?<PAGE></n><PAGE></n>Je dois voir le moniteur.<PAGE></n>Oh, Dieu merci.<PAGE></n>Sherry va s'en sortir ?<PAGE></n>Elle sera faible encore un moment mais...</n>Oui, elle est guérie du virus G.<PAGE></n>Tu as entendu ?<PAGE></n><PAGE></n>Qu'est-ce qui lui est arrivé ?<PAGE></n>Elle a été attaquée par ce monstre...<PAGE></n>T'en fais pas pour moi.<PAGE></n>Emmène ma fille... En lieu sûr.<PAGE></n>Pardonne-moi Sherry... Pour tout ça.<PAGE></n>Ta vie est tout ce qui importe...<PAGE></n>On peut pas la laisser ici !<PAGE></n>C'est vrai. On peut pas...<PAGE></n>Attention : Retrait non autorisé d'un virus de [niveau 4] détecté.<PAGE></n>Confinement de la structure.<PAGE></n>La séquence d'autodestruction sera lancée</n>une fois le confinement terminé.<PAGE></n>Ça veut dire quoi ?<PAGE></n>C'est le code d'autodestruction...<PAGE></n>Il s'active si le virus quitte le labo.<PAGE></n>Claire... Sauve ma fille.<PAGE></n>Non !<PAGE></n>Sherry... Il faut dire au revoir à ta maman.</n>Allez...<PAGE></n>Dis-lui au revoir.<PAGE></n>S'il te plaît, écoute...<PAGE></n>Elle t'aimait, tu sais ?<PAGE></n>Il faut vraiment qu'on y aille... Allez.<PAGE></n>Tu avais raison pour ta veste.<PAGE></n>J'ai de la chance de t'avoir.<PAGE></n>On reparlera de tout ça plus tard.</n>Il faut se dépêcher. Allez.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Ehi!<PAGE></n>Sei tornata, lo sapevo.<PAGE></n>Mamma sta male.<PAGE></n>Annette...<PAGE></n>Sh... Sherry... come ti senti?<PAGE></n>Sto bene...<PAGE></n>Tu, invece, ti senti male?<PAGE></n>Mamma?<PAGE></n><PAGE></n>Devo vedere lo schermo.<PAGE></n>Oh, grazie a Dio.<PAGE></n>Sherry se la caverà?<PAGE></n>Sarà debole per un po', però...</n>Sì, è guarita dal virus G.<PAGE></n>Hai sentito?<PAGE></n><PAGE></n>Cosa le è successo?<PAGE></n>È stata attaccata dal mostro.<PAGE></n>Non... preoccuparti per me.<PAGE></n>Porta mia figlia... al sicuro.<PAGE></n>Scusami, Sherry... per tutto quanto.<PAGE></n>La tua vita è più importante.<PAGE></n>Non possiamo lasciarla qui!<PAGE></n>Sì, hai ragione...<PAGE></n>Attenzione. Rilevata rimozione non autorizzata di un virus di livello 4.<PAGE></n>Avvio isolamento struttura.<PAGE></n>Al termine verrà avviata la sequenza di autodistruzione.<PAGE></n>Che succede?<PAGE></n>È iniziata l'autodistruzione.<PAGE></n>Si attiva se il virus esce dall'edificio.<PAGE></n>Ti prego... salva mia figlia.<PAGE></n>No!<PAGE></n>Sherry... Sherry... devi salutare la mamma.</n>Avanti, dobbiamo andare.<PAGE></n><PAGE></n>Ti prego, Sherry... Ascolta...<PAGE></n>Ti voleva bene, sai?<PAGE></n>Ma ora dobbiamo andare. Forza!<PAGE></n>Avevi ragione sulla giacca.<PAGE></n>Sono fortunata ad averti.<PAGE></n>Ascolta, ne parliamo più tardi. Dobbiamo andare. Forza.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Hey! <PAGE></n>Ich wusste, du schaffst es.<PAGE></n>Meine Mom braucht Hilfe.<PAGE></n>Annette? <PAGE></n>Sherry... Wie geht's dir?<PAGE></n>Okay...<PAGE></n>Aber du siehst nicht so gut aus.<PAGE></n>Mommy?!<PAGE></n><PAGE></n>Ich muss den Bildschirm sehen...<PAGE></n>Gott sei Dank.<PAGE></n>Also, wird's Sherry gut gehen?<PAGE></n>Sie wird eine Weile geschwächt sein...</n>Ja, sie ist frei vom G-Virus.<PAGE></n>Hörst du das?<PAGE></n><PAGE></n>Was ist ihr passiert?<PAGE></n>Sie wurde angegriffen von...<PAGE></n>Sorg...</n>Sorg dich nicht um mich.<PAGE></n>Bring meine Tochter... in Sicherheit.<PAGE></n>Tut mir leid, Sherry... das alles.<PAGE></n>Wichtig ist jetzt nur, dass du lebst.<PAGE></n>Wir können sie nicht hierlassen!<PAGE></n>Du hast recht. Das nicht...<PAGE></n>Achtung:</n>Unautorisierte Entfernung eines Level-4-Virus erkannt.<PAGE></n>Abriegelung der Anlage eingeleitet.<PAGE></n>Selbstzerstörungssequenz startet</n>nach Abschluss der Abriegelung.<PAGE></n>Was bedeutet das?!<PAGE></n>Ist der... Selbstzerstörungscode...<PAGE></n>Falls das G-Virus das Gebäude verlässt.<PAGE></n>Bitte... Rette meine Tochter.<PAGE></n>Nein...<PAGE></n>Sherry... Sherry, wir müssen deiner Mom Lebwohl sagen.</n>Komm.<PAGE></n>Bitte sag Lebwohl.<PAGE></n>Bitte, Sherry, hör zu...<PAGE></n>Sie hat dich geliebt.<PAGE></n>Wir müssen wirklich gehen.</n>Komm schon...<PAGE></n>Du hast recht mit der Jacke.<PAGE></n>Ich hab Glück, dass du da bist.<PAGE></n>Hör zu, wir können später drüber reden.</n>Wir müssen schnell machen. Komm schon.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Eh...<PAGE></n>Sabía que vendrías.<PAGE></n>Mamá nos necesita.<PAGE></n>¿Annette?<PAGE></n>Sh... Sherry... ¿Cómo estás?<PAGE></n>Bien...<PAGE></n>Pero tú no lo pareces...<PAGE></n>¡¿Mamá?!<PAGE></n><PAGE></n>Quiero ver la pantalla...<PAGE></n>Gracias a Dios.<PAGE></n>¿Sherry se pondrá bien?<PAGE></n>Estará débil por un tiempo pero...</n>Sí, ya no tiene el virus G...<PAGE></n>¿Lo has oído?<PAGE></n><PAGE></n>¿Qué le ha pasado?<PAGE></n>Le atacó ese monstruo...<PAGE></n>No... te preocupes por mí.<PAGE></n>Pon a mi hija... A salvo.<PAGE></n>Lo siento, Sherry, por todo.<PAGE></n>Tu vida es lo que importa...<PAGE></n>¡No podemos dejarla!<PAGE></n>Sí, no podemos...<PAGE></n>Atención. Detectada extracción</n>no autorizada de virus de nivel 4.<PAGE></n>Iniciado cierre de instalaciones.<PAGE></n>La secuencia de auto-destrucción comenzará</n>tras completarse el cierre.<PAGE></n>¡¿Qué significa?!<PAGE></n>Es el... código de autodestrucción<PAGE></n>Por si el virus G sale del edificio.<PAGE></n>Por favor... Salva a mi hija.<PAGE></n>¡No!<PAGE></n>Sherry... Sherry, hay que despedirse de mamá.<PAGE></n>Vamos, dile adiós.<PAGE></n>Eh, Sherry, escucha...<PAGE></n>Ella te quería, ¿vale?<PAGE></n>Tenemos que irnos. Vamos.<PAGE></n>Lo de la chaqueta era verdad.<PAGE></n>Tengo suerte de tenerte.<PAGE></n>Hablaremos de eso más tarde.</n>Démonos prisa. Vamos.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Привет!<PAGE></n>Я знала, что у тебя получится.<PAGE></n>Маме нужна помощь.<PAGE></n>Аннет?<PAGE></n>Ш... Шерри... Как ты?<PAGE></n>Хорошо...<PAGE></n>Но ты сама выглядишь неважно.<PAGE></n>Мамочка?!<PAGE></n><PAGE></n>Взгляните на экран.<PAGE></n>Ох, слава богу.<PAGE></n>Значит, с Шерри все будет хорошо?<PAGE></n>Слабость еще нескоро пройдет, но...</n>Да, Г-вирус побежден.<PAGE></n>Слышала?<PAGE></n><PAGE></n>Что с ней случилось?<PAGE></n>На нее напало это чудовище...<PAGE></n>Не... не беспокойтесь обо мне.<PAGE></n>Отведите мою дочь... в безопасное место.<PAGE></n>Прости меня, Шерри... Прости за все.<PAGE></n>Сейчас твоя жизнь важнее всего...<PAGE></n>Мы не можем бросить ее здесь!<PAGE></n>Ты права. Не можем...<PAGE></n>Внимание! Обнаружено несанкционированное изъятие вируса [уровня 4].<PAGE></n>Переход в режим блокировки.<PAGE></n>После завершения блокировки запустится программа самоуничтожения.<PAGE></n>Что это значит?!<PAGE></n>Это... код активации самоуничтожения...<PAGE></n>...на случай, если Г-вирус покинет здание.<PAGE></n>Пожалуйста... спасите мою дочку.<PAGE></n>Нет!..<PAGE></n>Шерри... Шерри, пора прощаться с мамой.</n>Вставай.<PAGE></n>Ну пожалуйста, попрощайся с ней.<PAGE></n>Прошу, Шерри, послушай меня...<PAGE></n>Она тебя любила, понимаешь?<PAGE></n>Нам правда нужно уходить... Пойдем.<PAGE></n>Ты была права насчет куртки.<PAGE></n>Мне так повезло, что ты рядом.<PAGE></n>Слушай, потом поговорим об этом.</n>Надо бежать. Скорее.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Hej!<PAGE></n>Wiedziałam, że dasz radę.<PAGE></n>Moja mama potrzebuje pomocy.<PAGE></n>Annette?<PAGE></n>Sh...Sherry... Jak się trzymasz?<PAGE></n>OK...<PAGE></n>Ale ty nie wyglądasz za dobrze.<PAGE></n>Mamusiu!?<PAGE></n><PAGE></n>Hej, popatrz na ekran.<PAGE></n>Och, dzięki Bogu.<PAGE></n>Więc Sherry nic nie będzie?<PAGE></n>Będzie przez jakiś czas osłabiona, ale...</n>Nie jest już zarażona wirusem G.<PAGE></n>Słyszysz?<PAGE></n><PAGE></n>Co się z nią stało?<PAGE></n>Zaatakował ją ten potwór—<PAGE></n>Nie... nie martw się o mnie.<PAGE></n>Zabierz moją córkę...</n>w bezpieczne miejsce.<PAGE></n>Przepraszam, Sherry... za wszystko.<PAGE></n>Teraz liczy się twoje życie—<PAGE></n>Nie możemy jej tu zostawić!<PAGE></n>Masz rację. Nie możemy—<PAGE></n>Uwaga: wykryto nieupoważnione usunięcie wirusa [poziomu 4].<PAGE></n>Wszczęto kwarantannę.<PAGE></n>Po odizolowaniu placówki</n>nastąpi samozniszczenie.<PAGE></n>Co to oznacza?<PAGE></n>To... procedura samozniszczenia...<PAGE></n>Na wypadek, gdyby</n>wirus G opuścił budynek.<PAGE></n>Proszę... Uratuj moją córkę.<PAGE></n>Nie...!<PAGE></n>Sherry... musimy pożegnać się z twoją mamą.</n>Chodź.<PAGE></n>Proszę, pożegnaj się.<PAGE></n>Proszę, Sherry, posłuchaj...<PAGE></n>Ona cię kochała, rozumiesz?<PAGE></n>Naprawdę musimy uciekać... Chodź.<PAGE></n>Miałaś rację co do kurtki.<PAGE></n>Cieszę się, że tu jesteś.<PAGE></n>Słuchaj, porozmawiamy o tym później.</n>Musimy się śpieszyć. Chodź.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>Ei!<PAGE></n>Eu sabia que você ia conseguir.<PAGE></n>A mamãe precisa de ajuda.<PAGE></n>Annette?<PAGE></n>Sh... Sherry... Como você tá?<PAGE></n>Bem...<PAGE></n>Mas você não parece muito bem...<PAGE></n>Mamãe?!<PAGE></n><PAGE></n>Ei, dá uma olhada na tela.<PAGE></n>Ah, graças a Deus.<PAGE></n>A Sherry vai ficar bem?<PAGE></n>Ela vai ficar fraca por um tempo, mas...</n>É, não tem mais Vírus G nela.<PAGE></n>Ouviu só?<PAGE></n><PAGE></n>O que aconteceu com ela?<PAGE></n>Aquele monstro atacou...<PAGE></n>Não... Não se preocupa comigo.<PAGE></n>Leva a minha filha... prum lugar seguro.<PAGE></n>Desculpa, Sherry... por tudo.<PAGE></n>A sua vida é o mais importante agora.<PAGE></n>A gente não pode deixar ela assim!<PAGE></n>Tem razão. A gente não pode.<PAGE></n>Atenção: Detectada a remoção não autorizada de um vírus de [Nível 4].<PAGE></n>Iniciando o isolamento das instalações.<PAGE></n>A sequência de autodestruição será iniciada</n>no final do processo de isolamento.<PAGE></n>O que isso quer dizer?!<PAGE></n>É o... código de autodestruição...<PAGE></n>Pro caso do Vírus G ser tirado das instalações.<PAGE></n>Por favor... Salva a minha filha.<PAGE></n>Nããão!<PAGE></n>Sherry... Sherry, a gente tem que dar tchau pra sua mãe.</n>Vem.<PAGE></n>Fala tchau, por favor.<PAGE></n>Por favor, Sherry, me escuta...<PAGE></n>Ela te amava, tá?<PAGE></n>A gente precisa ir... Vem.<PAGE></n>Você tinha razão sobre o casaco.<PAGE></n>Ainda bem que você tá comigo.<PAGE></n>Olha, a gente pode falar disso depois.</n>Agora a gente tem que correr. Vem.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>셰리!<PAGE></n>오실 줄 알았어요.<PAGE></n>엄마를 도와주세요.<PAGE></n>아네트?<PAGE></n>셰... 셰리... 좀 어때?<PAGE></n>전 괜찮아요...<PAGE></n>오히려 엄마가 많이 아파 보여요.<PAGE></n>엄마?<PAGE></n><PAGE></n>이봐, 화면을 확인해.<PAGE></n>오, 하나님 감사합니다.<PAGE></n>셰리는 괜찮을까요?<PAGE></n>한동안은 약해지겠지만...</n>G 바이러스는 완치됐어.<PAGE></n>들었지?<PAGE></n><PAGE></n>엄마한테 무슨 일이 생긴 거죠?<PAGE></n>그 괴물한테 공격당했어—<PAGE></n>난... 난 걱정하지 마.<PAGE></n>내 딸을... 안전한 곳으로 데려가줘.<PAGE></n>미안하다, 셰리야...모든 게.<PAGE></n>지금 중요한 건 네가 살아남는 거야—<PAGE></n>엄마를 여기에 두고 갈 순 없어요!<PAGE></n>맞아. 그럴 순 없—<PAGE></n>주의: [레벨 4] 바이러스의 무단 반출이 감지되었습니다.<PAGE></n>시설 폐쇄 조치가 시작됩니다.<PAGE></n>시설 폐쇄 조치가 완료되면 자폭 절차가 진행됩니다.<PAGE></n>이게 무슨 말이죠!?<PAGE></n>시설... 자폭 기능이야...<PAGE></n>G 바이러스가 건물 밖으로 반출되면 시작되지.<PAGE></n>제발... 내 딸이 살아남을 수 있게 도와줘.<PAGE></n>안 돼...!<PAGE></n>셰리... 셰리... 이제 엄마에게 작별 인사를 해야 해.</n>어서.<PAGE></n>작별 인사를 해줘.<PAGE></n>셰리야, 제발...<PAGE></n>엄마는 널 사랑하셨어, 알지?<PAGE></n>이제 정말 가야 해... 어서.<PAGE></n>언니 말대로 이 재킷은 행운의 부적이 맞아요.<PAGE></n>언니를 만난 건 정말 행운이에요.<PAGE></n>그건 나중에 얘기하자.</n>지금은 서둘러 여길 나가야 해.
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>嗨！<PAGE></n>我就知道你辦得到。<PAGE></n>我媽需要幫忙。<PAGE></n>雅妮？<PAGE></n>雪... 雪莉... 你還好嗎？<PAGE></n>我還好...<PAGE></n>但你看起來不太妙。<PAGE></n>媽咪！？<PAGE></n><PAGE></n>嘿，你們看螢幕。<PAGE></n>噢，太好了。<PAGE></n>所以雪莉會沒事嗎？<PAGE></n>她會身體虛弱一段時間，但...</n>沒錯，她的體內沒有 G 病毒。<PAGE></n>你聽到了嗎？<PAGE></n><PAGE></n>她怎麼了？<PAGE></n>她被那隻怪物攻擊...<PAGE></n>別... 別擔心我。<PAGE></n>把我女兒... 帶到安全的地方。<PAGE></n>雪莉，我對不起你... 對於所有的一切。<PAGE></n>現在最要緊的是你要活下去...<PAGE></n>我們不能就這樣把她留在這裡！<PAGE></n>你說的沒錯，我們不能...<PAGE></n>注意：系統偵測到有人未經授權取走 [第 4 級] 病毒。<PAGE></n>本設施的緊急封鎖程序已啟動。<PAGE></n>封鎖完畢後將會執行自我毀滅程序。<PAGE></n>那是什麼意思！？<PAGE></n>那是... 自我毀滅設定...<PAGE></n>以防 G 病毒離開這棟建築。<PAGE></n>拜託... 救救我的女兒。<PAGE></n>不要...！<PAGE></n>雪莉... 雪莉... 我們得和你媽媽說再見了。</n>來吧。<PAGE></n>快說再見吧。<PAGE></n>拜託，雪莉，聽著...<PAGE></n>她很愛你，明白嗎？<PAGE></n>我們真的得走了... 快。<PAGE></n>關於這件外套的事，你說的是對的。<PAGE></n>我好幸運有你陪在我身邊。<PAGE></n>聽著，我們可以等會再談這件事。</n>現在我們得加緊腳步，快。
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>嘿！<PAGE></n>我就知道你做得到。<PAGE></n>我妈妈需要帮忙。<PAGE></n>亚妮？<PAGE></n>雪莉... 你还好吗？<PAGE></n>我还好...<PAGE></n>但你看起来不太妙。<PAGE></n>妈咪！？<PAGE></n><PAGE></n>嘿，你们看屏幕。<PAGE></n>啊，感谢老天。<PAGE></n>所以雪莉没事了？<PAGE></n>她的身体会虚弱一段时间，但是...</n>是的，她体内没有 G 病毒。<PAGE></n>你听见了吗？<PAGE></n><PAGE></n>她怎么了？<PAGE></n>她被那只怪物袭击...<PAGE></n>别... 别担心我。<PAGE></n>带我女儿... 到安全的地方。<PAGE></n>对不起，雪莉... 真是亏欠你太多了。<PAGE></n>现在最重要的就是保住你的性命...<PAGE></n>我们不能就这样把她留在这里！<PAGE></n>你说得对，我们不能...<PAGE></n>注意：系统侦测到有人未经授权取走 [第 4 级] 病毒。<PAGE></n>本设施的封锁程序已启动。<PAGE></n>封锁完毕将开始执行自我毁灭程序。<PAGE></n>那是什么意思！？<PAGE></n>那是... 自我毁灭设定...<PAGE></n>以防 G 病毒离开设施。<PAGE></n>拜托... 救救我的女儿。<PAGE></n>不行！<PAGE></n>雪莉... 雪莉... 我们得向你妈妈告别了。</n>来吧。<PAGE></n>快说再见吧。<PAGE></n>拜托，雪莉。你听我说...<PAGE></n>她很爱你，知道吗？<PAGE></n>我们真的得动身了... 快。<PAGE></n>关于这件外套，你说得一点也没错。<PAGE></n>有你在我身边，我真的很幸运。<PAGE></n>听着，我们可以晚一点再谈这件事。</n>现在我们得加紧脚步，快来。
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+<TIME 8.85, 10.45><TIME 10.93, 12.74><TIME 15.13, 16.94><TIME 19.09, 20.39><TIME 23.07, 27.97><TIME 28.52, 29.98><TIME 30.86, 32.76><TIME 38.14, 39.42><TIME 39.45, 40.42><TIME 40.5, 42.44><TIME 49.1, 50.51><TIME 52.2, 54.26><TIME 54.64, 62.47><TIME 62.67, 64.44><TIME 65.96, 69.49><TIME 77.54, 78.97><TIME 80.36, 81.66><TIME 81.69, 87.23><TIME 92.87, 96.72><TIME 99.62, 105.53><TIME 107.31, 110.48><TIME 111.72, 114.18><TIME 114.98, 116.76><TIME 117.51, 122.27><TIME 122.29, 123.92><TIME 123.93, 124.81><TIME 124.82, 125.82><TIME 125.83, 129.29><TIME 131.28, 135.04><TIME 138.94, 143.26><TIME 145.8, 147.51><TIME 151.05, 156.01><TIME 156.36, 158.5><TIME 161.21, 164.67><TIME 165.81, 167.7><TIME 168.13, 170.98><TIME 182.73, 184.98><TIME 186.12, 188.46><TIME 190.28, 194.6>
+シェリー！
+Hey!
+Hé !
+Ehi!
+Hey! 
+Eh...
+Привет!
+Hej!
+Ei!
+셰리!
+嗨！
+嘿！
+クレア よかった
+I knew you'd make it.
+Tu as réussi.
+Sei tornata, lo sapevo.
+Ich wusste, du schaffst es.
+Sabía que vendrías.
+Я знала, что у тебя получится.
+Wiedziałam, że dasz radę.
+Eu sabia que você ia conseguir.
+오실 줄 알았어요.
+我就知道你辦得到。
+我就知道你做得到。
+ママを助けて
+My mom needs help.
+Maman a besoin d'aide.
+Mamma sta male.
+Meine Mom braucht Hilfe.
+Mamá nos necesita.
+Маме нужна помощь.
+Moja mama potrzebuje pomocy.
+A mamãe precisa de ajuda.
+엄마를 도와주세요.
+我媽需要幫忙。
+我妈妈需要帮忙。
+アネット？
+Annette?
+Annette ?
+Annette...
+Annette? 
+¿Annette?
+Аннет?
+Annette?
+Annette?
+아네트?
+雅妮？
+亚妮？
+シェ シェリー</n>具合はどう？
+Sh...Sherry... How are you?
+Sherry... Comment tu te sens ?
+Sh... Sherry... come ti senti?
+Sherry... Wie geht's dir?
+Sh... Sherry... ¿Cómo estás?
+Ш... Шерри... Как ты?
+Sh...Sherry... Jak się trzymasz?
+Sh... Sherry... Como você tá?
+셰... 셰리... 좀 어때?
+雪... 雪莉... 你還好嗎？
+雪莉... 你还好吗？
+大丈夫
+OK...
+Ça va...
+Sto bene...
+Okay...
+Bien...
+Хорошо...
+OK...
+Bem...
+전 괜찮아요...
+我還好...
+我还好...
+ママこそ苦しそう
+But you don't look so good.
+Mais je m'inquiète pour toi.
+Tu, invece, ti senti male?
+Aber du siehst nicht so gut aus.
+Pero tú no lo pareces...
+Но ты сама выглядишь неважно.
+Ale ty nie wyglądasz za dobrze.
+Mas você não parece muito bem...
+오히려 엄마가 많이 아파 보여요.
+但你看起來不太妙。
+但你看起来不太妙。
+ママ！
+Mommy!?
+Maman ?
+Mamma?
+Mommy?!
+¡¿Mamá?!
+Мамочка?!
+Mamusiu!?
+Mamãe?!
+엄마?
+媽咪！？
+妈咪！？
+大丈夫？
+その モニターを見せて
+Hey, look at the screen.
+Je dois voir le moniteur.
+Devo vedere lo schermo.
+Ich muss den Bildschirm sehen...
+Quiero ver la pantalla...
+Взгляните на экран.
+Hej, popatrz na ekran.
+Ei, dá uma olhada na tela.
+이봐, 화면을 확인해.
+嘿，你們看螢幕。
+嘿，你们看屏幕。
+あぁ よかった
+Oh, thank god.
+Oh, Dieu merci.
+Oh, grazie a Dio.
+Gott sei Dank.
+Gracias a Dios.
+Ох, слава богу.
+Och, dzięki Bogu.
+Ah, graças a Deus.
+오, 하나님 감사합니다.
+噢，太好了。
+啊，感谢老天。
+シェリーは助かる？
+So, Sherry's gonna be alright?
+Sherry va s'en sortir ?
+Sherry se la caverà?
+Also, wird's Sherry gut gehen?
+¿Sherry se pondrá bien?
+Значит, с Шерри все будет хорошо?
+Więc Sherry nic nie będzie?
+A Sherry vai ficar bem?
+셰리는 괜찮을까요?
+所以雪莉會沒事嗎？
+所以雪莉没事了？
+すぐには回復しないけど</n>ええ G-ウィルスは消えてるわ
+She'll be weak for a little while but...</n>Yes, she's free of the G-virus.
+Elle sera faible encore un moment mais...</n>Oui, elle est guérie du virus G.
+Sarà debole per un po', però...</n>Sì, è guarita dal virus G.
+Sie wird eine Weile geschwächt sein...</n>Ja, sie ist frei vom G-Virus.
+Estará débil por un tiempo pero...</n>Sí, ya no tiene el virus G...
+Слабость еще нескоро пройдет, но...</n>Да, Г-вирус побежден.
+Będzie przez jakiś czas osłabiona, ale...</n>Nie jest już zarażona wirusem G.
+Ela vai ficar fraca por um tempo, mas...</n>É, não tem mais Vírus G nela.
+한동안은 약해지겠지만...</n>G 바이러스는 완치됐어.
+她會身體虛弱一段時間，但...</n>沒錯，她的體內沒有 G 病毒。
+她的身体会虚弱一段时间，但是...</n>是的，她体内没有 G 病毒。
+今の聞いた？
+Did you hear that?
+Tu as entendu ?
+Hai sentito?
+Hörst du das?
+¿Lo has oído?
+Слышала?
+Słyszysz?
+Ouviu só?
+들었지?
+你聽到了嗎？
+你听见了吗？
+ママ どうしたの？
+What happened to her?
+Qu'est-ce qui lui est arrivé ?
+Cosa le è successo?
+Was ist ihr passiert?
+¿Qué le ha pasado?
+Что с ней случилось?
+Co się z nią stało?
+O que aconteceu com ela?
+엄마한테 무슨 일이 생긴 거죠?
+她怎麼了？
+她怎么了？
+あいつに襲われて…
+She was attacked by that monster—
+Elle a été attaquée par ce monstre...
+È stata attaccata dal mostro.
+Sie wurde angegriffen von...
+Le atacó ese monstruo...
+На нее напало это чудовище...
+Zaatakował ją ten potwór—
+Aquele monstro atacou...
+그 괴물한테 공격당했어—
+她被那隻怪物攻擊...
+她被那只怪物袭击...
+いいの</n>私なら心配ない
+Don't...Don't worry about me.
+T'en fais pas pour moi.
+Non... preoccuparti per me.
+Sorg...</n>Sorg dich nicht um mich.
+No... te preocupes por mí.
+Не... не беспокойтесь обо мне.
+Nie... nie martw się o mnie.
+Não... Não se preocupa comigo.
+난... 난 걱정하지 마.
+別... 別擔心我。
+别... 别担心我。
+娘を連れていって お願い
+Take my daughter...to safety.
+Emmène ma fille... En lieu sûr.
+Porta mia figlia... al sicuro.
+Bring meine Tochter... in Sicherheit.
+Pon a mi hija... A salvo.
+Отведите мою дочь... в безопасное место.
+Zabierz moją córkę...</n>w bezpieczne miejsce.
+Leva a minha filha... prum lugar seguro.
+내 딸을... 안전한 곳으로 데려가줘.
+把我女兒... 帶到安全的地方。
+带我女儿... 到安全的地方。
+ごめんねシェリー</n>一人にして
+I'm sorry, Sherry...for everything.
+Pardonne-moi Sherry... Pour tout ça.
+Scusami, Sherry... per tutto quanto.
+Tut mir leid, Sherry... das alles.
+Lo siento, Sherry, por todo.
+Прости меня, Шерри... Прости за все.
+Przepraszam, Sherry... za wszystko.
+Desculpa, Sherry... por tudo.
+미안하다, 셰리야...모든 게.
+雪莉，我對不起你... 對於所有的一切。
+对不起，雪莉... 真是亏欠你太多了。
+あなただけは助かって
+Your life is what is important now—
+Ta vie est tout ce qui importe...
+La tua vita è più importante.
+Wichtig ist jetzt nur, dass du lebst.
+Tu vida es lo que importa...
+Сейчас твоя жизнь важнее всего...
+Teraz liczy się twoje życie—
+A sua vida é o mais importante agora.
+지금 중요한 건 네가 살아남는 거야—
+現在最要緊的是你要活下去...
+现在最重要的就是保住你的性命...
+ママを置いてけない
+We can't just leave her here!
+On peut pas la laisser ici !
+Non possiamo lasciarla qui!
+Wir können sie nicht hierlassen!
+¡No podemos dejarla!
+Мы не можем бросить ее здесь!
+Nie możemy jej tu zostawić!
+A gente não pode deixar ela assim!
+엄마를 여기에 두고 갈 순 없어요!
+我們不能就這樣把她留在這裡！
+我们不能就这样把她留在这里！
+置いてかないわ
+You're right. We can't—
+C'est vrai. On peut pas...
+Sì, hai ragione...
+Du hast recht. Das nicht...
+Sí, no podemos...
+Ты права. Не можем...
+Masz rację. Nie możemy—
+Tem razão. A gente não pode.
+맞아. 그럴 순 없—
+你說的沒錯，我們不能...
+你说得对，我们不能...
+<FONT 1>警告　レベル4ウィルスの</n>不正な持ち出しを検出しました</FONT>
+<FONT 1>Attention: Unauthorized removal of a [Level 4] virus detected.</FONT>
+Attention : Retrait non autorisé d'un virus de [niveau 4] détecté.
+Attenzione. Rilevata rimozione non autorizzata di un virus di livello 4.
+Achtung:</n>Unautorisierte Entfernung eines Level-4-Virus erkannt.
+Atención. Detectada extracción</n>no autorizada de virus de nivel 4.
+Внимание! Обнаружено несанкционированное изъятие вируса [уровня 4].
+Uwaga: wykryto nieupoważnione usunięcie wirusa [poziomu 4].
+Atenção: Detectada a remoção não autorizada de um vírus de [Nível 4].
+주의: [레벨 4] 바이러스의 무단 반출이 감지되었습니다.
+注意：系統偵測到有人未經授權取走 [第 4 級] 病毒。
+注意：系统侦测到有人未经授权取走 [第 4 级] 病毒。
+<FONT 1>施設封鎖を開始します</FONT>
+<FONT 1>Facility lockdown initiated.</FONT>
+Confinement de la structure.
+Avvio isolamento struttura.
+Abriegelung der Anlage eingeleitet.
+Iniciado cierre de instalaciones.
+Переход в режим блокировки.
+Wszczęto kwarantannę.
+Iniciando o isolamento das instalações.
+시설 폐쇄 조치가 시작됩니다.
+本設施的緊急封鎖程序已啟動。
+本设施的封锁程序已启动。
+<FONT 1>施設封鎖完了後</n>自己破壊コードを実行します</FONT>
+<FONT 1>Self-destruct sequence will begin when lockdown is complete.</FONT>
+La séquence d'autodestruction sera lancée</n>une fois le confinement terminé.
+Al termine verrà avviata la sequenza di autodistruzione.
+Selbstzerstörungssequenz startet</n>nach Abschluss der Abriegelung.
+La secuencia de auto-destrucción comenzará</n>tras completarse el cierre.
+После завершения блокировки запустится программа самоуничтожения.
+Po odizolowaniu placówki</n>nastąpi samozniszczenie.
+A sequência de autodestruição será iniciada</n>no final do processo de isolamento.
+시설 폐쇄 조치가 완료되면 자폭 절차가 진행됩니다.
+封鎖完畢後將會執行自我毀滅程序。
+封锁完毕将开始执行自我毁灭程序。
+※使わなくなった？※
+どうなってるの？
+What does that mean!?
+Ça veut dire quoi ?
+Che succede?
+Was bedeutet das?!
+¡¿Qué significa?!
+Что это значит?!
+Co to oznacza?
+O que isso quer dizer?!
+이게 무슨 말이죠!?
+那是什麼意思！？
+那是什么意思！？
+自爆…装置が作動したの
+It's the...self-destruct code...
+C'est le code d'autodestruction...
+È iniziata l'autodistruzione.
+Ist der... Selbstzerstörungscode...
+Es el... código de autodestrucción
+Это... код активации самоуничтожения...
+To... procedura samozniszczenia...
+É o... código de autodestruição...
+시설... 자폭 기능이야...
+那是... 自我毀滅設定...
+那是... 自我毁灭设定...
+G-ウィルスの漏洩を防ぐために…
+In case the G-Virus leaves the building.
+Il s'active si le virus quitte le labo.
+Si attiva se il virus esce dall'edificio.
+Falls das G-Virus das Gebäude verlässt.
+Por si el virus G sale del edificio.
+...на случай, если Г-вирус покинет здание.
+Na wypadek, gdyby</n>wirus G opuścił budynek.
+Pro caso do Vírus G ser tirado das instalações.
+G 바이러스가 건물 밖으로 반출되면 시작되지.
+以防 G 病毒離開這棟建築。
+以防 G 病毒离开设施。
+お願い　娘を助けて
+Please... Save my daughter.
+Claire... Sauve ma fille.
+Ti prego... salva mia figlia.
+Bitte... Rette meine Tochter.
+Por favor... Salva a mi hija.
+Пожалуйста... спасите мою дочку.
+Proszę... Uratuj moją córkę.
+Por favor... Salva a minha filha.
+제발... 내 딸이 살아남을 수 있게 도와줘.
+拜託... 救救我的女兒。
+拜托... 救救我的女儿。
+イヤ！
+No...!
+Non !
+No!
+Nein...
+¡No!
+Нет!..
+Nie...!
+Nããão!
+안 돼...!
+不要...！
+不行！
+シェリー</n>ママにさよならして
+Sherry...Sherry...we gotta say goodbye to your mom.</n>Come on.
+Sherry... Il faut dire au revoir à ta maman.</n>Allez...
+Sherry... Sherry... devi salutare la mamma.</n>Avanti, dobbiamo andare.
+Sherry... Sherry, wir müssen deiner Mom Lebwohl sagen.</n>Komm.
+Sherry... Sherry, hay que despedirse de mamá.
+Шерри... Шерри, пора прощаться с мамой.</n>Вставай.
+Sherry... musimy pożegnać się z twoją mamą.</n>Chodź.
+Sherry... Sherry, a gente tem que dar tchau pra sua mãe.</n>Vem.
+셰리... 셰리... 이제 엄마에게 작별 인사를 해야 해.</n>어서.
+雪莉... 雪莉... 我們得和你媽媽說再見了。</n>來吧。
+雪莉... 雪莉... 我们得向你妈妈告别了。</n>来吧。
+さあ早く</n>さよならして
+Please say goodbye.
+Dis-lui au revoir.
+Bitte sag Lebwohl.
+Vamos, dile adiós.
+Ну пожалуйста, попрощайся с ней.
+Proszę, pożegnaj się.
+Fala tchau, por favor.
+작별 인사를 해줘.
+快說再見吧。
+快说再见吧。
+ねえシェリー　ママはね…
+Please Sherry, listen...
+S'il te plaît, écoute...
+Ti prego, Sherry... Ascolta...
+Bitte, Sherry, hör zu...
+Eh, Sherry, escucha...
+Прошу, Шерри, послушай меня...
+Proszę, Sherry, posłuchaj...
+Por favor, Sherry, me escuta...
+셰리야, 제발...
+拜託，雪莉，聽著...
+拜托，雪莉。你听我说...
+あなたを愛してたの
+She loved you, OK?
+Elle t'aimait, tu sais ?
+Ti voleva bene, sai?
+Sie hat dich geliebt.
+Ella te quería, ¿vale?
+Она тебя любила, понимаешь?
+Ona cię kochała, rozumiesz?
+Ela te amava, tá?
+엄마는 널 사랑하셨어, 알지?
+她很愛你，明白嗎？
+她很爱你，知道吗？
+早くここを出ましょう</n>急いで
+We really gotta get going... Come on.
+Il faut vraiment qu'on y aille... Allez.
+Ma ora dobbiamo andare. Forza!
+Wir müssen wirklich gehen.</n>Komm schon...
+Tenemos que irnos. Vamos.
+Нам правда нужно уходить... Пойдем.
+Naprawdę musimy uciekać... Chodź.
+A gente precisa ir... Vem.
+이제 정말 가야 해... 어서.
+我們真的得走了... 快。
+我们真的得动身了... 快。
+お守りってホントね
+You were right about this jacket.
+Tu avais raison pour ta veste.
+Avevi ragione sulla giacca.
+Du hast recht mit der Jacke.
+Lo de la chaqueta era verdad.
+Ты была права насчет куртки.
+Miałaś rację co do kurtki.
+Você tinha razão sobre o casaco.
+언니 말대로 이 재킷은 행운의 부적이 맞아요.
+關於這件外套的事，你說的是對的。
+关于这件外套，你说得一点也没错。
+クレアがいてくれてよかった
+I'm so lucky to have you.
+J'ai de la chance de t'avoir.
+Sono fortunata ad averti.
+Ich hab Glück, dass du da bist.
+Tengo suerte de tenerte.
+Мне так повезло, что ты рядом.
+Cieszę się, że tu jesteś.
+Ainda bem que você tá comigo.
+언니를 만난 건 정말 행운이에요.
+我好幸運有你陪在我身邊。
+有你在我身边，我真的很幸运。
+その話は後でしましょう</n>急がないと　早く
+Listen, we can talk more about that later.</n>We gotta hurry now. Come on.
+On reparlera de tout ça plus tard.</n>Il faut se dépêcher. Allez.
+Ascolta, ne parliamo più tardi. Dobbiamo andare. Forza.
+Hör zu, wir können später drüber reden.</n>Wir müssen schnell machen. Komm schon.
+Hablaremos de eso más tarde.</n>Démonos prisa. Vamos.
+Слушай, потом поговорим об этом.</n>Надо бежать. Скорее.
+Słuchaj, porozmawiamy o tym później.</n>Musimy się śpieszyć. Chodź.
+Olha, a gente pode falar disso depois.</n>Agora a gente tem que correr. Vem.
+그건 나중에 얘기하자.</n>지금은 서둘러 여길 나가야 해.
+聽著，我們可以等會再談這件事。</n>現在我們得加緊腳步，快。
+听着，我们可以晚一点再谈这件事。</n>现在我们得加紧脚步，快来。

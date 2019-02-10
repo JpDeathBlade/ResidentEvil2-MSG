@@ -1,0 +1,358 @@
+﻿<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 30.70, 31.40></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>クレア？</n>ねえ 大丈夫？<PAGE></n>ねえ 聞こえる？</n>クレア…<PAGE></n>クレア 早く起きて</n>捕まっちゃう<PAGE></n>ねえ起きて！　起きてよ！<PAGE></n>起きて！　起きなさい！<PAGE></n>目を開けて　そのまま<PAGE></n>感染はしてないのね<PAGE></n>何？<PAGE></n>シェリー？<PAGE></n>シェリーは！？<PAGE></n>シェリー？</n>シェリーは無事よ<PAGE></n>シェリーを知ってるの？<PAGE></n>すさまじい力を示したわね<PAGE></n>何があったの？<PAGE></n>急いで調べないと…<PAGE></n>あなたは？　私はクレア<PAGE></n>想定外だったわ…<PAGE></n>教えて シェリーはどこ？</n>聞いてる？<PAGE></n>え？　あぁ アネットよ</n>ウィリアムに何があったか教えて<PAGE></n>誰なの？</n>ウィリアムって<PAGE></n>この事態を引き起こした化け物よ<PAGE></n>え？<PAGE></n>そんなことよりシェリーは？<PAGE></n>予想してた以上に進化が速いみたいね<PAGE></n>どこへ行くの？<PAGE></n>いい？</n>あなたの質問に答えてる暇はないの<PAGE></n>何も問題ないわ<PAGE></n>シェリーを見つけないと<PAGE></n>娘の心配は無用よ
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>Claire? Are you alright?<PAGE></n>Can you hear me? Claire...?<PAGE></n>Claire, you have to get up. He's going to get us.<PAGE></n>Wake up! Wake up!<PAGE></n>Wake up! Wake up!<PAGE></n>Open your eyes... Hold still...<PAGE></n>Not infected...<PAGE></n>...Sherry?<PAGE></n>Where's Sherry!?<PAGE></n>Sherry...</n>Sherry's fine.<PAGE></n>Do you know Sherry?<PAGE></n>...was an impressive display of strength.<PAGE></n>What happened to her?<PAGE></n>We have to assess the situation.<PAGE></n>Who are you? ...I'm Claire.<PAGE></n>I didn't foresee this...<PAGE></n>Excuse me, where is she?</n>...Hello?<PAGE></n>What...? Oh, Annette.</n>Tell me, what happened to William?<PAGE></n>I don't know. Who's—who's that?<PAGE></n>The creature responsible for this.<PAGE></n>What...?<PAGE></n>Can you help me find Sherry?<PAGE></n>Seems to be evolving much faster than expected...<PAGE></n>Where are you going?<PAGE></n>Look, I don't have time to play twenty questions.<PAGE></n>Everything is under control.<PAGE></n>I need to find Sherry—<PAGE></n>My daughter is not your concern.
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>Claire ? Est-ce que ça va ?<PAGE></n>Est-ce que tu m'entends ? Claire ?<PAGE></n>Claire, il faut te réveiller. Il va nous avoir.<PAGE></n>Réveille-toi ! Réveille-toi !<PAGE></n>Réveille-toi ! Réveille-toi !<PAGE></n>Ouvre les yeux... Ne bouge pas...<PAGE></n>Non infectée...<PAGE></n>Sherry ?<PAGE></n>Où est-elle ?<PAGE></n>Sherry... Sherry va bien.<PAGE></n>Vous la connaissez ?<PAGE></n>Quelle incroyable démonstration de force...<PAGE></n>Que lui est-il arrivé ?<PAGE></n>On doit évaluer la situation...<PAGE></n>Qui êtes-vous ? Moi, c'est Claire.<PAGE></n>J'avais pas prévu ça...<PAGE></n>Excusez-moi, où est-elle ?</n>Allô ?<PAGE></n>Hein ? Oh, Annette.</n>Dis-moi, qu'est-ce qui est arrivé à William ?<PAGE></n>Je sais pas. De qui vous parlez ?<PAGE></n>La créature responsable de tout ça.<PAGE></n>Quoi ?<PAGE></n>Aidez-moi à retrouver Sherry.<PAGE></n>On dirait qu'il évolue beaucoup plus vite que prévu...<PAGE></n>Où allez-vous ?<PAGE></n>Écoute, j'ai pas le temps de répondre à toutes tes questions.<PAGE></n>Tout est sous contrôle, d'accord ?<PAGE></n>Je dois retrouver Sherry...<PAGE></n>Ne t'occupe pas de ma fille !
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>Claire, stai bene?<PAGE></n>Puoi sentirmi? Claire?<PAGE></n>Claire, devi svegliarti. Lui sta arrivando.<PAGE></n>Svegliati! Svegliati!<PAGE></n>Svegliati. Svegliati!<PAGE></n>Apri gli occhi. Stai ferma.<PAGE></n>Beh, non sei infetta.<PAGE></n>Sherry?<PAGE></n>Dov'è Sherry?<PAGE></n>Sherry... Sherry sta bene.<PAGE></n>Conosce Sherry?<PAGE></n>Ha davvero una forza incredibile.<PAGE></n>Che le è successo?<PAGE></n>Bisogna valutare la situazione. <PAGE></n>Chi è lei? Io sono Claire.<PAGE></n>Non l'avevo previsto.<PAGE></n>Mi scusi, dov'è Sherry? Ehi!<PAGE></n>Cosa? Oh... Annette.</n>Dimmi, che è successo a William?<PAGE></n>Non lo so. Chi... Chi è?<PAGE></n>La creatura che ha causato questo.<PAGE></n>Cosa?<PAGE></n>Mi aiuta a trovare Sherry?<PAGE></n>Sembra si evolva più velocemente del previsto.<PAGE></n>Adesso dove va?<PAGE></n>Senti, non ho tempo per rispondere alle tue domande.<PAGE></n>È tutto sotto controllo.<PAGE></n>Io devo trovare Sherry...<PAGE></n>Mia figlia non è un tuo problema!
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>Claire?</n>Geht es dir gut?<PAGE></n>Hörst du mich?</n>Claire?<PAGE></n>Claire, du musst aufstehen. </n>Er wird uns kriegen.<PAGE></n>Wach auf! Wach auf!<PAGE></n>Wach auf. Wach auf!<PAGE></n>Öffne die Augen.</n>Halt still.<PAGE></n>Nicht infiziert.<PAGE></n>Sherry?<PAGE></n>Wo ist Sherry?!<PAGE></n>Sherry...</n>Sherry geht's gut.<PAGE></n>Sie kennen Sherry?<PAGE></n>... war ein beeindruckender Kraftakt.<PAGE></n>Was ist mit ihr?<PAGE></n>Wir müssen die Lage einschätzen.<PAGE></n>Wer sind Sie?</n>Ich bin Claire.<PAGE></n>War nicht vorherzusehen...<PAGE></n>Sagen Sie mir... Wo ist sie?</n>... Hallo?<PAGE></n>Was? Oh, Annette.</n>Sag mir, was ist mit William?<PAGE></n>Ich weiß nicht. Wer – wer ist das?<PAGE></n>Die Kreatur, die das hier verursacht hat.<PAGE></n>Was?<PAGE></n>Helfen Sie mir, Sherry zu finden?<PAGE></n>Scheint sich viel schneller</n>zu entwickeln als erwartet...<PAGE></n>Wo gehen Sie hin?<PAGE></n>Hör zu, für Fragespielchen hab ich keine Zeit.<PAGE></n>Alles ist unter Kontrolle.<PAGE></n>Ich muss Sherry finden.<PAGE></n>Meine Tochter geht dich nichts an.
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>¿Claire? ¿Estás bien?<PAGE></n>¿Me oyes? ¿Claire...?<PAGE></n>Claire, levántate. Nos va a encontrar.<PAGE></n>¡Despierta! ¡Despierta!<PAGE></n>¡Despierta! ¡Despierta!<PAGE></n>Abre los ojos... Quieta...<PAGE></n>No infectada...<PAGE></n>Sherry...<PAGE></n>¿Y Sherry?<PAGE></n>Sherry... Ella está bien.<PAGE></n>¿Conoces a Sherry?<PAGE></n>Vaya demostración de fuerza bruta...<PAGE></n>¿Qué le ha pasado?<PAGE></n>Hay que valorar la situación...<PAGE></n>¿Quién eres? Soy Claire.<PAGE></n>No preví esto.<PAGE></n>Perdona, ¿y Sherry? ¿Hola...?<PAGE></n>¿Qué...? Oh, Annette.</n>Dime, ¿dónde está William?<PAGE></n>No sé... de quién hablas.<PAGE></n>De la criatura responsable de esto.<PAGE></n>¿Qué...?<PAGE></n>¿Me ayudas a buscar a Sherry?<PAGE></n>Evoluciona mucho más rápido de lo esperado...<PAGE></n>¿Adónde vas?<PAGE></n>Mira, no hay tiempo que perder con preguntas.<PAGE></n>Está todo controlado.<PAGE></n>Debo encontrar a Sherry...<PAGE></n>Mi hija no es cosa tuya.
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>Клэр? Ты в порядке?<PAGE></n>Ты меня слышишь? Клэр?..<PAGE></n>Клэр, вставай. Он идет за нами.<PAGE></n>Проснись! Проснись же!<PAGE></n>Проснись! Проснись же!<PAGE></n>Открой глаза... Не двигайся...<PAGE></n>Ты не заражена...<PAGE></n>...Шерри?<PAGE></n>Где Шерри?!<PAGE></n>Шерри...</n>Шерри в порядке.<PAGE></n>Вы знаете Шерри?<PAGE></n>...поразительное проявление силы.<PAGE></n>Что с ней случилось?<PAGE></n>Нужно оценить обстановку.<PAGE></n>Вы кто? ...Я Клэр.<PAGE></n>Этого я не предвидела...<PAGE></n>Простите, где она?</n>...Вы слышите меня?<PAGE></n>Что?... О, я Аннет.</n>Скажи, что случилось с Уильямом?<PAGE></n>Не знаю. Кто... Кто это?<PAGE></n>Существо, учинившее все это.<PAGE></n>Что?..<PAGE></n>Вы поможете мне найти Шерри?<PAGE></n>Похоже, оно эволюционирует быстрее, чем ожидалось...<PAGE></n>Вы куда?<PAGE></n>Слушай, у меня нет времени отвечать на дурацкие вопросы.<PAGE></n>Все под контролем.<PAGE></n>Мне нужно найти Шерри...<PAGE></n>Моя дочь — не твоя забота.
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>Claire? Wszystko w porządku?<PAGE></n>Słyszysz mnie? Claire...?<PAGE></n>Claire, musisz wstać. On po nas przyjdzie.<PAGE></n>Obudź się! Obudź się!<PAGE></n>Obudź się! Obudź się!<PAGE></n>Otwórz oczy... Nie ruszaj się...<PAGE></n>Nie jesteś zarażona...<PAGE></n>...Sherry?<PAGE></n>Gdzie jest Sherry?<PAGE></n>Sherry...</n>Sherry nic nie jest.<PAGE></n>Znasz Sherry?<PAGE></n>...był imponujący pokaz siły.<PAGE></n>Co się z nią stało?<PAGE></n>Musimy oszacować sytuację.<PAGE></n>Kim jesteś? ...Ja jestem Claire.<PAGE></n>Nie przewidziałam tego...<PAGE></n>Przepraszam, gdzie ona jest?</n>...Halo?<PAGE></n>Co...? Och, Annette.</n>Wiesz, co się stało z Williamem?<PAGE></n>Nie wiem. Kto... kto to jest?<PAGE></n>Stwór, który to zrobił.<PAGE></n>Co...?<PAGE></n>Pomożesz mi znaleźć Sherry?<PAGE></n>Wygląda, że ewoluuje dużo szybciej niż się spodziewałam...<PAGE></n>Dokąd się wybierasz?<PAGE></n>Nie mam czasu na grę w „100 pytań do”.<PAGE></n>Wszystko jest pod kontrolą.<PAGE></n>Muszę znaleźć Sherry...<PAGE></n>Moja córka nie powinna cię obchodzić.
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>Claire? Você tá bem?<PAGE></n>Tá me ouvindo? Claire?<PAGE></n>Claire, você tem que levantar. Ele vai pegar a gente!<PAGE></n>Acorda! Acorda!<PAGE></n>Acorda. Acorda!<PAGE></n>Abre os olhos... Não se mexe.<PAGE></n>Não foi infectada.<PAGE></n>Sherry?<PAGE></n>Cadê a Sherry?!<PAGE></n>A Sherry...</n>Ela tá bem.<PAGE></n>Você conhece a Sherry?<PAGE></n>Que força impressionante...<PAGE></n>O que aconteceu com ela?<PAGE></n>A gente tem que avaliar a situação.<PAGE></n>Quem é você? O meu nome é Claire.<PAGE></n>Não previ isso...<PAGE></n>Oi, com licença, cadê ela?</n>Oi?!<PAGE></n>Quê? Ah. Annette.</n>O que aconteceu com o William?<PAGE></n>Eu não sei. Quem... quem é esse?<PAGE></n>A criatura que causou isso tudo.<PAGE></n>Quê?!<PAGE></n>Você pode me ajudar a encontrar a Sherry?<PAGE></n>Ele parece estar evoluindo bem mais rápido do que o esperado...<PAGE></n>Aonde você vai?<PAGE></n>Olha, eu não tenho tempo pra ficar te respondendo.<PAGE></n>Está tudo sob controle.<PAGE></n>Eu preciso encontrar a Sherry...<PAGE></n>Minha filha não é da sua conta.
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>클레어 언니? 괜찮아요?<PAGE></n>내 말 들려요? 언니?<PAGE></n>언니, 일어나요. 따라잡히겠어요.<PAGE></n>일어나요! 일어나라고요!<PAGE></n>일어나! 일어나!<PAGE></n>눈을 떠... 그대로...<PAGE></n>감염되진 않았군...<PAGE></n>...셰리?<PAGE></n>셰리는 어디 있죠!?<PAGE></n>셰리...</n>셰리는 괜찮아.<PAGE></n>셰리를 알아요?<PAGE></n>...힘이 대단하네.<PAGE></n>셰리한테 무슨 일이 생긴 거죠?<PAGE></n>서둘러 알아봐야해.<PAGE></n>당신은 누구죠? ...난 클레어예요.<PAGE></n>이건 예상하지 못했는데...<PAGE></n>저기, 셰리는 어디 있어요?</n>...저기요?<PAGE></n>뭐...? 아, 아네트라고 해.</n>저기, 윌리엄은 어떻게 됐지?<PAGE></n>몰라요. 그—그게 누구죠?<PAGE></n>여길 이렇게 만든 그거 말이야.<PAGE></n>뭐라고요...?<PAGE></n>셰리를 찾게 도와줄래요?<PAGE></n>예상보다 진화 속도가 빨라...<PAGE></n>어디 가는 거죠?<PAGE></n>저기, 스무고개 놀이 할 시간은 없거든.<PAGE></n>다 제대로 돌아가고 있으니까.<PAGE></n>셰리를 찾아야—<PAGE></n>내 딸은 걱정하지 않아도 돼.
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>克蕾兒？你還好嗎？<PAGE></n>你聽得到我說話嗎？克蕾兒？<PAGE></n>克蕾兒，你得起來，他要來抓我們了。<PAGE></n>醒來！快醒來！<PAGE></n>醒來！快醒來！<PAGE></n>睜開眼睛，不要動...<PAGE></n>沒被感染。<PAGE></n>... 雪莉？<PAGE></n>雪莉在哪裡？！<PAGE></n>雪莉...</n>雪莉沒事。<PAGE></n>你認識雪莉？<PAGE></n>... 真是驚人的力氣。<PAGE></n>她怎麼了？<PAGE></n>我們必須評估狀況。<PAGE></n>你是誰？... 我是克蕾兒。<PAGE></n>我沒預料到這個。<PAGE></n>不好意思，她在哪裡？</n>喂！<PAGE></n>什麼？噢，我叫雅妮。</n>告訴我，威廉發生了什麼事？<PAGE></n>我不知道。那、那是誰？<PAGE></n>這一切的罪魁禍首。<PAGE></n>什麼？<PAGE></n>你能不能幫我找雪莉？<PAGE></n>進化速度似乎比預期中還快...<PAGE></n>你要去哪裡？<PAGE></n>聽著，我沒時間回答那麼多問題。<PAGE></n>一切都在控制當中。<PAGE></n>我需要找到雪莉。<PAGE></n>我女兒用不著你來擔心。
+<TIME 0.97, 3.5></n><TIME 4.83, 7.35></n><TIME 8.39, 11.52></n><TIME 12.7, 15.21></n><TIME 19.53, 22.75></n><TIME 23.93, 26.48></n><TIME 28.98, 30.66></n><TIME 34.32, 35.69></n><TIME 39.45, 40.6></n><TIME 40.62, 43.79></n><TIME 45.37, 46.74></n><TIME 47.14, 49.9></n><TIME 50.43, 51.8></n><TIME 52.59, 54.98></n><TIME 55.9, 59.75></n><TIME 61.12, 62.86></n><TIME 63.14, 67.91></n><TIME 68.02, 74.73></n><TIME 75.08, 76.84></n><TIME 76.88, 79.01></n><TIME 79.41, 80.56></n><TIME 82.31, 83.77></n><TIME 83.78, 86.84></n><TIME 88.59, 89.41></n><TIME 89.43, 93.16></n><TIME 94.93, 96.48></n><TIME 97.1, 98.01></n><TIME 98.03, 100.29></n>克莱尔？你还好吗？<PAGE></n>你听得见我的声音吗？克莱尔？<PAGE></n>克莱尔，你得赶紧起来。他要来抓我们了。<PAGE></n>醒醒！快醒醒！<PAGE></n>醒醒！快醒醒！<PAGE></n>睁开眼睛... 不要动...<PAGE></n>没有感染...<PAGE></n>... 雪莉？<PAGE></n>雪莉在哪里！？<PAGE></n>雪莉...</n>雪莉没事。<PAGE></n>你认识雪莉吗？<PAGE></n>... 真是惊人的力气。<PAGE></n>雪莉她怎么了？<PAGE></n>我们必须评估目前的情况。<PAGE></n>你是谁？... 我叫克莱尔。<PAGE></n>我没有料到...<PAGE></n>不好意思，雪莉在哪里？</n>... 你听见了吗？<PAGE></n>什么...？噢，亚妮。</n>告诉我，威廉怎么样了？<PAGE></n>我不知道。那、那是谁？<PAGE></n>造成这一切的怪物。<PAGE></n>什么？<PAGE></n>你能帮我找到雪莉吗？<PAGE></n>进化似乎比预期中的速度快得多...<PAGE></n>你要去哪里？<PAGE></n>听好了，我现在没时间陪你玩问答游戏。<PAGE></n>一切都在掌握之中。<PAGE></n>我必须找到雪莉...<PAGE></n>我的女儿不用你担心。
+クレア？</n>ねえ 大丈夫？
+Claire? Are you alright?
+Claire ? Est-ce que ça va ?
+Claire, stai bene?
+Claire?</n>Geht es dir gut?
+¿Claire? ¿Estás bien?
+Клэр? Ты в порядке?
+Claire? Wszystko w porządku?
+Claire? Você tá bem?
+클레어 언니? 괜찮아요?
+克蕾兒？你還好嗎？
+克莱尔？你还好吗？
+ねえ 聞こえる？</n>クレア…
+Can you hear me? Claire...?
+Est-ce que tu m'entends ? Claire ?
+Puoi sentirmi? Claire?
+Hörst du mich?</n>Claire?
+¿Me oyes? ¿Claire...?
+Ты меня слышишь? Клэр?..
+Słyszysz mnie? Claire...?
+Tá me ouvindo? Claire?
+내 말 들려요? 언니?
+你聽得到我說話嗎？克蕾兒？
+你听得见我的声音吗？克莱尔？
+クレア 早く起きて</n>捕まっちゃう
+Claire, you have to get up. He's going to get us.
+Claire, il faut te réveiller. Il va nous avoir.
+Claire, devi svegliarti. Lui sta arrivando.
+Claire, du musst aufstehen. </n>Er wird uns kriegen.
+Claire, levántate. Nos va a encontrar.
+Клэр, вставай. Он идет за нами.
+Claire, musisz wstać. On po nas przyjdzie.
+Claire, você tem que levantar. Ele vai pegar a gente!
+언니, 일어나요. 따라잡히겠어요.
+克蕾兒，你得起來，他要來抓我們了。
+克莱尔，你得赶紧起来。他要来抓我们了。
+ねえ起きて！　起きてよ！
+Wake up! Wake up!
+Réveille-toi ! Réveille-toi !
+Svegliati! Svegliati!
+Wach auf! Wach auf!
+¡Despierta! ¡Despierta!
+Проснись! Проснись же!
+Obudź się! Obudź się!
+Acorda! Acorda!
+일어나요! 일어나라고요!
+醒來！快醒來！
+醒醒！快醒醒！
+起きて！　起きなさい！
+Wake up! Wake up!
+Réveille-toi ! Réveille-toi !
+Svegliati. Svegliati!
+Wach auf. Wach auf!
+¡Despierta! ¡Despierta!
+Проснись! Проснись же!
+Obudź się! Obudź się!
+Acorda. Acorda!
+일어나! 일어나!
+醒來！快醒來！
+醒醒！快醒醒！
+目を開けて　そのまま
+Open your eyes... Hold still...
+Ouvre les yeux... Ne bouge pas...
+Apri gli occhi. Stai ferma.
+Öffne die Augen.</n>Halt still.
+Abre los ojos... Quieta...
+Открой глаза... Не двигайся...
+Otwórz oczy... Nie ruszaj się...
+Abre os olhos... Não se mexe.
+눈을 떠... 그대로...
+睜開眼睛，不要動...
+睁开眼睛... 不要动...
+感染はしてないのね
+Not infected...
+Non infectée...
+Beh, non sei infetta.
+Nicht infiziert.
+No infectada...
+Ты не заражена...
+Nie jesteś zarażona...
+Não foi infectada.
+감염되진 않았군...
+沒被感染。
+没有感染...
+何？
+(grimacing vocalization)
+Was zur?
+¿Pero qué...?
+(стоны)
+(odgłosy stęknięć)
+(grunhidos e caretas)
+(얼굴을 찡그림)
+（痛苦的呻吟）
+（痛苦的呻吟）
+シェリー？
+...Sherry?
+Sherry ?
+Sherry?
+Sherry?
+Sherry...
+...Шерри?
+...Sherry?
+Sherry?
+...셰리?
+... 雪莉？
+... 雪莉？
+シェリーは！？
+Where's Sherry!?
+Où est-elle ?
+Dov'è Sherry?
+Wo ist Sherry?!
+¿Y Sherry?
+Где Шерри?!
+Gdzie jest Sherry?
+Cadê a Sherry?!
+셰리는 어디 있죠!?
+雪莉在哪裡？！
+雪莉在哪里！？
+シェリー？</n>シェリーは無事よ
+Sherry...</n>Sherry's fine.
+Sherry... Sherry va bien.
+Sherry... Sherry sta bene.
+Sherry...</n>Sherry geht's gut.
+Sherry... Ella está bien.
+Шерри...</n>Шерри в порядке.
+Sherry...</n>Sherry nic nie jest.
+A Sherry...</n>Ela tá bem.
+셰리...</n>셰리는 괜찮아.
+雪莉...</n>雪莉沒事。
+雪莉...</n>雪莉没事。
+シェリーを知ってるの？
+Do you know Sherry?
+Vous la connaissez ?
+Conosce Sherry?
+Sie kennen Sherry?
+¿Conoces a Sherry?
+Вы знаете Шерри?
+Znasz Sherry?
+Você conhece a Sherry?
+셰리를 알아요?
+你認識雪莉？
+你认识雪莉吗？
+すさまじい力を示したわね
+...was an impressive display of strength.
+Quelle incroyable démonstration de force...
+Ha davvero una forza incredibile.
+... war ein beeindruckender Kraftakt.
+Vaya demostración de fuerza bruta...
+...поразительное проявление силы.
+...był imponujący pokaz siły.
+Que força impressionante...
+...힘이 대단하네.
+... 真是驚人的力氣。
+... 真是惊人的力气。
+何があったの？
+What happened to her?
+Que lui est-il arrivé ?
+Che le è successo?
+Was ist mit ihr?
+¿Qué le ha pasado?
+Что с ней случилось?
+Co się z nią stało?
+O que aconteceu com ela?
+셰리한테 무슨 일이 생긴 거죠?
+她怎麼了？
+雪莉她怎么了？
+急いで調べないと…
+We have to assess the situation.
+On doit évaluer la situation...
+Bisogna valutare la situazione. 
+Wir müssen die Lage einschätzen.
+Hay que valorar la situación...
+Нужно оценить обстановку.
+Musimy oszacować sytuację.
+A gente tem que avaliar a situação.
+서둘러 알아봐야해.
+我們必須評估狀況。
+我们必须评估目前的情况。
+あなたは？　私はクレア
+Who are you? ...I'm Claire.
+Qui êtes-vous ? Moi, c'est Claire.
+Chi è lei? Io sono Claire.
+Wer sind Sie?</n>Ich bin Claire.
+¿Quién eres? Soy Claire.
+Вы кто? ...Я Клэр.
+Kim jesteś? ...Ja jestem Claire.
+Quem é você? O meu nome é Claire.
+당신은 누구죠? ...난 클레어예요.
+你是誰？... 我是克蕾兒。
+你是谁？... 我叫克莱尔。
+想定外だったわ…
+I didn't foresee this...
+J'avais pas prévu ça...
+Non l'avevo previsto.
+War nicht vorherzusehen...
+No preví esto.
+Этого я не предвидела...
+Nie przewidziałam tego...
+Não previ isso...
+이건 예상하지 못했는데...
+我沒預料到這個。
+我没有料到...
+教えて シェリーはどこ？</n>聞いてる？
+Excuse me, where is she?</n>...Hello?
+Excusez-moi, où est-elle ?</n>Allô ?
+Mi scusi, dov'è Sherry? Ehi!
+Sagen Sie mir... Wo ist sie?</n>... Hallo?
+Perdona, ¿y Sherry? ¿Hola...?
+Простите, где она?</n>...Вы слышите меня?
+Przepraszam, gdzie ona jest?</n>...Halo?
+Oi, com licença, cadê ela?</n>Oi?!
+저기, 셰리는 어디 있어요?</n>...저기요?
+不好意思，她在哪裡？</n>喂！
+不好意思，雪莉在哪里？</n>... 你听见了吗？
+え？　あぁ アネットよ</n>ウィリアムに何があったか教えて
+What...? Oh, Annette.</n>Tell me, what happened to William?
+Hein ? Oh, Annette.</n>Dis-moi, qu'est-ce qui est arrivé à William ?
+Cosa? Oh... Annette.</n>Dimmi, che è successo a William?
+Was? Oh, Annette.</n>Sag mir, was ist mit William?
+¿Qué...? Oh, Annette.</n>Dime, ¿dónde está William?
+Что?... О, я Аннет.</n>Скажи, что случилось с Уильямом?
+Co...? Och, Annette.</n>Wiesz, co się stało z Williamem?
+Quê? Ah. Annette.</n>O que aconteceu com o William?
+뭐...? 아, 아네트라고 해.</n>저기, 윌리엄은 어떻게 됐지?
+什麼？噢，我叫雅妮。</n>告訴我，威廉發生了什麼事？
+什么...？噢，亚妮。</n>告诉我，威廉怎么样了？
+誰なの？</n>ウィリアムって
+I don't know. Who's—who's that?
+Je sais pas. De qui vous parlez ?
+Non lo so. Chi... Chi è?
+Ich weiß nicht. Wer – wer ist das?
+No sé... de quién hablas.
+Не знаю. Кто... Кто это?
+Nie wiem. Kto... kto to jest?
+Eu não sei. Quem... quem é esse?
+몰라요. 그—그게 누구죠?
+我不知道。那、那是誰？
+我不知道。那、那是谁？
+この事態を引き起こした化け物よ
+The creature responsible for this.
+La créature responsable de tout ça.
+La creatura che ha causato questo.
+Die Kreatur, die das hier verursacht hat.
+De la criatura responsable de esto.
+Существо, учинившее все это.
+Stwór, który to zrobił.
+A criatura que causou isso tudo.
+여길 이렇게 만든 그거 말이야.
+這一切的罪魁禍首。
+造成这一切的怪物。
+え？
+What...?
+Quoi ?
+Cosa?
+Was?
+¿Qué...?
+Что?..
+Co...?
+Quê?!
+뭐라고요...?
+什麼？
+什么？
+そんなことよりシェリーは？
+Can you help me find Sherry?
+Aidez-moi à retrouver Sherry.
+Mi aiuta a trovare Sherry?
+Helfen Sie mir, Sherry zu finden?
+¿Me ayudas a buscar a Sherry?
+Вы поможете мне найти Шерри?
+Pomożesz mi znaleźć Sherry?
+Você pode me ajudar a encontrar a Sherry?
+셰리를 찾게 도와줄래요?
+你能不能幫我找雪莉？
+你能帮我找到雪莉吗？
+予想してた以上に進化が速いみたいね
+Seems to be evolving much faster than expected...
+On dirait qu'il évolue beaucoup plus vite que prévu...
+Sembra si evolva più velocemente del previsto.
+Scheint sich viel schneller</n>zu entwickeln als erwartet...
+Evoluciona mucho más rápido de lo esperado...
+Похоже, оно эволюционирует быстрее, чем ожидалось...
+Wygląda, że ewoluuje dużo szybciej niż się spodziewałam...
+Ele parece estar evoluindo bem mais rápido do que o esperado...
+예상보다 진화 속도가 빨라...
+進化速度似乎比預期中還快...
+进化似乎比预期中的速度快得多...
+どこへ行くの？
+Where are you going?
+Où allez-vous ?
+Adesso dove va?
+Wo gehen Sie hin?
+¿Adónde vas?
+Вы куда?
+Dokąd się wybierasz?
+Aonde você vai?
+어디 가는 거죠?
+你要去哪裡？
+你要去哪里？
+いい？</n>あなたの質問に答えてる暇はないの
+Look, I don't have time to play twenty questions.
+Écoute, j'ai pas le temps de répondre à toutes tes questions.
+Senti, non ho tempo per rispondere alle tue domande.
+Hör zu, für Fragespielchen hab ich keine Zeit.
+Mira, no hay tiempo que perder con preguntas.
+Слушай, у меня нет времени отвечать на дурацкие вопросы.
+Nie mam czasu na grę w „100 pytań do”.
+Olha, eu não tenho tempo pra ficar te respondendo.
+저기, 스무고개 놀이 할 시간은 없거든.
+聽著，我沒時間回答那麼多問題。
+听好了，我现在没时间陪你玩问答游戏。
+何も問題ないわ
+Everything is under control.
+Tout est sous contrôle, d'accord ?
+È tutto sotto controllo.
+Alles ist unter Kontrolle.
+Está todo controlado.
+Все под контролем.
+Wszystko jest pod kontrolą.
+Está tudo sob controle.
+다 제대로 돌아가고 있으니까.
+一切都在控制當中。
+一切都在掌握之中。
+シェリーを見つけないと
+I need to find Sherry—
+Je dois retrouver Sherry...
+Io devo trovare Sherry...
+Ich muss Sherry finden.
+Debo encontrar a Sherry...
+Мне нужно найти Шерри...
+Muszę znaleźć Sherry...
+Eu preciso encontrar a Sherry...
+셰리를 찾아야—
+我需要找到雪莉。
+我必须找到雪莉...
+娘の心配は無用よ
+My daughter is not your concern.
+Ne t'occupe pas de ma fille !
+Mia figlia non è un tuo problema!
+Meine Tochter geht dich nichts an.
+Mi hija no es cosa tuya.
+Моя дочь — не твоя забота.
+Moja córka nie powinna cię obchodzić.
+Minha filha não é da sua conta.
+내 딸은 걱정하지 않아도 돼.
+我女兒用不著你來擔心。
+我的女儿不用你担心。

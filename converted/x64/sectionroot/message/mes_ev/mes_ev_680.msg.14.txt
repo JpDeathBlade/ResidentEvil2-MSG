@@ -1,0 +1,441 @@
+﻿<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>早く！<PAGE></n>エイダ<PAGE></n>どこにいる？<PAGE></n>こっちよ<PAGE></n>エイダ<PAGE></n>心配したぞ<PAGE></n>自分じゃ抜けない<PAGE></n>俺だって無理だ<PAGE></n>やって</n>これじゃ歩けないわ<PAGE></n>分かった　こらえろよ<PAGE></n>じっとして<PAGE></n>自分でやれる<PAGE></n>いいから楽にして<PAGE></n>それで？</n>これからどうする？<PAGE></n>あなたは逃げて</n>逃げられるうちに<PAGE></n>君を置いてけない</n>こんな状態で<PAGE></n>思ってた以上に状況が厳しいのよ<PAGE></n>そう簡単に引くかよ<PAGE></n>今度は俺が君を守る<PAGE></n>そこまで張り合うわけ？<PAGE></n>つかまって<PAGE></n>調子に乗らないで<PAGE></n>助けようとしただけだ<PAGE></n>気をつけて<PAGE></n>助けたいならNESTへ行きましょう<PAGE></n>NEST？<PAGE></n>アンブレラの研究所</n>この下にある<PAGE></n>アネットが言ってた</n>ウィルスのサンプルがあるって<PAGE></n>どう？　つきあう？<PAGE></n>他に予定もないしね<PAGE></n>行くわよ</n>やることがいっぱい<PAGE></n>了解
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Come on...<PAGE></n>ADA!?<PAGE></n>ADA, WHERE ARE YOU!?<PAGE></n>OVER HERE!<PAGE></n>Ada...<PAGE></n>I was getting worried there for a sec...<PAGE></n>I can't get it out.<PAGE></n>I don't know if I should, uh...<PAGE></n>Just do it. I can't walk like this.<PAGE></n>OK... It's gonna hurt.<PAGE></n>Hold on...<PAGE></n>I can do it myself.<PAGE></n>Just...relax, OK?<PAGE></n>So...what do we do now?<PAGE></n>Get yourself out of here. While you still can.<PAGE></n>I'm not just going to leave you. Not like this.<PAGE></n>You don't understand. The situation's worse than I thought.<PAGE></n>You're not getting rid of me that easy...<PAGE></n>You protected me. Now it's my turn.<PAGE></n>Didn't realize we were keeping score...<PAGE></n>Grab my shoulder.<PAGE></n>Don't push it, rookie.<PAGE></n>OK...</n>Just trying to help.<PAGE></n>Watch your step.<PAGE></n>You want to help?</n>We have to get to the NEST.<PAGE></n>NEST?<PAGE></n>Umbrella's lab. Right beneath us.<PAGE></n>Annette let it slip.</n>That's where the virus samples are.<PAGE></n>You up for this?<PAGE></n>Think I can fit it in my schedule.<PAGE></n>Come on, we got work to do.<PAGE></n>Yes, ma'am.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Allez...<PAGE></n>Ada ?!<PAGE></n>Ada, où es-tu ?!<PAGE></n>Par ici !<PAGE></n>Ada...<PAGE></n>Je commençais à m'inquiéter...<PAGE></n>Je peux pas l'enlever.<PAGE></n>Je sais pas si je devrais, euh...<PAGE></n>Fais-le. Je peux pas marcher avec ça.<PAGE></n>OK... Ça va faire mal.<PAGE></n>Bouge pas...<PAGE></n>Ça va, je peux le faire.<PAGE></n>Détends-toi, OK ?<PAGE></n>Alors, qu'est-ce qu'on fait maintenant ?<PAGE></n>Tu devrais partir. Pendant que tu le peux encore.<PAGE></n>Je vais pas t'abandonner. Pas dans cet état.<PAGE></n>Tu comprends pas. La situation est pire que ce que je pensais.<PAGE></n>On se débarrasse pas de moi comme ça.<PAGE></n>Tu m'as sauvé. C'est à mon tour.<PAGE></n>Alors comme ça on compte les points ?<PAGE></n>Tiens-toi à moi.<PAGE></n>N'abuse pas non plus, hein !<PAGE></n>OK ! Je voulais juste t'aider.<PAGE></n>Fais attention.<PAGE></n>Tu veux m'aider ?</n>Il faut qu'on aille au NEST.<PAGE></n>NEST ?<PAGE></n>Le labo d'Umbrella. Là, sous nos pieds.<PAGE></n>Annette en a parlé.</n>Les échantillons du virus s'y trouvent.<PAGE></n>Tu es partant ?<PAGE></n>Je crois que je peux caser ça dans mon planning.<PAGE></n>Allez, on a du pain sur la planche.<PAGE></n>Oui, chef.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Forza...<PAGE></n>Ada!<PAGE></n>Ada, dove sei?<PAGE></n>Ehi, di qua!<PAGE></n>Ada!<PAGE></n>Mi hai quasi fatto preoccupare...<PAGE></n>Non riesco a toglierlo.<PAGE></n>Beh, non so se dovrei...<PAGE></n>Fallo. Non posso camminare così.<PAGE></n>Ok... Farà male.<PAGE></n>Aspetta.<PAGE></n>Faccio da sola.<PAGE></n>Sta' tranquilla, ok?<PAGE></n>Bene... Che facciamo ora?<PAGE></n>Vattene da qui... finché sei in tempo.<PAGE></n>Non ti lascio qui da sola. Non così.<PAGE></n>Tu non capisci. È peggio di quanto pensassi.<PAGE></n>Non ti libererai di me.<PAGE></n>Mi hai salvato. Ora è il mio turno.<PAGE></n>Non pensavo tenessi il conto.<PAGE></n>Appoggiati a me.<PAGE></n>Non allargarti.<PAGE></n>Ok, volevo aiutarti.<PAGE></n>Fa' attenzione.<PAGE></n>Vuoi aiutare? Dobbiamo andare al NEST.<PAGE></n>Il NEST?<PAGE></n>Il laboratorio... sotto di noi.<PAGE></n>Ne parlava Annette. I campioni del virus sono lì.</n><PAGE></n>Te la senti?<PAGE></n>Non credo di avere altri impegni.<PAGE></n>Avanti! C'è del lavoro da fare.<PAGE></n>Sissignora.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Komm schon...<PAGE></n>Ada?!<PAGE></n>Ada, wo bist du?!<PAGE></n>Ich bin hier!<PAGE></n>Ada...<PAGE></n>Ich war gerade schon in Sorge...<PAGE></n>Ich krieg es nicht raus.<PAGE></n>Ich weiß nicht, ob ich das, äh...<PAGE></n>Tu's einfach.</n>Ich kann so nicht laufen.<PAGE></n>Okay...</n>Wird wehtun.<PAGE></n>Warte...<PAGE></n>Lass doch, ich mach's selbst.<PAGE></n>Entspann dich, okay?<PAGE></n>Also... wie geht's weiter?<PAGE></n>Sieh zu, dass du's hier raus schaffst.</n>Solang du noch kannst.<PAGE></n>Ich werd dich nicht hierlassen.</n>Nicht so.<PAGE></n>Du verstehst es nicht.</n>Die Situation ist übler, als ich dachte.<PAGE></n>So einfach wirst du mich nicht los.<PAGE></n>Du hast mich beschützt.</n>Jetzt bin ich dran.<PAGE></n>Wusste nicht, dass wir hier Punkte zählen.<PAGE></n>Greif meine Schulter.<PAGE></n>Ganz schön mutig, Frischling.<PAGE></n>Okay...</n>Will ja nur helfen.<PAGE></n>Vorsichtig.<PAGE></n>Du willst helfen?</n>Wir müssen dringend zum NEST.<PAGE></n>NEST?<PAGE></n>Umbrellas Labor.</n>Direkt unter uns.<PAGE></n>Annette hat sich verplappert.</n>Dort sind die Virusproben.<PAGE></n>Bist du dabei?<PAGE></n>Denke, mein Kalender ist frei.<PAGE></n>Komm, wir haben was zu tun.<PAGE></n>Ja, Ma'am.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Venga...<PAGE></n>¡¿Ada?!<PAGE></n>¡¿Ada, dónde estás?!<PAGE></n>Aquí...<PAGE></n>Ada...<PAGE></n>Empezaba a preocuparme...<PAGE></n>No puedo sacarlo.<PAGE></n>No sé si lo mejor sería...<PAGE></n>Sácalo. No puedo caminar así.<PAGE></n>Vale... Dolerá.<PAGE></n>Aguanta...<PAGE></n>Puedo yo sola.<PAGE></n>Solo... Relájate...<PAGE></n>Bueno... ¿Qué hacemos ahora?<PAGE></n>Vete de aquí ya, mientras puedas.<PAGE></n>No voy a dejarte aquí. Menos así.<PAGE></n>No lo entiendes... Es aún peor de lo que pensaba.<PAGE></n>No te vas a librar de mí.<PAGE></n>Me ayudaste. Me toca a mí.<PAGE></n>No sabía que llevábamos la cuenta...<PAGE></n>Apóyate.<PAGE></n>No te pases, novato.<PAGE></n>Vale, lo intentaba...<PAGE></n>Ten cuidado.<PAGE></n>¿Quieres ayudar?</n>Pues lleguemos a NEST.<PAGE></n>¿NEST?<PAGE></n>El laboratorio subterráneo.<PAGE></n>Se le escapó a Annette.</n>Ahí están las muestras del virus.<PAGE></n>¿Cuento contigo?<PAGE></n>Haré un hueco en la agenda.<PAGE></n>Venga, hay cosas que hacer.<PAGE></n>Sí, señora.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Ну давай...<PAGE></n>АДА?!<PAGE></n>Ада, ты где?!<PAGE></n>Сюда!<PAGE></n>Ада...<PAGE></n>Я уж было начал беспокоиться...<PAGE></n>Не могу вытащить.<PAGE></n>Не знаю, стоит ли, ну...<PAGE></n>Вытаскивай! Я не смогу ходить с этой штукой.<PAGE></n>Хорошо... Но будет больно.<PAGE></n>Держись...<PAGE></n>Дальше я сама справлюсь.<PAGE></n>Успокойся... Все в порядке.<PAGE></n>Ну... Что теперь?<PAGE></n>Уходи отсюда. Пока еще можешь.<PAGE></n>Я тебя не оставлю. Тем более в таком состоянии.<PAGE></n>Ты не понимаешь. Все хуже, чем я предполагала.<PAGE></n>Тебе от меня так просто не отделаться...<PAGE></n>Ты спасла меня. Теперь моя очередь.<PAGE></n>Вот как, услуга за услугу?..<PAGE></n>Облокотись на меня.<PAGE></n>Так, погоди, погоди пока.<PAGE></n>Ладно...</n>Я просто хотел помочь.<PAGE></n>Осторожнее.<PAGE></n>Хочешь помочь?</n>Нужно добраться до NEST.<PAGE></n>NEST?<PAGE></n>Лаборатории Umbrella. Она прямо под нами.<PAGE></n>Аннет проболталась.</n>Там находятся образцы вируса.<PAGE></n>Ну что, поможешь?<PAGE></n>Думаю, смогу выкроить время.<PAGE></n>Тогда идем, за работу.<PAGE></n>Как скажете, мэм.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>No, dalej...<PAGE></n>ADA!?<PAGE></n>ADA, GDZIE JESTEŚ!?<PAGE></n>TUTAJ!<PAGE></n>Ada...<PAGE></n>Już zaczynałem się martwić...<PAGE></n>Nie mogę tego wyciągnąć.<PAGE></n>Nie wiem, czy powinienem...<PAGE></n>Zrób to. Nie mogę z tym chodzić.<PAGE></n>Okej... Będzie bolało.<PAGE></n>Trzymaj się...<PAGE></n>Mogę to zrobić sama.<PAGE></n>Uspokój się, dobrze?<PAGE></n>To co teraz robimy?<PAGE></n>Zabieraj się stąd. Póki możesz.<PAGE></n>Nie zostawię cię tu. Nie w tym stanie.<PAGE></n>Nie rozumiesz. Jest gorzej niż myślałam.<PAGE></n>Tak łatwo mnie nie spławisz.<PAGE></n>Uratowałaś mnie. Teraz moja kolej.<PAGE></n>Nie wiedziałam, że liczysz punkty...<PAGE></n>Chwyć mnie za ramię.<PAGE></n>Nie przeginaj, młody.<PAGE></n>Spokojnie...</n>Chcę tylko pomóc.<PAGE></n>Patrz pod nogi.<PAGE></n>Chcesz pomóc?</n>Musimy się dostać do NEST.<PAGE></n>Do NEST?<PAGE></n>Laboratorium Umbrelli. Dokładnie pod nami.<PAGE></n>Annette się wygadała.</n>Trzymają tam próbki wirusa.<PAGE></n>Piszesz się na to?<PAGE></n>Myślę, że znajdę wolną chwilę.<PAGE></n>Chodź, mamy coś do zrobienia.<PAGE></n>Tak, proszę pani.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>Vai logo...<PAGE></n>ADA?!<PAGE></n>ADA, CADÊ VOCÊ?!<PAGE></n>AQUI!<PAGE></n>Ada!<PAGE></n>Você me deixou preocupado.<PAGE></n>Não consigo tirar esse troço.<PAGE></n>Não sei se eu devia, hã...<PAGE></n>Vai logo, não dá pra eu andar assim.<PAGE></n>Tá bom... Vai doer.<PAGE></n>Aguenta aí...<PAGE></n>Eu consigo fazer isso sozinha.<PAGE></n>Olha, relaxa, tá bom?<PAGE></n>Então... e agora, o que a gente faz?<PAGE></n>Você dá o fora daqui. Enquanto ainda pode.<PAGE></n>Não vou te abandonar assim. Não nesse estado.<PAGE></n>Você não tá entendendo. A situação tá pior do que eu pensei.<PAGE></n>Você não vai se livrar de mim assim tão fácil.<PAGE></n>Você me protegeu. Agora é a minha vez.<PAGE></n>Não sabia que a gente tava registrando...<PAGE></n>Segura no meu ombro.<PAGE></n>Não força a barra, novato.<PAGE></n>Tá bom.</n>Só tô tentando ajudar.<PAGE></n>Cuidado onde pisa.<PAGE></n>Quer ajudar?</n>A gente tem que chegar no NEST.<PAGE></n>NEST?<PAGE></n>O laboratório da Umbrella. Bem embaixo da gente.<PAGE></n>A Annette falou sem querer.</n>É lá que estão as amostras do vírus.<PAGE></n>E aí, tá dentro?<PAGE></n>Acho que dá pra encaixar na minha agenda.<PAGE></n>Bora, a gente tem um trabalho a fazer.<PAGE></n>Sim, senhora.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>제발...<PAGE></n>에이다!?<PAGE></n>에이다, 어디 있어!?<PAGE></n>여기야!<PAGE></n>에이다...<PAGE></n>잠깐 걱정했는데...<PAGE></n>뺄 수가 없어...<PAGE></n>내가 해도 괜찮을지, 그러니까...<PAGE></n>그냥 해. 이렇게는 못 걸으니까.<PAGE></n>알았어... 좀 아플 거야.<PAGE></n>잠깐...<PAGE></n>나 혼자 할 수 있어.<PAGE></n>그냥... 편히 있어, 알겠지?<PAGE></n>그래... 이제 어쩌지?<PAGE></n>당신은 빠져나가도록 해. 아직 가능할 때 말이야.<PAGE></n>당신을 그냥 이렇게 두고 갈 수는 없지. 이렇게는 안 돼.<PAGE></n>이해를 못하는 것 같은데. 상황이 내 생각보다 훨씬 심각하다고.<PAGE></n>날 그렇게 쉽게 떨쳐낼 수는 없을 거야...<PAGE></n>당신이 날 보호해줬잖아. 이제 내 차례지.<PAGE></n>서로 내기를 하고 있는 줄은 몰랐네...<PAGE></n>내 어깨를 잡아.<PAGE></n>너무 밀어붙이진 말라고, 신참.<PAGE></n>알겠어...</n>그냥 도와주려던 것뿐이야.<PAGE></n>발 밑 조심하고.<PAGE></n>도와주고 싶어?</n>마침 네스트에 가려던 참인데.<PAGE></n>네스트?<PAGE></n>엄브렐러의 실험실이야. 바로 이 아래지.<PAGE></n>아네트가 그러더라고.</n>바로 거기 바이러스 샘플이 있어.<PAGE></n>같이 할래?<PAGE></n>일정에 끼워넣지 뭐.<PAGE></n>가자, 할 일이 있으니까.<PAGE></n>알겠습니다.
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>快呀...<PAGE></n>艾達！？<PAGE></n>艾達，你在哪裡！？<PAGE></n>我在這裡！<PAGE></n>艾達...<PAGE></n>你剛剛害我擔心了一下。<PAGE></n>我拔不出來。<PAGE></n>我不知道我該不該... 呃...<PAGE></n>拔就對了。這樣子我沒辦法走路。<PAGE></n>好吧，會痛喔。<PAGE></n>撐著點...<PAGE></n>我可以自己來。<PAGE></n>放鬆就對了，好嗎？<PAGE></n>所以呢... 現在怎麼辦？<PAGE></n>你快走吧，趁現在還來得及。<PAGE></n>我不能丟下你，況且你還受傷了。<PAGE></n>你不懂。這裡的狀況比我想得還糟。<PAGE></n>我不會就這樣被你打發走...<PAGE></n>你保護過我，現在換我保護你。<PAGE></n>我們有在計較這個嗎...<PAGE></n>抓住我的肩膀。<PAGE></n>菜鳥，別得寸進尺。<PAGE></n>好吧...</n>我只是想幫忙。<PAGE></n>小心腳步。<PAGE></n>你想幫忙嗎？</n>我們必須到NEST去。<PAGE></n>NEST?<PAGE></n>保護傘公司的實驗室，就在我們正下方。<PAGE></n>雅妮說溜了嘴。</n>病毒樣本就在那裡。<PAGE></n>你要來嗎？<PAGE></n>應該可以配合囉。<PAGE></n>來吧，我們有正事要辦。<PAGE></n>遵命，女士。
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>快啊...<PAGE></n>艾达！？<PAGE></n>艾达，你在哪里！？<PAGE></n>我在这里...<PAGE></n>艾达...<PAGE></n>你刚才害我担心了一下...<PAGE></n>我拔不出来。<PAGE></n>我不确定自己该不该... 呃...<PAGE></n>快动手。这样我可没法走路。<PAGE></n>好吧... 会有点痛哦。<PAGE></n>撑住...<PAGE></n>我自己能行。<PAGE></n>先... 放轻松，好吗？<PAGE></n>那么... 现在该怎么做？<PAGE></n>你快点离开这里，趁你还走得了。<PAGE></n>我无法放着你不管，况且你还受伤了。<PAGE></n>你不明白。情况比我想得更糟糕。<PAGE></n>想甩掉我可没那么容易...<PAGE></n>你保护了我，现在换我保护你。<PAGE></n>我真没发现你那么爱计较...<PAGE></n>抓住我的肩膀。<PAGE></n>菜鸟，你别得意忘形呀。<PAGE></n>好吧...</n>我只是想帮你。<PAGE></n>你慢慢走。<PAGE></n>你想帮忙对吧？</n>我们必须去母巢。<PAGE></n>母巢？<PAGE></n>保护伞的实验室，就在我们正下方。<PAGE></n>亚妮说漏了嘴。</n>病毒样本就在那里。<PAGE></n>要一起去吗？<PAGE></n>应该可以。<PAGE></n>来吧，还有正事要做呢。<PAGE></n>遵命，女士。
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+<TIME 2.04, 3.58><TIME 6.46, 7.65><TIME 7.75, 9.12><TIME 9.43, 11.01><TIME 13.31, 14.28><TIME 15.22, 16.8><TIME 18.47, 19.86><TIME 19.92, 21.69><TIME 21.76, 24.13><TIME 25.8, 28.44><TIME 32.29, 33.63><TIME 37.1, 38.21><TIME 38.24, 39.91><TIME 45.81, 47.93><TIME 50.49, 54.32><TIME 54.83, 58.19><TIME 59.0, 64.54><TIME 65.17, 67.0><TIME 68.17, 71.48><TIME 72.87, 74.91><TIME 79.68, 80.75><TIME 80.77, 82.44><TIME 82.74, 84.23><TIME 85.79, 86.87><TIME 88.96, 92.45><TIME 92.47, 93.56><TIME 93.82, 96.58><TIME 96.93, 100.01><TIME 101.62, 103.06><TIME 104.14, 105.98><TIME 107.16, 110.02><TIME 110.68, 111.97>
+早く！
+Come on...
+Allez...
+Forza...
+Komm schon...
+Venga...
+Ну давай...
+No, dalej...
+Vai logo...
+제발...
+快呀...
+快啊...
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+エイダ
+ADA!?
+Ada ?!
+Ada!
+Ada?!
+¡¿Ada?!
+АДА?!
+ADA!?
+ADA?!
+에이다!?
+艾達！？
+艾达！？
+どこにいる？
+ADA, WHERE ARE YOU!?
+Ada, où es-tu ?!
+Ada, dove sei?
+Ada, wo bist du?!
+¡¿Ada, dónde estás?!
+Ада, ты где?!
+ADA, GDZIE JESTEŚ!?
+ADA, CADÊ VOCÊ?!
+에이다, 어디 있어!?
+艾達，你在哪裡！？
+艾达，你在哪里！？
+こっちよ
+OVER HERE!
+Par ici !
+Ehi, di qua!
+Ich bin hier!
+Aquí...
+Сюда!
+TUTAJ!
+AQUI!
+여기야!
+我在這裡！
+我在这里...
+エイダ
+Ada...
+Ada...
+Ada!
+Ada...
+Ada...
+Ада...
+Ada...
+Ada!
+에이다...
+艾達...
+艾达...
+心配したぞ
+I was getting worried there for a sec...
+Je commençais à m'inquiéter...
+Mi hai quasi fatto preoccupare...
+Ich war gerade schon in Sorge...
+Empezaba a preocuparme...
+Я уж было начал беспокоиться...
+Już zaczynałem się martwić...
+Você me deixou preocupado.
+잠깐 걱정했는데...
+你剛剛害我擔心了一下。
+你刚才害我担心了一下...
+自分じゃ抜けない
+I can't get it out.
+Je peux pas l'enlever.
+Non riesco a toglierlo.
+Ich krieg es nicht raus.
+No puedo sacarlo.
+Не могу вытащить.
+Nie mogę tego wyciągnąć.
+Não consigo tirar esse troço.
+뺄 수가 없어...
+我拔不出來。
+我拔不出来。
+俺だって無理だ
+I don't know if I should, uh...
+Je sais pas si je devrais, euh...
+Beh, non so se dovrei...
+Ich weiß nicht, ob ich das, äh...
+No sé si lo mejor sería...
+Не знаю, стоит ли, ну...
+Nie wiem, czy powinienem...
+Não sei se eu devia, hã...
+내가 해도 괜찮을지, 그러니까...
+我不知道我該不該... 呃...
+我不确定自己该不该... 呃...
+やって</n>これじゃ歩けないわ
+Just do it. I can't walk like this.
+Fais-le. Je peux pas marcher avec ça.
+Fallo. Non posso camminare così.
+Tu's einfach.</n>Ich kann so nicht laufen.
+Sácalo. No puedo caminar así.
+Вытаскивай! Я не смогу ходить с этой штукой.
+Zrób to. Nie mogę z tym chodzić.
+Vai logo, não dá pra eu andar assim.
+그냥 해. 이렇게는 못 걸으니까.
+拔就對了。這樣子我沒辦法走路。
+快动手。这样我可没法走路。
+分かった　こらえろよ
+OK... It's gonna hurt.
+OK... Ça va faire mal.
+Ok... Farà male.
+Okay...</n>Wird wehtun.
+Vale... Dolerá.
+Хорошо... Но будет больно.
+Okej... Będzie bolało.
+Tá bom... Vai doer.
+알았어... 좀 아플 거야.
+好吧，會痛喔。
+好吧... 会有点痛哦。
+じっとして
+Hold on...
+Bouge pas...
+Aspetta.
+Warte...
+Aguanta...
+Держись...
+Trzymaj się...
+Aguenta aí...
+잠깐...
+撐著點...
+撑住...
+自分でやれる
+I can do it myself.
+Ça va, je peux le faire.
+Faccio da sola.
+Lass doch, ich mach's selbst.
+Puedo yo sola.
+Дальше я сама справлюсь.
+Mogę to zrobić sama.
+Eu consigo fazer isso sozinha.
+나 혼자 할 수 있어.
+我可以自己來。
+我自己能行。
+いいから楽にして
+Just...relax, OK?
+Détends-toi, OK ?
+Sta' tranquilla, ok?
+Entspann dich, okay?
+Solo... Relájate...
+Успокойся... Все в порядке.
+Uspokój się, dobrze?
+Olha, relaxa, tá bom?
+그냥... 편히 있어, 알겠지?
+放鬆就對了，好嗎？
+先... 放轻松，好吗？
+それで？</n>これからどうする？
+So...what do we do now?
+Alors, qu'est-ce qu'on fait maintenant ?
+Bene... Che facciamo ora?
+Also... wie geht's weiter?
+Bueno... ¿Qué hacemos ahora?
+Ну... Что теперь?
+To co teraz robimy?
+Então... e agora, o que a gente faz?
+그래... 이제 어쩌지?
+所以呢... 現在怎麼辦？
+那么... 现在该怎么做？
+あなたは逃げて</n>逃げられるうちに
+Get yourself out of here. While you still can.
+Tu devrais partir. Pendant que tu le peux encore.
+Vattene da qui... finché sei in tempo.
+Sieh zu, dass du's hier raus schaffst.</n>Solang du noch kannst.
+Vete de aquí ya, mientras puedas.
+Уходи отсюда. Пока еще можешь.
+Zabieraj się stąd. Póki możesz.
+Você dá o fora daqui. Enquanto ainda pode.
+당신은 빠져나가도록 해. 아직 가능할 때 말이야.
+你快走吧，趁現在還來得及。
+你快点离开这里，趁你还走得了。
+君を置いてけない</n>こんな状態で
+I'm not just going to leave you. Not like this.
+Je vais pas t'abandonner. Pas dans cet état.
+Non ti lascio qui da sola. Non così.
+Ich werd dich nicht hierlassen.</n>Nicht so.
+No voy a dejarte aquí. Menos así.
+Я тебя не оставлю. Тем более в таком состоянии.
+Nie zostawię cię tu. Nie w tym stanie.
+Não vou te abandonar assim. Não nesse estado.
+당신을 그냥 이렇게 두고 갈 수는 없지. 이렇게는 안 돼.
+我不能丟下你，況且你還受傷了。
+我无法放着你不管，况且你还受伤了。
+思ってた以上に状況が厳しいのよ
+You don't understand. The situation's worse than I thought.
+Tu comprends pas. La situation est pire que ce que je pensais.
+Tu non capisci. È peggio di quanto pensassi.
+Du verstehst es nicht.</n>Die Situation ist übler, als ich dachte.
+No lo entiendes... Es aún peor de lo que pensaba.
+Ты не понимаешь. Все хуже, чем я предполагала.
+Nie rozumiesz. Jest gorzej niż myślałam.
+Você não tá entendendo. A situação tá pior do que eu pensei.
+이해를 못하는 것 같은데. 상황이 내 생각보다 훨씬 심각하다고.
+你不懂。這裡的狀況比我想得還糟。
+你不明白。情况比我想得更糟糕。
+そう簡単に引くかよ
+You're not getting rid of me that easy...
+On se débarrasse pas de moi comme ça.
+Non ti libererai di me.
+So einfach wirst du mich nicht los.
+No te vas a librar de mí.
+Тебе от меня так просто не отделаться...
+Tak łatwo mnie nie spławisz.
+Você não vai se livrar de mim assim tão fácil.
+날 그렇게 쉽게 떨쳐낼 수는 없을 거야...
+我不會就這樣被你打發走...
+想甩掉我可没那么容易...
+今度は俺が君を守る
+You protected me. Now it's my turn.
+Tu m'as sauvé. C'est à mon tour.
+Mi hai salvato. Ora è il mio turno.
+Du hast mich beschützt.</n>Jetzt bin ich dran.
+Me ayudaste. Me toca a mí.
+Ты спасла меня. Теперь моя очередь.
+Uratowałaś mnie. Teraz moja kolej.
+Você me protegeu. Agora é a minha vez.
+당신이 날 보호해줬잖아. 이제 내 차례지.
+你保護過我，現在換我保護你。
+你保护了我，现在换我保护你。
+そこまで張り合うわけ？
+Didn't realize we were keeping score...
+Alors comme ça on compte les points ?
+Non pensavo tenessi il conto.
+Wusste nicht, dass wir hier Punkte zählen.
+No sabía que llevábamos la cuenta...
+Вот как, услуга за услугу?..
+Nie wiedziałam, że liczysz punkty...
+Não sabia que a gente tava registrando...
+서로 내기를 하고 있는 줄은 몰랐네...
+我們有在計較這個嗎...
+我真没发现你那么爱计较...
+つかまって
+Grab my shoulder.
+Tiens-toi à moi.
+Appoggiati a me.
+Greif meine Schulter.
+Apóyate.
+Облокотись на меня.
+Chwyć mnie za ramię.
+Segura no meu ombro.
+내 어깨를 잡아.
+抓住我的肩膀。
+抓住我的肩膀。
+調子に乗らないで
+Don't push it, rookie.
+N'abuse pas non plus, hein !
+Non allargarti.
+Ganz schön mutig, Frischling.
+No te pases, novato.
+Так, погоди, погоди пока.
+Nie przeginaj, młody.
+Não força a barra, novato.
+너무 밀어붙이진 말라고, 신참.
+菜鳥，別得寸進尺。
+菜鸟，你别得意忘形呀。
+助けようとしただけだ
+OK...</n>Just trying to help.
+OK ! Je voulais juste t'aider.
+Ok, volevo aiutarti.
+Okay...</n>Will ja nur helfen.
+Vale, lo intentaba...
+Ладно...</n>Я просто хотел помочь.
+Spokojnie...</n>Chcę tylko pomóc.
+Tá bom.</n>Só tô tentando ajudar.
+알겠어...</n>그냥 도와주려던 것뿐이야.
+好吧...</n>我只是想幫忙。
+好吧...</n>我只是想帮你。
+気をつけて
+Watch your step.
+Fais attention.
+Fa' attenzione.
+Vorsichtig.
+Ten cuidado.
+Осторожнее.
+Patrz pod nogi.
+Cuidado onde pisa.
+발 밑 조심하고.
+小心腳步。
+你慢慢走。
+助けたいならNESTへ行きましょう
+You want to help?</n>We have to get to the NEST.
+Tu veux m'aider ?</n>Il faut qu'on aille au NEST.
+Vuoi aiutare? Dobbiamo andare al NEST.
+Du willst helfen?</n>Wir müssen dringend zum NEST.
+¿Quieres ayudar?</n>Pues lleguemos a NEST.
+Хочешь помочь?</n>Нужно добраться до NEST.
+Chcesz pomóc?</n>Musimy się dostać do NEST.
+Quer ajudar?</n>A gente tem que chegar no NEST.
+도와주고 싶어?</n>마침 네스트에 가려던 참인데.
+你想幫忙嗎？</n>我們必須到NEST去。
+你想帮忙对吧？</n>我们必须去母巢。
+NEST？
+NEST?
+NEST ?
+Il NEST?
+NEST?
+¿NEST?
+NEST?
+Do NEST?
+NEST?
+네스트?
+NEST?
+母巢？
+アンブレラの研究所</n>この下にある
+Umbrella's lab. Right beneath us.
+Le labo d'Umbrella. Là, sous nos pieds.
+Il laboratorio... sotto di noi.
+Umbrellas Labor.</n>Direkt unter uns.
+El laboratorio subterráneo.
+Лаборатории Umbrella. Она прямо под нами.
+Laboratorium Umbrelli. Dokładnie pod nami.
+O laboratório da Umbrella. Bem embaixo da gente.
+엄브렐러의 실험실이야. 바로 이 아래지.
+保護傘公司的實驗室，就在我們正下方。
+保护伞的实验室，就在我们正下方。
+アネットが言ってた</n>ウィルスのサンプルがあるって
+Annette let it slip.</n>That's where the virus samples are.
+Annette en a parlé.</n>Les échantillons du virus s'y trouvent.
+Ne parlava Annette. I campioni del virus sono lì.</n>
+Annette hat sich verplappert.</n>Dort sind die Virusproben.
+Se le escapó a Annette.</n>Ahí están las muestras del virus.
+Аннет проболталась.</n>Там находятся образцы вируса.
+Annette się wygadała.</n>Trzymają tam próbki wirusa.
+A Annette falou sem querer.</n>É lá que estão as amostras do vírus.
+아네트가 그러더라고.</n>바로 거기 바이러스 샘플이 있어.
+雅妮說溜了嘴。</n>病毒樣本就在那裡。
+亚妮说漏了嘴。</n>病毒样本就在那里。
+どう？　つきあう？
+You up for this?
+Tu es partant ?
+Te la senti?
+Bist du dabei?
+¿Cuento contigo?
+Ну что, поможешь?
+Piszesz się na to?
+E aí, tá dentro?
+같이 할래?
+你要來嗎？
+要一起去吗？
+他に予定もないしね
+Think I can fit it in my schedule.
+Je crois que je peux caser ça dans mon planning.
+Non credo di avere altri impegni.
+Denke, mein Kalender ist frei.
+Haré un hueco en la agenda.
+Думаю, смогу выкроить время.
+Myślę, że znajdę wolną chwilę.
+Acho que dá pra encaixar na minha agenda.
+일정에 끼워넣지 뭐.
+應該可以配合囉。
+应该可以。
+行くわよ</n>やることがいっぱい
+Come on, we got work to do.
+Allez, on a du pain sur la planche.
+Avanti! C'è del lavoro da fare.
+Komm, wir haben was zu tun.
+Venga, hay cosas que hacer.
+Тогда идем, за работу.
+Chodź, mamy coś do zrobienia.
+Bora, a gente tem um trabalho a fazer.
+가자, 할 일이 있으니까.
+來吧，我們有正事要辦。
+来吧，还有正事要做呢。
+了解
+Yes, ma'am.
+Oui, chef.
+Sissignora.
+Ja, Ma'am.
+Sí, señora.
+Как скажете, мэм.
+Tak, proszę pani.
+Sim, senhora.
+알겠습니다.
+遵命，女士。
+遵命，女士。
+※使わないセリフ※</n>（息ＡＤ）

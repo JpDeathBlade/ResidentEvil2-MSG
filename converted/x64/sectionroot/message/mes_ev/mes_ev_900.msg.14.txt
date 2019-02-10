@@ -1,0 +1,1439 @@
+﻿<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>レオン！<PAGE></n>車両を切り離すわ！<PAGE></n><PAGE></n>くらえ！<PAGE></n>くたばれ！<PAGE></n>レオン！　手を！
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>LEON!!!<PAGE></n>We've gotta lose that car!<PAGE></n><PAGE></n>Come on!<PAGE></n>Fuck you!<PAGE></n>Leon, give me your hand!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>Leon !<PAGE></n>Il faut qu'on détache ce wagon !<PAGE></n><PAGE></n>Allez !<PAGE></n>Crève !<PAGE></n>Leon, vite, ta main !
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>Leon!<PAGE></n>Dobbiamo sganciare la carrozza!<PAGE></n>Forza...<PAGE></n>Forza!<PAGE></n>Fanculo!<PAGE></n>Leon, dammi la mano!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>Leon!<PAGE></n>Dieser Waggon muss weg!<PAGE></n><PAGE></n>Komm schon!<PAGE></n>Scheißkerl!<PAGE></n>Leon, gib mir die Hand!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>¡Leon!<PAGE></n>¡Tenemos que soltar el vagón!<PAGE></n><PAGE></n>¡Vamos!<PAGE></n>¡Jódete!<PAGE></n>¡Leon, dame la mano!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>ЛЕОН!<PAGE></n>Нужно оторваться от этого вагона!<PAGE></n><PAGE></n>Ну же!<PAGE></n>Твою мать!<PAGE></n>Леон, дай мне руку!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>LEON!!!<PAGE></n>Musimy odczepić ten wagon!<PAGE></n><PAGE></n>Chodź!<PAGE></n>Pierdol się!<PAGE></n>Leon, podaj mi rękę!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>LEON!!!<PAGE></n>A gente tem que soltar aquele vagão!<PAGE></n><PAGE></n>Qual é!<PAGE></n>Vai se foder!<PAGE></n>Dá a mão, Leon!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>레온!!!<PAGE></n>저 차를 떼내야 해요!<PAGE></n><PAGE></n>제발!<PAGE></n>젠장!<PAGE></n>레온, 손 잡아요!
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>里昂！！！<PAGE></n>我們得甩掉那節車廂！<PAGE></n><PAGE></n>快！<PAGE></n>去死吧！<PAGE></n>里昂，把手給我！
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>里昂！<PAGE></n>我们得甩掉那节车厢！<PAGE></n><PAGE></n>快！<PAGE></n>去死吧！<PAGE></n>里昂，快握住我的手！
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+<TIME 9.11, 10.23><TIME 12.87, 15.31><TIME 34.88, 36.02><TIME 37.09, 38.71><TIME 43.91, 44.93><TIME 48.33, 50.02>
+（吼聲）
+（吼声）
+（做出反應）
+（做出反应）
+（做出反應）
+（做出反应）
+（做出反應）
+（做出反应）
+レオン！
+LEON!!!
+Leon !
+Leon!
+Leon!
+¡Leon!
+ЛЕОН!
+LEON!!!
+LEON!!!
+레온!!!
+里昂！！！
+里昂！
+車両を切り離すわ！
+We've gotta lose that car!
+Il faut qu'on détache ce wagon !
+Dobbiamo sganciare la carrozza!
+Dieser Waggon muss weg!
+¡Tenemos que soltar el vagón!
+Нужно оторваться от этого вагона!
+Musimy odczepić ten wagon!
+A gente tem que soltar aquele vagão!
+저 차를 떼내야 해요!
+我們得甩掉那節車廂！
+我们得甩掉那节车厢！
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+<COLOR FF0000>#Rejected#</COLOR> EV900_0043_pl0000
+Forza...
+くらえ！
+Come on!
+Allez !
+Forza!
+Komm schon!
+¡Vamos!
+Ну же!
+Chodź!
+Qual é!
+제발!
+快！
+快！
+くらえ！
+くたばれ！
+Fuck you!
+Crève !
+Fanculo!
+Scheißkerl!
+¡Jódete!
+Твою мать!
+Pierdol się!
+Vai se foder!
+젠장!
+去死吧！
+去死吧！
+（刺耳的痛苦吼聲）
+（刺耳的痛苦吼声）
+レオン！　手を！
+Leon, give me your hand!
+Leon, vite, ta main !
+Leon, dammi la mano!
+Leon, gib mir die Hand!
+¡Leon, dame la mano!
+Леон, дай мне руку!
+Leon, podaj mi rękę!
+Dá a mão, Leon!
+레온, 손 잡아요!
+里昂，把手給我！
+里昂，快握住我的手！
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>ねえ　クレアとレオンって付き合ってるの？<PAGE></n>いや そんなんじゃない</n>出会ったばかりだ ゆうべね<PAGE></n>そう</n>でも とんだ初デートになった<PAGE></n>ああ ホントぶっとんでた<PAGE></n>見て！<PAGE></n>乗せてもらえるかもよ<PAGE></n>もし広がってたら…<PAGE></n>シェリーを頼む<PAGE></n>シェリー<PAGE></n>お届けしたのは</n>ザ・グレイブの「リブ・アナザー・デイ」<PAGE></n>いい奴だった<PAGE></n>じゃ 終わったの？<PAGE></n>分からない</n>もしダメでも何とかしよう 俺たちで<PAGE></n>ええ 必ずね<PAGE></n>3人一緒なら大丈夫だ</n>行こう<PAGE></n>ねえ 私を養子にして<PAGE></n>養子に？<PAGE></n>子犬飼おうよ<PAGE></n>え？　子犬？<PAGE></n>オウムも！<PAGE></n>オウム？　ん～…<PAGE></n>ペットが欲しかったけど ママが嫌がって<PAGE></n>ああ そっか<PAGE></n>ピアノも習ったら楽しそう</n>ねえ 何か楽器できる？　　
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>So...are you guys, like, boyfriend and girlfriend?<PAGE></n>No, we're just, uh...</n>Well, we actually just met...last night?<PAGE></n>Yeah...</n>That would've been one helluva first date, though.<PAGE></n>Yeah, you have no idea—<PAGE></n>Look!<PAGE></n>He might be able to give us a ride.<PAGE></n>What if it's not just the city?<PAGE></n>Get Sherry outta here.<PAGE></n>Come on.<PAGE></n>Hey! That was "Live Another Day" by The Grave.<PAGE></n>Well, he was friendly...<PAGE></n>So...is it over?<PAGE></n>I don't know. But if it's not, we'll stop it.</n>Whatever it takes.<PAGE></n>Yeah. You're damn right we will!<PAGE></n>Long as we stick together, we'll be fine.</n>Come on.<PAGE></n>Hey! You guys can adopt me.<PAGE></n>Adopt you?<PAGE></n>We can get a puppy!<PAGE></n>A...puppy.<PAGE></n>And a parrot!<PAGE></n>Parrot? Great...<PAGE></n>I always wanted pets but my mom said they're too messy.<PAGE></n>Hmm... Yeah...<PAGE></n>Oh, and it would be fun to learn piano.</n>Do you guys play any instruments?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>Alors... est-ce que tous les deux... vous sortez ensemble ?<PAGE></n>Non, on est juste...</n>En fait on s'est rencontrés... la nuit dernière.<PAGE></n>Ouais... Ça aurait été un sacré premier rendez-vous.<PAGE></n>Ouais, je te le fais pas dire...<PAGE></n>Regardez !<PAGE></n>Il peut peut-être nous prendre en stop !<PAGE></n>C'est peut-être pas que Raccoon...<PAGE></n>Emmène Sherry.<PAGE></n>Viens !<PAGE></n>Voilà ! C'était "Live Another Day" par The Grave.<PAGE></n>Il était sympa ce mec...<PAGE></n>Alors... c'est fini ?<PAGE></n>Je sais pas. Mais si c'est pas le cas, on s'en chargera.</n>Par tous les moyens.<PAGE></n>Un peu qu'on s'en chargera !<PAGE></n>Tant qu'on restera ensemble, tout ira bien.</n>On y va ?<PAGE></n>Hé ! Vous pouvez m'adopter !<PAGE></n>T'adopter ?<PAGE></n>On pourrait avoir un chien !<PAGE></n>Euh... un chien.<PAGE></n>Et un perroquet !<PAGE></n>Un perroquet ? OK...<PAGE></n>J'ai toujours voulu avoir des animaux mais ma mère était maniaque.<PAGE></n>Hmm... Ouais...<PAGE></n>Oh, et j'aimerais bien apprendre le piano.</n>Est-ce que vous jouez d'un instrument ?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>Quindi... Voi due siete, fidanzati?<PAGE></n>No, siamo... Ci siamo conosciuti solo... Ieri sera?<PAGE></n>Sì... Decisamente la serata che non ti aspetti.<PAGE></n>Già, puoi dirlo forte.<PAGE></n>Ehi!<PAGE></n>Forse lui può darci un passaggio.<PAGE></n>E se si fosse diffuso?<PAGE></n>Resta con Sherry.<PAGE></n>Vieni.<PAGE></n>Avete appena ascoltato "Live another day" dei The Grave.<PAGE></n>Che simpatico.<PAGE></n>Quindi... È finita?<PAGE></n>Non lo so. Se fosse altrove, noi ci saremo. Ad ogni costo.<PAGE></n>Già, io sono con te Leon.<PAGE></n>Finché siamo uniti, andrà bene.</n>Forza.<PAGE></n>Ehi! Perché non mi adottate?<PAGE></n>Adottarti?<PAGE></n>Prenderemo un cucciolo!<PAGE></n>Un cucciolo?<PAGE></n>E un pappagallo!<PAGE></n>Pappagallo? Bene...<PAGE></n>Ho sempre voluto un animale, ma mamma era contraria.<PAGE></n>Mmmh... Ok...<PAGE></n>Oh, e vorrei suonare il pianoforte.</n>Voi suonate uno strumento?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>Also seid ihr zwei, ähm, zusammen?<PAGE></n>Nein, wir sind...</n>Wir kennen uns erst seit... letzter Nacht?<PAGE></n>Ja...</n>Das wär aber'n krasses erstes Date gewesen.<PAGE></n>Ja, allerdings... allerdings.<PAGE></n>Schaut!<PAGE></n>Meint ihr, der könnte uns mitnehmen?<PAGE></n>Wenn's nicht nur die Stadt ist?<PAGE></n>Schaff Sherry hier weg.<PAGE></n>Komm.<PAGE></n>Hey! Das war "Live Another Day" von The Grave.<PAGE></n>Der war ja freundlich.<PAGE></n>Also... ist es vorbei?<PAGE></n>Ich weiß nicht. Aber falls nicht, dann stoppen wir's.</n>Was es auch kostet.<PAGE></n>Da kannst du Gift drauf nehmen.<PAGE></n>Solang wir zusammenhalten, packen wir das.</n>Kommt schon.<PAGE></n>Hey! Ihr könnt mich adoptieren.<PAGE></n>Adoptieren?<PAGE></n>Wir hol'n uns 'nen Welpen!<PAGE></n>Einen Welpen.<PAGE></n>Und 'nen Papagei!<PAGE></n>Papagei? Toll...<PAGE></n>Ich wollte immer Tiere,</n>aber Mom sagte, das macht nur Dreck.<PAGE></n>Hmm... Ja...<PAGE></n>Oh, ich würd gern Klavier spielen.</n>Spielt ihr Instrumente?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>	Entonces... ¿Vosotros sois pareja?<PAGE></n>No, nosotros... Nos conocimos anoche. <PAGE></n>Sí, pero menuda primera cita habría sido...<PAGE></n>Sí, desde luego...<PAGE></n>¡Mirad!<PAGE></n>Quizá nos podría llevar.<PAGE></n>¿Y si ha afectado a más?<PAGE></n>Llévate a Sherry.<PAGE></n>Vamos.<PAGE></n>¡Eh! Escuchas a The Grave con "Live Another Day".<PAGE></n>Fue amable.<PAGE></n>¿Entonces, se acabó?<PAGE></n>No sé. Pero si no, como sea, lo detendremos.<PAGE></n>De eso puedes estar seguro.<PAGE></n>Si estamos juntos, irá bien.</n>Vamos.<PAGE></n>¡Eh! Podríais adoptarme.<PAGE></n>¿Adoptarte?<PAGE></n>¡Tendremos un perrito!<PAGE></n>¿Un perrito?<PAGE></n>¡Y un loro!<PAGE></n>¿Un loro? Genial...<PAGE></n>Mamá no me dejaba tener mascotas.<PAGE></n>Emmm... Ya.<PAGE></n>Oh, y podría aprender piano.</n>¿Tocáis algún instrumento?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>Так вы, ребята... типа встречаетесь?<PAGE></n>Нет, мы просто, хм...</n>На самом деле мы встретились... прошлой ночью?<PAGE></n>Да...</n>Хотя крутое бы вышло первое свидание.<PAGE></n>Да, это уж точно...<PAGE></n>Смотри!<PAGE></n>Может быть, он нас подвезет?<PAGE></n>А что если за городом творится тоже самое?<PAGE></n>Увези Шерри отсюда.<PAGE></n>Давай.<PAGE></n>Эй! Это была «Live Another Day» от The Grave.<PAGE></n>Что ж, он был вполне дружелюбен...<PAGE></n>Значит... Все кончено?<PAGE></n>Не знаю. Но если нет, мы положим этому конец.</n>Во что бы то ни стало.<PAGE></n>Да. Именно так мы и поступим!<PAGE></n>Все будет хорошо. Главное — держаться вместе.</n>Ну же.<PAGE></n>Эй! Вы можете меня удочерить.<PAGE></n>Удочерить?<PAGE></n>Мы можем завести щенка!<PAGE></n>Щенка?..<PAGE></n>И попугайчика!<PAGE></n>Попугайчика? Здорово...<PAGE></n>Я всегда хотела животных, но мама говорила, что с ними куча мороки.<PAGE></n>Хм... Ну да...<PAGE></n>А еще я хочу научиться играть на пианино.</n>А вы умеете на чем-нибудь играть?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>A więc... jesteście parą?<PAGE></n>Nie, właściwie to…</n>dopiero się poznaliśmy... konkretnie wczoraj?<PAGE></n>Tak...</n>To dopiero byłaby pierwsza randka.<PAGE></n>Nawet nie masz pojęcia—<PAGE></n>Patrzcie!<PAGE></n>Może nas podwiezie.<PAGE></n>A co jeśli to wydostało się poza miasto?<PAGE></n>Zabierz stąd Sherry.<PAGE></n>Chodź.<PAGE></n>Hej! To był kawałek „Live Another Day” The Grave.<PAGE></n>Był miły...<PAGE></n>A więc... to koniec?<PAGE></n>Nie wiem, ale jeśli nie, to powstrzymamy to.</n>Za wszelką cenę.<PAGE></n>Tak. Zdecydowanie tak!<PAGE></n>Tak długo, jak trzymamy się razem, nic nam nie będzie.</n>Ruszajmy.<PAGE></n>Hej! Wy możecie mnie zaadoptować.<PAGE></n>Zaadoptować cię?<PAGE></n>Możemy mieć szczeniaczka!<PAGE></n>Szczeniaczka...<PAGE></n>I papugę!<PAGE></n>Papuga? Świetnie...<PAGE></n>Zawsze chciałam mieć zwierzaki, ale mama mówiła, że</n>za dużo przy nich sprzątania.<PAGE></n>Hmm... Tak...<PAGE></n>O, fajnie też byłoby nauczyć się grać na pianinie.</n>Gracie na jakichś instrumentach?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>Então... vocês dois são, tipo, namorados?<PAGE></n>Não, a gente só, ahn...</n>Bem, a gente só se conheceu, tipo, ontem?<PAGE></n>É...</n>Mas teria sido um baita de um primeiro encontro.<PAGE></n>É, você não tem noção...<PAGE></n>Olha!<PAGE></n>Talvez ele dê uma carona.<PAGE></n>E se não for só na cidade?<PAGE></n>Tira a Sherry daqui.<PAGE></n>Vem.<PAGE></n>Ei! Acabamos de tocar "Live Another Day", do The Grave.<PAGE></n>Bem, ele parecia gente boa...<PAGE></n>Então quer dizer que... acabou?<PAGE></n>Não sei. Mas, se não tiver acabado...</n>a gente dá um jeito.<PAGE></n>É isso aí. Dá, sim, com toda certeza!<PAGE></n>Enquanto a gente continuar junto, vai ficar tudo bem.</n>Vamos nessa.<PAGE></n>Ei! Vocês podiam me adotar.<PAGE></n>Te adotar?<PAGE></n>A gente pode adotar um cachorrinho!<PAGE></n>Um cachorrinho...<PAGE></n>E um papagaio!<PAGE></n>Papagaio? Ah, que ótimo...<PAGE></n>Eu sempre quis ter um bichinho, mas a mamãe</n>dizia que eles fazem muita bagunça.<PAGE></n>Hum... É...<PAGE></n>Ah, e eu ia gostar de aprender a tocar piano.</n>Vocês dois tocam alguma coisa?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>그러니까... 둘이, 남자친구랑 여자친구 그런 거예요?<PAGE></n>아니, 우린 그냥...</n>그러니까... 어젯밤에 처음 만난 사이거든?<PAGE></n>그래...</n>그치만, 엄청난 첫 번째 데이트였어.<PAGE></n>그래, 아마 상상도 못 할—<PAGE></n>저기 봐요!<PAGE></n>저 사람이 우릴 태워줄지도 몰라요.<PAGE></n>이 도시만 그런 게 아니라면 어쩌죠?<PAGE></n>셰리를 여기서 데리고 나가요.<PAGE></n>가자.<PAGE></n>네! The Grave의 "Live Another Day"였습니다.<PAGE></n>뭐, 그럭저럭 친절한 사람이었네요…<PAGE></n>이제... 끝난 건가요?<PAGE></n>모르죠. 아니더라도, 우리가 막을 겁니다.</n>무슨 일이 있어도.<PAGE></n>맞아요. 우리가 해낼 거예요!<PAGE></n>우리가 함께 하는 한, 아무 일 없을 겁니다.</n>가죠.<PAGE></n>있잖아요! 둘이 날 입양해요.<PAGE></n>입양을 하라고?<PAGE></n>강아지도 데려오고요!<PAGE></n>강아지라...<PAGE></n>앵무새도요!<PAGE></n>앵무새라? 좋네...<PAGE></n>항상 애완동물을 갖고 싶었는데 엄마가 반대했거든요.<PAGE></n>흠... 그래...<PAGE></n>아, 피아노를 배우는 것도 재밌을 거 같아요.</n>악기 다룰 수 있는 거 있어요?
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>所以... 你們兩個是... 男女朋友嗎？<PAGE></n>不，我們... 呃...</n>我們其實昨晚才剛認識？<PAGE></n>對...</n>不過那樣的初次見面挺酷的。<PAGE></n>是啊，我跟你說喔...<PAGE></n>你們看！<PAGE></n>他也許能載我們一程。<PAGE></n>如果城市之外的地方也淪陷了怎麼辦？<PAGE></n>帶雪莉逃出這裡。<PAGE></n>來吧。<PAGE></n>嘿！剛剛那首是 The Grave 的「Live Another Day」。<PAGE></n>嗯，他還挺親切的嘛…<PAGE></n>所以... 結束了嗎？<PAGE></n>我不知道。不過如果還沒，我們會阻止的。</n>不惜一切代價。<PAGE></n>對。我們一定會！<PAGE></n>只要我們待在一起，就不會有事的。</n>來吧。<PAGE></n>嘿！你們可以領養我。<PAGE></n>領養你？<PAGE></n>我們可以養一隻小狗！<PAGE></n>呃... 小狗。<PAGE></n>還有鸚鵡！<PAGE></n>鸚鵡？是喔...<PAGE></n>我一直很想養寵物，但我媽說牠們太髒了。<PAGE></n>嗯... 對...<PAGE></n>噢，還有如果可以學鋼琴一定很有趣。</n>你們會任何樂器嗎？
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>所以... 你们两个是... 男女朋友吗？<PAGE></n>不，我们... 呃...</n>其实我们昨晚才认识的？<PAGE></n>是啊...</n>不过那样的初次见面满酷的。<PAGE></n>对阿，我和你说...<PAGE></n>你们看！<PAGE></n>他也许能载我们一程。<PAGE></n>万一城市以外的地方也沦陷了该怎么办？<PAGE></n>带雪莉逃离这里。<PAGE></n>来吧。<PAGE></n>嘿！刚才那首是 The Grave 的“Live Another Day”。<PAGE></n>嗯，他还挺亲切的…<PAGE></n>所以... 结束了？<PAGE></n>我不清楚。不过如果还没，我们会阻止的。</n>不计一切代价。<PAGE></n>没错，我们一定会！<PAGE></n>只要我们待在一起，就会没事的。</n>来吧。<PAGE></n>嘿！你们可以领养我啊。<PAGE></n>领养你？<PAGE></n>我们可以养一只小狗！<PAGE></n>呃... 小狗。<PAGE></n>还有鹦鹉！<PAGE></n>鹦鹉？好吧...<PAGE></n>我一直很想养宠物，但我妈说它们太脏了。<PAGE></n>嗯... 对...<PAGE></n>噢，还有如果能学钢琴一定非常有趣。</n>你们会任何乐器吗？
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 6.48, 9.82><TIME 10.23, 15.26><TIME 16.36, 20.89><TIME 21.11, 22.6><TIME 22.93, 23.49><TIME 24.0, 25.85><TIME 29.35, 30.9><TIME 31.27, 32.18><TIME 32.3, 32.9><TIME 48.7, 52.3><TIME 54.1, 55.3><TIME 59.04, 61.23><TIME 62.2, 67.55><TIME 67.8, 69.45><TIME 70.05, 74.13><TIME 78.14, 80.35><TIME 80.67, 81.59><TIME 82.53, 83.82><TIME 83.87, 84.76><TIME 84.89, 86.29><TIME 86.43, 88.04><TIME 88.43, 90.81><TIME 91.02, 92.8><TIME 93.91, 97.36>
+<TIME 93.52, 98.36>続いての曲は</n>マンネリの水曜でも元気が湧いてくる…
+<TIME 93.52, 98.36>Next up on this boring Wednesday</n>is a song to get your blood pumping...
+<TIME 93.52, 98.36>Et maintenant, en ce mercredi bien calme,</n>une chanson à réveiller les morts...
+<TIME 93.52, 98.36>Il prossimo brano di oggi è uno di quelli che</n>vi farà venire la pelle d'oca...
+<TIME 93.52, 98.36>Und als Nächstes an diesem langweiligen Mittwoch</n>kommt ein Song, der euch richtig einheizt...
+<TIME 93.52, 98.36>Y ahora en este triste miércoles</n>tenemos algo que hervirá tu sangre...
+<TIME 93.52, 98.36>Среда, середина недели. Разбавим этот тоскливый</n>день песней, от которой кровь в жилах закипает...
+<TIME 93.52, 98.36>Teraz czas na coś bardziej dynamicznego,</n>co was ożywi w tę śmiertelnie nudną środę...
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>A próxima música nessa quarta-feira entediante</n>é pra deixar todo mundo animadão...
+<TIME 93.52, 98.36>다음으로는 이 지루한 수요일에</n>여러분의 피가 끓어오를 만한 노래를 준비했어요...
+<TIME 93.52, 98.36>在這無趣的星期三，</n>接下來這首歌將讓你熱血沸騰...
+<TIME 93.52, 98.36>在这无聊透顶的星期三，</n>接下来这首歌将让你热血沸腾...
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+<TIME 93.52, 98.36>
+ねえ　クレアとレオンって付き合ってるの？
+So...are you guys, like, boyfriend and girlfriend?
+Alors... est-ce que tous les deux... vous sortez ensemble ?
+Quindi... Voi due siete, fidanzati?
+Also seid ihr zwei, ähm, zusammen?
+Entonces... ¿Vosotros sois pareja?
+Так вы, ребята... типа встречаетесь?
+A więc... jesteście parą?
+Então... vocês dois são, tipo, namorados?
+그러니까... 둘이, 남자친구랑 여자친구 그런 거예요?
+所以... 你們兩個是... 男女朋友嗎？
+所以... 你们两个是... 男女朋友吗？
+いや そんなんじゃない</n>出会ったばかりだ ゆうべね
+No, we're just, uh...</n>Well, we actually just met...last night?
+Non, on est juste...</n>En fait on s'est rencontrés... la nuit dernière.
+No, siamo... Ci siamo conosciuti solo... Ieri sera?
+Nein, wir sind...</n>Wir kennen uns erst seit... letzter Nacht?
+No, nosotros... Nos conocimos anoche. 
+Нет, мы просто, хм...</n>На самом деле мы встретились... прошлой ночью?
+Nie, właściwie to…</n>dopiero się poznaliśmy... konkretnie wczoraj?
+Não, a gente só, ahn...</n>Bem, a gente só se conheceu, tipo, ontem?
+아니, 우린 그냥...</n>그러니까... 어젯밤에 처음 만난 사이거든?
+不，我們... 呃...</n>我們其實昨晚才剛認識？
+不，我们... 呃...</n>其实我们昨晚才认识的？
+そう</n>でも とんだ初デートになった
+Yeah...</n>That would've been one helluva first date, though.
+Ouais... Ça aurait été un sacré premier rendez-vous.
+Sì... Decisamente la serata che non ti aspetti.
+Ja...</n>Das wär aber'n krasses erstes Date gewesen.
+Sí, pero menuda primera cita habría sido...
+Да...</n>Хотя крутое бы вышло первое свидание.
+Tak...</n>To dopiero byłaby pierwsza randka.
+É...</n>Mas teria sido um baita de um primeiro encontro.
+그래...</n>그치만, 엄청난 첫 번째 데이트였어.
+對...</n>不過那樣的初次見面挺酷的。
+是啊...</n>不过那样的初次见面满酷的。
+ああ ホントぶっとんでた
+Yeah, you have no idea—
+Ouais, je te le fais pas dire...
+Già, puoi dirlo forte.
+Ja, allerdings... allerdings.
+Sí, desde luego...
+Да, это уж точно...
+Nawet nie masz pojęcia—
+É, você não tem noção...
+그래, 아마 상상도 못 할—
+是啊，我跟你說喔...
+对阿，我和你说...
+見て！
+Look!
+Regardez !
+Ehi!
+Schaut!
+¡Mirad!
+Смотри!
+Patrzcie!
+Olha!
+저기 봐요!
+你們看！
+你们看！
+乗せてもらえるかもよ
+He might be able to give us a ride.
+Il peut peut-être nous prendre en stop !
+Forse lui può darci un passaggio.
+Meint ihr, der könnte uns mitnehmen?
+Quizá nos podría llevar.
+Может быть, он нас подвезет?
+Może nas podwiezie.
+Talvez ele dê uma carona.
+저 사람이 우릴 태워줄지도 몰라요.
+他也許能載我們一程。
+他也许能载我们一程。
+もし広がってたら…
+What if it's not just the city?
+C'est peut-être pas que Raccoon...
+E se si fosse diffuso?
+Wenn's nicht nur die Stadt ist?
+¿Y si ha afectado a más?
+А что если за городом творится тоже самое?
+A co jeśli to wydostało się poza miasto?
+E se não for só na cidade?
+이 도시만 그런 게 아니라면 어쩌죠?
+如果城市之外的地方也淪陷了怎麼辦？
+万一城市以外的地方也沦陷了该怎么办？
+シェリーを頼む
+Get Sherry outta here.
+Emmène Sherry.
+Resta con Sherry.
+Schaff Sherry hier weg.
+Llévate a Sherry.
+Увези Шерри отсюда.
+Zabierz stąd Sherry.
+Tira a Sherry daqui.
+셰리를 여기서 데리고 나가요.
+帶雪莉逃出這裡。
+带雪莉逃离这里。
+シェリー
+Come on.
+Viens !
+Vieni.
+Komm.
+Vamos.
+Давай.
+Chodź.
+Vem.
+가자.
+來吧。
+来吧。
+お届けしたのは</n>ザ・グレイブの「リブ・アナザー・デイ」
+Hey! That was "Live Another Day" by The Grave.
+Voilà ! C'était "Live Another Day" par The Grave.
+Avete appena ascoltato "Live another day" dei The Grave.
+Hey! Das war "Live Another Day" von The Grave.
+¡Eh! Escuchas a The Grave con "Live Another Day".
+Эй! Это была «Live Another Day» от The Grave.
+Hej! To był kawałek „Live Another Day” The Grave.
+Ei! Acabamos de tocar "Live Another Day", do The Grave.
+네! The Grave의 "Live Another Day"였습니다.
+嘿！剛剛那首是 The Grave 的「Live Another Day」。
+嘿！刚才那首是 The Grave 的“Live Another Day”。
+続いての曲は</n>マンネリの水曜でも元気が湧いてくる…
+Next up on this boring Wednesday</n>is a song to get your blood pumping...
+Et maintenant, en ce mercredi bien calme,</n>une chanson à réveiller les morts...
+Il prossimo brano di oggi è uno di quelli che</n>vi farà venire la pelle d'oca...
+Und als Nächstes an diesem langweiligen Mittwoch</n>kommt ein Song, der euch richtig einheizt...
+Y ahora en este triste miércoles</n>tenemos algo que hervirá tu sangre...
+Среда, середина недели. Разбавим этот тоскливый</n>день песней, от которой кровь в жилах закипает...
+Teraz czas na coś bardziej dynamicznego,</n>co was ożywi w tę śmiertelnie nudną środę...
+A próxima música nessa quarta-feira entediante</n>é pra deixar todo mundo animadão...
+다음으로는 이 지루한 수요일에</n>여러분의 피가 끓어오를 만한 노래를 준비했어요...
+在這無趣的星期三，</n>接下來這首歌將讓你熱血沸騰...
+在这无聊透顶的星期三，</n>接下来这首歌将让你热血沸腾...
+<BLAMK (Sleeping Pussy cat の”Kill Kill Kill"です。)>
+いい奴だった
+Well, he was friendly...
+Il était sympa ce mec...
+Che simpatico.
+Der war ja freundlich.
+Fue amable.
+Что ж, он был вполне дружелюбен...
+Był miły...
+Bem, ele parecia gente boa...
+뭐, 그럭저럭 친절한 사람이었네요…
+嗯，他還挺親切的嘛…
+嗯，他还挺亲切的…
+じゃ 終わったの？
+So...is it over?
+Alors... c'est fini ?
+Quindi... È finita?
+Also... ist es vorbei?
+¿Entonces, se acabó?
+Значит... Все кончено?
+A więc... to koniec?
+Então quer dizer que... acabou?
+이제... 끝난 건가요?
+所以... 結束了嗎？
+所以... 结束了？
+分からない</n>もしダメでも何とかしよう 俺たちで
+I don't know. But if it's not, we'll stop it.</n>Whatever it takes.
+Je sais pas. Mais si c'est pas le cas, on s'en chargera.</n>Par tous les moyens.
+Non lo so. Se fosse altrove, noi ci saremo. Ad ogni costo.
+Ich weiß nicht. Aber falls nicht, dann stoppen wir's.</n>Was es auch kostet.
+No sé. Pero si no, como sea, lo detendremos.
+Не знаю. Но если нет, мы положим этому конец.</n>Во что бы то ни стало.
+Nie wiem, ale jeśli nie, to powstrzymamy to.</n>Za wszelką cenę.
+Não sei. Mas, se não tiver acabado...</n>a gente dá um jeito.
+모르죠. 아니더라도, 우리가 막을 겁니다.</n>무슨 일이 있어도.
+我不知道。不過如果還沒，我們會阻止的。</n>不惜一切代價。
+我不清楚。不过如果还没，我们会阻止的。</n>不计一切代价。
+ええ 必ずね
+Yeah. You're damn right we will!
+Un peu qu'on s'en chargera !
+Già, io sono con te Leon.
+Da kannst du Gift drauf nehmen.
+De eso puedes estar seguro.
+Да. Именно так мы и поступим!
+Tak. Zdecydowanie tak!
+É isso aí. Dá, sim, com toda certeza!
+맞아요. 우리가 해낼 거예요!
+對。我們一定會！
+没错，我们一定会！
+3人一緒なら大丈夫だ</n>行こう
+Long as we stick together, we'll be fine.</n>Come on.
+Tant qu'on restera ensemble, tout ira bien.</n>On y va ?
+Finché siamo uniti, andrà bene.</n>Forza.
+Solang wir zusammenhalten, packen wir das.</n>Kommt schon.
+Si estamos juntos, irá bien.</n>Vamos.
+Все будет хорошо. Главное — держаться вместе.</n>Ну же.
+Tak długo, jak trzymamy się razem, nic nam nie będzie.</n>Ruszajmy.
+Enquanto a gente continuar junto, vai ficar tudo bem.</n>Vamos nessa.
+우리가 함께 하는 한, 아무 일 없을 겁니다.</n>가죠.
+只要我們待在一起，就不會有事的。</n>來吧。
+只要我们待在一起，就会没事的。</n>来吧。
+ねえ 私を養子にして
+Hey! You guys can adopt me.
+Hé ! Vous pouvez m'adopter !
+Ehi! Perché non mi adottate?
+Hey! Ihr könnt mich adoptieren.
+¡Eh! Podríais adoptarme.
+Эй! Вы можете меня удочерить.
+Hej! Wy możecie mnie zaadoptować.
+Ei! Vocês podiam me adotar.
+있잖아요! 둘이 날 입양해요.
+嘿！你們可以領養我。
+嘿！你们可以领养我啊。
+養子に？
+Adopt you?
+T'adopter ?
+Adottarti?
+Adoptieren?
+¿Adoptarte?
+Удочерить?
+Zaadoptować cię?
+Te adotar?
+입양을 하라고?
+領養你？
+领养你？
+え？
+子犬飼おうよ
+We can get a puppy!
+On pourrait avoir un chien !
+Prenderemo un cucciolo!
+Wir hol'n uns 'nen Welpen!
+¡Tendremos un perrito!
+Мы можем завести щенка!
+Możemy mieć szczeniaczka!
+A gente pode adotar um cachorrinho!
+강아지도 데려오고요!
+我們可以養一隻小狗！
+我们可以养一只小狗！
+え？　子犬？
+A...puppy.
+Euh... un chien.
+Un cucciolo?
+Einen Welpen.
+¿Un perrito?
+Щенка?..
+Szczeniaczka...
+Um cachorrinho...
+강아지라...
+呃... 小狗。
+呃... 小狗。
+オウムも！
+And a parrot!
+Et un perroquet !
+E un pappagallo!
+Und 'nen Papagei!
+¡Y un loro!
+И попугайчика!
+I papugę!
+E um papagaio!
+앵무새도요!
+還有鸚鵡！
+还有鹦鹉！
+オウム？
+A parrot?
+Un perroquet ?
+Un pappagallo?
+Papagei?
+¿Un loro?
+Попугайчика?
+Papugę?
+Um papagaio?!
+앵무새를?
+鸚鵡？
+鹦鹉？
+オウム？　ん～…
+Parrot? Great...
+Un perroquet ? OK...
+Pappagallo? Bene...
+Papagei? Toll...
+¿Un loro? Genial...
+Попугайчика? Здорово...
+Papuga? Świetnie...
+Papagaio? Ah, que ótimo...
+앵무새라? 좋네...
+鸚鵡？是喔...
+鹦鹉？好吧...
+ペットが欲しかったけど ママが嫌がって
+I always wanted pets but my mom said they're too messy.
+J'ai toujours voulu avoir des animaux mais ma mère était maniaque.
+Ho sempre voluto un animale, ma mamma era contraria.
+Ich wollte immer Tiere,</n>aber Mom sagte, das macht nur Dreck.
+Mamá no me dejaba tener mascotas.
+Я всегда хотела животных, но мама говорила, что с ними куча мороки.
+Zawsze chciałam mieć zwierzaki, ale mama mówiła, że</n>za dużo przy nich sprzątania.
+Eu sempre quis ter um bichinho, mas a mamãe</n>dizia que eles fazem muita bagunça.
+항상 애완동물을 갖고 싶었는데 엄마가 반대했거든요.
+我一直很想養寵物，但我媽說牠們太髒了。
+我一直很想养宠物，但我妈说它们太脏了。
+<BLAMK （はっ）>
+（笑聲）
+（笑声）
+ああ そっか
+Hmm... Yeah...
+Hmm... Ouais...
+Mmmh... Ok...
+Hmm... Ja...
+Emmm... Ya.
+Хм... Ну да...
+Hmm... Tak...
+Hum... É...
+흠... 그래...
+嗯... 對...
+嗯... 对...
+ピアノも習ったら楽しそう</n>ねえ 何か楽器できる？　　
+Oh, and it would be fun to learn piano.</n>Do you guys play any instruments?
+Oh, et j'aimerais bien apprendre le piano.</n>Est-ce que vous jouez d'un instrument ?
+Oh, e vorrei suonare il pianoforte.</n>Voi suonate uno strumento?
+Oh, ich würd gern Klavier spielen.</n>Spielt ihr Instrumente?
+Oh, y podría aprender piano.</n>¿Tocáis algún instrumento?
+А еще я хочу научиться играть на пианино.</n>А вы умеете на чем-нибудь играть?
+O, fajnie też byłoby nauczyć się grać na pianinie.</n>Gracie na jakichś instrumentach?
+Ah, e eu ia gostar de aprender a tocar piano.</n>Vocês dois tocam alguma coisa?
+아, 피아노를 배우는 것도 재밌을 거 같아요.</n>악기 다룰 수 있는 거 있어요?
+噢，還有如果可以學鋼琴一定很有趣。</n>你們會任何樂器嗎？
+噢，还有如果能学钢琴一定非常有趣。</n>你们会任何乐器吗？
+ああ いや　どうかな
+Hmm... Not really...
+Hmm... Pas vraiment...
+Ehm... Non proprio...
+Hmm...
+Eh... Pues no...
+Хм... Нет...
+Hmm... raczej nie...
+Hum... Eu não...
+흠... 없어...
+嗯... 不會...
+嗯... 不会...
+Hmm...
+Hmm...
+Ah! Mmmh...
+Ha...
+Emmm...
+Хм...
+Hmm...
+Hum...
+흠...
+嗯...
+嗯...
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<COLOR FF0000>#Rejected#</COLOR> EV900_1000_vo0030
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>クレア！<PAGE></n>切り離すぞ！<PAGE></n><PAGE></n>これでどう？<PAGE></n>お別れよ！<PAGE></n>クレア！　手を！
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>Claire!<PAGE></n>We gotta lose that car!<PAGE></n><PAGE></n>You like that?<PAGE></n>Goodbye, fucker!<PAGE></n>Give me your hand!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>Claire !<PAGE></n>Il faut détacher ce wagon !<PAGE></n><PAGE></n>T'aimes ça ?<PAGE></n>Adieu, saloperie !<PAGE></n>Prends ma main !
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>Claire!<PAGE></n>Va sganciata la carrozza!<PAGE></n>Forza...<PAGE></n>Ti piace?<PAGE></n>Addio, stronzo!<PAGE></n>Dammi la mano!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>Claire!<PAGE></n>Der Waggon muss weg!<PAGE></n><PAGE></n>Gefällt dir das?<PAGE></n>Ciao, Arschloch!<PAGE></n>Gib mir deine Hand!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>¡Claire!<PAGE></n>¡Hay que soltar el vagón!<PAGE></n><PAGE></n>¿Te gusta?<PAGE></n>¡Adiós, cabrón!<PAGE></n>¡Dame la mano!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>Клэр!<PAGE></n>Нужно оторваться от этого вагона!<PAGE></n><PAGE></n>Нравится?<PAGE></n>Катись к черту, ублюдок!<PAGE></n>Дай мне руку!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>Claire!<PAGE></n>Musimy odczepić ten wagon!<PAGE></n><PAGE></n>Podoba ci się?<PAGE></n>Żegnaj, fajfusie!<PAGE></n>Daj mi rękę!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>Claire!<PAGE></n>A gente tem que soltar aquele vagão!<PAGE></n><PAGE></n>Tá gostando?<PAGE></n>Até mais, seu cuzão!<PAGE></n>Dá a mão!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>클레어!<PAGE></n>저 차를 떼내야 해요!<PAGE></n><PAGE></n>맛이 어떠냐?<PAGE></n>잘 가라, 망할 놈!<PAGE></n>손 잡아요!
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>克蕾兒！<PAGE></n>我們得甩掉那節車廂！<PAGE></n>（用力踢）<PAGE></n>怎麼樣啊？<PAGE></n>再見，混帳！<PAGE></n>把手給我！
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>克莱尔！<PAGE></n>我们得甩掉那节车厢！<PAGE></n>（大力踢）<PAGE></n>怎么样啊？<PAGE></n>混蛋，再见！<PAGE></n>快握住我的手！
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+<TIME 9.41, 10.49><TIME 13.0, 14.45><TIME 26.88, 27.79><TIME 39.37, 40.85><TIME 42.43, 43.62><TIME 48.03, 49.33>
+（吼聲）
+（吼声）
+（做出反應）
+（做出反应）
+（做出反應）
+（做出反应）
+（做出反應）
+（做出反应）
+クレア！
+Claire!
+Claire !
+Claire!
+Claire!
+¡Claire!
+Клэр!
+Claire!
+Claire!
+클레어!
+克蕾兒！
+克莱尔！
+切り離すぞ！
+We gotta lose that car!
+Il faut détacher ce wagon !
+Va sganciata la carrozza!
+Der Waggon muss weg!
+¡Hay que soltar el vagón!
+Нужно оторваться от этого вагона!
+Musimy odczepić ten wagon!
+A gente tem que soltar aquele vagão!
+저 차를 떼내야 해요!
+我們得甩掉那節車廂！
+我们得甩掉那节车厢！
+Forza...
+（用力踢）
+（大力踢）
+これでどう？
+You like that?
+T'aimes ça ?
+Ti piace?
+Gefällt dir das?
+¿Te gusta?
+Нравится?
+Podoba ci się?
+Tá gostando?
+맛이 어떠냐?
+怎麼樣啊？
+怎么样啊？
+お別れよ！
+Goodbye, fucker!
+Adieu, saloperie !
+Addio, stronzo!
+Ciao, Arschloch!
+¡Adiós, cabrón!
+Катись к черту, ублюдок!
+Żegnaj, fajfusie!
+Até mais, seu cuzão!
+잘 가라, 망할 놈!
+再見，混帳！
+混蛋，再见！
+（刺耳的痛苦吼聲）
+（刺耳的痛苦吼声）
+クレア！　手を！
+Give me your hand!
+Prends ma main !
+Dammi la mano!
+Gib mir deine Hand!
+¡Dame la mano!
+Дай мне руку!
+Daj mi rękę!
+Dá a mão!
+손 잡아요!
+把手給我！
+快握住我的手！
+ねえ　クレアとレオンって付き合ってるの？
+So...are you guys, like, boyfriend and girlfriend?
+Alors... est-ce que tous les deux... vous sortez ensemble ?
+Quindi... Voi due siete, fidanzati?
+Also seid ihr zwei, ähm, zusammen?
+Entonces... ¿Vosotros sois pareja?
+Так вы, ребята... типа встречаетесь?
+A więc... jesteście parą?
+Então... vocês dois são, tipo, namorados?
+그러니까... 둘이, 남자친구랑 여자친구 그런 거예요?
+所以... 你們兩個是... 男女朋友嗎？
+所以... 你们两个是... 男女朋友吗？
+いや そんなんじゃない</n>出会ったばかりだ ゆうべね
+No, we're just, uh...</n>Well, we actually just met...last night?
+Non, on est juste...</n>En fait on s'est rencontrés... la nuit dernière.
+No, siamo... Ci siamo conosciuti solo... Ieri sera?
+Nein, wir sind...</n>Wir kennen uns erst seit... letzter Nacht?
+No, nosotros... Nos conocimos anoche. 
+Нет, мы просто, хм...</n>На самом деле мы встретились... прошлой ночью?
+Nie, właściwie to...</n>dopiero się poznaliśmy... konkretnie wczoraj?
+Não, a gente só, ahn...</n>Bem, a gente só se conheceu, tipo, ontem?
+아니, 우린 그냥...</n>그러니까... 어젯밤에 처음 만난 사이거든?
+不，我們... 呃...</n>我們其實昨晚才剛認識？
+不，我们... 呃...</n>其实我们昨晚才认识的？
+そう</n>でも とんだ初デートになった
+Yeah...</n>That would've been one helluva first date, though.
+Ouais... Ça aurait été un sacré premier rendez-vous.
+Sì... Decisamente la serata che non ti aspetti.
+Ja...</n>Das wär aber'n krasses erstes Date gewesen.
+Sí, pero menuda primera cita habría sido...
+Да...</n>Хотя крутое бы вышло первое свидание.
+Tak...</n>To dopiero byłaby pierwsza randka.
+É...</n>Mas teria sido um baita de um primeiro encontro.
+그래...</n>그치만, 엄청난 첫 번째 데이트였어.
+對...</n>不過那樣的初次見面挺酷的。
+是啊...</n>不过那样的初次见面满酷的。
+ああ ホントぶっとんでた
+Yeah, you have no idea—
+Ouais, je te le fais pas dire...
+Già, puoi dirlo forte.
+Ja, allerdings... allerdings.
+Sí, desde luego...
+Да, это уж точно...
+Nawet nie masz pojęcia—
+É, você não tem noção...
+그래, 아마 상상도 못 할—
+是啊，我跟你說喔...
+对阿，我和你说...
+見て！
+Look!
+Regardez !
+Ehi!
+Schaut!
+¡Mirad!
+Смотри!
+Patrzcie!
+Olha!
+저기 봐요!
+你們看！
+你们看！
+乗せてもらえるかもよ
+He might be able to give us a ride.
+Il peut peut-être nous prendre en stop !
+Forse lui può darci un passaggio.
+Meint ihr, der könnte uns mitnehmen?
+Quizá nos podría llevar.
+Может быть, он нас подвезет?
+Może nas podwiezie.
+Talvez ele dê uma carona.
+저 사람이 우릴 태워줄지도 몰라요.
+他也許能載我們一程。
+他也许能载我们一程。
+もし広がってたら…
+What if it's not just the city?
+C'est peut-être pas que Raccoon...
+E se si fosse diffuso?
+Wenn's nicht nur die Stadt ist?
+¿Y si ha afectado a más?
+А что если за городом творится то же самое?
+A co jeśli to wydostało się poza miasto?
+E se não for só na cidade?
+이 도시만 그런 게 아니라면 어쩌죠?
+如果城市之外的地方也淪陷了怎麼辦？
+万一城市以外的地方也沦陷了该怎么办？
+シェリーを頼む
+Get Sherry outta here.
+Emmène Sherry.
+Resta con Sherry.
+Schaff Sherry hier weg.
+Llévate a Sherry.
+Увези Шерри отсюда.
+Zabierz stąd Sherry.
+Tira a Sherry daqui.
+셰리를 여기서 데리고 나가요.
+帶雪莉逃出這裡。
+带雪莉逃离这里。
+シェリー
+Come on.
+Viens !
+Vieni.
+Komm.
+Vamos.
+Давай.
+Chodź.
+Vem.
+가자.
+來吧。
+来吧。
+お届けしたのは</n>ザ・グレイブの「リブ・アナザー・デイ」
+Hey! That was "Live Another Day" by The Grave.
+Voilà ! C'était "Live Another Day" par The Grave.
+Avete appena ascoltato "Live another day" dei The Grave.
+Hey! Das war "Live Another Day" von The Grave.
+¡Eh! Escuchas a The Grave con "Live Another Day".
+Эй! Это была «Live Another Day» от The Grave.
+Hej! To był kawałek „Live Another Day" The Grave.
+Ei! Acabamos de tocar "Live Another Day", do The Grave.
+The Grave의 "Live Another Day"였습니다.
+嘿！剛剛那首是 The Grave 的「Live Another Day」。
+嘿！刚才那首是 The Grave 的“Live Another Day”。
+いい奴だった
+Well, he was friendly...
+Il était sympa ce mec...
+Che simpatico.
+Der war ja freundlich.
+Fue amable.
+Что ж, он был вполне дружелюбен...
+Był miły...
+Bem, ele parecia gente boa...
+뭐, 그럭저럭 친절한 사람이었네요...
+嗯，他還挺親切的嘛…
+嗯，他还挺亲切的…
+じゃ 終わったの？
+So...is it over?
+Alors... c'est fini ?
+Quindi... È finita?
+Also... ist es vorbei?
+¿Entonces, se acabó?
+Значит... Все кончено?
+A więc... to koniec?
+Então quer dizer que... acabou?
+이제... 끝난 건가요?
+所以... 結束了嗎？
+所以... 结束了？
+分からない</n>もしダメでも何とかしよう 俺たちで
+I don't know. But if it's not, we'll stop it.</n>Whatever it takes.
+Je sais pas. Mais si c'est pas le cas, on s'en chargera.</n>Par tous les moyens.
+Non lo so. Se fosse altrove, noi ci saremo. Ad ogni costo.
+Ich weiß nicht. Aber falls nicht, dann stoppen wir's.</n>Was es auch kostet.
+No sé. Pero si no, como sea, lo detendremos.
+Не знаю. Но если нет, мы положим этому конец.</n>Во что бы то ни стало.
+Nie wiem, ale jeśli nie, to powstrzymamy to.</n>Za wszelką cenę.
+Não sei. Mas, se não tiver acabado...</n>a gente dá um jeito.
+모르죠. 아니더라도, 우리가 막을 겁니다.</n>무슨 일이 있어도.
+我不知道。不過如果還沒，我們會阻止的。</n>不惜一切代價。
+我不清楚。不过如果还没，我们会阻止的。</n>不计一切代价。
+ええ 必ずね
+Yeah, you're damn right we will!
+Un peu qu'on s'en chargera !
+Già, io sono con te Leon.
+Da kannst du Gift drauf nehmen.
+De eso puedes estar seguro.
+Да. Именно так мы и поступим!
+Tak. Zdecydowanie tak!
+É isso aí. Dá, sim, com toda certeza!
+맞아요. 우리가 해낼 거예요!
+對。我們一定會！
+没错，我们一定会！
+3人一緒なら大丈夫だ</n>行こう
+As long as we stick together, we'll be fine.</n>Come on.
+Tant qu'on restera ensemble, tout ira bien.</n>On y va ?
+Finché siamo uniti, andrà bene.</n>Forza.
+Solang wir zusammenhalten, packen wir das.</n>Kommt schon.
+Si estamos juntos, irá bien.</n>Vamos.
+Все будет хорошо. Главное, держаться вместе.</n>Ну же.
+Tak długo, jak trzymamy się razem, nic nam nie będzie.</n>Ruszajmy.
+Enquanto a gente continuar junto, vai ficar tudo bem.</n>Vamos nessa.
+우리가 함께 하는 한, 아무 일 없을 겁니다.</n>가죠.
+只要我們待在一起，就不會有事的。</n>來吧。
+只要我们待在一起，就会没事的。</n>来吧。
+ねえ 私を養子にして
+Hey! You guys can adopt me.
+Hé ! Vous pouvez m'adopter !
+Ehi! Perché non mi adottate?
+Hey! Ihr könnt mich adoptieren.
+¡Eh! Podríais adoptarme.
+Эй! Вы можете меня удочерить.
+Hej! Wy możecie mnie zaadoptować.
+Ei! Vocês podiam me adotar.
+있잖아요! 둘이 날 입양해요.
+嘿！你們可以領養我。
+嘿！你们可以领养我啊。
+養子に？
+Adopt you?
+T'adopter ?
+Adottarti?
+Adoptieren?
+¿Adoptarte?
+Удочерить?
+Zaadoptować cię?
+Te adotar?
+입양을 하라고?
+領養你？
+领养你？
+え？
+子犬飼おうよ
+We can get a puppy!
+On pourrait avoir un chien !
+Prenderemo un cucciolo!
+Wir hol'n uns 'nen Welpen!
+¡Tendremos un perrito!
+Мы можем завести щенка!
+Możemy mieć szczeniaczka!
+A gente pode adotar um cachorrinho!
+강아지도 데려오고요!
+我們可以養一隻小狗！
+我们可以养一只小狗！
+え？　子犬？
+A...puppy.
+Euh... un chien.
+Un cucciolo?
+Einen Welpen.
+¿Un perrito?
+Щенка?..
+Szczeniaczka...
+Um cachorrinho...
+강아지라...
+呃... 小狗。
+呃... 小狗。
+オウムも！
+And a parrot!
+Et un perroquet !
+E un pappagallo!
+Und 'nen Papagei!
+¡Y un loro!
+И попугайчика!
+I papugę!
+E um papagaio!
+앵무새도요!
+還有鸚鵡！
+还有鹦鹉！
+オウム？
+A parrot?
+Un perroquet ?
+Un pappagallo?
+Papagei?
+¿Un loro?
+Попугайчика?
+Papugę?
+Um papagaio?!
+앵무새를?
+鸚鵡？
+鹦鹉？
+オウム？　ん～…
+Parrot? Great...
+Un perroquet ? OK...
+Pappagallo? Bene...
+Papagei? Toll...
+¿Un loro? Genial...
+Попугайчика? Здорово...
+Papuga? Świetnie...
+Papagaio? Ah, que ótimo...
+앵무새라? 좋네...
+鸚鵡？是喔...
+鹦鹉？好吧...
+ペットが欲しかったけど ママが嫌がって
+I always wanted pets but my mom said they're too messy.
+J'ai toujours voulu avoir des animaux mais ma mère était maniaque.
+Ho sempre voluto un animale, ma mamma era contraria.
+Ich wollte immer Tiere,</n>aber Mom sagte, das macht nur Dreck.
+Mamá no me dejaba tener mascotas.
+Я всегда хотела животных, но мама говорила, что с ними куча мороки.
+Zawsze chciałam mieć zwierzaki, ale mama mówiła, że</n>za dużo przy nich sprzątania.
+Eu sempre quis ter um bichinho, mas a mamãe</n>dizia que eles fazem muita bagunça.
+항상 애완동물을 갖고 싶었는데 엄마가 반대했거든요.
+我一直很想養寵物，但我媽說牠們太髒了。
+我一直很想养宠物，但我妈说它们太脏了。
+<BLAMK （はっ）>
+ああ そっか
+Hmm... Yeah...
+Hmm... Ouais...
+Mmmh... Ok...
+Ja...
+Ya...
+Хм... Ну да...
+Hmm... Tak...
+Hum... É...
+흠... 그래...
+嗯... 對...
+嗯... 对...
+続いての曲は</n>マンネリの水曜でも元気が湧いてくる…
+Next up on this boring Wednesday</n>is a song to get your blood pumping...
+Et maintenant, en ce mercredi bien calme,</n>une chanson à réveiller les morts...
+Il prossimo brano di oggi è uno di quelli che</n>vi farà venire la pelle d'oca...
+Und als Nächstes an diesem langweiligen Mittwoch</n>kommt ein Song, der euch richtig einheizt...
+Y ahora en este triste miércoles</n>tenemos algo que hervirá tu sangre...
+Среда, середина недели. Разбавим этот тоскливый</n>день песней, от которой кровь в жилах закипает...
+Teraz czas na coś bardziej dynamicznego,</n>co was ożywi w tę śmiertelnie nudną środę...
+A próxima música nessa quarta-feira entediante</n>é pra deixar todo mundo animadão...
+다음으로는 이 지루한 수요일에</n>여러분의 피가 끓어오를 만한 노래를 준비했어요...
+在這無趣的星期三，</n>接下來這首歌將讓你熱血沸騰...
+在这无聊透顶的星期三，</n>接下来这首歌将让你热血沸腾...
+<BLAMK (Sleeping Pussy cat の”Kill Kill Kill"です。)>
+This is "Kill, Kill, Kill" by The Sleeping Pussy Cats.
+Voici "Kill, Kill, Kill" par les Sleeping Pussy Cats.
+Hier kommt "Kill, Kill, Kill" von den Sleeping Pussy Cats.
+Esto es "Kill, Kill, Kill" de The Sleeping Pussy Cats.
+Это «Kill, Kill, Kill» от The Sleeping Pussy Cats.
+Oto „Kill, Kill, Kill” w wykonaniu The Sleeping Pussy Cats.
+Preparem-se para "Kill, Kill, Kill" do The Sleeping Pussy Cats!
+The Sleeping Pussy Cats의 "Kill, Kill, Kill"입니다.
+這是 The Sleeping Pussy Cats 的「Kill, Kill, Kill」。
+这是 The Sleeping Pussy Cats 的 “Kill, Kill, Kill”。
+ピアノも習ったら楽しそう</n>ねえ 何か楽器できる？　　
+Oh, and it would be fun to learn piano.</n>Do you guys play any instruments?
+Oh, et j'aimerais bien apprendre le piano.</n>Est-ce que vous jouez d'un instrument ?
+Oh, e vorrei suonare il pianoforte.</n>Voi suonate uno strumento?
+Oh, ich würd gern Klavier spielen.</n>Spielt ihr Instrumente?
+Oh, y podría aprender piano.</n>¿Tocáis algún instrumento?
+А еще я хочу научиться играть на пианино.</n>А вы умеете на чем-нибудь играть?
+O, fajnie też byłoby nauczyć się grać na pianinie.</n>Gracie na jakichś instrumentach?
+Ah, e eu ia gostar de aprender a tocar piano.</n>Vocês dois tocam alguma coisa?
+아, 피아노를 배우는 것도 재밌을 거 같아요.</n>악기 다룰 수 있는 거 있어요?
+噢，還有如果可以學鋼琴一定很有趣。</n>你們會任何樂器嗎？
+噢，还有如果能学钢琴一定非常有趣。</n>你们会任何乐器吗？
+あ～ いや　どうかな
+Hmm... Not really...
+Hmm... Pas vraiment...
+Ehm... Non proprio...
+Hmm...
+Eh... Pues no...
+Хм... Нет...
+Hmm... raczej nie...
+Hum... Eu não...
+흠... 없어...
+嗯... 不會...
+嗯... 不会...
+Hmm...
+Hmm...
+Ah! Mmmh...
+Ha...
+Emmm...
+Хм...
+Hmm...
+Hum...
+흠...
+嗯...
+嗯...
+バンドでもやる？
+Maybe we could start a band...
+On pourrait monter un groupe...
+Podriamos montar una banda...
+Может, создадим группу...
+Moglibyśmy założyć zespół...
+A gente podia formar uma banda...
+밴드를 시작해도 되겠네요...
+也許我們可以組一個樂團...
+或许我们可以组个乐队...
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>気味が悪いな<PAGE></n>待って！　撃たないで！<PAGE></n>しゃがめ！<PAGE></n>こっちだ！<PAGE></n>何が起きてるの？<PAGE></n>分からない…</n>署に行けば 何か分かるかもな<PAGE></n>あなた警官？<PAGE></n>ああ レオン・ケネディ</n>君は？<PAGE></n>クレア…</n>クレア・レッドフィールド<PAGE></n>クレア　大丈夫か！？<PAGE></n>ええ 大丈夫よ</n>あなたは？<PAGE></n>ダメだ</n>ここは危険だ<PAGE></n>先に行って！</n>警察署で会いましょう！<PAGE></n>分かった！
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>No one's around...?<PAGE></n>Whoa, don't shoot!<PAGE></n>Get down!<PAGE></n>Come on!<PAGE></n>What the hell is going on?<PAGE></n>I dunno…</n>Hopefully, they'll have some answers at the police station.<PAGE></n>Wait, you're a cop?<PAGE></n>Yeah, Leon Kennedy.</n>You are...?<PAGE></n>Claire—Claire Redfield.<PAGE></n>CLAIRE, YOU OK!?<PAGE></n>YEAH! I'M ALRIGHT!</n>HOW ABOUT YOU!?<PAGE></n>I CAN'T STAY HERE!</n>IT'S NOT SAFE!<PAGE></n>GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!<PAGE></n>I'LL BE THERE!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>Y'a personne ?<PAGE></n>Tirez pas !<PAGE></n>Baisse-toi !<PAGE></n>Suis-moi !<PAGE></n>Qu'est-ce qui se passe ici ?<PAGE></n>J'en sais rien...</n>Espérons qu'ils en sachent plus au commissariat.<PAGE></n>Quoi, tu es flic ?<PAGE></n>Ouais, Leon Kennedy.</n>Et toi ?<PAGE></n>Claire... Claire Redfield.<PAGE></n>Claire, ça va ?<PAGE></n>Oui ! Ça va !</n>Et de ton côté ?<PAGE></n>Je peux pas rester ici !</n>C'est trop dangereux !<PAGE></n>Pars tout seul !</n>On se retrouve au commissariat !<PAGE></n>Entendu !
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>Non c'è nessuno?<PAGE></n>Ehi! Non sparare!<PAGE></n>Stai giù!<PAGE></n>Forza!<PAGE></n>Ma che succede?<PAGE></n>Non lo so... Forse, alla centrale</n>sapranno dirci qualcosa.<PAGE></n>Sei un poliziotto?<PAGE></n>Sì, Leon Kennedy. E tu?<PAGE></n>Claire. Claire Redfield.<PAGE></n>Claire, stai bene?<PAGE></n>Sì, tutto ok! Tu stai bene?<PAGE></n>Non posso stare qui! Non è sicuro!<PAGE></n>Vai avanti! Ci vediamo alla centrale!<PAGE></n>Sì, va bene!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>Niemand da?<PAGE></n>Nicht schießen!<PAGE></n>Runter!<PAGE></n>Los jetzt!<PAGE></n>Was zur Hölle geht hier vor?<PAGE></n>Keine Ahnung. Hoffentlich haben</n>die mehr Infos auf der Polizeistation.<PAGE></n>Warte, du bist Cop?<PAGE></n>Ja, Leon Kennedy.</n>Und du bist...?<PAGE></n>Claire. Claire Redfield.<PAGE></n>Claire, alles klar?!<PAGE></n>Ja! Mir geht's gut!</n>Was ist mit dir?!<PAGE></n>Ich muss weg hier!</n>Ist nicht sicher!<PAGE></n>Geh schon weiter!</n>Ich treff dich bei der Station!<PAGE></n>Ich komm' hin!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>¿No hay nadie?<PAGE></n>¡Eh, no dispares!<PAGE></n>¡Al suelo!<PAGE></n>¡Vamos!<PAGE></n>¿Qué está pasando?<PAGE></n>No lo sé.</n>Espero que nos lo expliquen en la comisaría.<PAGE></n>¿Eres policía?<PAGE></n>Sí, Leon Kennedy. ¿Y tú...?<PAGE></n>Claire... Claire Redfield.<PAGE></n>¡Claire! ¡¿Estás bien?!<PAGE></n>¡Sí! ¡Estoy bien! ¡¿Qué tal tú?!<PAGE></n>¡No puedo quedarme! ¡Es peligroso!<PAGE></n>¡Sigue tú! ¡Te veré en la comisaría!<PAGE></n>¡Allí estaré!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>Никого нет?..<PAGE></n>Эй, не стреляй!<PAGE></n>Ложись!<PAGE></n>В машину!<PAGE></n>Что тут вообще творится?<PAGE></n>Не знаю...</n>Надеюсь, в участке нам что-нибудь объяснят.<PAGE></n>Стой, ты что, коп?<PAGE></n>Да, Леон Кеннеди.</n>А ты...<PAGE></n>Клэр... Клэр Редфилд.<PAGE></n>Клэр, ты цела?!<PAGE></n>Да! Я в порядке!</n>Ты сам как?!<PAGE></n>Надо бежать!</n>Здесь опасно!<PAGE></n>Да, давай!</n>Встретимся в участке!<PAGE></n>Хорошо!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>Nikogo nie ma...?<PAGE></n>Hej, nie strzelaj!<PAGE></n>Na ziemię!<PAGE></n>Chodź!<PAGE></n>Co się tu, do cholery, dzieje?<PAGE></n>Nie wiem... Mam nadzieję,</n>że dowiemy się czegoś na komisariacie.<PAGE></n>Jesteś policjantem?<PAGE></n>Tak. Nazywam się Leon Kennedy.</n>A ty?<PAGE></n>Claire — Claire Redfield.<PAGE></n>CLAIRE, WSZYSTKO OK?!<PAGE></n>TAK! JESTEM CAŁA!</n>A TY?!<PAGE></n>MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!<PAGE></n>DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!<PAGE></n>TAM SIĘ ZNAJDZIEMY!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>Não tem ninguém?<PAGE></n>Ei, não atira!<PAGE></n>Abaixa!<PAGE></n>Vem!<PAGE></n>O que é que tá acontecendo?!<PAGE></n>Não sei...</n>Tomara que o pessoal na delegacia possa explicar.<PAGE></n>Peraí, você é da polícia?<PAGE></n>Sou. Leon Kennedy.</n>E você é...?<PAGE></n>Claire. Claire Redfield.<PAGE></n>CLAIRE, VOCÊ TÁ BEM?<PAGE></n>TÔ! EU TÔ BEM!</n>E VOCÊ?<PAGE></n>NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!<PAGE></n>VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!<PAGE></n>TE ESPERO LÁ!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>아무도 없나...?<PAGE></n>앗, 쏘지 마세요!<PAGE></n>숙여요!<PAGE></n>갑시다!<PAGE></n>뭐가 어떻게 된 거죠?<PAGE></n>모르겠군요...</n>경찰서에 가면 뭔가 알 수 있을지도.<PAGE></n>잠깐, 경찰인가요?<PAGE></n>네, 레온 케네디라고 합니다.</n>그쪽은...?<PAGE></n>클레어예요. 클레어 레드필드.<PAGE></n>클레어, 괜찮아요?<PAGE></n>네! 괜찮아요!</n>그쪽은요?<PAGE></n>여기 있으면 안 되겠어요!</n>위험해요!<PAGE></n>어서 가요!</n>경찰서에서 만나죠!<PAGE></n>알겠어요!
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>沒人在嗎？<PAGE></n>哇，別開槍！<PAGE></n>趴下！<PAGE></n>快！<PAGE></n>到底發生了什麼事？<PAGE></n>我不知道...</n>希望警察局的人會有答案。<PAGE></n>等等，你是警察？<PAGE></n>是啊，我叫里昂·甘迺迪。</n>你呢？<PAGE></n>克蕾兒，克蕾兒·雷德菲爾。<PAGE></n>克蕾兒，妳還好嗎！？<PAGE></n>還好！我沒事！</n>你呢！？<PAGE></n>我不能待在這！</n>這裡很危險！<PAGE></n>繼續前進！</n>我們在警察局會合！<PAGE></n>我會去的！
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>怎么没人在？<PAGE></n>哇，别开枪！<PAGE></n>趴下！<PAGE></n>这边！<PAGE></n>到底发生了什么事？<PAGE></n>我也不知道...</n>希望警察局的同事们能告诉我。<PAGE></n>等等，你是警察？<PAGE></n>是的，我叫里昂·肯尼迪。</n>你呢...？<PAGE></n>克莱尔，克莱尔·雷德菲尔德。<PAGE></n>克莱尔，你没事吧！？<PAGE></n>嗯！我没事！</n>你呢？<PAGE></n>我不能继续待在这里！</n>这里太危险了！<PAGE></n>你先走！</n>我会去警察局跟你会合！<PAGE></n>我在那里等你！
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+<TIME 26.28, 28.16><TIME 39.65, 41.27><TIME 41.3, 42.72><TIME 46.18, 47.5><TIME 52.39, 53.77><TIME 53.81, 57.62><TIME 58.08, 59.49><TIME 59.67, 62.53><TIME 62.64, 65.03><TIME 73.3, 75.09><TIME 75.47, 79.18><TIME 80.09, 82.44><TIME 82.48, 85.81><TIME 85.92, 87.49>
+気味が悪いな
+No one's around...?
+Y'a personne ?
+Non c'è nessuno?
+Niemand da?
+¿No hay nadie?
+Никого нет?..
+Nikogo nie ma...?
+Não tem ninguém?
+아무도 없나...?
+沒人在嗎？
+怎么没人在？
+待って！　撃たないで！
+Whoa, don't shoot!
+Tirez pas !
+Ehi! Non sparare!
+Nicht schießen!
+¡Eh, no dispares!
+Эй, не стреляй!
+Hej, nie strzelaj!
+Ei, não atira!
+앗, 쏘지 마세요!
+哇，別開槍！
+哇，别开枪！
+しゃがめ！
+Get down!
+Baisse-toi !
+Stai giù!
+Runter!
+¡Al suelo!
+Ложись!
+Na ziemię!
+Abaixa!
+숙여요!
+趴下！
+趴下！
+こっちだ！
+Come on!
+Suis-moi !
+Forza!
+Los jetzt!
+¡Vamos!
+В машину!
+Chodź!
+Vem!
+갑시다!
+快！
+这边！
+何が起きてるの？
+What the hell is going on?
+Qu'est-ce qui se passe ici ?
+Ma che succede?
+Was zur Hölle geht hier vor?
+¿Qué está pasando?
+Что тут вообще творится?
+Co się tu, do cholery, dzieje?
+O que é que tá acontecendo?!
+뭐가 어떻게 된 거죠?
+到底發生了什麼事？
+到底发生了什么事？
+分からない…</n>署に行けば 何か分かるかもな
+I dunno…</n>Hopefully, they'll have some answers at the police station.
+J'en sais rien...</n>Espérons qu'ils en sachent plus au commissariat.
+Non lo so... Forse, alla centrale</n>sapranno dirci qualcosa.
+Keine Ahnung. Hoffentlich haben</n>die mehr Infos auf der Polizeistation.
+No lo sé.</n>Espero que nos lo expliquen en la comisaría.
+Не знаю...</n>Надеюсь, в участке нам что-нибудь объяснят.
+Nie wiem... Mam nadzieję,</n>że dowiemy się czegoś na komisariacie.
+Não sei...</n>Tomara que o pessoal na delegacia possa explicar.
+모르겠군요...</n>경찰서에 가면 뭔가 알 수 있을지도.
+我不知道...</n>希望警察局的人會有答案。
+我也不知道...</n>希望警察局的同事们能告诉我。
+あなた警官？
+Wait, you're a cop?
+Quoi, tu es flic ?
+Sei un poliziotto?
+Warte, du bist Cop?
+¿Eres policía?
+Стой, ты что, коп?
+Jesteś policjantem?
+Peraí, você é da polícia?
+잠깐, 경찰인가요?
+等等，你是警察？
+等等，你是警察？
+ああ レオン・ケネディ</n>君は？
+Yeah, Leon Kennedy.</n>You are...?
+Ouais, Leon Kennedy.</n>Et toi ?
+Sì, Leon Kennedy. E tu?
+Ja, Leon Kennedy.</n>Und du bist...?
+Sí, Leon Kennedy. ¿Y tú...?
+Да, Леон Кеннеди.</n>А ты...
+Tak. Nazywam się Leon Kennedy.</n>A ty?
+Sou. Leon Kennedy.</n>E você é...?
+네, 레온 케네디라고 합니다.</n>그쪽은...?
+是啊，我叫里昂·甘迺迪。</n>你呢？
+是的，我叫里昂·肯尼迪。</n>你呢...？
+クレア…</n>クレア・レッドフィールド
+Claire—Claire Redfield.
+Claire... Claire Redfield.
+Claire. Claire Redfield.
+Claire. Claire Redfield.
+Claire... Claire Redfield.
+Клэр... Клэр Редфилд.
+Claire — Claire Redfield.
+Claire. Claire Redfield.
+클레어예요. 클레어 레드필드.
+克蕾兒，克蕾兒·雷德菲爾。
+克莱尔，克莱尔·雷德菲尔德。
+クレア　大丈夫か！？
+CLAIRE, YOU OK!?
+Claire, ça va ?
+Claire, stai bene?
+Claire, alles klar?!
+¡Claire! ¡¿Estás bien?!
+Клэр, ты цела?!
+CLAIRE, WSZYSTKO OK?!
+CLAIRE, VOCÊ TÁ BEM?
+클레어, 괜찮아요?
+克蕾兒，妳還好嗎！？
+克莱尔，你没事吧！？
+ええ 大丈夫よ</n>あなたは？
+YEAH! I'M ALRIGHT!</n>HOW ABOUT YOU!?
+Oui ! Ça va !</n>Et de ton côté ?
+Sì, tutto ok! Tu stai bene?
+Ja! Mir geht's gut!</n>Was ist mit dir?!
+¡Sí! ¡Estoy bien! ¡¿Qué tal tú?!
+Да! Я в порядке!</n>Ты сам как?!
+TAK! JESTEM CAŁA!</n>A TY?!
+TÔ! EU TÔ BEM!</n>E VOCÊ?
+네! 괜찮아요!</n>그쪽은요?
+還好！我沒事！</n>你呢！？
+嗯！我没事！</n>你呢？
+ダメだ</n>ここは危険だ
+I CAN'T STAY HERE!</n>IT'S NOT SAFE!
+Je peux pas rester ici !</n>C'est trop dangereux !
+Non posso stare qui! Non è sicuro!
+Ich muss weg hier!</n>Ist nicht sicher!
+¡No puedo quedarme! ¡Es peligroso!
+Надо бежать!</n>Здесь опасно!
+MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!
+NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!
+여기 있으면 안 되겠어요!</n>위험해요!
+我不能待在這！</n>這裡很危險！
+我不能继续待在这里！</n>这里太危险了！
+先に行って！</n>警察署で会いましょう！
+GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!
+Pars tout seul !</n>On se retrouve au commissariat !
+Vai avanti! Ci vediamo alla centrale!
+Geh schon weiter!</n>Ich treff dich bei der Station!
+¡Sigue tú! ¡Te veré en la comisaría!
+Да, давай!</n>Встретимся в участке!
+DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!
+VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!
+어서 가요!</n>경찰서에서 만나죠!
+繼續前進！</n>我們在警察局會合！
+你先走！</n>我会去警察局跟你会合！
+分かった！
+I'LL BE THERE!
+Entendu !
+Sì, va bene!
+Ich komm' hin!
+¡Allí estaré!
+Хорошо!
+TAM SIĘ ZNAJDZIEMY!
+TE ESPERO LÁ!
+알겠어요!
+我會去的！
+我在那里等你！
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>ええ もうすぐ着く<PAGE></n>だから平気だってば<PAGE></n>クリスに会ったらすぐ戻る<PAGE></n>みんな心配性なんだから<PAGE></n>え？　何？<PAGE></n>撃たないで！<PAGE></n>しゃがめ！<PAGE></n>こっちだ！<PAGE></n>何が起きてるの？<PAGE></n>分からない…</n>署に行けば 何か分かるかもな<PAGE></n>あなた警官？<PAGE></n>ああ レオン・ケネディ</n>君は？<PAGE></n>クレア…</n>クレア・レッドフィールド<PAGE></n>クレア</n>クレア　大丈夫か！？<PAGE></n>大丈夫よ　あなたは？<PAGE></n>ダメだ</n>ここは危険だ<PAGE></n>先に行って！</n>警察署で会いましょう！
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>Yeah, I'm almost there.<PAGE></n>You know me, I'll be fine.<PAGE></n>I'll be back as soon as I find Chris.<PAGE></n>Why does everyone think I'm going to get in trouble?<PAGE></n>What the...?<PAGE></n>Don't shoot!<PAGE></n>Get down!<PAGE></n>Come on!<PAGE></n>What the hell is going on?<PAGE></n>I dunno…</n>Hopefully, they'll have some answers at the police station.<PAGE></n>Wait, you're a cop?<PAGE></n>Yeah, Leon Kennedy.</n>You are...?<PAGE></n>Claire—Claire Redfield.<PAGE></n>CLAIRE!</n>CLAIRE, YOU OK!?<PAGE></n>YEAH! I'M ALRIGHT!</n>HOW ABOUT YOU!?<PAGE></n>I CAN'T STAY HERE!</n>IT'S NOT SAFE!<PAGE></n>GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>Ouais, je suis presque arrivée.<PAGE></n>Tu me connais, ça va aller.<PAGE></n>Je reviens dès que j'ai trouvé Chris.<PAGE></n>Pourquoi est-ce que tout le monde s'inquiète pour moi ?<PAGE></n>C'était quoi ça ?<PAGE></n>Tirez pas !<PAGE></n>Baisse-toi !<PAGE></n>Suis-moi !<PAGE></n>Qu'est-ce qui se passe ici ?<PAGE></n>J'en sais rien...</n>Espérons qu'ils en sachent plus au commissariat.<PAGE></n>Quoi, tu es flic ?<PAGE></n>Ouais, Leon Kennedy.</n>Et toi ?<PAGE></n>Claire... Claire Redfield.<PAGE></n>Claire ! Claire, ça va ?<PAGE></n>Moi ça va !</n>Et de ton côté ?<PAGE></n>Je peux pas rester ici !</n>C'est trop dangereux !<PAGE></n>Pars tout seul !</n>On se retrouve au commissariat !
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>Sì, ci sono quasi.<PAGE></n>Mi conosci, me la caverò.<PAGE></n>Tornerò appena trovo Chris.<PAGE></n>Perché tutti si preoccupano tanto?<PAGE></n>Ma che...<PAGE></n>Non sparare!<PAGE></n>Stai giù!<PAGE></n>Forza!<PAGE></n>Ma che succede?<PAGE></n>Non lo so... Forse, alla centrale</n>sapranno dirci qualcosa.<PAGE></n>Sei un poliziotto?<PAGE></n>Sì, Leon Kennedy. E tu?<PAGE></n>Claire. Claire Redfield.<PAGE></n>Claire! Claire, stai bene?<PAGE></n>Tutto ok! Tu stai bene?<PAGE></n>Non posso stare qui! Non è sicuro!<PAGE></n>Vai avanti! Ci vediamo alla centrale!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>Ja, bin fast da.<PAGE></n>Du kennst mich, ich komm klar.<PAGE></n>Ich komm zurück, sobald ich Chris finde.<PAGE></n>Wieso denkt jeder, ich komm in Schwierigkeiten?<PAGE></n>Was zur...?<PAGE></n>Nicht schießen!<PAGE></n>Runter!<PAGE></n>Los jetzt!<PAGE></n>Was zur Hölle geht hier vor?<PAGE></n>Keine Ahnung. Hoffentlich haben</n>die mehr Infos auf der Polizeistation.<PAGE></n>Warte, du bist Cop?<PAGE></n>Ja, Leon Kennedy.</n>Und du bist...?<PAGE></n>Claire. Claire Redfield.<PAGE></n>Claire!</n>Claire, alles klar?!<PAGE></n>Ja! Mir geht's gut!</n>Was ist mit dir?!<PAGE></n>Ich muss weg hier!</n>Ist nicht sicher!<PAGE></n>Geh schon weiter!</n>Ich treff dich bei der Station!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>Sí, casi estoy.<PAGE></n>Sabes que estaré bien.<PAGE></n>Volveré en cuanto encuentre a Chris.<PAGE></n>Todos creen que voy a tener problemas.<PAGE></n>¿Qué...?<PAGE></n>¡No dispares!<PAGE></n>¡Al suelo!<PAGE></n>¡Vamos!<PAGE></n>¿Qué está pasando?<PAGE></n>No lo sé.</n>Espero que nos lo expliquen en la comisaría.<PAGE></n>¿Eres policía?<PAGE></n>Sí, Leon Kennedy. ¿Y tú...?<PAGE></n>Claire... Claire Redfield.<PAGE></n>¡Claire! ¡¿Estás bien?!<PAGE></n>¡Sí! ¡Estoy bien! ¡¿Qué tal tú?!<PAGE></n>¡No puedo quedarme! ¡Es peligroso!<PAGE></n>¡Sigue tú! ¡Te veré en la comisaría!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>Да, я почти на месте.<PAGE></n>Ты ж меня знаешь, все будет нормально.<PAGE></n>Договорились.</n>Вернусь, как только найду Криса.<PAGE></n>И почему все думают, что я сразу во что-нибудь влипну?<PAGE></n>Что за?..<PAGE></n>Не стреляй!<PAGE></n>Ложись!<PAGE></n>В машину!<PAGE></n>Что тут вообще творится?<PAGE></n>Не знаю...</n>Надеюсь, в участке нам что-нибудь объяснят.<PAGE></n>Стой, ты что, коп?<PAGE></n>Да, Леон Кеннеди.</n>А ты...<PAGE></n>Клэр... Клэр Редфилд.<PAGE></n>Клэр, ты цела?!<PAGE></n>Да! Я в порядке!</n>Ты сам как?!<PAGE></n>Надо бежать!</n>Здесь опасно!<PAGE></n>Да, давай!</n>Встретимся в участке!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>Tak, jestem prawie na miejscu.<PAGE></n>Znasz mnie, poradzę sobie.<PAGE></n>Brzmi nieźle.</n>Wrócę, jak tylko znajdę Chrisa.<PAGE></n>Czemu wszyscy myślą, że ładuję się w tarapaty?<PAGE></n>Co do jasnej...?<PAGE></n>Nie strzelaj!<PAGE></n>Na ziemię!<PAGE></n>Chodź!<PAGE></n>Co się tu, do cholery, dzieje?<PAGE></n>Nie wiem... Mam nadzieję,</n>że dowiemy się czegoś na komisariacie.<PAGE></n>Jesteś policjantem?<PAGE></n>Tak. Nazywam się Leon Kennedy.</n>A ty?<PAGE></n>Claire — Claire Redfield.<PAGE></n>CLAIRE, WSZYSTKO OK?!<PAGE></n>TAK! JESTEM CAŁA!</n>A TY?!<PAGE></n>MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!<PAGE></n>DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>É, já tô chegando.<PAGE></n>Você me conhece, eu vou ficar bem.<PAGE></n>Tudo bem.</n>Eu volto assim que achar o Chris.<PAGE></n>Por que sempre acham que eu vou me meter em confusão?<PAGE></n>Mas que...<PAGE></n>Não atira!<PAGE></n>Abaixa!<PAGE></n>Vem!<PAGE></n>O que é que tá acontecendo?!<PAGE></n>Não sei...</n>Tomara que o pessoal na delegacia possa explicar.<PAGE></n>Peraí, você é da polícia?<PAGE></n>Sou. Leon Kennedy.</n>E você é...?<PAGE></n>Claire. Claire Redfield.<PAGE></n>CLAIRE, VOCÊ TÁ BEM?<PAGE></n>TÔ! EU TÔ BEM!</n>E VOCÊ?<PAGE></n>NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!<PAGE></n>VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>그래, 거의 다 왔어.<PAGE></n>날 알잖아. 괜찮을 거야.<PAGE></n>좋아.</n>오빠를 찾으면 바로 돌아갈게.<PAGE></n>왜 다들 나한테 문제가 일어날 거라 생각하는 거지?<PAGE></n>뭐지...?<PAGE></n>쏘지 마세요!<PAGE></n>숙여요!<PAGE></n>갑시다!<PAGE></n>뭐가 어떻게 된 거죠?<PAGE></n>모르겠군요...</n>경찰서에 가면 뭔가 알 수 있을지도.<PAGE></n>잠깐, 경찰인가요?<PAGE></n>네, 레온 케네디라고 합니다.</n>그쪽은...?<PAGE></n>클레어예요. 클레어 레드필드.<PAGE></n>클레어, 괜찮아요?<PAGE></n>네! 괜찮아요!</n>그쪽은요?<PAGE></n>여기 있으면 안 되겠어요!</n>위험해요!<PAGE></n>어서 가요!</n>경찰서에서 만나죠!
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>嗯，我快到了。<PAGE></n>別擔心，我不會有事的。<PAGE></n>沒問題。</n>找到克里斯後我會馬上回去。<PAGE></n>為什麼大家都覺得我會出事情？<PAGE></n>什麼...<PAGE></n>別開槍！<PAGE></n>趴下！<PAGE></n>快！<PAGE></n>到底發生了什麼事？<PAGE></n>我不知道...</n>希望警察局的人會有答案。<PAGE></n>等等，你是警察？<PAGE></n>是啊，我叫里昂·甘迺迪。</n>你呢？<PAGE></n>克蕾兒，克蕾兒·雷德菲爾。<PAGE></n>克蕾兒，妳還好嗎！？<PAGE></n>還好！我沒事！</n>你呢！？<PAGE></n>我不能待在這！</n>這裡很危險！<PAGE></n>繼續前進！</n>我們在警察局會合！
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>是的，我快到了。<PAGE></n>你知道我不会有事的。<PAGE></n>好主意。</n>找到克里斯我就回去了。<PAGE></n>为什么大家都觉得我会惹上麻烦呢？<PAGE></n>怎么回事...？<PAGE></n>别开枪！<PAGE></n>趴下！<PAGE></n>这边！<PAGE></n>到底发生了什么事？<PAGE></n>我也不知道...</n>希望警察局的同事们能告诉我。<PAGE></n>等等，你是警察？<PAGE></n>是的，我叫里昂·肯尼迪。</n>你呢...？<PAGE></n>克莱尔，克莱尔·雷德菲尔德。<PAGE></n>克莱尔，你没事吧！？<PAGE></n>嗯！我没事！</n>你呢？<PAGE></n>我不能继续待在这里！</n>这里太危险了！<PAGE></n>你先走！</n>我会去警察局跟你会合！
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+<TIME 6.37, 8.24><TIME 8.63, 10.66><TIME 11.04, 13.25><TIME 15.07, 17.5><TIME 21.72, 23.22><TIME 29.89, 30.84><TIME 30.86, 32.52><TIME 35.19, 36.77><TIME 41.6, 43.01><TIME 43.02, 46.99><TIME 47.27, 48.62><TIME 48.88, 51.77><TIME 51.83, 54.53><TIME 64.18, 66.81><TIME 67.15, 69.96><TIME 70.04, 72.5><TIME 72.77, 76.99>
+ええ もうすぐ着く
+Yeah, I'm almost there.
+Ouais, je suis presque arrivée.
+Sì, ci sono quasi.
+Ja, bin fast da.
+Sí, casi estoy.
+Да, я почти на месте.
+Tak, jestem prawie na miejscu.
+É, já tô chegando.
+그래, 거의 다 왔어.
+嗯，我快到了。
+是的，我快到了。
+だから平気だってば
+You know me, I'll be fine.
+Tu me connais, ça va aller.
+Mi conosci, me la caverò.
+Du kennst mich, ich komm klar.
+Sabes que estaré bien.
+Ты ж меня знаешь, все будет нормально.
+Znasz mnie, poradzę sobie.
+Você me conhece, eu vou ficar bem.
+날 알잖아. 괜찮을 거야.
+別擔心，我不會有事的。
+你知道我不会有事的。
+クリスに会ったらすぐ戻る
+I'll be back as soon as I find Chris.
+Je reviens dès que j'ai trouvé Chris.
+Tornerò appena trovo Chris.
+Ich komm zurück, sobald ich Chris finde.
+Volveré en cuanto encuentre a Chris.
+Договорились.</n>Вернусь, как только найду Криса.
+Brzmi nieźle.</n>Wrócę, jak tylko znajdę Chrisa.
+Tudo bem.</n>Eu volto assim que achar o Chris.
+좋아.</n>오빠를 찾으면 바로 돌아갈게.
+沒問題。</n>找到克里斯後我會馬上回去。
+好主意。</n>找到克里斯我就回去了。
+みんな心配性なんだから
+Why does everyone think I'm going to get in trouble?
+Pourquoi est-ce que tout le monde s'inquiète pour moi ?
+Perché tutti si preoccupano tanto?
+Wieso denkt jeder, ich komm in Schwierigkeiten?
+Todos creen que voy a tener problemas.
+И почему все думают, что я сразу во что-нибудь влипну?
+Czemu wszyscy myślą, że ładuję się w tarapaty?
+Por que sempre acham que eu vou me meter em confusão?
+왜 다들 나한테 문제가 일어날 거라 생각하는 거지?
+為什麼大家都覺得我會出事情？
+为什么大家都觉得我会惹上麻烦呢？
+え？　何？
+What the...?
+C'était quoi ça ?
+Ma che...
+Was zur...?
+¿Qué...?
+Что за?..
+Co do jasnej...?
+Mas que...
+뭐지...?
+什麼...
+怎么回事...？
+撃たないで！
+Don't shoot!
+Tirez pas !
+Non sparare!
+Nicht schießen!
+¡No dispares!
+Не стреляй!
+Nie strzelaj!
+Não atira!
+쏘지 마세요!
+別開槍！
+别开枪！
+しゃがめ！
+Get down!
+Baisse-toi !
+Stai giù!
+Runter!
+¡Al suelo!
+Ложись!
+Na ziemię!
+Abaixa!
+숙여요!
+趴下！
+趴下！
+こっちだ！
+Come on!
+Suis-moi !
+Forza!
+Los jetzt!
+¡Vamos!
+В машину!
+Chodź!
+Vem!
+갑시다!
+快！
+这边！
+何が起きてるの？
+What the hell is going on?
+Qu'est-ce qui se passe ici ?
+Ma che succede?
+Was zur Hölle geht hier vor?
+¿Qué está pasando?
+Что тут вообще творится?
+Co się tu, do cholery, dzieje?
+O que é que tá acontecendo?!
+뭐가 어떻게 된 거죠?
+到底發生了什麼事？
+到底发生了什么事？
+分からない…</n>署に行けば 何か分かるかもな
+I dunno…</n>Hopefully, they'll have some answers at the police station.
+J'en sais rien...</n>Espérons qu'ils en sachent plus au commissariat.
+Non lo so... Forse, alla centrale</n>sapranno dirci qualcosa.
+Keine Ahnung. Hoffentlich haben</n>die mehr Infos auf der Polizeistation.
+No lo sé.</n>Espero que nos lo expliquen en la comisaría.
+Не знаю...</n>Надеюсь, в участке нам что-нибудь объяснят.
+Nie wiem... Mam nadzieję,</n>że dowiemy się czegoś na komisariacie.
+Não sei...</n>Tomara que o pessoal na delegacia possa explicar.
+모르겠군요...</n>경찰서에 가면 뭔가 알 수 있을지도.
+我不知道...</n>希望警察局的人會有答案。
+我也不知道...</n>希望警察局的同事们能告诉我。
+あなた警官？
+Wait, you're a cop?
+Quoi, tu es flic ?
+Sei un poliziotto?
+Warte, du bist Cop?
+¿Eres policía?
+Стой, ты что, коп?
+Jesteś policjantem?
+Peraí, você é da polícia?
+잠깐, 경찰인가요?
+等等，你是警察？
+等等，你是警察？
+ああ レオン・ケネディ</n>君は？
+Yeah, Leon Kennedy.</n>You are...?
+Ouais, Leon Kennedy.</n>Et toi ?
+Sì, Leon Kennedy. E tu?
+Ja, Leon Kennedy.</n>Und du bist...?
+Sí, Leon Kennedy. ¿Y tú...?
+Да, Леон Кеннеди.</n>А ты...
+Tak. Nazywam się Leon Kennedy.</n>A ty?
+Sou. Leon Kennedy.</n>E você é...?
+네, 레온 케네디라고 합니다.</n>그쪽은...?
+是啊，我叫里昂·甘迺迪。</n>你呢？
+是的，我叫里昂·肯尼迪。</n>你呢...？
+クレア…</n>クレア・レッドフィールド
+Claire—Claire Redfield.
+Claire... Claire Redfield.
+Claire. Claire Redfield.
+Claire. Claire Redfield.
+Claire... Claire Redfield.
+Клэр... Клэр Редфилд.
+Claire — Claire Redfield.
+Claire. Claire Redfield.
+클레어예요. 클레어 레드필드.
+克蕾兒，克蕾兒·雷德菲爾。
+克莱尔，克莱尔·雷德菲尔德。
+クレア</n>クレア　大丈夫か！？
+CLAIRE!</n>CLAIRE, YOU OK!?
+Claire ! Claire, ça va ?
+Claire! Claire, stai bene?
+Claire!</n>Claire, alles klar?!
+¡Claire! ¡¿Estás bien?!
+Клэр, ты цела?!
+CLAIRE, WSZYSTKO OK?!
+CLAIRE, VOCÊ TÁ BEM?
+클레어, 괜찮아요?
+克蕾兒，妳還好嗎！？
+克莱尔，你没事吧！？
+大丈夫よ　あなたは？
+YEAH! I'M ALRIGHT!</n>HOW ABOUT YOU!?
+Moi ça va !</n>Et de ton côté ?
+Tutto ok! Tu stai bene?
+Ja! Mir geht's gut!</n>Was ist mit dir?!
+¡Sí! ¡Estoy bien! ¡¿Qué tal tú?!
+Да! Я в порядке!</n>Ты сам как?!
+TAK! JESTEM CAŁA!</n>A TY?!
+TÔ! EU TÔ BEM!</n>E VOCÊ?
+네! 괜찮아요!</n>그쪽은요?
+還好！我沒事！</n>你呢！？
+嗯！我没事！</n>你呢？
+ダメだ</n>ここは危険だ
+I CAN'T STAY HERE!</n>IT'S NOT SAFE!
+Je peux pas rester ici !</n>C'est trop dangereux !
+Non posso stare qui! Non è sicuro!
+Ich muss weg hier!</n>Ist nicht sicher!
+¡No puedo quedarme! ¡Es peligroso!
+Надо бежать!</n>Здесь опасно!
+MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!
+NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!
+여기 있으면 안 되겠어요!</n>위험해요!
+我不能待在這！</n>這裡很危險！
+我不能继续待在这里！</n>这里太危险了！
+先に行って！</n>警察署で会いましょう！
+GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!
+Pars tout seul !</n>On se retrouve au commissariat !
+Vai avanti! Ci vediamo alla centrale!
+Geh schon weiter!</n>Ich treff dich bei der Station!
+¡Sigue tú! ¡Te veré en la comisaría!
+Да, давай!</n>Встретимся в участке!
+DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!
+VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!
+어서 가요!</n>경찰서에서 만나죠!
+繼續前進！</n>我們在警察局會合！
+你先走！</n>我会去警察局跟你会合！

@@ -1,0 +1,1601 @@
+﻿１２３４５６７８９０１２３４５
+ロックされた扉
+Locked Door
+Porte verrouillée
+Porta chiusa
+Verschlossene Tür
+Puerta cerrada
+Запертая дверь
+Zamknięte drzwi
+Porta Trancada
+잠긴 문
+上鎖的門
+锁住的门
+ダイヤル錠
+Dial Lock
+Cadenas
+Lucchetto a combinazione
+Kombinationsschloss
+Cerradura con dial
+Дисковый замок
+Zamek tarcz.
+Tranca Giratória
+다이얼 자물쇠
+轉盤鎖
+转盘锁
+PC
+PC
+PC
+PC
+PC
+PC
+ПК
+Komputer
+PC
+PC
+電腦
+电脑
+金庫
+Safe
+Coffre
+Cassaforte
+Tresor
+Caja fuerte
+Сейф
+Sejf
+Cofre
+금고
+保險箱
+保险箱
+タイプライター
+Typewriter
+Machine à écrire
+Macchina da scrivere
+Schreibmaschine
+Máquina de escribir
+Печатная машинка
+Masz. do pisan.
+Máq. de Escrever
+타자기
+打字機
+打字机
+アイテムボックス
+Item Box
+Coffre à objets
+Cassa oggetti
+Inventarbox
+Baúl de objetos
+Коробка
+Skrzyn. (przed.)
+Baú
+아이템 상자
+置物箱
+物品箱
+電子ロックされた扉
+Electronically-locked Door
+Porte verrouillée électroniquement
+Porta chiusa elettronicamente
+Tür mit elektronischem Schloss
+Cerradura electrónica
+Дверь с электр. замком
+Drzwi z zamkiem elektronicznym
+Porta c/ Tranca Eletrônica
+전자 자물쇠로 잠긴 문
+上了電子鎖的門
+以电子锁锁住的门
+スペードの刻印の扉
+Spade Door
+Porte Pique
+Porta di picche
+Pik-Tür
+Puerta de la pica
+Пиковая дверь
+Drzwi (pik)
+Porta de Espadas
+스페이드 문
+黑桃門
+黑桃门
+ハートの刻印の扉
+Heart Door
+Porte Cœur
+Porta di cuori
+Herz-Tür
+Puerta del corazón
+Червовая дверь
+Drzwi (kier)
+Porta de Copas
+하트 문
+紅心門
+红心门
+クラブの刻印の扉
+Club Door
+Porte Trèfle
+Porta di fiori
+Kreuz-Tür
+Puerta del trébol
+Трефовая дверь
+Drzwi (trefl)
+Porta de Paus
+클로버 문
+梅花門
+梅花门
+ダイヤの刻印の扉
+Diamond Door
+Porte Carreau
+Porta di quadri
+Karo-Tür
+Puerta del diamante
+Бубновая дверь
+Drzwi (karo)
+Porta de Ouros
+다이아몬드 문
+方塊門
+钻石门
+チェーンが巻かれた扉
+Chained Door
+Chaîne
+Porta con catena
+Zugekettete Tür
+Puerta encadenada
+Дверь с цепями
+Drzwi z łańcuch.
+Porta (Corrente)
+체인이 감긴 문
+上了鐵鍊的門
+以铁链锁住的门
+電子ロックされた扉
+Electronically-locked Door
+Porte verrouillée électroniquement
+Porta chiusa elettronicamente
+Tür mit elektronischem Schloss
+Cerradura electrónica
+Дверь с электр. замком
+Drzwi z zamkiem elektronicznym
+Porta c/ Tranca Eletrônica
+전자 자물쇠로 잠긴 문
+上了電子鎖的門
+以电子锁锁住的门
+鍵のかかった扉
+Locked Door
+Porte verrouillée
+Porta chiusa
+Verschlossene Tür
+Puerta cerrada
+Запертая дверь
+Zamknięte drzwi
+Porta Trancada
+잠긴 문
+上鎖的門
+锁住的门
+レバーボックス
+Taped Box
+Boîte scotchée
+Scatola sigillata
+Zugeklebter Kasten
+Caja precintada
+Заклеенный щиток
+Oklej. skrzynka
+Caixa Lacrada
+테이프가 감긴 상자
+貼了膠帶的箱子
+被胶带封住的箱子
+女神像
+Goddess Statue
+Statue de déesse
+Statua della dea
+Göttinnenstatue
+Estatua de diosa
+Статуя богини
+Rzeźba bogini
+Est. da Deusa
+여신 조각상
+女神雕像
+女神雕像
+ロッカー端末
+Lockers Terminal
+Terminal des casiers
+Terminale armadietti
+Schließfachterminal
+Terminal de taquillas
+Пульт шкафчиков
+Terminal szafek
+Term. Armários
+물품 보관함 단말기
+儲物櫃終端機
+储物柜终端机
+現像用の流し台
+Darkroom Sink
+Évier
+Vaschetta
+Dunkelkammer-Becken
+Cuarto de revelado
+Раковина в фотолаборатории
+Zlew w ciemni
+Tanque Revelação
+암실 싱크대
+暗房水槽
+暗房水槽
+ヒューズボックス
+Fuse Box
+Boîte à fusibles
+Scatola dei fusibili
+Sicherungskasten
+Caja de fusibles
+Предохранительный щиток
+Skrzyn. (bezp.)
+Caixa de Força
+퓨즈박스
+保險絲盒
+保险丝盒
+武器ロッカー
+Weapons Locker
+Armoire à fusils
+Armadietto armi
+Waffenschrank
+Taquilla de armas
+Оружейный шкаф
+Schowek z bronią
+Depósito Armas
+무기 보관함
+武器室
+武器储物柜
+配水管レバー
+Water Valve Lever
+Levier d'arrivée d'eau
+Leva flusso acqua
+Wasserventilhebel
+Palanca de válvula de agua
+Рычаг вентиля
+Dźwignia zaworu
+Válvula de Água
+물 밸브 레버
+水閥拉桿
+水阀操作杆
+ユニコーン像
+Unicorn Statue
+Statue de licorne
+Statua dell'unicorno
+Einhornstatue
+Estatua de unicornio
+Статуя единорога
+Rzeźba jednoroż.
+Est. Unicórnio
+유니콘 조각상
+獨角獸雕像
+独角兽雕像
+可動書架
+Movable Bookshelf
+Étagère mobile
+Scaffale mobile
+Bewegbare Bücherwand
+Estantería móvil
+Подвижная полка
+Przesuw. szafka
+Estante Móvel
+이동식 선반
+可動式書櫃
+移动式书架
+ジャッキ
+Jack
+Cric
+Cric meccanico
+Wagenheber
+Gato mecánico
+Домкрат
+Lewarek
+Macaco Hidráulico
+잭
+千斤頂
+千斤顶
+賢帝像
+Emperor Statue
+Statue d'empereur
+Statua dell'imperatore
+Kaiserstatue
+Estatua de emperador
+Статуя императора
+Rzeźba cesarza
+Est. Imperador
+황제 조각상
+帝王雕像
+皇帝雕像
+分電盤
+Electronic Door Panel
+Panneau électrique
+Pannello di controllo porta
+Tür-Schaltschrank
+Puerta electrónica
+Панель управления эл. дверями
+Panel drzwi elektr.
+Painel P. Eletrônica
+전자문 패널
+電子門面板
+电子门面板
+ハンドル軸
+Valve
+Valve
+Attacco per manopola
+Ventil
+Válvula
+Отверстие для рукоятки вентиля
+Gniazdo zaworu
+Vão para Volante
+밸브 핸들 슬롯
+閥門把手孔縫
+阀门手柄插口
+ライオン像
+Lion Statue
+Statue de lion
+Statua del leone
+Löwenstatue
+Estatua de león
+Статуя льва
+Rzeźba lwa
+Est. de Leão
+사자 조각상
+獅子雕像
+狮子雕像
+乙女像
+Maiden Statue
+Statue de vierge
+Statua della vergine
+Mädchenstatue
+Estatua de doncella
+Статуя девы
+Rzeźba kobiety
+Est. da Donzela
+여인 조각상
+少女雕像
+少女雕像
+ギアボックス
+Gear Box
+Engrenage
+Meccanismo
+Getriebe
+Engranaje
+Ящик с шестеренкой
+Skrzy. z zębat.
+Caixa de Engrenagem
+기어박스
+齒輪箱
+齿轮箱
+爆薬付きバリケード
+Explosive Barricade
+Barricade avec C4
+Barriera con C4
+Explosive Barrikade
+Barricada explosiva
+Заминированная преграда
+Wybuchowa barykada
+Barricada Explosiva
+폭발물 바리케이드
+爆破路障
+爆破路障
+四角い差込口
+Crank Handle Slot
+Trou de manivelle
+Fessura manovella
+Kurbel-Vertiefung
+Ranura de manivela
+Отверстие для рукояти
+Gniazdo korby
+Vão p/ Manivela
+크랭크 핸들 슬롯
+曲柄把手孔縫
+曲柄把手插口
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Window
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_WindowBarrier
+カードリーダー
+Card Reader
+Lecteur de carte
+Lettore schede
+Kartenlesegerät
+Lector de tarjetas
+Считыватель
+Czytnik kart
+Leitor de Cartão
+카드 리더
+讀卡機
+读卡器
+配電盤
+Switchboard
+Panneau de distribution
+Quadro di distribuzione
+Schalttafel
+Panel
+Панель выключателей
+Pulpit kontrolny
+Distribuidor
+스위치보드
+配電盤
+配电盘
+特殊武器ケース
+Special Weapons Case
+Vitrine spéciale
+Teca armi speciali
+Spezialwaffenkasten
+Expositor especial
+Ящик особого оружия
+Futerał na broń specjalną
+Estojo Armas Esp.
+특수 무기 케이스
+特殊武器箱
+特殊武器箱
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BridgeLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_ElevatorLever
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Switchboard
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Statue2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_wallclock
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_valve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment2
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_crossword
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_bridge
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_attachecase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Electroniclockcontrolpanel
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Highvoltagecapacitor
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Updateequipment1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_LeonBox
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_Displaycase
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_006
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_007
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_008
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_009
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_010
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_011
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_012
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_013
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_014
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_015
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_016
+鍵のかかった扉
+Locked Door
+Porte verrouillée
+Porta chiusa
+Verschlossene Tür
+Puerta cerrada
+Запертая дверь
+Zamknięte drzwi
+Porta Trancada
+잠긴 문
+上鎖的門
+锁住的门
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_BlockPuzzle
+鍵のかかった扉
+Locked Door
+Porte verrouillée
+Porta chiusa
+Verschlossene Tür
+Puerta cerrada
+Запертая дверь
+Zamknięte drzwi
+Porta Trancada
+잠긴 문
+上鎖的門
+锁住的门
+電子ロックされた扉
+Electronically-locked Door
+Porte verrouillée électroniquement
+Porta chiusa elettronicamente
+Tür mit elektronischem Schloss
+Cerradura electrónica
+Дверь с эл. замком
+Drzwi z zamkiem elektronicznym
+Porta c/ Tranca Eletrônica
+잠긴 전자 문
+上了電子鎖的門
+以电子锁锁住的门
+プラグソケット
+Plug Circuit Breaker Box
+Disjoncteur
+Contatore
+Schutzsteckerbox
+Panel de cortacircuitos
+Щиток с прерывателем тока
+Skrzynka wył. automat.
+Caixa de Distribuição
+플러그 차단기 상자
+插頭斷路器盒
+插头断路器盒
+ハンドル差込口
+T-Bar Handle Slot
+Trou pour barre en T
+Fessura manopola a T
+T-Stange-Vertiefung
+Ranura en forma de T
+Т-образное отверстие
+Gniazdo dźwigni T
+Vão p/ Volante T
+T 바 핸들 슬롯
+T 形把手孔縫
+T 型手柄插口
+プラグソケット
+Plug Socket
+Prises
+Presa elettrica
+Steckdose
+Enchufes
+Отверстие для штекера
+Gniazdo wtyczki
+Soquete
+플러그 소켓
+插座
+插座
+ケーブルカー
+Cable Car
+Funiculaire
+Funicolare
+Standseilbahn
+Tranvía
+Фуникулер
+Wagon kolejki
+Bonde
+케이블카
+纜車車廂
+缆车车厢
+クレーンのスイッチ
+Crane Controls
+Commandes de la grue
+Comandi gru
+Kransteuerung
+Control de la grúa
+Пульт управления краном
+Sterowanie (żuraw)
+Controles Guind.
+크레인 컨트롤
+起重機控制系統
+起重机控制系统
+シャッター開閉レバー
+Garbage Collection Room Lever
+Levier d'ouverture
+Leva stanza smaltimento rifiuti
+Müllsammlungsraum-Hebel
+Palanca del vertedero
+Рычаг мусоросборника
+Dźwignia w pokoju z kolekcją
+Alavanca da Sala de Lixo
+쓰레기 수거실 레버
+垃圾收集室拉桿
+垃圾收藏室操作杆
+換気ファン
+Ventilation Fan
+Ventilation
+Ventola di areazione
+Ventilator
+Ventilador
+Вентилятор
+Wentylator
+Ventilador
+환기 팬
+通風扇
+通风扇
+焼却炉開閉レバー
+Incinerator Door Control
+Commande de porte de l'incinérateur
+Comandi porta inceneritore
+Verbrennungsofen-Türsteuerung
+Control de la incineradora
+Упр. дверью мусоросжигателя
+Kontrolka drzwi do spalarni
+Contr. Porta Incinerador
+소각로 문 제어장치
+焚化爐門控制器
+焚化炉闸门控制器
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_022
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapGimmick_200
+セキュリティドア（ゲスト）
+Security Level I (Visitor)
+Nv sécurité I (visiteur)
+Lv. sicurezza I (ospiti)
+Sicherheitsstufe I (Besucher)
+Seguridad I (visitante)
+Ур. доступа I (гость)
+Poz. bezp. I (goście)
+Segurança Nv I (Visitante)
+보안 등급 I(방문객)
+保全等級 I（訪客）
+安全级别 I（访客）
+セキュリティドア（一般）
+Security Level II (General Staff)
+Nv sécurité II (employé)
+Lv. sicurezza II (staff)
+Sicherheitsstufe II (Mitarbeiter)
+Seguridad II (personal general)
+Ур. доступа II (сотрудник)
+Poz. bezp. II (pracow. niż. szczeb.)
+Segurança Nv II (Funcionário)
+보안 등급 II(일반 직원)
+保全等級 II（一般員工）
+安全级别 II（普通职员）
+セキュリティドア（上級）
+Security Level III (Senior Staff)
+Nv sécurité III (cadre supérieur)
+Lv. sicurezza III (dirigenti)
+Sicherheitsstufe III (Führungspersonal)
+Seguridad III (personal superior)
+Ур. доступа III (старший персонал)
+Poz. bezp. III (pracow. wyż. szczeb.)
+Segurança Nv III (Executivo)
+보안 등급 III(상급 직원)
+保全等級 III（主管級員工）
+安全级别 III（高级职员）
+通電していない扉
+Unpowered Door
+Porte non alimentée
+Porta non alimentata
+Tür ohne Strom
+Puerta desconectada
+Отключенная дверь
+Drzwi bez zasil.
+Porta s/ Energia
+전원이 끊긴 문
+斷電的門
+断电的门
+ブレーカーボックス
+Circuit Breaker
+Panneau électrique
+Centralina elettrica
+Überstromschutzeinrichtung
+Disyuntor
+Выключатель
+Wył. autom.
+Disjuntor
+차단기
+斷路器
+电路破解专家
+シェリー
+Sherry
+Sherry
+Sherry
+Sherry
+Sherry
+Шерри
+Sherry
+Sherry
+셰리
+雪莉
+雪莉
+連絡橋操作端末
+Bridge Controls
+Commandes du pont
+Comandi ponte
+Brückensteuerung
+Controles del puente
+Пульт управления мостом
+Sterow. (most)
+Controle Ponte
+다리 제어장치
+橋樑控制系統
+吊桥控制系统
+エレベーター操作端末
+Elevator Control Panel
+Panneau de contrôle de l'ascenseur
+Comandi ascensore
+Fahrstuhlsteuerung
+Panel del ascensor
+Панель управления лифтом
+Pan. ster. windy
+Painel do Elevador
+엘리베이터 제어 패널
+電梯控制面板
+电梯控制面板
+上級職員のPC
+Senior Staff PC
+PC (cadre supérieur)
+PC dirigenti
+Führungspersonal-PC
+PC superior
+ПК старшего сотрудника
+Ważny komputer
+PC Executivos
+상급 직원 PC
+主管級員工電腦
+高级职员电脑
+施設管理端末
+Facility Control Terminal
+Terminal de contrôle
+Terminale di controllo
+Steuerungsterminal
+Terminal de control
+Терминал управления
+Terminal sterujący (zakład)
+Terminal de Controle
+시설 제어 단말기
+設施控制終端機
+设施控制终端机
+薬液散布装置
+Solution Sprinkler System
+Système de pulvérisation
+Sistema nebulizzazione soluzione
+Lösungssprinkleranlage
+Aspersor de tratamiento
+Система распыления раствора
+System zraszaczy
+Sist. Disp. Solução
+용액 스프링클러 시스템
+農藥噴灑系統
+药剂喷洒系统
+薬液充填機
+Solution Dispenser
+Distributeur de solution
+Macchina di riempimento
+Lösungsausgeber
+Dispensador de tratamiento
+Распылитель растворов
+Dozownik roztw.
+Disp. de Solução
+용액 주입기
+農藥噴灑器
+试剂调配器
+一般職員のPC
+General Staff PC
+PC (employé)
+PC staff
+Angestellten-PC
+PC general
+ПК сотрудника
+Zwykły komputer
+PC Funcionários
+일반 직원 PC
+一般員工電腦
+普通职员电脑
+冷却装置
+Cooling System
+Système de refroidissement
+Sistema di raffreddamento
+Kühlsystem
+Refrigeración
+Система охлаждения
+Sys. chłodzenia
+Refrigeração
+냉각 시스템
+冷卻系統
+冷却系统
+ビデオデッキ
+Video Player
+Magnétoscope
+Videoregistratore
+Videorekorder
+Reproductor de vídeo
+Видеомагнитофон
+Odtwarzacz wideo
+Tocador de Vídeo
+비디오 플레이어
+放映機
+视频播放器

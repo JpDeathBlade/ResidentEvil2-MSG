@@ -1,0 +1,40 @@
+﻿<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>まだ行けるさ…！
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>Gotta keep going...!
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>Faut pas que je reste là !
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>Devo sbrigarmi!
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>Ich muss weiter...
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>¡Tengo que seguir...!
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>Надо идти!..
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>Trzeba iść dalej...!
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>Eu tenho que seguir em frente!
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>계속 가야 해...!
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>我得繼續前進！
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18><PAGE></n><PAGE></n>我得继续前进！
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+<TIME 15.61, 16.94><TIME 17.33, 19.78><TIME 32.8, 34.18>
+まだ行けるさ…！
+Gotta keep going...!
+Faut pas que je reste là !
+Devo sbrigarmi!
+Ich muss weiter...
+¡Tengo que seguir...!
+Надо идти!..
+Trzeba iść dalej...!
+Eu tenho que seguir em frente!
+계속 가야 해...!
+我得繼續前進！
+我得继续前进！

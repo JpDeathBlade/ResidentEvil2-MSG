@@ -1,0 +1,560 @@
+﻿<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_001
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_002
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> CityArea_stg_1_3_003
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 
+<COLOR FF0000>#Rejected#</COLOR> 

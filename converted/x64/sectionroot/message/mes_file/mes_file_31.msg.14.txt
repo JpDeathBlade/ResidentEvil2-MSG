@@ -1,0 +1,36 @@
+﻿点検報告書　9月第1週
+Sept. Inspection (Week 1)
+Inspection sept. (semaine 1)
+Ispezione settembre (1a sett.)
+Septemberinspektion (1. Woche)
+Inspección septiembre (sem. 1)
+Сентябрьский осмотр (неделя 1)
+Wrześniowa inspekcja (tydz. 1)
+Inspeção — Setembro (Semana 1)
+9월 조사 보고(1주차)
+9 月檢查（第一週）
+九月检查（第 1 周）
+先週もお願いしましたが、故障した<COL FILE_EMP>リストタグ</COLOR>の替えを</n>一刻も早く支給してください。</n></n>ご存じの通り、例のリストタグは本施設の一部の扉を</n>開くキーの役割を果たしています。</n>つまり、代替の品がなければ、私のチームは満足に</n>業務を行えません。</n>これを怠慢だと思われるのは心外です。
+I already put in a request last week, but</n>we absolutely must have a replacement</n><COL FILE_EMP>ID wristband</COLOR> ASAP. We need one to gain</n>access to certain areas of the main facility.</n>In other words, me and my crew can't get to</n>the places we need to in order to do our job</n>right now, so I don't want to hear anyone</n>accusing us of slacking off.
+J'ai déjà posté une demande la semaine</n>dernière, mais on a vraiment besoin d'un</n><COL FILE_EMP>bracelet d'identification</COLOR> de rechange.</n>Il en faut un pour accéder à certaines</n>zones de la structure principale.</n>En d'autres termes, mon équipe et moi ne</n>pouvons pas aller faire notre travail,</n>alors je ne veux entendre personne nous</n>accuser de nous tourner les pouces.
+Ho già compilato una richiesta la scorsa</n>settimana, ma ci serve subito un <COL FILE_EMP>braccialetto</n>identificativo</COLOR> di ricambio. È indispensabile per</n>accedere ad alcune aree della struttura.</n>In altre parole, senza non possiamo fare</n>il nostro lavoro, quindi non voglio sentire</n>nessuno accusarci di perdere tempo.
+Ich habe zwar bereits letzte Woche darum</n>gebeten, aber wir brauchen unbedingt ein</n>Ersatz-<COL FILE_EMP>ID-Armband</COLOR>, damit wir in bestimmte</n>Bereiche der Haupteinrichtung können.</n>Anders gesagt: Wir kommen nicht dorthin, wo wir</n>hinmüssen, um unsere Arbeit zu erledigen.</n>Also sagt bitte nicht, dass wir hier eine</n>ruhige Kugel schieben.
+Ya hice una petición la semana pasada, pero</n>hace falta un recambio para la <COL FILE_EMP>pulsera</COLOR> cuanto</n>antes. Necesitamos una para poder acceder</n>a ciertas zonas de la instalación principal.</n>En otras palabras, mi equipo y yo no</n>podemos ir donde necesitamos para hacer</n>nuestro trabajo, así que no quiero que nadie</n>nos acuse de escaquearnos.
+Направил запрос еще на прошлой неделе, но нам</n>просто необходимо получить новый <COL FILE_EMP>ID-браслет</COLOR></n>как можно скорее. Без него нам не добраться</n>до некоторых участков комплекса. Короче,</n>у моей команды до сих пор нет доступа к месту</n>проведения работ, так что пусть кто-нибудь</n>только попробует обвинить нас в том, что мы</n>задерживаем сроки.
+Zamówienie poszło już w zeszłym tygodniu, ale</n><COL FILE_EMP>bransoleta z identyfikatorem</COLOR> wymaga</n>niezwłocznej wymiany. Bez niej nie mamy dostępu</n>do niektórych miejsc w placówce głównej. Innymi</n>słowy, ja i moja ekipa nie możemy dostać się</n>w miejsca, w których musimy być, żeby dobrze</n>wykonywać naszą pracę, więc nie chcę słuchać</n>oskarżeń o brak zaangażowania z mojej strony.
+Já fiz uma solicitação na semana passada, mas</n>precisamos mesmo de uma <COL FILE_EMP>pulseira de ID</COLOR> nova,</n>urgente. Ela é necessária para acessar certas</n>áreas das instalações principais, ou seja, eu</n>e minha equipe não estamos conseguindo chegar</n>aos lugares aonde precisamos ir para</n>trabalhar, então não quero ouvir ninguém</n>acusando a gente de fazer corpo mole.
+이미 지난 주에 요청을 보냈지만,</n>대체용 <COL FILE_EMP>ID 손목 밴드</COLOR>를 가능한 한 빨리</n>보내주길 바랍니다.</n>주요 시설 특정 구역에 접근할 수 있는 걸로요.</n>그러니까, 저와 제 팀원들은 그게 없다면 작업을</n>진행해야 하는 그 구역에 갈 수 없다 이겁니다.</n>우리가 근무를 태만하게 한다는</n>이야기는 듣고 싶지 않습니다.
+我上週已經提出申請，但是我們</n>急需新的<COL FILE_EMP>手環</COLOR>，越快越好。</n>我們才能進入主設施的特定區域。</n>換句話說，現在我和組員沒辦法進</n>入完成工作所需進入的區域。所以</n>我不想聽到有人指控我們偷懶。</n></n>
+我上周已经提出申请，但我们亟需新的</n><COL FILE_EMP>身份识别腕带</COLOR>，越快越好。有了腕带，</n>我们才能进入主设施的特定区域。</n>换句话说，目前我和队员没办法</n>到达完成工作需进入的区域，</n>我不想听到有人说我们在偷懒。</n></n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

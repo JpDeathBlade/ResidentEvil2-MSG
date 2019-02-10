@@ -1,0 +1,687 @@
+﻿<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>俺は許せない<PAGE></n>アンブレラに乗り込んで一刻も早く処罰すべきだ<PAGE></n>ええそうね</n>でもあなたは正式に任命されてない<PAGE></n>これはFBIの仕事<PAGE></n>G-ウィルスが手に入ったら私がやるわ<PAGE></n>ねえ　私を信じる？<PAGE></n>そっちは？<PAGE></n>もちろん</n>でなきゃあなたは死んでる<PAGE></n>そうか<PAGE></n>あなたの助けがいるの 今こそね<PAGE></n>G-ウィルスをお願い</n>こんな悲劇は二度と繰り返したくないの<PAGE></n>エイダ<PAGE></n>弱気になるな<PAGE></n>レオン 私を見て<PAGE></n>まともに動けない<PAGE></n>あなたが最後の希望なの</n>お願い<PAGE></n>君を置いてけない<PAGE></n>もし襲われたらどうする<PAGE></n>平気よ　私なら大丈夫<PAGE></n>見届けたいの<PAGE></n>事件の結末を…<PAGE></n>それから あなたのこともね…<PAGE></n><FONT 1>まもなくNESTに到着します</FONT><PAGE></n>行って<PAGE></n>お願い<PAGE></n>時間がないの<PAGE></n>持って行って<PAGE></n>分かった<PAGE></n>レオン<PAGE></n>頼んだわよ<PAGE></n>ああ
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>You know what I was thinking?<PAGE></n>I can't wait for the FBI to raid Umbrella headquarters</n>and take those bastards to justice.<PAGE></n>I agree...but to be clear,</n>you're not working in official capacity.<PAGE></n>This is a federal case.<PAGE></n>Once we get the G-Virus, I'm back on my own.<PAGE></n>Hey, Leon... Trust me?<PAGE></n>You trust me?<PAGE></n>Honestly... If I didn't you'd probably be dead.<PAGE></n>Right...<PAGE></n>Look, I thought I might need your help...and I was right.<PAGE></n>If you can secure the G-Virus, I can make sure</n>what happened in Raccoon City never happens again.<PAGE></n>Ada...<PAGE></n>You said it yourself—it's a federal case.<PAGE></n>Leon, look at me.<PAGE></n>I'm a liability now.<PAGE></n>If I'm gonna finish this case, you're the last hope I've got.<PAGE></n>I'm not just gonna leave you here.<PAGE></n>What if you're attacked, what if you need help—<PAGE></n>I'll be fine. Don't worry about me.<PAGE></n>I gotta see this through...<PAGE></n>...and I want to see you again.<PAGE></n>I got plenty to live for. Trust me.<PAGE></n><FONT 1>Now arriving at NEST.</FONT><PAGE></n>Go.<PAGE></n>Please.<PAGE></n>We don't have much time.<PAGE></n>You're gonna need this.<PAGE></n>OK.<PAGE></n>Leon...<PAGE></n>I'm counting on you.<PAGE></n>I know.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>Je pensais à un truc...<PAGE></n>J'ai hâte que le FBI débarque au QG d'Umbrella</n>et foute tous ces enfoirés derrière les barreaux.<PAGE></n>Moi aussi... mais que ce soit clair,</n>cette affaire n'est pas de ton ressort.<PAGE></n>C'est une affaire fédérale.<PAGE></n>Une fois qu'on aura le virus G, je continuerai seule.<PAGE></n>Hé, Leon... Tu me fais confiance ?<PAGE></n>Et toi ?<PAGE></n>Franchement, si c'était pas le cas tu serais déjà mort.<PAGE></n>Je vois...<PAGE></n>Je me suis dit que tu pourrais m'aider, et j'ai eu raison.<PAGE></n>Si tu obtiens le virus G, je ferai en sorte que ce qui</n>s'est passé à Raccoon City ne se reproduise jamais.<PAGE></n>Ada...<PAGE></n>Tu l'as dit toi-même.</n>C'est une affaire fédérale...<PAGE></n>Leon, regarde-moi.<PAGE></n>J'ai besoin de toi.<PAGE></n>Si je veux boucler cette affaire, tu es mon seul espoir.<PAGE></n>Pas question de te laisser ici.<PAGE></n>Imagine qu'on t'attaque, que tu aies besoin d'aide...<PAGE></n>Ça va aller. T'en fais pas pour moi.<PAGE></n>Je veux aller jusqu'au bout...<PAGE></n>Et je veux te revoir aussi.<PAGE></n>Je compte bien vivre. Crois-moi.<PAGE></n>Vous êtes arrivés au NEST.<PAGE></n>Vas-y.<PAGE></n>Allez !<PAGE></n>On n'a pas le temps.<PAGE></n>T'auras besoin de ça.<PAGE></n>OK.<PAGE></n>Leon...<PAGE></n>Je compte sur toi.<PAGE></n>Je sais.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>Sai che penso?<PAGE></n>Non vedo l'ora che l'FBI mandi in galera</n>tutti quei bastardi della Umbrella.<PAGE></n>Anch'io. Ma sia chiaro, questo non è di tua competenza.<PAGE></n>È un caso federale.<PAGE></n>Ottenuto il virus G, io me ne andrò.<PAGE></n>Ehi, Leon... Ti fidi di me?<PAGE></n>E tu di me?<PAGE></n>Pensaci, a quest'ora saresti morto.<PAGE></n>Già...<PAGE></n>Ho voluto fidarmi di te, e ho fatto bene.<PAGE></n>Se mi porti il virus G, ti assicuro che non</n>ci sarà mai più un'altra Raccoon City.<PAGE></n>Ada...<PAGE></n>L'hai detto anche tu, è un caso federale.</n>Non ho l'autorità per...<PAGE></n>Leon, ascoltami.<PAGE></n>Da sola non ce la faccio.<PAGE></n>Sei l'unica speranza che ho per chiudere il caso.<PAGE></n>Non ti posso abbandonare.<PAGE></n>Se ti attaccassero, se avessi bisogno...<PAGE></n>Ce la farò. Non preoccuparti. <PAGE></n>Voglio andare fino in fondo...<PAGE></n>... e voglio vederti di nuovo.<PAGE></n>Ho voglia di vivere, credimi.<PAGE></n>Siamo in arrivo al NEST.<PAGE></n>Vai!<PAGE></n>Su...<PAGE></n>... non abbiamo altro tempo.<PAGE></n>Ti servirà.<PAGE></n>Ok...<PAGE></n>Leon!<PAGE></n>Conto su di te.<PAGE></n>Lo so.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>Weißt du, was ich denke?<PAGE></n>Ich brenn drauf, dass das FBI die Umbrella-Zentrale</n>stürmt und die Mistkerle verhaftet.<PAGE></n>Ich auch... aber im Klartext:</n>Offiziell hast du nichts damit zu tun.<PAGE></n>Das ist ein FBI-Fall.<PAGE></n>Sobald wir das G-Virus haben,</n>mach ich allein weiter.<PAGE></n>Hey, Leon...</n>Vertraust du mir?<PAGE></n>Und du mir?<PAGE></n>Ganz ehrlich...</n>wenn nicht, wärst du wohl schon tot.<PAGE></n>Klar...<PAGE></n>Ich dachte, du könntest mir helfen...</n>und ich hatte recht.<PAGE></n>Sichere du das G-Virus, dann sorg ich dafür,</n>dass so was wie in Raccoon City nie wieder passiert.<PAGE></n>Ada...<PAGE></n>Du sagst es selbst – </n>es ist ein FBI-Fall.<PAGE></n>Leon, schau mich an.<PAGE></n>Auf mich ist kein Verlass.<PAGE></n>Du bist meine letzte Hoffnung,</n>den Fall abzuschließen.<PAGE></n>Ich lass dich nicht einfach hier.<PAGE></n>Wenn du angegriffen wirst, Hilfe brauchst...<PAGE></n>Ich schaff das.</n>Sorg dich nicht um mich.<PAGE></n>Ich muss das zu Ende bringen...<PAGE></n>... und ich will dich wiedersehen.<PAGE></n>Ich hänge am Leben.</n>Vertrau mir.<PAGE></n>NEST wird in Kürze erreicht.<PAGE></n>Geh.<PAGE></n>Bitte.<PAGE></n>Wir haben kaum noch Zeit...<PAGE></n>Das wirst du brauchen.<PAGE></n>Okay...<PAGE></n>Leon,<PAGE></n>verlasse mich auf dich.<PAGE></n>Ich weiß.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>¿Sabes una cosa?<PAGE></n>Estoy deseando que el FBI asalte el cuartel</n>de Umbrella y los detenga a todos.<PAGE></n>Y yo, pero no lo olvides, este no es tu trabajo.<PAGE></n>Esto es un caso federal.<PAGE></n>Cuando tengamos el virus continuaré sola.<PAGE></n>Eh, Leon... ¿confías en mí?<PAGE></n>¿Confías tú en mí?<PAGE></n>La verdad, de no hacerlo estarías muerto.<PAGE></n>Ya...<PAGE></n>Pensé que me ayudarías... Y así fue.<PAGE></n>Si consigues el virus, me aseguraré de que nada</n>de esto vuelva a pasar en Raccoon City.<PAGE></n>Ada...<PAGE></n>Lo acabas de decir, es un caso federal,</n>no tengo autoridad...<PAGE></n>Leon, mírame.<PAGE></n>Ahora soy una carga.<PAGE></n>Eres mi última esperanza para cerrar este caso.<PAGE></n>No voy a dejarte aquí.<PAGE></n>Y si necesitas ayuda...<PAGE></n>Estaré bien. No te preocupes.<PAGE></n>Debo llegar al final...<PAGE></n>Y quiero volver a verte.<PAGE></n>Tengo muchos planes. Créeme.<PAGE></n>Próxima parada: NEST.<PAGE></n>Ve.<PAGE></n>Por favor.<PAGE></n>No queda tiempo...<PAGE></n>Lo necesitarás.<PAGE></n>Vale.<PAGE></n>Leon.<PAGE></n>Cuento contigo.<PAGE></n>Lo sé.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>Знаешь, что я думаю?<PAGE></n>Жду не дождусь, когда ФБР заявится в штаб-квартиру</n>Umbrella и заставит ублюдков заплатить за все.<PAGE></n>Я тоже... но давай начистоту:</n>у тебя нет официальных полномочий.<PAGE></n>А это федеральное расследование.<PAGE></n>Когда получим Г-вирус, каждый пойдет своей дорогой.<PAGE></n>Эй, Леон... Ты мне доверяешь?<PAGE></n>А ты мне доверяешь?<PAGE></n>Сказать по правде... Если бы не доверяла, ты был бы уже мертв.<PAGE></n>Ясно...<PAGE></n>Слушай, я думала, что мне понадобится твоя помощь... и была права.<PAGE></n>Если ты добудешь Г-вирус, я сделаю так,</n>что история Раккун-Сити никогда не повторится.<PAGE></n>Ада...<PAGE></n>Ты сама сказала: это федеральное расследование.<PAGE></n>Леон, посмотри на меня.<PAGE></n>Сейчас я обуза.<PAGE></n>Если я хочу раскрыть это дело, ты моя последняя надежда.<PAGE></n>Я не могу просто бросить тебя здесь.<PAGE></n>А если на тебя нападут? Если понадобится помощь?..<PAGE></n>Я не пропаду. Не бойся.<PAGE></n>Я не сдамся на полпути...<PAGE></n>...и тебя так просто не оставлю.<PAGE></n>Поверь, мне есть ради чего жить.<PAGE></n>Станция «NEST».<PAGE></n>Иди.<PAGE></n>Прошу.<PAGE></n>Времени мало.<PAGE></n>Это тебе пригодится.<PAGE></n>Ладно.<PAGE></n>Леон...<PAGE></n>Я в тебя верю.<PAGE></n>Знаю.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>Wiesz, co sobie myślałem?<PAGE></n>Nie mogę się doczekać, aż FBI</n>wejdzie do siedziby Umbrelli.<PAGE></n>Też... ale dla jasności,</n>nie pracujesz nad tym oficjalnie.<PAGE></n>To sprawa federalna.<PAGE></n>Gdy zdobędziemy wirusa G,</n>wracam do pracy w pojedynkę.<PAGE></n>Hej, Leon... Ufasz mi?<PAGE></n>A ty mi?<PAGE></n>Szczerze... gdybym nie ufała,</n>pewnie już byś nie żył.<PAGE></n>Racja...<PAGE></n>Słuchaj, myślałam, że potrzebuję twojej pomocy... i miałam rację.<PAGE></n>Zdobądź wirusa G, a zadbam o to,</n>by ten koszmar się nie powtórzył.<PAGE></n>Ada...<PAGE></n>Sama mówiłaś... to sprawa federalna.<PAGE></n>Leon, spójrz na mnie.<PAGE></n>W takim stanie nic nie zdziałam.<PAGE></n>Jeśli mam zakończyć tę sprawę, jesteś moją ostatnią nadzieją.<PAGE></n>Nie zostawię cię tutaj.<PAGE></n>Co jeśli zaatakują cię albo będziesz</n>potrzebować pomocy—<PAGE></n>O mnie się nie martw.<PAGE></n>Muszę stawić temu czoła...<PAGE></n>...i chcę znów cię zobaczyć.<PAGE></n>Mam powody do życia. Wierz mi.<PAGE></n>Witamy w NEST.<PAGE></n>Idź.<PAGE></n>Proszę.<PAGE></n>Nie mamy dużo czasu.<PAGE></n>Będziesz tego potrzebować.<PAGE></n>OK.<PAGE></n>Leon...<PAGE></n>Liczę na ciebie.<PAGE></n>Wiem.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>Sabe no que eu tava pensando?<PAGE></n>Que eu mal posso esperar pro FBI conseguir um mandado,</n>invadir a sede da Umbrella e prender os filhos da puta.<PAGE></n>Eu concordo... mas, só pra ficar claro,</n>você não tá aqui como polícia.<PAGE></n>É caso federal.<PAGE></n>Assim que a gente pegar o Vírus G, vai cada um prum canto.<PAGE></n>Ei, Leon... Confia em mim?<PAGE></n>Você confia em mim?<PAGE></n>Pra ser sincera... se eu não confiasse, você já tinha morrido.<PAGE></n>É, sei...<PAGE></n>Olha, eu achei que pudesse precisar da sua ajuda... e precisei mesmo.<PAGE></n>Se você conseguir o Vírus G, eu vou poder evitar</n>que o que aconteceu em Raccoon City se repita.<PAGE></n>Ada...<PAGE></n>Você mesma disse... o caso aqui é federal.<PAGE></n>Leon, olha bem pra mim.<PAGE></n>Eu agora só vou atrapalhar.<PAGE></n>Você é a minha única esperança pra encerrar esse caso.<PAGE></n>Não vou te deixar aqui assim.<PAGE></n>E se você for atacada, e se precisar de ajuda...<PAGE></n>Eu vou ficar bem. Não esquenta comigo.<PAGE></n>Eu tenho que encerrar essa história.<PAGE></n>E eu quero te ver de novo.<PAGE></n>Eu ainda tenho muito motivo pra viver. Pode acreditar.<PAGE></n>Chegando no NEST.<PAGE></n>Vai.<PAGE></n>Por favor.<PAGE></n>A gente não tem mais muito tempo.<PAGE></n>Você vai precisar disso aqui.<PAGE></n>Tá bom.<PAGE></n>Leon...<PAGE></n>Tô contando com você.<PAGE></n>Eu sei.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>내가 무슨 생각한 줄 알아?<PAGE></n>어서 FBI가 엄브렐러 본사를 급습해서 저 개자식들을</n>모두 감옥에 넣었으면 좋겠어.<PAGE></n>동감이야... 하지만 분명히 하지.</n>당신에겐 공식적인 자격이 없어.<PAGE></n>이건 연방 정부 관할이라고.<PAGE></n>일단 G 바이러스를 확보하면 내가 혼자 해야 해.<PAGE></n>이봐, 레온... 날 믿지?<PAGE></n>당신은 날 믿어?<PAGE></n>솔직히... 믿지 않았다면 당신은 벌써 죽은 몸이겠지.<PAGE></n>그렇겠지...<PAGE></n>당신 도움이 필요할 수도 있다 생각했어.</n>결국 그렇게 됐고.<PAGE></n>우리가 G 바이러스를 확보하고 나면, 라쿤 시티에서</n>발생한 일이 다른 곳에서 일어나지 않게 내가 막을 수 있어.<PAGE></n>에이다...<PAGE></n>당신도 그랬잖아. 이건 연방 정부 관할이라고.<PAGE></n>레온, 날 봐.<PAGE></n>난 지금 정상이 아니야.<PAGE></n>당신이 없으면 난 이 사건을 해결할 수 없어.<PAGE></n>당신을 그냥 여기에 두고 갈 순 없어.<PAGE></n>공격을 당하거나, 도움이 필요한 상황이 오면 어떡하려고—<PAGE></n>괜찮을 거야. 걱정하지 마.<PAGE></n>이건 내가 매듭지어야 할 일이야.<PAGE></n>...그리고 당신을 다시 만날 거야.<PAGE></n>나한텐 살아야 할 이유가 많아.<PAGE></n>네스트에 도착했습니다.<PAGE></n>어서 가.<PAGE></n>부탁이야.<PAGE></n>시간이 얼마 없어.<PAGE></n>이게 필요할 거야.<PAGE></n>알았어.<PAGE></n>레온…<PAGE></n>당신만 믿을게.<PAGE></n>나도 알아.
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>你知道我在想什麼嗎？<PAGE></n>我等不及想看 FBI 來抄保護傘公司總部，</n>把這些王八蛋繩之以法。<PAGE></n>我同意... 不過我得把話說清楚，</n>你沒有足夠的權限。<PAGE></n>這是歸聯邦管的案子。<PAGE></n>等我們拿到 G 病毒以後，我會繼續自己行動。<PAGE></n>喂，里昂... 你相信我嗎？<PAGE></n>那你相信我嗎？<PAGE></n>說實話... 如果我不相信你的話，你恐怕早已經死了。<PAGE></n>是沒錯...<PAGE></n>聽著，我那時覺得我可能需要你的協助... 而我是對的。<PAGE></n>如果你能將 G 病毒拿到手，我保證</n>絕不會讓拉昆市的悲劇重演。<PAGE></n>艾達...<PAGE></n>你自己說的，這是歸聯邦管的案子。<PAGE></n>里昂，看著我。<PAGE></n>我現在是個累贅。<PAGE></n>如果我要完成這個任務，就只能指望你了。<PAGE></n>我不能把你丟在這裡。<PAGE></n>要是你被襲擊，或是需要幫忙...<PAGE></n>我不會有事的，別擔心我。<PAGE></n>我得解決這件事...<PAGE></n>... 而且我想再見你一面。<PAGE></n>我有很多活下去的理由，相信我。<PAGE></n>即將抵達NEST。<PAGE></n>去吧。<PAGE></n>拜託。<PAGE></n>我們時間不多...<PAGE></n>你會需要這個。<PAGE></n>好。<PAGE></n>里昂...<PAGE></n>靠你了。<PAGE></n>我知道。
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>你知道我刚刚在想什么吗？<PAGE></n>我等不及想看 FBI 搜查保护伞公司的总部，</n>把那些混蛋都绳之以法。<PAGE></n>我同意... 不过我得说明白，</n>你没有足够的权限。<PAGE></n>这是归联邦管的案子。<PAGE></n>等我们拿到 G 病毒之后，我就会继续单独行动。<PAGE></n>喂，里昂... 你相信我吗？<PAGE></n>那你相信我吗？<PAGE></n>说老实话... 如果我不相信你，你大概早就死了。<PAGE></n>也对...<PAGE></n>听着，当时我觉得自己可能需要你的帮助... 而确实是如此。<PAGE></n>如果你能把 G 病毒拿到手，我保证</n>再也不会发生浣熊市这样的悲剧。<PAGE></n>艾达...<PAGE></n>你刚刚自己说过，这是归联邦管的案子。<PAGE></n>里昂，看着我。<PAGE></n>我现在只会碍手碍脚。<PAGE></n>要完成这个任务的话，你是我最后的希望。<PAGE></n>我不能把你留在这里。<PAGE></n>万一你遭到攻击，或是需要帮忙...<PAGE></n>我不会有事的，别担心我。<PAGE></n>我必须解决这件事...<PAGE></n>... 而且我也想再见到你。<PAGE></n>相信我，我有很多活下去的理由。<PAGE></n>即将抵达母巢。<PAGE></n>去吧。<PAGE></n>拜托你了。<PAGE></n>我们的时间不多...<PAGE></n>你会用得上它的。<PAGE></n>好。<PAGE></n>里昂...<PAGE></n>靠你了。<PAGE></n>我知道。
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+<TIME 8.04, 9.46><TIME 9.52, 13.82><TIME 14.02, 18.65><TIME 18.7, 20.49><TIME 20.55, 23.33><TIME 24.4, 28.0><TIME 32.22, 33.26><TIME 34.25, 37.13><TIME 37.63, 38.48><TIME 38.86, 41.95><TIME 42.22, 46.65><TIME 47.12, 48.21><TIME 48.72, 50.87><TIME 50.93, 53.01><TIME 54.81, 56.44><TIME 56.79, 59.5><TIME 60.66, 61.89><TIME 61.93, 63.9><TIME 70.9, 74.75><TIME 75.94, 77.72><TIME 78.34, 80.08><TIME 81.55, 83.83><TIME 84.89, 87.28><TIME 91.94, 93.0><TIME 93.62, 94.03><TIME 94.04, 95.3><TIME 95.99, 97.54><TIME 101.25, 102.52><TIME 105.72, 107.02><TIME 108.06, 109.45><TIME 110.21, 111.49>
+俺は許せない
+You know what I was thinking?
+Je pensais à un truc...
+Sai che penso?
+Weißt du, was ich denke?
+¿Sabes una cosa?
+Знаешь, что я думаю?
+Wiesz, co sobie myślałem?
+Sabe no que eu tava pensando?
+내가 무슨 생각한 줄 알아?
+你知道我在想什麼嗎？
+你知道我刚刚在想什么吗？
+アンブレラに乗り込んで一刻も早く処罰すべきだ
+I can't wait for the FBI to raid Umbrella headquarters</n>and take those bastards to justice.
+J'ai hâte que le FBI débarque au QG d'Umbrella</n>et foute tous ces enfoirés derrière les barreaux.
+Non vedo l'ora che l'FBI mandi in galera</n>tutti quei bastardi della Umbrella.
+Ich brenn drauf, dass das FBI die Umbrella-Zentrale</n>stürmt und die Mistkerle verhaftet.
+Estoy deseando que el FBI asalte el cuartel</n>de Umbrella y los detenga a todos.
+Жду не дождусь, когда ФБР заявится в штаб-квартиру</n>Umbrella и заставит ублюдков заплатить за все.
+Nie mogę się doczekać, aż FBI</n>wejdzie do siedziby Umbrelli.
+Que eu mal posso esperar pro FBI conseguir um mandado,</n>invadir a sede da Umbrella e prender os filhos da puta.
+어서 FBI가 엄브렐러 본사를 급습해서 저 개자식들을</n>모두 감옥에 넣었으면 좋겠어.
+我等不及想看 FBI 來抄保護傘公司總部，</n>把這些王八蛋繩之以法。
+我等不及想看 FBI 搜查保护伞公司的总部，</n>把那些混蛋都绳之以法。
+ええそうね</n>でもあなたは正式に任命されてない
+I agree...but to be clear,</n>you're not working in official capacity.
+Moi aussi... mais que ce soit clair,</n>cette affaire n'est pas de ton ressort.
+Anch'io. Ma sia chiaro, questo non è di tua competenza.
+Ich auch... aber im Klartext:</n>Offiziell hast du nichts damit zu tun.
+Y yo, pero no lo olvides, este no es tu trabajo.
+Я тоже... но давай начистоту:</n>у тебя нет официальных полномочий.
+Też... ale dla jasności,</n>nie pracujesz nad tym oficjalnie.
+Eu concordo... mas, só pra ficar claro,</n>você não tá aqui como polícia.
+동감이야... 하지만 분명히 하지.</n>당신에겐 공식적인 자격이 없어.
+我同意... 不過我得把話說清楚，</n>你沒有足夠的權限。
+我同意... 不过我得说明白，</n>你没有足够的权限。
+これはFBIの仕事
+This is a federal case.
+C'est une affaire fédérale.
+È un caso federale.
+Das ist ein FBI-Fall.
+Esto es un caso federal.
+А это федеральное расследование.
+To sprawa federalna.
+É caso federal.
+이건 연방 정부 관할이라고.
+這是歸聯邦管的案子。
+这是归联邦管的案子。
+G-ウィルスが手に入ったら私がやるわ
+Once we get the G-Virus, I'm back on my own.
+Une fois qu'on aura le virus G, je continuerai seule.
+Ottenuto il virus G, io me ne andrò.
+Sobald wir das G-Virus haben,</n>mach ich allein weiter.
+Cuando tengamos el virus continuaré sola.
+Когда получим Г-вирус, каждый пойдет своей дорогой.
+Gdy zdobędziemy wirusa G,</n>wracam do pracy w pojedynkę.
+Assim que a gente pegar o Vírus G, vai cada um prum canto.
+일단 G 바이러스를 확보하면 내가 혼자 해야 해.
+等我們拿到 G 病毒以後，我會繼續自己行動。
+等我们拿到 G 病毒之后，我就会继续单独行动。
+ねえ　私を信じる？
+Hey, Leon... Trust me?
+Hé, Leon... Tu me fais confiance ?
+Ehi, Leon... Ti fidi di me?
+Hey, Leon...</n>Vertraust du mir?
+Eh, Leon... ¿confías en mí?
+Эй, Леон... Ты мне доверяешь?
+Hej, Leon... Ufasz mi?
+Ei, Leon... Confia em mim?
+이봐, 레온... 날 믿지?
+喂，里昂... 你相信我嗎？
+喂，里昂... 你相信我吗？
+そっちは？
+You trust me?
+Et toi ?
+E tu di me?
+Und du mir?
+¿Confías tú en mí?
+А ты мне доверяешь?
+A ty mi?
+Você confia em mim?
+당신은 날 믿어?
+那你相信我嗎？
+那你相信我吗？
+もちろん</n>でなきゃあなたは死んでる
+Honestly... If I didn't you'd probably be dead.
+Franchement, si c'était pas le cas tu serais déjà mort.
+Pensaci, a quest'ora saresti morto.
+Ganz ehrlich...</n>wenn nicht, wärst du wohl schon tot.
+La verdad, de no hacerlo estarías muerto.
+Сказать по правде... Если бы не доверяла, ты был бы уже мертв.
+Szczerze... gdybym nie ufała,</n>pewnie już byś nie żył.
+Pra ser sincera... se eu não confiasse, você já tinha morrido.
+솔직히... 믿지 않았다면 당신은 벌써 죽은 몸이겠지.
+說實話... 如果我不相信你的話，你恐怕早已經死了。
+说老实话... 如果我不相信你，你大概早就死了。
+そうか
+Right...
+Je vois...
+Già...
+Klar...
+Ya...
+Ясно...
+Racja...
+É, sei...
+그렇겠지...
+是沒錯...
+也对...
+あなたの助けがいるの 今こそね
+Look, I thought I might need your help...and I was right.
+Je me suis dit que tu pourrais m'aider, et j'ai eu raison.
+Ho voluto fidarmi di te, e ho fatto bene.
+Ich dachte, du könntest mir helfen...</n>und ich hatte recht.
+Pensé que me ayudarías... Y así fue.
+Слушай, я думала, что мне понадобится твоя помощь... и была права.
+Słuchaj, myślałam, że potrzebuję twojej pomocy... i miałam rację.
+Olha, eu achei que pudesse precisar da sua ajuda... e precisei mesmo.
+당신 도움이 필요할 수도 있다 생각했어.</n>결국 그렇게 됐고.
+聽著，我那時覺得我可能需要你的協助... 而我是對的。
+听着，当时我觉得自己可能需要你的帮助... 而确实是如此。
+G-ウィルスをお願い</n>こんな悲劇は二度と繰り返したくないの
+If you can secure the G-Virus, I can make sure</n>what happened in Raccoon City never happens again.
+Si tu obtiens le virus G, je ferai en sorte que ce qui</n>s'est passé à Raccoon City ne se reproduise jamais.
+Se mi porti il virus G, ti assicuro che non</n>ci sarà mai più un'altra Raccoon City.
+Sichere du das G-Virus, dann sorg ich dafür,</n>dass so was wie in Raccoon City nie wieder passiert.
+Si consigues el virus, me aseguraré de que nada</n>de esto vuelva a pasar en Raccoon City.
+Если ты добудешь Г-вирус, я сделаю так,</n>что история Раккун-Сити никогда не повторится.
+Zdobądź wirusa G, a zadbam o to,</n>by ten koszmar się nie powtórzył.
+Se você conseguir o Vírus G, eu vou poder evitar</n>que o que aconteceu em Raccoon City se repita.
+우리가 G 바이러스를 확보하고 나면, 라쿤 시티에서</n>발생한 일이 다른 곳에서 일어나지 않게 내가 막을 수 있어.
+如果你能將 G 病毒拿到手，我保證</n>絕不會讓拉昆市的悲劇重演。
+如果你能把 G 病毒拿到手，我保证</n>再也不会发生浣熊市这样的悲剧。
+エイダ
+Ada...
+Ada...
+Ada...
+Ada...
+Ada...
+Ада...
+Ada...
+Ada...
+에이다...
+艾達...
+艾达...
+弱気になるな
+You said it yourself—it's a federal case.
+Tu l'as dit toi-même.</n>C'est une affaire fédérale...
+Non ho l'autorità per...
+Du sagst es selbst – </n>es ist ein FBI-Fall.
+Lo acabas de decir, es un caso federal,</n>no tengo autoridad...
+Ты сама сказала: это федеральное расследование.
+Sama mówiłaś... to sprawa federalna.
+Você mesma disse... o caso aqui é federal.
+당신도 그랬잖아. 이건 연방 정부 관할이라고.
+你自己說的，這是歸聯邦管的案子。
+你刚刚自己说过，这是归联邦管的案子。
+もちろん俺も手を貸す
+I don't have the authority—
+L'hai detto anche tu, è un caso federale.</n>Non ho l'autorità per...
+Ich hab keine Autorität...
+Y no tengo autoridad...
+Я не имею права...
+Nie mam uprawnień, żeby...
+Eu não tenho autoridade...
+나에겐 권한이 없어—
+我沒有權限...
+我没有权限...
+レオン 私を見て
+Leon, look at me.
+Leon, regarde-moi.
+Leon, ascoltami.
+Leon, schau mich an.
+Leon, mírame.
+Леон, посмотри на меня.
+Leon, spójrz na mnie.
+Leon, olha bem pra mim.
+레온, 날 봐.
+里昂，看著我。
+里昂，看着我。
+まともに動けない
+I'm a liability now.
+J'ai besoin de toi.
+Da sola non ce la faccio.
+Auf mich ist kein Verlass.
+Ahora soy una carga.
+Сейчас я обуза.
+W takim stanie nic nie zdziałam.
+Eu agora só vou atrapalhar.
+난 지금 정상이 아니야.
+我現在是個累贅。
+我现在只会碍手碍脚。
+あなたが最後の希望なの</n>お願い
+If I'm gonna finish this case, you're the last hope I've got.
+Si je veux boucler cette affaire, tu es mon seul espoir.
+Sei l'unica speranza che ho per chiudere il caso.
+Du bist meine letzte Hoffnung,</n>den Fall abzuschließen.
+Eres mi última esperanza para cerrar este caso.
+Если я хочу раскрыть это дело, ты моя последняя надежда.
+Jeśli mam zakończyć tę sprawę, jesteś moją ostatnią nadzieją.
+Você é a minha única esperança pra encerrar esse caso.
+당신이 없으면 난 이 사건을 해결할 수 없어.
+如果我要完成這個任務，就只能指望你了。
+要完成这个任务的话，你是我最后的希望。
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+<COLOR FF0000>#Rejected#</COLOR> EV700_0160_pl2000
+君を置いてけない
+I'm not just gonna leave you here.
+Pas question de te laisser ici.
+Non ti posso abbandonare.
+Ich lass dich nicht einfach hier.
+No voy a dejarte aquí.
+Я не могу просто бросить тебя здесь.
+Nie zostawię cię tutaj.
+Não vou te deixar aqui assim.
+당신을 그냥 여기에 두고 갈 순 없어.
+我不能把你丟在這裡。
+我不能把你留在这里。
+もし襲われたらどうする
+What if you're attacked, what if you need help—
+Imagine qu'on t'attaque, que tu aies besoin d'aide...
+Se ti attaccassero, se avessi bisogno...
+Wenn du angegriffen wirst, Hilfe brauchst...
+Y si necesitas ayuda...
+А если на тебя нападут? Если понадобится помощь?..
+Co jeśli zaatakują cię albo będziesz</n>potrzebować pomocy—
+E se você for atacada, e se precisar de ajuda...
+공격을 당하거나, 도움이 필요한 상황이 오면 어떡하려고—
+要是你被襲擊，或是需要幫忙...
+万一你遭到攻击，或是需要帮忙...
+平気よ　私なら大丈夫
+I'll be fine. Don't worry about me.
+Ça va aller. T'en fais pas pour moi.
+Ce la farò. Non preoccuparti. 
+Ich schaff das.</n>Sorg dich nicht um mich.
+Estaré bien. No te preocupes.
+Я не пропаду. Не бойся.
+O mnie się nie martw.
+Eu vou ficar bem. Não esquenta comigo.
+괜찮을 거야. 걱정하지 마.
+我不會有事的，別擔心我。
+我不会有事的，别担心我。
+見届けたいの
+I gotta see this through...
+Je veux aller jusqu'au bout...
+Voglio andare fino in fondo...
+Ich muss das zu Ende bringen...
+Debo llegar al final...
+Я не сдамся на полпути...
+Muszę stawić temu czoła...
+Eu tenho que encerrar essa história.
+이건 내가 매듭지어야 할 일이야.
+我得解決這件事...
+我必须解决这件事...
+事件の結末を…
+...and I want to see you again.
+Et je veux te revoir aussi.
+... e voglio vederti di nuovo.
+... und ich will dich wiedersehen.
+Y quiero volver a verte.
+...и тебя так просто не оставлю.
+...i chcę znów cię zobaczyć.
+E eu quero te ver de novo.
+...그리고 당신을 다시 만날 거야.
+... 而且我想再見你一面。
+... 而且我也想再见到你。
+それから あなたのこともね…
+I got plenty to live for. Trust me.
+Je compte bien vivre. Crois-moi.
+Ho voglia di vivere, credimi.
+Ich hänge am Leben.</n>Vertrau mir.
+Tengo muchos planes. Créeme.
+Поверь, мне есть ради чего жить.
+Mam powody do życia. Wierz mi.
+Eu ainda tenho muito motivo pra viver. Pode acreditar.
+나한텐 살아야 할 이유가 많아.
+我有很多活下去的理由，相信我。
+相信我，我有很多活下去的理由。
+<FONT 1>まもなくNESTに到着します</FONT>
+<FONT 1>Now arriving at NEST.</FONT>
+Vous êtes arrivés au NEST.
+Siamo in arrivo al NEST.
+NEST wird in Kürze erreicht.
+Próxima parada: NEST.
+Станция «NEST».
+Witamy w NEST.
+Chegando no NEST.
+네스트에 도착했습니다.
+即將抵達NEST。
+即将抵达母巢。
+行って
+Go.
+Vas-y.
+Vai!
+Geh.
+Ve.
+Иди.
+Idź.
+Vai.
+어서 가.
+去吧。
+去吧。
+お願い
+Please.
+Allez !
+Su...
+Bitte.
+Por favor.
+Прошу.
+Proszę.
+Por favor.
+부탁이야.
+拜託。
+拜托你了。
+時間がないの
+We don't have much time.
+On n'a pas le temps.
+... non abbiamo altro tempo.
+Wir haben kaum noch Zeit...
+No queda tiempo...
+Времени мало.
+Nie mamy dużo czasu.
+A gente não tem mais muito tempo.
+시간이 얼마 없어.
+我們時間不多...
+我们的时间不多...
+持って行って
+You're gonna need this.
+T'auras besoin de ça.
+Ti servirà.
+Das wirst du brauchen.
+Lo necesitarás.
+Это тебе пригодится.
+Będziesz tego potrzebować.
+Você vai precisar disso aqui.
+이게 필요할 거야.
+你會需要這個。
+你会用得上它的。
+分かった
+OK.
+OK.
+Ok...
+Okay...
+Vale.
+Ладно.
+OK.
+Tá bom.
+알았어.
+好。
+好。
+レオン
+Leon...
+Leon...
+Leon!
+Leon,
+Leon.
+Леон...
+Leon...
+Leon...
+레온…
+里昂...
+里昂...
+頼んだわよ
+I'm counting on you.
+Je compte sur toi.
+Conto su di te.
+verlasse mich auf dich.
+Cuento contigo.
+Я в тебя верю.
+Liczę na ciebie.
+Tô contando com você.
+당신만 믿을게.
+靠你了。
+靠你了。
+ああ
+I know.
+Je sais.
+Lo so.
+Ich weiß.
+Lo sé.
+Знаю.
+Wiem.
+Eu sei.
+나도 알아.
+我知道。
+我知道。
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>ねえ 大丈夫？<PAGE></n>これ クレアの…？<PAGE></n>兄にもらったの　幸運のお守りよ<PAGE></n>クレアがいなかったら私…<PAGE></n>何言ってるの？<PAGE></n>シェリーは一人でちゃんとやってた</n>私があなたを巻き込んじゃったのよ<PAGE></n>あなたのでしょ？<PAGE></n>もういらない<PAGE></n>そうなの？　どうして？</n>かわいいのに<PAGE></n>ママにもらったの　去年の誕生日に<PAGE></n>一緒にいてくれれば それでよかったのに<PAGE></n>ねえ</n>あなたのママは仕事が忙しいみたいだけど…<PAGE></n><PAGE></n>ねえ シェリー　しっかり<PAGE></n>もう少し頑張って<PAGE></n><FONT 1>まもなくNESTに到着します</FONT><PAGE></n>私がついてるから</n>大丈夫よ　
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Hey, are you OK?<PAGE></n>Your jacket's so warm.<PAGE></n>My brother gave it to me.</n>You know it's supposed to be lucky.<PAGE></n>I don't know what I'd do without you.<PAGE></n>Are you kidding me?<PAGE></n>You were doing just fine without me until I came along</n>and got you into all sorts of trouble.<PAGE></n>I have something of yours.<PAGE></n>I don't want it.<PAGE></n>Really? Why not? It's so pretty.<PAGE></n>It-It's from my mom... For my birthday, last year.<PAGE></n>All I really wanted was for her to be home more.<PAGE></n>I know it seems like your mom doesn't care but—<PAGE></n><PAGE></n>Hey, Sherry. Come here.<PAGE></n>Hey...hang in there, OK?<PAGE></n><FONT 1>Now arriving at NEST.</FONT><PAGE></n>It's OK. I've got you.</n>Come on.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Hé ! Ça va ?<PAGE></n>Ta veste est si chaude.<PAGE></n>Mon frère me l'a donnée.</n>Il paraît qu'elle porte chance.<PAGE></n>Je sais pas ce que je ferais sans toi.<PAGE></n>Tu plaisantes ?<PAGE></n>Tu t'en sortais très bien avant que je débarque</n>et que je t'attire tout un tas d'ennuis.<PAGE></n>J'ai quelque chose à toi.<PAGE></n>J'en veux pas.<PAGE></n>Vraiment ? Pourquoi ? Il est joli.<PAGE></n>Ma mère me l'a donné... Pour mon anniversaire, l'an dernier.<PAGE></n>Moi je voulais juste qu'elle soit plus souvent à la maison.<PAGE></n>Je sais qu'on pourrait croire que ta mère s'en fiche, mais...<PAGE></n><PAGE></n>Hé, Sherry. Viens.<PAGE></n>Hé ! Tiens bon, d'accord ?<PAGE></n>Vous êtes arrivés au NEST.<PAGE></n>Ça va aller. Je suis là. Allez.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Ehi! Tutto bene?<PAGE></n>La tua giacca è così calda.<PAGE></n>È di mio fratello. Mi ha detto che porta fortuna.<PAGE></n>Come avrei fatto senza di te?<PAGE></n>Mi prendi in giro?<PAGE></n>Te la stavi cavando alla grande, poi</n>sono arrivata io a metterti nei guai.<PAGE></n>Tieni, questo è tuo.<PAGE></n>Non lo voglio.<PAGE></n>Perché? Che dici? È bello.<PAGE></n>Me l'ha regalato mamma... Per il mio compleanno.<PAGE></n>Volevo solo che fosse a casa più spesso.<PAGE></n>So che pensi che a tua mamma non importi, ma...<PAGE></n><PAGE></n>Ehi! Sherry, dai.<PAGE></n>Ehi! Tieni duro, ok?<PAGE></n>Siamo in arrivo al NEST.<PAGE></n>Tranquilla. Ci sono io... Resisti.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Hey, bist du okay?<PAGE></n>Deine Jacke ist so warm.<PAGE></n>Hab ich von meinem Bruder.</n>Weißt du, sie soll mir Glück bringen.<PAGE></n>Ich weiß nicht, was ich ohne dich tun würde.<PAGE></n>Soll das ein Witz sein?<PAGE></n>Du kamst doch super klar ohne mich,</n>bis ich kam und dich in Schwierigkeiten brachte.<PAGE></n>Ich hab was von dir.<PAGE></n>Ich will das nicht.<PAGE></n>Wirklich? Wieso nicht?</n>Ist so hübsch.<PAGE></n>Ist von meiner Mom.</n>Zum Geburtstag, letztes Jahr.<PAGE></n>Mein einziger Wunsch war,</n>dass sie öfter daheim ist.<PAGE></n>Ich weiß, es scheint so,</n>als wärst du deiner Mom egal, aber...<PAGE></n><PAGE></n>Hey, Sherry. Komm her.<PAGE></n>Hey... Halte durch, okay?<PAGE></n>NEST wird in Kürze erreicht.<PAGE></n>Ist okay. Ich hab dich.</n>Komm schon.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Eh, ¿estás bien?<PAGE></n>Tu chaqueta abriga.<PAGE></n>Me la dio mi hermano... Da buena suerte.<PAGE></n>No sé que haría sin ti.<PAGE></n>¿En serio...?<PAGE></n>Estabas bien hasta que llegué yo y</n>te metí en problema tras problema.<PAGE></n>Tengo algo tuyo.<PAGE></n>No lo quiero.<PAGE></n>¿Ah no? ¿Por qué? Es bonito.<PAGE></n>Me lo dio mamá. Por mi último cumple.<PAGE></n>Solo quería que estuviera más conmigo.<PAGE></n>Se que parece que a tu madre no le importa pero...<PAGE></n><PAGE></n>Eh Sherry, ven...<PAGE></n>Eh... Aguanta, ¿vale?<PAGE></n>Próxima parada: NEST.<PAGE></n>Tranquila. Te tengo.</n>Vamos.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Эй, ты как?<PAGE></n>Какая теплая у тебя куртка.<PAGE></n>Ее мне дал брат.</n>Она вроде как приносит удачу.<PAGE></n>Не знаю, что бы я без тебя делала.<PAGE></n>Шутишь?<PAGE></n>У тебя все было отлично, пока я не пришла</n>и не втянула тебя во все эти неприятности.<PAGE></n>У меня тут твоя вещица.<PAGE></n>Не хочу.<PAGE></n>Правда? Почему? Такая красивая...<PAGE></n>Э-это мне мама подарила... На день рождения в прошлом году.<PAGE></n>А я просто хотела, чтобы она чаще бывала дома.<PAGE></n>Знаю, тебе кажется, что твоей маме все равно, но...<PAGE></n><PAGE></n>Эй, Шерри. Иди ко мне...<PAGE></n>Эй... держись, ладно?<PAGE></n>Станция «NEST».<PAGE></n>Все хорошо, я с тобой.</n>Давай.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Hej, nic ci nie jest?<PAGE></n>Twoja kurtka jest bardzo ciepła.<PAGE></n>Brat mi ją podarował.</n>Podobno przynosi szczęście.<PAGE></n>Nie wiem, co bym zrobiła bez ciebie.<PAGE></n>Żartujesz?<PAGE></n>Świetnie sobie radziłaś, dopóki ja</n>nie wciągnęłam cię w tarapaty.<PAGE></n>Mam coś, co należy do ciebie.<PAGE></n>Nie chcę tego.<PAGE></n>Serio? Czemu? Ładne jest.<PAGE></n>Dostałam to w zeszłym roku od mamy... na urodziny.<PAGE></n>A chciałam tylko,</n>żeby częściej bywała w domu.<PAGE></n>Wiem, że wydaje się, że twojej mamie</n>nie zależy, ale—<PAGE></n><PAGE></n>Hej, Sherry. Podejdź tutaj.<PAGE></n>Hej... trzymaj się, OK?<PAGE></n>Witamy w NEST.<PAGE></n>Wszystko w porządku. Pomogę ci.</n>Chodź.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>Ei, você tá bem?<PAGE></n>Esse seu casaco é tão quentinho.<PAGE></n>Foi o meu irmão que me deu.</n>É o meu casaco da sorte, sabia?<PAGE></n>Eu não sei o que eu ia fazer se não fosse você.<PAGE></n>Tá brincando?<PAGE></n>Você tava muito bem antes de eu aparecer</n>e te meter em uma confusão atrás da outra.<PAGE></n>Eu tô com uma coisa sua.<PAGE></n>Não quero.<PAGE></n>Jura? Por que não? É tão bonito.<PAGE></n>É d-da minha mãe. Ela me deu de aniversário ano passado.<PAGE></n>Tudo o que eu queria era que ela ficasse mais em casa.<PAGE></n>Eu sei que parece que a sua mãe não se importa, mas...<PAGE></n><PAGE></n>Ei, Sherry. Vem aqui.<PAGE></n>Ei... aguenta firme, tá bem?<PAGE></n>Chegando no NEST.<PAGE></n>Vai ficar tudo bem. Eu tô contigo.</n>Vem.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>셰리, 괜찮아?<PAGE></n>재킷이 참 따뜻하네요.<PAGE></n>우리 오빠가 준 거야.</n>행운의 부적이라고 했어.<PAGE></n>언니가 없었으면 난 큰일 났을 거예요...<PAGE></n>그게 무슨 말이야?<PAGE></n>너 혼자서도 잘하고 있었잖아.</n>난 괜히 나타나서 문제만 일으켰는걸.<PAGE></n>이거 원래 네 거지?<PAGE></n>필요 없어요.<PAGE></n>진짜? 왜? 이거 정말 예쁜데.<PAGE></n>그거, 작년 내 생일에... 우리 엄마가 준 거예요.<PAGE></n>내가 진짜로 바란 선물은 엄마가 집에 자주 오는 거였어요.<PAGE></n>너희 엄마가 널 별로 신경 쓰지 않는 거처럼 보일지 몰라도—<PAGE></n><PAGE></n>얘! 셰리, 이리 와.<PAGE></n>셰리... 견뎌내야 해, 알았지?<PAGE></n>네스트에 도착했습니다.<PAGE></n>괜찮아. 내가 잡고 있을게.</n>힘내.
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>你還好嗎？<PAGE></n>你的外套好暖和。<PAGE></n>那是我哥哥給我的。</n>你知道嗎？它應該可以帶來好運。<PAGE></n>如果沒有你，我真不知道該怎麼辦。<PAGE></n>你在開玩笑嗎？<PAGE></n>你本來明明沒事的，</n>是我出現以後才害你捲進一堆麻煩。<PAGE></n>我這裡有一樣你的東西。<PAGE></n>我不想要。<PAGE></n>真的嗎？為什麼？很漂亮耶。<PAGE></n>那、那是我媽... 去年送我的生日禮物。<PAGE></n>但我只想要她更常在家。<PAGE></n>我知道你媽可能看起來不在乎，但...<PAGE></n><PAGE></n>雪莉，來。<PAGE></n>忍耐一下，好嗎？<PAGE></n>即將抵達NEST。<PAGE></n>有我在，沒事的。</n>來吧。
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81><PAGE></n>你还好吗？<PAGE></n>你的外套好温暖。<PAGE></n>这是我哥哥给我的。</n>它应该可以带来好运。<PAGE></n>真不知道没了你我该怎么办。<PAGE></n>你在开玩笑吗？<PAGE></n>你本来明明没事的，</n>是我来了之后才把你卷到这堆麻烦事里。<PAGE></n>我这里有一个你的东西。<PAGE></n>我不想要。<PAGE></n>真的吗？为什么？很漂亮耶。<PAGE></n>那、那是我妈妈...</n>去年送我的生日礼物。<PAGE></n>但我真正想要的只是她能常常回家。<PAGE></n>我知道你妈妈可能看起来不在乎，但...<PAGE></n><PAGE></n>雪莉，来。<PAGE></n>忍耐一下，好吗？<PAGE></n>即将抵达母巢。<PAGE></n>没事的，有我陪着你呢。</n>来吧。
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+<TIME 7.12, 13.0><TIME 16.0, 19.03><TIME 23.94, 26.25><TIME 29.0, 33.51><TIME 37.17, 39.28><TIME 40.62, 42.2><TIME 43.3, 47.92><TIME 50.27, 51.94><TIME 52.75, 54.23><TIME 54.73, 58.49><TIME 60.86, 66.01><TIME 69.84, 72.82><TIME 76.19, 80.58><TIME 80.59, 81.88><TIME 81.92, 84.99><TIME 90.49, 92.19><TIME 92.21, 94.5><TIME 100.16, 103.81>
+ねえ 大丈夫？
+Hey, are you OK?
+Hé ! Ça va ?
+Ehi! Tutto bene?
+Hey, bist du okay?
+Eh, ¿estás bien?
+Эй, ты как?
+Hej, nic ci nie jest?
+Ei, você tá bem?
+셰리, 괜찮아?
+你還好嗎？
+你还好吗？
+これ クレアの…？
+Your jacket's so warm.
+Ta veste est si chaude.
+La tua giacca è così calda.
+Deine Jacke ist so warm.
+Tu chaqueta abriga.
+Какая теплая у тебя куртка.
+Twoja kurtka jest bardzo ciepła.
+Esse seu casaco é tão quentinho.
+재킷이 참 따뜻하네요.
+你的外套好暖和。
+你的外套好温暖。
+兄にもらったの　幸運のお守りよ
+My brother gave it to me.</n>You know it's supposed to be lucky.
+Mon frère me l'a donnée.</n>Il paraît qu'elle porte chance.
+È di mio fratello. Mi ha detto che porta fortuna.
+Hab ich von meinem Bruder.</n>Weißt du, sie soll mir Glück bringen.
+Me la dio mi hermano... Da buena suerte.
+Ее мне дал брат.</n>Она вроде как приносит удачу.
+Brat mi ją podarował.</n>Podobno przynosi szczęście.
+Foi o meu irmão que me deu.</n>É o meu casaco da sorte, sabia?
+우리 오빠가 준 거야.</n>행운의 부적이라고 했어.
+那是我哥哥給我的。</n>你知道嗎？它應該可以帶來好運。
+这是我哥哥给我的。</n>它应该可以带来好运。
+クレアがいなかったら私…
+I don't know what I'd do without you.
+Je sais pas ce que je ferais sans toi.
+Come avrei fatto senza di te?
+Ich weiß nicht, was ich ohne dich tun würde.
+No sé que haría sin ti.
+Не знаю, что бы я без тебя делала.
+Nie wiem, co bym zrobiła bez ciebie.
+Eu não sei o que eu ia fazer se não fosse você.
+언니가 없었으면 난 큰일 났을 거예요...
+如果沒有你，我真不知道該怎麼辦。
+真不知道没了你我该怎么办。
+何言ってるの？
+Are you kidding me?
+Tu plaisantes ?
+Mi prendi in giro?
+Soll das ein Witz sein?
+¿En serio...?
+Шутишь?
+Żartujesz?
+Tá brincando?
+그게 무슨 말이야?
+你在開玩笑嗎？
+你在开玩笑吗？
+シェリーは一人でちゃんとやってた</n>私があなたを巻き込んじゃったのよ
+You were doing just fine without me until I came along</n>and got you into all sorts of trouble.
+Tu t'en sortais très bien avant que je débarque</n>et que je t'attire tout un tas d'ennuis.
+Te la stavi cavando alla grande, poi</n>sono arrivata io a metterti nei guai.
+Du kamst doch super klar ohne mich,</n>bis ich kam und dich in Schwierigkeiten brachte.
+Estabas bien hasta que llegué yo y</n>te metí en problema tras problema.
+У тебя все было отлично, пока я не пришла</n>и не втянула тебя во все эти неприятности.
+Świetnie sobie radziłaś, dopóki ja</n>nie wciągnęłam cię w tarapaty.
+Você tava muito bem antes de eu aparecer</n>e te meter em uma confusão atrás da outra.
+너 혼자서도 잘하고 있었잖아.</n>난 괜히 나타나서 문제만 일으켰는걸.
+你本來明明沒事的，</n>是我出現以後才害你捲進一堆麻煩。
+你本来明明没事的，</n>是我来了之后才把你卷到这堆麻烦事里。
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> EV700_2080_pl1000
+あなたのでしょ？
+I have something of yours.
+J'ai quelque chose à toi.
+Tieni, questo è tuo.
+Ich hab was von dir.
+Tengo algo tuyo.
+У меня тут твоя вещица.
+Mam coś, co należy do ciebie.
+Eu tô com uma coisa sua.
+이거 원래 네 거지?
+我這裡有一樣你的東西。
+我这里有一个你的东西。
+もういらない
+I don't want it.
+J'en veux pas.
+Non lo voglio.
+Ich will das nicht.
+No lo quiero.
+Не хочу.
+Nie chcę tego.
+Não quero.
+필요 없어요.
+我不想要。
+我不想要。
+そうなの？　どうして？</n>かわいいのに
+Really? Why not? It's so pretty.
+Vraiment ? Pourquoi ? Il est joli.
+Perché? Che dici? È bello.
+Wirklich? Wieso nicht?</n>Ist so hübsch.
+¿Ah no? ¿Por qué? Es bonito.
+Правда? Почему? Такая красивая...
+Serio? Czemu? Ładne jest.
+Jura? Por que não? É tão bonito.
+진짜? 왜? 이거 정말 예쁜데.
+真的嗎？為什麼？很漂亮耶。
+真的吗？为什么？很漂亮耶。
+ママにもらったの　去年の誕生日に
+It-It's from my mom... For my birthday, last year.
+Ma mère me l'a donné... Pour mon anniversaire, l'an dernier.
+Me l'ha regalato mamma... Per il mio compleanno.
+Ist von meiner Mom.</n>Zum Geburtstag, letztes Jahr.
+Me lo dio mamá. Por mi último cumple.
+Э-это мне мама подарила... На день рождения в прошлом году.
+Dostałam to w zeszłym roku od mamy... na urodziny.
+É d-da minha mãe. Ela me deu de aniversário ano passado.
+그거, 작년 내 생일에... 우리 엄마가 준 거예요.
+那、那是我媽... 去年送我的生日禮物。
+那、那是我妈妈...</n>去年送我的生日礼物。
+一緒にいてくれれば それでよかったのに
+All I really wanted was for her to be home more.
+Moi je voulais juste qu'elle soit plus souvent à la maison.
+Volevo solo che fosse a casa più spesso.
+Mein einziger Wunsch war,</n>dass sie öfter daheim ist.
+Solo quería que estuviera más conmigo.
+А я просто хотела, чтобы она чаще бывала дома.
+A chciałam tylko,</n>żeby częściej bywała w domu.
+Tudo o que eu queria era que ela ficasse mais em casa.
+내가 진짜로 바란 선물은 엄마가 집에 자주 오는 거였어요.
+但我只想要她更常在家。
+但我真正想要的只是她能常常回家。
+ねえ</n>あなたのママは仕事が忙しいみたいだけど…
+I know it seems like your mom doesn't care but—
+Je sais qu'on pourrait croire que ta mère s'en fiche, mais...
+So che pensi che a tua mamma non importi, ma...
+Ich weiß, es scheint so,</n>als wärst du deiner Mom egal, aber...
+Se que parece que a tu madre no le importa pero...
+Знаю, тебе кажется, что твоей маме все равно, но...
+Wiem, że wydaje się, że twojej mamie</n>nie zależy, ale—
+Eu sei que parece que a sua mãe não se importa, mas...
+너희 엄마가 널 별로 신경 쓰지 않는 거처럼 보일지 몰라도—
+我知道你媽可能看起來不在乎，但...
+我知道你妈妈可能看起来不在乎，但...
+ねえ シェリー　しっかり
+Hey, Sherry. Come here.
+Hé, Sherry. Viens.
+Ehi! Sherry, dai.
+Hey, Sherry. Komm her.
+Eh Sherry, ven...
+Эй, Шерри. Иди ко мне...
+Hej, Sherry. Podejdź tutaj.
+Ei, Sherry. Vem aqui.
+얘! 셰리, 이리 와.
+雪莉，來。
+雪莉，来。
+もう少し頑張って
+Hey...hang in there, OK?
+Hé ! Tiens bon, d'accord ?
+Ehi! Tieni duro, ok?
+Hey... Halte durch, okay?
+Eh... Aguanta, ¿vale?
+Эй... держись, ладно?
+Hej... trzymaj się, OK?
+Ei... aguenta firme, tá bem?
+셰리... 견뎌내야 해, 알았지?
+忍耐一下，好嗎？
+忍耐一下，好吗？
+<FONT 1>まもなくNESTに到着します</FONT>
+<FONT 1>Now arriving at NEST.</FONT>
+Vous êtes arrivés au NEST.
+Siamo in arrivo al NEST.
+NEST wird in Kürze erreicht.
+Próxima parada: NEST.
+Станция «NEST».
+Witamy w NEST.
+Chegando no NEST.
+네스트에 도착했습니다.
+即將抵達NEST。
+即将抵达母巢。
+私がついてるから</n>大丈夫よ　
+It's OK. I've got you.</n>Come on.
+Ça va aller. Je suis là. Allez.
+Tranquilla. Ci sono io... Resisti.
+Ist okay. Ich hab dich.</n>Komm schon.
+Tranquila. Te tengo.</n>Vamos.
+Все хорошо, я с тобой.</n>Давай.
+Wszystko w porządku. Pomogę ci.</n>Chodź.
+Vai ficar tudo bem. Eu tô contigo.</n>Vem.
+괜찮아. 내가 잡고 있을게.</n>힘내.
+有我在，沒事的。</n>來吧。
+没事的，有我陪着你呢。</n>来吧。

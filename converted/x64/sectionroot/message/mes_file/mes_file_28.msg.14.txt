@@ -1,0 +1,48 @@
+﻿ガンパウダーについてのメモ
+Uses of Gunpowder
+Usages de la poudre noire
+Usare la polvere da sparo
+Schießpulvernutzung
+Usos de la pólvora
+Использование пороха
+Zastosowania prochu
+Usos para Pólvora
+화약 사용
+火藥使用
+使用火药
+<COL FILE_EMP>ハンドガンの弾</COLOR ></n>　　→ガンパウダー　×2</n></n><COL FILE_EMP>ショットガンの弾</COLOR ></n>　　→ガンパウダー　＋　強化火薬（黄）</n></n><COL FILE_EMP>マグナムの弾</COLOR ></n>　　→強化火薬（黄）　×2
+<COL FILE_EMP>Handgun Ammo</COLOR></n>Gunpowder x2</n></n><COL FILE_EMP>Shotgun Shells</COLOR></n>Gunpowder + High-Grade Gunpowder (Yellow)</n></n><COL FILE_EMP>MAG Ammo</COLOR></n>High-Grade Gunpowder (Yellow) x2
+<COL FILE_EMP>Munitions pour pistolet</COLOR></n>Poudre noire x2</n></n><COL FILE_EMP>Cartouches pour fusil</COLOR></n>Poudre noire + Poudre supérieure (jaune)</n></n><COL FILE_EMP>Munitions MAG</COLOR></n>Poudre supérieure (jaune) x2
+<COL FILE_EMP>Munizioni per pistola</COLOR></n>Polvere da sparo x2</n></n><COL FILE_EMP>Cartucce per fucile</COLOR></n>Polvere da sparo + Polvere da sparo qualità alta (gialla)</n></n><COL FILE_EMP>Munizioni per MAG</COLOR></n>Polvere da sparo qualità alta (gialla) x2
+<COL FILE_EMP>Pistolenmunition</COLOR></n>2x Schießpulver</n></n><COL FILE_EMP>Flintenmunition</COLOR></n>Schießpulver + Hochwertiges Schießpulver (gelb)</n></n><COL FILE_EMP>MAG-Munition</COLOR></n>2x Hochwertiges Schießpulver (gelb)
+<COL FILE_EMP>Munición de pistola</COLOR></n>Pólvora x2</n></n><COL FILE_EMP>Cartuchos de escopeta</COLOR></n>Pólvora + pólvora de alta calidad (amarilla)</n></n><COL FILE_EMP>Munición de MAG</COLOR></n>Pólvora de alta calidad (amarilla) x2
+<COL FILE_EMP>Патроны для пистолета</COLOR></n>Порох x2</n></n><COL FILE_EMP>Патроны для дробовика</COLOR></n>Порох + высококачественный порох (желтый)</n></n><COL FILE_EMP>Патроны для револьвера</COLOR></n>Высококачественный порох (желтый) x2
+<COL FILE_EMP>Amunicja do pistoletu</COLOR></n>Proch strzelniczy x2</n></n><COL FILE_EMP>Naboje do strzelby</COLOR></n>Proch strzel. + Wydajny proch strzel. (żółty)</n></n><COL FILE_EMP>Amunicja MAG</COLOR></n>Wydajny proch strzel. (żółty) x2
+<COL FILE_EMP>Munição para Pistola</COLOR></n>Pólvora x2</n></n><COL FILE_EMP>Cartucho de Espingarda</COLOR></n>Pólvora + Pólvora de Qualidade (Amarela)</n></n><COL FILE_EMP>Munição de MAG</COLOR></n>Pólvora de Qualidade (Amarela) x2
+<COL FILE_EMP>권총 탄약</COLOR></n>화약 x2</n></n><COL FILE_EMP>산탄총 외피</COLOR></n>화약 + 고급 화약(노랑)</n></n><COL FILE_EMP>MAG 탄약</COLOR></n>고급 화약(노랑) x2
+<COL FILE_EMP>手槍彈藥</COLOR></n>火藥 x2</n></n><COL FILE_EMP>散彈槍彈藥</COLOR></n>火藥 + 高級火藥（黃色）</n></n><COL FILE_EMP>麥格農彈藥</COLOR></n>高級火藥（黃色）x2
+<COL FILE_EMP>手枪弹药</COLOR></n>火药 x2</n></n><COL FILE_EMP>散弹枪弹药</COLOR></n>火药 + 高级火药（黄色）</n></n><COL FILE_EMP>马格南弹药</COLOR></n>高级火药（黄色）x2
+現在、署内の弾薬が不足している。</n>各自、ガンパウダーを有効活用すべし。</n></n>携行する銃器の種類に応じて、</n>適切に<COL FILE_EMP>組み合わせる</COLOR >よう注意されたし。
+There's not a lot of ammo left around the</n>station, so make good use of any gunpowder</n>you find.</n></n>Different guns require different ammo, so pay</n>attention when you're <COL FILE_EMP>combining</COLOR> things or you</n>won't get what you need.
+Il ne reste pas beaucoup de munitions dans le</n>commissariat, alors utilisez la poudre que vous</n>trouvez à bon escient.</n></n>Chaque arme nécessite des munitions</n>spécifiques. Réfléchissez bien en <COL FILE_EMP>combinant</COLOR> les</n>éléments pour obtenir ce dont vous avez besoin.
+Non sono rimaste molte munizioni nella</n>centrale, quindi fate buon uso della polvere</n>da sparo che trovate.</n></n>Vi serviranno munizioni differenti per le</n>varie armi, quindi fate attenzione quando</n><COL FILE_EMP>combinate</COLOR> le risorse, oppure non otterrete</n>il risultato sperato.
+Auf der Polizeistation wird langsam die</n>Munition knapp. Setzen Sie jedes bisschen</n>Schießpulver klug ein, das Sie auftreiben</n>können.</n></n>Verschiedene Waffen benötigen verschiedene</n>Munition. Passen Sie also beim <COL FILE_EMP>Kombinieren</COLOR> auf,</n>dass Sie auch die benötigte Munition erhalten.
+No queda mucha munición en la comisaría,</n>así que usa bien la pólvora que encuentres.</n></n>Cada arma requiere munición distinta, así que</n>presta atención cuando las <COL FILE_EMP>combines</COLOR> o no</n>conseguirás lo que necesitas.
+В участке осталось мало патронов,</n>поэтому используйте весь порох, что найдете.</n></n>Разные типы оружия используют разные патроны,</n>поэтому следите за тем, что с чем <COL FILE_EMP>соединяете</COLOR>,</n>иначе не получите нужного результата.
+Na posterunku zostało już niedużo amunicji,</n>więc trzeba dobrze wykorzystać proch</n>strzelniczy, który uda się znaleźć.</n></n>Do poszczególnych broni </n>potrzebna jest różna amunicja, </n>dlatego uważaj przy <COL FILE_EMP>łączeniu</COLOR>, </n>żeby uzyskać odpowiedni efekt.
+Não sobrou muita munição na</n>delegacia, então faça bom proveito</n>de toda pólvora que encontrar.</n></n>Armas diferentes usam munições diferentes,</n>então preste atenção na hora de <COL FILE_EMP>combinar</COLOR> as</n>coisas, senão não vai conseguir o que quer.
+현재 경찰서에 남겨진 탄약이 부족한 상황이므로,</n>발견한 화약을 유용하게 사용하십시오.</n></n>총마다 각각 다른 탄약이 필요하므로</n><COL FILE_EMP>조합</COLOR> 시 주의하세요.</n>안 그러면 필요한 걸 얻지 못할 테니까요.
+警局周圍沒有多少彈藥，所以要充分</n>利用你找到的任何火藥。</n></n>不同槍械需要不同彈藥，所以<COL FILE_EMP>結合</COLOR>的</n>時候要注意，不然就得不到所需的</n>彈藥。
+警察局的弹药所剩不多了，</n>所以可得省着用。</n></n>不同枪支需要不同的火药，所以当你要</n><COL FILE_EMP>混合</COLOR>不同的东西时可得留意，</n>不然就白费力气了。</n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

@@ -1,0 +1,2376 @@
+﻿Result
+Results
+Résultats
+Risultati
+Ergebnisse
+Resultados
+Результаты
+Wyniki
+Resultados
+결과
+遊戲成果
+游戏成果
+クリア状況を確認します
+View your game completion results.
+Voir vos statistiques de complétion du jeu.
+Consulta i risultati di completamento di gioco.
+Spielergebnisse ansehen.
+Comprueba los resultados de tu partida.
+См. результаты прохождения.
+Wyświetl stan ukończenia gry.
+Ver seus resultados de conclusão.
+게임 완료 결과를 봅니다.
+查看遊戲完成狀況。
+查看游戏完成状况。
+Figure
+Models
+Modèles
+Modelli
+Figuren
+Modelos
+Модели
+Modele
+Modelos
+모델
+模型
+模型
+Concept Art
+Concept Art
+Concept arts
+Concept art
+Konzeptgrafiken
+Diseños
+Наброски
+Grafiki koncepcyjne
+Arte Conceitual
+컨셉트 아트
+概念美術
+概念美术
+フィギュアを閲覧します
+View in-game models you've unlocked.
+Voir les modèles débloqués.
+Guarda i modelli di gioco che hai sbloccato.
+Freigeschaltete Figuren ansehen.
+Examina los modelos del juego que has desbloqueado.
+См. открытые модели.
+Wyświetl modele odblokowane w grze.
+Ver modelos do jogo desbloqueados.
+잠금 해제된 인게임 모델을 봅니다.
+欣賞您已解除鎖定的遊戲中模型。
+欣赏您已解锁的游戏中模型。
+コンセプトアートを閲覧します
+View concept art you've unlocked.
+Voir les concept arts débloqués.
+Guarda i concept art che hai sbloccato.
+Freigeschaltete Konzeptgrafiken ansehen.
+Ve el arte conceptual que has desbloqueado.
+См. открытые наброски.
+Wyświetl odblokowaną grafikę.
+Ver as artes desbloqueadas.
+잠금 해제된 컨셉트 아트를 봅니다.
+欣賞已解除鎖定的概念美術。
+欣赏您已解锁的概念美术作品。
+操作説明
+Controls
+Commandes
+Controlli
+Steuerung
+Controles
+Управление
+Sterowanie
+Controles
+컨트롤
+控制
+控制
+ポーズ A
+Animation A
+Variante A
+Versione A
+Variante A
+Versión A
+Поза A
+Poza A
+Pose A
+A 포즈
+姿勢 A
+姿势 A
+ポーズ B
+Animation B
+Variante B
+Versione B
+Variante B
+Versión B
+Поза B
+Poza B
+Pose B
+B 포즈
+姿勢 B
+姿势 B
+ポーズ C
+Animation C
+Variante C
+Versione C
+Variante C
+Versión C
+Поза C
+Poza C
+Pose C
+C 포즈
+姿勢 C
+姿势 C
+ポーズ D
+Animation D
+Variante D
+Versione D
+Variante D
+Versión D
+Поза D
+Poza D
+Pose D
+D 포즈
+姿勢 D
+姿势 D
+ポーズ E
+Animation E
+Variante E
+Versione E
+Variante E
+Versión E
+Поза E
+Poza E
+Pose E
+E 포즈
+姿勢 E
+姿势 E
+ポーズ F
+Animation F
+Variante F
+Versione F
+Variante F
+Versión F
+Поза F
+Poza F
+Pose F
+F 포즈
+姿勢 F
+姿势 F
+ポーズ G
+Animation G
+Variante G
+Versione G
+Variante G
+Versión G
+Поза G
+Poza G
+Pose G
+G 포즈
+姿勢 G
+姿势 G
+ポーズ H
+Animation H
+Variante H
+Versione H
+Variante H
+Versión H
+Поза H
+Poza H
+Pose H
+H 포즈
+姿勢 H
+姿势 H
+ポーズ I
+Animation I
+Variante I
+Versione I
+Variante I
+Versión I
+Поза I
+Poza I
+Pose I
+I 포즈
+姿勢 I
+姿势 I
+ポーズ J
+Animation J
+Variante J
+Versione J
+Variante J
+Versión J
+Поза J
+Poza J
+Pose J
+J 포즈
+姿勢 J
+姿势 J
+ポーズ K
+Animation K
+Variante K
+Versione K
+Variante K
+Versión K
+Поза K
+Poza K
+Pose K
+K 포즈
+姿勢 K
+姿势 K
+ポーズ L
+Animation L
+Variante L
+Versione L
+Variante L
+Versión L
+Поза L
+Poza L
+Pose L
+L 포즈
+姿勢 L
+姿势 L
+プレイ記録と達成状況を確認します
+View records and unlockables progress.
+Voir les défis et les bonus débloqués.
+Controlla le sfide e i contenuti sbloccabili.
+Die Herausforderungen und den Freischaltungsfortschritt ansehen
+Comprueba tus méritos y su progreso.
+Смотреть рекорды и прогресс разблокируемых наград.
+Wyświetl rekordy i postępy związane z odblokowywaniem zawartości.
+Visualizar registros e progresso dos desbloqueáveis.
+기록과 잠금 해제 진행 상태를 봅니다.
+查看記錄和可解除鎖定項目的收集進度。
+查看记录及可解锁的进度。
+クリア状況を確認します
+View your game completion results.
+Voir vos résultats de complétion du jeu.
+Consulta i risultati di completamento di gioco.
+Spielergebnisse ansehen.
+Comprueba los resultados de tu partida.
+См. результаты прохождения.
+Wyświetl stan ukończenia gry.
+Ver seus resultados de conclusão.
+게임 완료 결과를 봅니다.
+查看遊戲完成狀況。
+查看游戏完成状况。
+？？？？？
+? ? ?
+? ? ?
+? ? ?
+? ? ?
+¿?
+? ? ?
+???
+? ? ?
+? ? ?
+? ? ?
+? ? ?
+ラクーンシティ観光大使
+Raccoon City Native
+Né à Raccoon City
+Nativo di Raccoon City
+Einwohner von Raccoon City
+Natural de Raccoon
+Свой в Раккун-Сити
+Mieszk. Raccoon City
+Nativo de Raccoon
+라쿤 시티 주민
+拉昆市本地人
+浣熊市本地人
+ラクーンシティ観光大使
+Raccoon City Native
+Né à Raccoon City
+Nativo di Raccoon City
+Einwohner von Raccoon City
+Natural de Raccoon City
+Свой в Раккун-Сити
+Mieszk. Raccoon City
+Nativo de Raccoon
+라쿤 시티 주민
+拉昆市本地人
+浣熊市本地人
+死者の街へようこそ
+Welcome to the City of the Dead
+Mais que fait la police ?
+La città dei morti viventi
+Die Stadt der Toten
+Bienvenido a la ciudad de los muertos
+Добро пожаловать в город мертвых
+Witamy w Mieście Umarłych
+Bem-vindo à Cidade dos Mortos
+죽음의 도시 입장
+歡迎來到亡者之城
+欢迎来到亡者之城
+女神の道しるべ
+Path to the Goddess
+Chemin de la déesse
+Benedetti dalla Dea
+Weg zur Göttin
+El camino de la diosa
+Дорога к богине
+Ścieżka do bogini
+O Caminho da Deusa
+여신에게 가는 길
+女神之路
+女神之路
+止まない雨
+Never-Ending Rain
+Pluie incessante
+In fuga dall'incubo
+Endloser Regen
+Lluvia interminable
+Бесконечный дождь
+Wieczny deszcz
+Tormenta Sem Fim
+그치지 않는 비
+無盡之雨
+无尽之雨
+ハッキング完了
+Hack Complete
+Pirate !
+Donna misteriosa
+Erfolgreich gehackt
+Pirateo completado
+Успешный взлом
+Udane hakowanie
+Invasão Concluída
+해킹 완료
+入侵完畢
+完成侵入
+ハイドアンドシーク
+Hide and Seek
+Cache-cache
+Acchiapparello
+Versteckspiel
+Juguemos al escondite
+Прятки
+Zabawa w chowanego
+Esconde-Esconde
+숨바꼭질
+捉迷藏
+捉迷藏
+シャワー浴びたい
+A Great Need for a Shower
+Besoin d'une douche
+Mi serve una doccia
+Ich brauch 'ne Dusche
+Necesitas una ducha
+Без душа не обойтись
+Konieczny prysznic
+Preciso de um Banho
+샤워는 필수
+急需沖澡
+亟需洗澡
+生還
+Survival
+Survie
+Sopravvissuti
+Überleben
+Supervivencia
+Выживание
+Przetrwanie
+Sobrevivência
+생존
+活下去
+求生
+ニューヒーロー誕生
+A Hero Emerges
+Un héros est né
+Nascita di un eroe
+Ein neuer Held
+Nace un héroe
+Рождение героя
+Narodziny bohatera
+Surge um Herói
+히어로의 출현
+英雄崛起
+英雄崛起
+ニューヒロイン誕生
+A Heroine Emerges
+Une héroïne est née
+Nascita di un'eroina
+Eine neue Heldin
+Nace una heroína
+Рождение героини
+Narodziny bohaterki
+Surge uma Heroína
+히로인의 출현
+女傑崛起
+女杰崛起
+アンブレラをぶっ潰す
+Broken Umbrella
+Parapluie troué
+La Umbrella è sconfitta
+Sieg über Umbrella
+Paraguas con agujeros
+Крах Umbrella
+Pokonana Umbrella
+Guarda-chuva Quebrado
+엄브렐러의 몰락
+破敗的保護傘
+破败的保护伞公司
+サバイバルの基本
+The Basics of Survival
+Les bases de la survie
+Le basi della sopravvivenza
+Überlebensgrundlagen
+Manual de supervivencia
+Основы выживания
+Podstawy przetrwania
+Sobrevivência Básica
+생존의 기본
+生存基礎
+生存基本功
+初犯
+First Break-In
+Premier cambriolage
+Scassinatore
+Erster Einbruch
+Aprendiz de ladrón
+Первый взлом
+Pierwsze włamanie
+Primeiro Arrombamento
+첫 번째 침입
+初次入侵
+首次闯入
+記憶力セーフ
+A Vault-like Mind
+Expert en cambriolage
+Scasso da passeggio
+Panzerknacker
+Una mente abierta
+Узнать то, что скрыто
+Specjalista od sejfów
+Ladrão Portátil
+견고한 마음가짐
+形如保險箱
+一个弧形宝箱
+害獣駆除
+Vermin Extermination
+Pauvre bête
+Caccia al procione
+Waschbärbekämpfung
+Mapachicidio
+Борьба с вредителями
+Eksterm. szkodników
+Dedetização
+해충 박멸
+消滅害獸
+灭绝害虫
+カスタマイズ
+Customizer
+Bricoleur
+Amante delle modifiche
+Anpassung
+Esto es personal
+Настройщик
+Majsterkowicz
+Personalizador
+커스터마이징 애호가
+進行改裝
+进行改装
+懐は深く
+Hip to Add Squares
+Besoin de place
+Ho bisogno di spazio
+Quadratschädel
+Bolsillos extra
+Побольше квадратов
+Coraz więcej miejsca
+No seu Quadrado
+칸칸이 적응하기
+增添方格
+添加方块
+これでも喰らえ！
+Eat This!
+Prends ça !
+Beccati questo!
+Nimm das!
+¡Llévate esto!
+Вот тебе!
+Spróbuj tego!
+Toma Essa!
+이거나 먹어라!
+接招！
+吃我一记！
+戸締り用心
+That'll Hold 'Em
+Défense d'entrer !
+Barricata
+Das sollte sie aufhalten
+En lista de espera
+Это их задержит
+To ich zatrzyma
+Quero Ver Passar
+그거면 충분해
+這樣就擋得住了
+这样就能挡住它们了
+頼れる相棒
+Handy with a Handgun
+Mise au poing
+Pistolero
+Pistolero
+Por ahí van los tiros
+Пистолетный мастер
+Zręczny strzelec
+Pistoleiro
+권총의 달인
+便利手槍
+手枪用得很顺手
+インファイター
+Matter of Splatter
+Éclaboussures
+Fuciliere
+Blut und Gedärm
+Pólvora para todos
+Мозги на стенах
+Mokra plama
+Tiro Espraiado
+흩날리는 파편
+散射為重
+散射火力
+トリガーハッピー
+Trigger Happy
+Gâchette facile
+Mitragliere
+Dauerfeuer
+De gatillo fácil
+Свинцовый дождь
+Lekki spust
+Fã de Rajadas
+트리거 해피
+掃射萬歲
+好战之徒
+凄腕のガンマン
+Got a Problem, Punk?
+Un problème ?
+Ti senti fortunato?
+Haste 'n Problem?
+Alégrame el día
+Есть проблемы?
+Jakiś problem?
+Tá Olhando o Quê?
+더티 해리
+廢物，有意見嗎？
+小子，有意见吗？
+焼くか溶かすか
+You Die...Over There!
+Brûlés ou fondus ?
+Granatiere
+Granatenstark
+Muérete... pero lejos
+Ты умрешь... Прямо там!
+O! Jesteś wszędzie!
+Morre Longe de Mim!
+전방에 유탄!
+去那邊... 死一死吧！
+你就死在... 那里吧！
+人間発電所
+Human Power Plant
+Générateur humain
+Elettrizzante
+Menschlicher Stromgenerator
+Radioactivo
+Живая электростанция
+Ludzka elektrownia
+Usina Ambulante
+인간 발전기
+人力發電廠
+人体发电机
+大炎上
+Bring Marshmallows!
+Barbecue
+Testa calda
+Her mit den Marshmallows!
+¡Barbacoa lista!
+Несите зефирки!
+Pora na kiełbaski!
+Traz Marshmallow!
+캠프파이어!
+拿棉花糖過來！
+带些棉花糖来！
+タクティカルマスター
+Master Tactician
+Tacticien né
+Tecnico-Tattico
+Meistertaktiker
+Estratega
+Прирожденный тактик
+Urodzony taktyk
+Mestre da Estratégia
+전략의 달인
+手段高明
+战术大师
+銃はいらない
+Don't Need No Stinkin' Gun
+Pas besoin de flingue
+Arma bianca
+Ich brauch keine Knarre
+Ni pistola ni pistolo
+К черту пушки
+Po co mi spluwa?
+Quem Precisa de Munição?
+총 따위 개나 줘버려
+不需要什麼臭槍
+不屑用枪
+手も足も出ない
+But a Torso
+Torse nu
+Smembramento
+Nur noch ein Torso
+Neutralizado
+Только туша
+Sam tułów
+Só o Tronco
+몸통만 쌓이네
+沒手沒腳
+丧尸
+召し上がれ
+Bon Appétit
+Et bon appétit bien sûr !
+Buon appetito
+Guten Appetit
+¡Que aproveche!
+Приятного аппетита
+Smacznego
+Bom Apetite!
+맛있게 드세요
+用餐愉快
+用餐愉快
+帽子はとるのが礼儀
+A Doff of the Cap
+Ça décoiffe !
+Tanto di cappello
+Ich zieh den Hut
+Me quito el sombrero
+Шляпу сними
+Czapki z głów
+Questão de Etiqueta
+모자 벗기기
+脫帽致敬
+脱帽致敬
+対空砲
+Like Skeet Shooting
+Poule !
+Al volo!
+Wie Tontaubenschießen
+Tiro al plato
+Трудная мишень
+Strzelanie do rzutków
+É Como Tiro ao Prato
+스키트 사격
+飛靶射擊
+飞靶射击
+ひっくりカエル
+Keep Their Heads Ringin'
+Sonné
+Spaccatimpani
+Ohrensausen
+¿Oyes ese pitido?
+Шум в голове
+Niech im w uszach dzwoni
+De Estourar os Tímpanos
+귀가 있어도 들을 수 없으니
+不斷耳鳴
+震耳欲聋
+一石二鳥
+Two Birds, One Stone
+D'une pierre deux coups
+Due zombi con una fucilata
+Zwei auf einen Streich
+Dos pájaros, un tiro
+Одним выстрелом двух зайцев
+Dwa w jednym
+Dois Coelhos...
+일석이조
+一石二鳥
+一石二鸟
+精密射撃
+Hate to Burst Your Bulb
+Vieille branche
+Pollice verde
+Voll auf die Knolle
+Esporafobia
+Не хочется трогать луковицу
+Co za szkoda!
+Não Pisa no meu Caule
+알알이 맺힌
+戳破泡泡
+戳破泡泡
+トドメの一撃
+A Shocking End
+Fin électrique
+Sovraccarico
+Ein schockierendes Ende
+Un final electrizante
+Шок и трепет
+Elektryzujący koniec
+Morte Chocante
+충격적 결말
+電擊下場
+一个震撼结局
+一網打尽
+Zombie Roundup
+Trois pour le prix d'un
+Strike
+Zombiemassaker
+Redada zombi
+Гроза зомби
+Zbiegowisko zombie
+Rodeio Zumbi
+좀비 몰이
+圍捕殭屍
+围捕丧尸
+見たな！
+Hats Off!
+Chapeau bas !
+Via il cappello!
+Hut ab!
+No te va a hacer falta
+Шляпы долой!
+Prosto w czapkę!
+De Tirar o Chapéu
+모자 날리기!
+脫帽敬禮！
+脱帽！
+一時停止
+Take a Breather
+Pouce !
+In ginocchio
+Atempause
+Descansa un rato
+Время передохнуть
+Odpocznij sobie
+Hora do Descanso
+잠깐만 앉아봐
+喘口氣
+喘口气
+配線名人
+Circuit Breaker
+Électricien
+Elettricista
+Stromkreisunterbrecher
+Electricista
+Выключатель
+Elektryk
+Curto-Circuito
+서킷 브레이커
+電路破解專家
+电路破解专家
+女流配線名人
+Voltage Virtuoso
+Chargée à bloc
+Cortocircuito
+Spannungsvirtuosin
+Galvánica virtuosa
+Электровиртуоз
+Specjalistka
+Virtuoso da Voltagem
+전기의 여왕
+電力行家
+电路专家
+配線王座
+Hardly Any Resistance
+Aucune résistance
+Chiama di nuovo il tecnico
+Kaum Widerstand
+Poca resistencia
+Никакого сопротивления
+Bułka z masłem
+Pouca Resistência
+저항 제로
+幾無阻力
+几无阻力
+女流配線王座
+A Jewel Amongst Joules
+Un joyau et des joules
+Senza troppa resistenza
+Unter Strom
+Amperiosa necesidad
+Чудо-женщина
+Prawdziwa specjalistka
+Separar Joule do Trigo
+전기의 여신
+電門女傑
+电工之花
+薬剤師
+Chemist
+Apprenti chimiste
+Piccolo chimico
+Chemiker
+Doctorado en química
+Химик
+Chemik
+Químico
+화학자
+化學家
+化学家
+天才薬剤師
+Genius Chemist
+Chimiste de génie
+Nobel per la scienza
+Chemiegenie
+Licenciatura en química
+Гениальный химик
+Utalentowany chemik
+Químico Prodígio
+천재 화학자
+天才化學家
+天才化学家
+目には目を
+Right in the Eyeball
+En plein dans l'œil
+Dritto nella palla dell'occhio
+Voll aufs Auge
+En todo el ojo
+Прямо в яблочко
+Prosto w oko
+Bem no Olho
+눈에 박힌 가시
+正中眼球
+正中眼球
+節電
+Gotcha!
+Qui l'eût grue ?
+Preso in pieno!
+Hab dich!
+¡Te tengo!
+Попался!
+Mam cię!
+Te Peguei!
+알았어!
+中了吧！
+中了吧！
+隙あり！
+Put that Down!
+Pose ça !
+Mettilo giù!
+Weg damit!
+¡No se toca!
+А ну положи где взял!
+Odłóż to na miejsce!
+Larga Isso Agora!
+내려놔!
+把東西放下！
+把那东西放下！
+地べたがお似合い
+You Belong on the Ground
+Les pieds sur terre
+A terra!
+Runter mit dir
+¡Al suelo!
+Рожденный ползать
+Wracaj na dół
+Seu Lugar é no Chão
+내려와!
+乖乖倒地
+回到地面
+目にもとまらない
+With Time to Spare
+À l'aise
+Chi ha tempo non aspetti tempo
+Locker Zeit
+El tiempo es oro
+Лишнее время
+Duży zapas czasu
+Com Tempo de Sobra
+그래도 시간이 남네요
+時間充裕
+时间充足
+クロスカウンター
+Maxed Out
+À plat
+Datti una calmata
+Ausgepowert
+Inquebrantable
+До предела
+Wykończony
+Tudo no Máximo
+충전 그만
+最大氣力
+最大气力
+疾風迅雷
+In the Blink of an Eye
+En un clin d'œil
+In un batter d'occhio
+Im Handumdrehen
+En un santiamén
+В одно мгновение
+W mgnieniu oka
+Em um Piscar de Olhos
+눈 깜짝할 사이
+轉眼之間
+转瞬之间
+スマートな仕事
+One Slick Super-spy
+Super espionne
+Super spia
+Superspionin
+Espía escurridiza
+Самый проворный шпион
+Superszpieg
+Espiã Nota Dez
+번지르르한 슈퍼 스파이
+老練間諜
+老练间谍
+幼い逃亡者
+Young Escapee
+Fugueuse
+In fuga!
+Junger Flüchtling
+Joven prófuga
+Юная беглянка
+Młoda uciekinierka
+Jovem Fugitiva
+탈출의 명수
+小小逃脫者
+小小逃脱者
+鍵開け名人
+Master of Unlocking
+Jill serait fière
+Fabbro
+Schlosser
+"Master of Unlocking"
+Мастер взлома
+Włamywacz
+Chaveiro-Mestre
+잠금 해제의 달인
+解鎖大師
+锁匠
+駆除完了
+Complete Vermin Extermination
+Espèce éteinte
+Specie estinta
+Waschbärausrottung
+Mapachicidio total
+Истребление вредителей
+Pełna eksterminacja szkodników
+Dedetização Perfeita
+해충 박멸 완료
+根除害獸
+根除害兽
+読書家
+Lore Explorer
+Rat de bibliothèque
+Lettore accanito
+Wissensdurst
+Bibliotecario
+Хранитель знаний
+Miłośnik fabuły
+Rato de Biblioteca
+독서광
+學海無涯
+学海无涯
+思い出コレクター
+Dark Times, Dark Room
+Chambre noire
+Camera oscura
+Dunkle Zeiten, dunkle Kammer
+El cuarto oscuro
+Темные времена, темная комната
+Fotograf
+Sala Escura Sombria
+암흑 시대의 암실
+暗世暗房
+暗世中的暗房
+トレジャーハンター
+Treasure Hunter
+Chasse au trésor
+Cacciatore di tesori
+Schatzjäger
+Cazatesoros
+Искатель сокровищ
+Łowca skarbów
+Caça-Tesouros
+보물 사냥꾼
+寶藏獵人
+宝藏猎人
+バックパッカー
+A Waist of Space
+Plein de place
+Escursionista
+Platzverschwendung
+Insondable
+Полно места
+Tragarz
+O Universo num Bolso
+공간 낭비
+龐大空間
+广大空间
+完全武装の新米警官
+Packed Pockets
+Poches pleines
+Armaiolo
+Vollbewaffneter Anfänger
+Bien preparado
+Полные карманы
+Wypakowane kieszenie
+Bornal Cheio
+꽉 찬 주머니
+裝得滿滿的腰包
+装得满满的腰包
+完全武装の女子大生
+Packed Backpack
+Sac à dos plein
+Armata fino ai denti
+Vollbewaffnete Studentin
+Bien preparada
+Полный рюкзак
+Wypakowany plecak
+Mochila Cheia
+꽉 찬 배낭
+裝得滿滿的背包
+装得满满的背包
+ガンマニア
+Gun Fanatic
+Fana d'armes
+Collezionista di armi
+Waffensammler
+Acaparador
+Оружейный маньяк
+Fanatyk broni
+Amante de Armas
+총기 매니아
+槍械狂人
+枪械师
+ガンフリーク
+Gun Enthusiast
+Passionnée d'armes
+Patita delle armi
+Waffenliebhaberin
+Acaparadora
+Бой-баба
+Miłośniczka broni
+Entusiasta de Armas
+총기 수집가
+槍枝愛好者
+枪支爱好者
+ハードな初日
+Hardcore Rookie
+Reviens Leon !
+Addestramento estremo
+Am ersten Tag schon Veteran
+Un primer día nefasto
+Новичок-хардкорщик
+Hardcorowy rekrut
+Recruta Intenso
+하드코어 신입
+硬派新人
+硬派新人
+ハードな兄探し
+Hardcore College Student
+Cette fois c'est Claire
+All'estrema ricerca
+Veteran-Studentin
+Viaje de ida y vuelta
+Студентка-хардкорщица
+Hardcorowa studentka
+Universitária Intensa
+하드코어 대학생
+硬派大學生
+硬派大学生
+レオン“A”ケネディ
+Leon "A." Kennedy
+Leon "A." Kennedy
+Leon "A." Kennedy
+Leon "A." Kennedy
+Leon "A." Kennedy
+Леон «А.» Кеннеди
+Leon „A” Kennedy
+Leon "A." Kennedy
+레온 "A" 케네디
+里昂·A.·甘迺迪
+里昂·A·肯尼迪
+深紅のヒロイン
+Courageous Crimson Hero
+Une étudiante pas comme les autres
+Eroina dai capelli rossi
+Mutige purpurne Heldin
+La heroína carmesí
+Бесстрашная героиня в красном
+Karmazynowa bohaterka
+A Heroína Valente
+용맹한 진홍빛 영웅
+英勇的赤色英雄
+勇敢的赤色英雄
+レオン“S”ケネディ
+Leon "S." Kennedy
+Leon "S." Kennedy
+Leon "S." Kennedy
+Leon "S." Kennedy
+Leon "S." Kennedy
+Леон «S.» Кеннеди
+Leon „S” Kennedy
+Leon "S." Kennedy
+레온 "S" 케네디
+里昂·S·甘迺迪
+里昂·S·肯尼迪
+紅蓮のヒロイン
+Sizzling Scarlet Hero
+Clairement au-dessus
+Eroina Straordinaria
+Heiße blutrote Heldin
+La heroína escarlata
+Грозная героиня в алом
+Szkarłatna bohaterka
+A Heroína Imbatível
+뜨거운 진홍색 영웅
+火熱的緋紅英雄
+火热的绯红英雄
+泣けるぜ
+Rookie No More
+Plus un bleu
+Recluta a chi?
+Kein Anfänger mehr
+De novato nada
+Больше не новичок
+Zawodowiec
+Já Virou Veterano
+신참이 아냐
+菜鳥蛻變
+菜鸟蜕变
+レッドフィールドの血筋
+The Redfield Way
+La méthode Redfield
+Ragazzina a chi?
+Auf die Redfield-Art
+Al estilo Redfield
+Путь Редфилдов
+Po redfieldowsku
+Ao Estilo Redfield
+레드필드의 방식
+雷德菲爾作風
+雷德菲尔德之道
+スプリンター
+Sprinter
+Sprinteur
+Velocista
+Sprinter
+Velocista
+Спринтер
+Sprinter
+Campeão de Corrida
+단거리 주자
+短跑選手
+短跑选手
+ミニマリスト
+Minimalist
+Minimaliste
+Minimalista
+Minimalist
+Minimalista
+Минималист
+Minimalista
+Minimalista
+미니멀리스트
+極簡主義者
+极简主义者
+エコノミスト
+Frugalist
+Allergique
+Allergico ai farmaci 
+Frugalist
+Frugal
+Довольствоваться малым
+Umiarkowany konsument
+Parcimonioso
+근검절약
+勤儉度日
+勤俭节约
+エコロジスト
+A Small Carbon Footprint
+Sans détour
+Viva la pigrizia
+Gute CO2-Bilanz
+Pasito a pasito
+Слабый углеродный след
+Niewielki ślad węglowy
+Nem Mais um Passo!
+적은 탄소 발자국
+低碳足跡
+低碳足迹
+死神
+Grim Reaper
+La Faucheuse
+Mr. Morte
+Gevatter Tod
+Mr. Death
+Мрачный жнец
+Ponury żniwiarz
+Ceifador Sinistro
+사신
+死神
+死神
+滲み出る旨味
+That Jiggly Deliciousness
+Tofu tout flamme
+Made in Japan
+Wackel-Delikatesse
+Pristina gelatina
+Аппетитная встряска
+Trzęsący się smakołyk
+Molenga e Suculento
+물컹거리는 진미
+滑嫩美味
+摇晃的美味
+くせになる食感
+An Acquired Taste
+Super Uiro
+Gusti particolari
+Erlesener Geschmack
+Para paladares distinguidos
+Приобретенный вкус
+Wyrafinowany smak
+Gosto Adquirido
+색다른 기호
+外來的美味
+外来口味
+たまらない舌ざわり
+Can't Get Enough
+Annin tout fou
+Dolce un po' salato
+Ich krieg nicht genug
+Para lenguas sensibles
+Зверский аппетит
+Nigdy dość
+Não Dá Para Ficar Sem
+멈출 수 없는 맛
+吃不膩
+欲罢不能
+絶妙な歯ごたえ
+The Perfect Chewiness
+Inspecteur Konjac
+Gelatinoso
+Ideale Bissfestigkeit
+Para mandíbulas delicadas
+Жевать не переживать
+Idealna konsystencja
+Consistência Perfeita
+쫄깃한 식감
+完美嚼感
+完美嚼感
+極上のまろやかさ
+An Exquisite Sweetness
+Tire-au-Flan
+Irresistibile squisitezza
+Erlesene Süße
+Para amantes de lo dulce
+Изысканная сладость
+Niezwykła słodycz
+Sabor Exótico
+강렬한 단맛
+精緻甜點
+精致甜点
+シナリオマスター
+Story Master
+Maître de l'histoire
+Cantastorie
+Kampagnenmeister
+Cronista
+Герой сюжета
+Bajarz
+Mestre das Histórias
+스토리 마스터
+劇情大師
+剧情大师
+A級プレイヤー
+A-rank Player
+Joueur Apte
+Giocatore di grado A
+Rang-A-Spieler
+Rango A
+Команда-A
+Gracz wyborowy
+Jogador Nota A
+A 등급 플레이어
+A 級玩家
+A 级玩家
+S級プレイヤー
+S-rank Player
+Joueur Supérieur
+Giocatore di grado S
+Rang-S-Spieler
+Rango S
+Команда-S
+Zawodowy gracz
+Jogador Nota S
+S 등급 플레이어
+S 級玩家
+S 级玩家
+超S級プレイヤー
+Hardcore S-rank Player
+Joueur Sensationnel
+Fino all'eStremo
+Veteranspieler vom Rang S
+Jugador hardcore de rango S
+Ранг S в «Хардкорном»
+Hardcore z rangą S
+Jogador Intenso Nota S
+하드코어 S 등급 플레이어
+硬派 S 級玩家
+专家 S 级玩家
+絶滅危惧
+Endangered Species
+Espèce en danger
+Procioni in via d'estinzione
+Bedrohte Art
+En peligro de extinción
+Вымирающий вид
+Gatunki zagrożone
+Espécie Ameaçada
+멸종위기종
+瀕危物種
+濒危物种
+全てのトロフィーを獲得する
+Obtain all trophies.
+Obtenir tous les trophées.
+Ottieni tutti i trofei.
+Schalten Sie alle Trophäen frei.
+Obtén todos los trofeos.
+Получите все призы.
+Zdob. wszys. trofea.
+Ganhe todos troféus.
+모든 트로피를 획득합니다.
+取得所有獎盃。
+取得所有奖杯。
+全てのレコードを達成する
+Complete all objectives in Records.
+Compléter tous les défis.
+Completa tutti gli obiettivi nelle "Sfide".
+Schließen Sie alle Herausforderungen ab.
+Completa todos los objetivos en "Méritos".
+Выполните все цели в «Рекордах».
+Ukończ wszystkie zadania z sekcji Rekordy.
+Complete tudo em Registros.
+기록의 모든 목표를 완료합니다.
+完成記錄中的所有目標。
+完成记录中的所有目标。
+警察署に到着する
+Make it to the police station.
+Atteindre le commissariat.
+Raggiungi la centrale di polizia.
+Erreichen Sie die Polizeistation.
+Llega a la comisaría.
+Доберитесь до полицейского участка.
+Udaj się na posterunek.
+Chegue à delegacia.
+경찰서까지 이동합니다.
+抵達警察局。
+抵达警察局。
+女神像のギミックを起動する
+Solve the Goddess Statue puzzle.
+Activer la statue de déesse.
+Risolvi l'enigma della statua della Dea.
+Lösen Sie das Puzzle der Göttinnenstatue.
+Resuelve el puzle de la estatua de la diosa.
+Решите головоломку со статуей богини.
+Rozwiąż zagadkę z rzeźbą bogini.
+Resolva o enigma da Est. Deusa.
+여신 조각상 퍼즐을 풉니다.
+解開女神雕像謎題。
+解开女神雕像谜题。
+警察署を脱出する
+Escape the police station.
+S'échapper du commissariat.
+Fuggi dalla centrale di polizia.
+Entkommen Sie aus der Polizeistation.
+Huye de la comisaría.
+Выберитесь из полицейского участка.
+Ucieknij z posterunku.
+Fuja da delegacia.
+경찰서를 탈출합니다.
+逃離警察局。
+逃出警察局。
+エイダパートをクリアする
+Complete Ada's segment.
+Compléter la partie d'Ada.
+Completa la sezione di Ada.
+Schließen Sie Adas Segment ab.
+Completa la parte de Ada.
+Пройдите сценарий Ады.
+Ukończ segment Ady.
+Conclua a parte da Ada.
+에이다 세그먼트를 완료합니다.
+完成艾達的段落。
+完成艾达的段落。
+シェリーパートをクリアする
+Complete Sherry's segment.
+Compléter la partie de Sherry.
+Completa la sezione di Sherry.
+Schließen Sie Sherrys Segment ab.
+Completa la parte de Sherry.
+Пройдите сценарий Шерри.
+Ukończ segment Sherry.
+Conclua a parte da Sherry.
+셰리 세그먼트를 완료합니다.
+完成雪莉的段落。
+完成雪莉的段落。
+下水道を脱出する
+Escape from the sewers.
+S'échapper des égouts.
+Esci dalle fogne.
+Entkommen Sie aus der Kanalisation.
+Escapa de las cloacas.
+Сбегите из канализации.
+Wydostań się z kanałów.
+Fuja dos esgotos.
+하수도를 탈출합니다.
+逃離下水道。
+逃离下水道。
+研究所を脱出する
+Escape the lab.
+S'échapper du laboratoire.
+Fuggi dal laboratorio.
+Entkommen Sie aus dem Labor.
+Escapa del laboratorio.
+Выберитесь из лаборатории.
+Ucieknij z laborator.
+Fuja do laboratório.
+연구실을 탈출합니다.
+逃離實驗室。
+逃出实验室。
+レオン編をクリアする
+Complete Leon's story.
+Compléter la campagne de Leon.
+Completa la storia di Leon.
+Schließen Sie Leons Kampagne ab.
+Completa el escenario de Leon.
+Пройдите кампанию за Леона.
+Ukończ historię Leona.
+Zere com o Leon.
+레온의 스토리를 완료합니다.
+完成里昂的劇情。
+完成里昂的剧情。
+クレア編をクリアする
+Complete Claire's story.
+Compléter la campagne de Claire.
+Completa la storia di Claire.
+Schließen Sie Claires Kampagne ab.
+Completa el escenario de Claire.
+Пройдите кампанию за Клэр.
+Ukończ historię Claire.
+Zere com a Claire.
+클레어의 스토리를 완료합니다.
+完成克蕾兒的劇情。
+完成克莱尔的剧情。
+真のエンディングを迎える
+Witness the true ending.
+Assister à la vraie fin.
+Guarda il vero finale.
+Erleben Sie das wahre Ende.
+Ve el final verdadero.
+Откройте настоящую концовку.
+Obejrzyj prawdziwe zakończenie.
+Veja o final verdadeiro.
+진짜 엔딩을 확인합니다.
+達成真實結局。
+见证真实结局。
+アイテムの組み合わせを行う
+Combine two items together.
+Combiner deux objets ensemble.
+Combina due oggetti.
+Kombinieren Sie zwei Gegenstände miteinander.
+Combina dos objetos.
+Объедините два предмета.
+Połącz dwa przedmioty.
+Combine dois itens.
+두 아이템을 조합합니다.
+組合兩件物品。
+结合两件物品。
+ダイヤルキー/金庫を開錠する
+Open a dial safe.
+Ouvrir un coffre à cadran.
+Apri una cassaforte.
+Knacken Sie einen Tresor mit Zahlenschloss.
+Abre una caja fuerte.
+Вскройте сейф с дисковым замком.
+Otwórz sejf.
+Abra um cofre mecân.
+다이얼식 금고를 엽니다.
+打開一個轉盤式保險箱。
+打开一个转盘式保险箱。
+ポータブルセーフを開ける
+Open a portable safe.
+Ouvrir un coffre portatif.
+Apri una cassetta di sicurezza portatile.
+Knacken Sie einen tragbaren Tresor.
+Abre una caja fuerte portátil.
+Вскройте переносной сейф.
+Otwórz przen. sejf.
+Abra um cofre port.
+휴대용 금고를 엽니다.
+打開一個可攜式保險箱。
+打开一个便携式保险箱。
+Mr.ラクーンを破壊する
+Destroy a Mr. Raccoon.
+Détruire un Mr. Raccoon.
+Distruggi un Mr. Raccoon.
+Zerstören Sie einen Mr. Raccoon.
+Rompe un Mr. Raccoon.
+Уничтожьте м-ра Енота.
+Zniszcz Pana Szopa.
+Quebre um Mr. Raccoon.
+미스터 라쿤을 파괴합니다.
+摧毀一個浣熊先生。
+摧毁一个浣熊先生。
+武器を改造する
+Customize a weapon.
+Modifier une arme.
+Modifica un'arma.
+Modifizieren Sie eine Waffe.
+Personaliza un arma.
+Улучшите оружие.
+Zmodyfikuj broń.
+Personalize uma arma.
+무기를 커스터마이징합니다.
+改裝一把武器。
+改造一把武器。
+アイテムスロットを拡張する
+Increase your inventory slots.
+Agrandir l'inventaire.
+Aumenta gli slot del tuo inventario.
+Erhöhen Sie die Zahl Ihrer Inventarplätze.
+Aumenta los espacios del inventario.
+Увеличьте количество ячеек для снаряжения.
+Zwiększ liczbę miejsc w ekwipunku.
+Ganhe espaço no inventário.
+인벤토리 슬롯을 늘립니다.
+增加物品欄的欄位數。
+扩充物品栏的槽位。
+サブウェポンで反撃する
+Counterattack with a sub-weapon.
+Contre-attaquer avec une arme secondaire.
+Contrattacca con un'arma secondaria.
+Führen Sie einen Gegenangriff mit einer Nebenwaffe aus.
+Contraataca con un arma secundaria.
+Проведите контратаку дополнительным оружием.
+Wykonaj kontratak pomocniczą bronią.
+Revide com uma arma secundária.
+보조 무기로 반격합니다.
+以次要武器反擊。
+使用次要武器进行反击。
+窓を木材でふさぐ
+Use Wooden Boards to board up a window.
+Barricader une fenêtre avec des planches.
+Usa delle assi di legno per sbarrare una finestra.
+Vernageln Sie ein Fenster mit Holzbrettern.
+Tapa una ventana con tablas de madera.
+Заколотите окно деревянными досками.
+Zabij okna drewnianymi płytami.
+Use tábuas para tapar uma janela.
+나무판을 사용해 창문을 막습니다.
+利用木板封住一扇窗戶。
+将一扇窗户用木板封起来。
+ハンドガンで{0}体倒す
+Kill {0} enemies with a handgun.
+Tuer {0} ennemis avec une arme de poing.
+Uccidi {0} nemici con una pistola.
+Töten Sie {0} Gegner mit einer Pistole.
+Elimina a {0} enemigos con la pistola.
+Убейте врагов из пистолета: {0}.
+Zabij {0} wrogów za pomocą pistoletu.
+Mate {0} inimigos com pistolas.
+권총으로 적 {0}명을 처치합니다.
+用手槍殺死 {0} 名敵人。
+使用手枪杀死 {0} 名敌人。
+ショットガンで{0}体倒す
+Kill {0} enemies with a shotgun.
+Tuer {0} ennemis avec un fusil à pompe.
+Uccidi {0} nemici con un fucile.
+Töten Sie {0} Gegner mit einer Flinte.
+Elimina a {0} enemigos con la escopeta.
+Убейте врагов из дробовика: {0}.
+Zabij {0} wrogów za pomocą strzelby.
+Mate {0} inimigos c/ espingarda.
+산탄총으로 적 {0}명을 처치합니다.
+用散彈槍殺死 {0} 名敵人。
+使用散弹枪杀死 {0} 名敌人。
+サブマシンガンで{0}体倒す
+Kill {0} enemies with a submachine gun.
+Tuer {0} ennemis avec un pistolet-mitrailleur.
+Uccidi {0} nemici con una mitragliatrice.
+Töten Sie {0} Gegner mit einer MP.
+Elimina a {0} enemigos con el subfusil.
+Убейте врагов из пистолета-пулемета: {0}.
+Zabij {0} wrogów za pomocą pistoletu maszynowego.
+Mate {0} inimigos com submetralhadoras.
+기관단총으로 적 {0}명을 처치합니다.
+用衝鋒槍殺死 {0} 名敵人。
+使用冲锋枪杀死 {0} 名敌人。
+マグナムで{0}体倒す
+Kill {0} enemies with a MAG.
+Tuer {0} ennemis avec un MAG.
+Uccidi {0} nemici con una MAG.
+Töten Sie {0} Gegner mit einer MAG.
+Elimina a {0} enemigos con una MAG.
+Убейте врагов из револьвера: {0}.
+Zabij {0} wrogów z pistoletu MAG.
+Mate {0} inimigos com a MAG.
+MAG으로 적 {0}명을 처치합니다.
+用麥格農殺死 {0} 名敵人。
+使用马格南杀死 {0} 名敌人。
+グレネードランチャーで{0}体倒す
+Kill {0} enemies with the grenade launcher.
+Tuer {0} ennemis avec le lance-grenades.
+Uccidi {0} nemici con il lanciagranate.
+Töten Sie {0} Gegner mit dem Granatwerfer.
+Elimina a {0} enemigos con el lanzagranadas.
+Убейте врагов из гранатомета: {0}.
+Zabij {0} wrogów za pomocą granatnika.
+Mate {0} inimigos com o lança-granadas.
+유탄 발사기로 적 {0}명을 처치합니다.
+用榴彈發射器殺死 {0} 名敵人。
+使用榴弹发射器杀死 {0} 名敌人。
+スパークショットで{0}体倒す
+Kill {0} enemies with the Spark Shot.
+Tuer {0} ennemis avec le fusil électrique.
+Uccidi {0} nemici con il fucile a scarica elettrica.
+Töten Sie {0} Gegner mit dem Elektroschockgewehr.
+Elimina a {0} enemigos con el lanzadescargas.
+Убейте врагов из электропушки: {0}.
+Zabij {0} wrogów za pomocą iskrownika.
+Mate {0} inimigos com o Eletrochoque.
+스파크 샷으로 적 {0}명을 처치합니다.
+用高壓電槍殺死 {0} 名敵人。
+使用电击枪杀死 {0} 名敌人。
+化学燃料火炎放射器で{0}体倒す
+Kill {0} enemies with the Chemical Flamethrower.
+Tuer {0} ennemis avec le lance-flammes chimique.
+Uccidi {0} nemici con il lanciafiamme.
+Töten Sie {0} Gegner mit dem chemischen Flammenwerfer.
+Elimina a {0} enemigos con el lanzallamas químico.
+Убейте врагов из хим. огнемета: {0}.
+Zabij {0} wrogów za pomocą chemicznego miotacza ognia.
+Mate {0} inimigos com o Lança-Chamas Químico.
+화학 화염방사기로 적 {0}명을 처치합니다.
+用化學火焰噴射器殺死 {0} 名敵人。
+使用化学火焰喷射器杀死 {0} 名敌人。
+サブウェポンで{0}体倒す
+Kill {0} enemies with a sub-weapon.
+Tuer {0} ennemis avec une arme secondaire.
+Uccidi {0} nemici con un'arma secondaria.
+Töten Sie {0} Gegner mit einer Nebenwaffe.
+Elimina a {0} enemigos con un arma secundaria.
+Убейте врагов доп. оружием: {0}.
+Zabij {0} wrogów za pomocą pomocniczej broni.
+Mate {0} inimigos c/ armas sec.
+보조 무기로 적 {0}명을 처치합니다.
+用次要武器殺死 {0} 名敵人。
+使用次要武器杀死 {0} 名敌人。
+ナイフで敵を倒す
+Defeat an enemy with a knife.
+Vaincre un ennemi au couteau.
+Elimina un nemico usando il coltello.
+Besiegen Sie einen Gegner mit einem Messer.
+Derrota a un enemigo con un cuchillo.
+Победите противника ножом.
+Pokonaj wroga za pomocą noża.
+Mate um inimigo com uma faca.
+칼로 적을 처치합니다.
+用刀擊敗一名敵人。
+使用匕首击败一名敌人。
+ゾンビの四肢を全て破壊する
+Destroy the arms and legs of a zombie.
+Détruire les bras et les jambes d'un zombie.
+Distruggi braccia e gambe di uno zombi.
+Vernichten Sie die Arme und Beine eines Zombies.
+Destruye los brazos y las piernas de un zombi.
+Оставьте зомби без рук и ног.
+Pozbaw zombie rąk i nóg.
+Destrua braços e pernas de um zumbi.
+좀비의 팔과 다리를 파괴합니다.
+破壞一隻殭屍的四肢。
+破坏一只丧尸的四肢。
+敵がくわえた手榴弾を撃ちぬく
+Shoot the grenade you fed to an enemy.
+Tirer sur une grenade mise dans la bouche d'un ennemi.
+Spara a una granata che hai ficcato in bocca a un nemico.
+Schießen Sie auf die Granate, die Sie einem Gegner in den</n>Mund gerammt haben.
+Activa la granada que se trague un enemigo.
+Выстрелите по гранате, которую скормили противнику.
+Strzel do granatu w ustach przeciwnika.
+Atire na granada dada ao inimigo.
+적에게 수류탄을 먹인 후 총으로 쏴 폭발시킵니다.
+開槍餵榴彈給您的敵人吧。
+射击引爆您喂给敌人的榴弹。
+ゾンビの帽子を{0}回撃ち落とす
+Shoot a hat off of {0} zombies' heads.
+Tirer sur le chapeau de {0} zombies.
+Fai cadere il cappello a {0} zombi sparandogli in testa
+Schießen Sie {0} Zombies den Hut vom Kopf.
+Vuela {0} sombreros de la cabeza de un zombi.
+Сбейте шляп с голов зомби: {0}.
+Zestrzel czapkę z głowy {0} zombie.
+Tire {0} chapéus dos zumbis a bala.
+총으로 좀비 머리에서 모자 {0}개를 벗깁니다.
+擊落 {0} 隻殭屍頭上的帽子。
+从丧尸头上射下{0}顶帽子
+ゾンビ犬/リッカーを空中で撃ち落とす
+Shoot a zombie dog or a licker out of the air.
+Abattre un chien zombie ou un Licker en l'air.
+Spara a un cane zombi o a un Licker mentre è in aria.
+Schießen Sie einen Zombiehund oder Licker aus der Luft.
+Dispara a un perro zombi o a un licker en el aire.
+Подстрелите лизуна или собаку-зомби в воздухе.
+Strzel do psa zombie lub lizacza będącego w powietrzu.
+Atire em um cão zumbi ou carnífice no ar.
+공중에 뜬 좀비 개 또는 릭커를 총으로 쏩니다.
+射擊一隻在空中的殭屍犬或利卡。
+射击一只在空中的丧尸犬或舔食者。
+リッカーの聴覚を麻痺させる
+Paralyze a licker's sense of hearing.
+Neutraliser l'ouïe d'un Licker.
+Assorda un Licker.
+Lähmen Sie den Hörsinn eines Lickers.
+Deja sordo a un licker.
+Лишите лизуна возможности слышать.
+Sparaliżuj zmysł słuchu lizacza.
+Incapacite a audição de um carnífice.
+릭커의 청각을 마비시킵니다.
+讓一隻利卡失去聽覺。
+使一只舔食者的听觉失去作用。
+弾を貫通させ敵を2体同時に倒す
+Kill two enemies at once with a single bullet/shotgun blast.
+Tuer deux ennemis d'une seule balle ou d'un seul tir de fusil à pompe.
+Uccidi due nemici con un solo proiettile o colpo di fucile.
+Töten Sie mit nur einer Kugel / einem Flintenschuss zwei</n>Gegner auf einmal.
+Elimina a dos enemigos a la vez con una sola bala o un solo tiro de escopeta.
+Прикончите двоих противников одной пулей или одним выстрелом из дробовика.
+Zabij dwóch wrogów naraz pojedynczym pociskiem/strzałem ze strzelby.
+Mate dois inimigos com uma única bala / tiro de espingarda.
+탄알 하나/산탄총 한 방으로 적 2명을 동시에 처치합니다.
+用一發子彈或散彈槍一次殺死兩名敵人。
+使用一发子弹或散弹枪一次杀死两名敌人。
+イビーの球茎のみを撃ち抜いて行動不能にする
+Immobilize an ivy zombie by shooting only its bulbs.
+Immobiliser un Ivy en ne tirant que sur ses bulbes.
+Immobilizza uno zombi Ivy sparando solo ai sui bulbi.
+Machen Sie einen Ivy-Zombie nur per Schuss auf die Sporen</n>bewegungsunfähig.
+Inmoviliza a un zombi hiedra disparando solo a las esporas.
+Обездвижьте зомби-растение, стреляя только по пузырям.
+Unieruchom bluszczowe zombie, strzelając do jego cebulek.
+Imobilize uma planta-zumbi atirando só nos bulbos.
+뿌리만 쏴서 아이비 좀비를 움직이지 못하게 합니다.
+單靠射擊藤蔓殭屍的球莖來讓它失去行動能力。
+凭借射击藤蔓丧尸的球茎，使其无法运动。
+スパークショットの最大チャージによる極大放電を行う
+Fire a Maximum Discharge by charging the Spark Shot to max.
+Infliger une décharge à pleine puissance en chargeant le fusil</n>électrique au maximum.
+Libera una scarica massima caricando del tutto il fucile a scarica elettrica.
+Feuern Sie mit dem Elektroschockgewehr eine Maximale</n>Entladung ab, indem Sie es voll aufladen.
+Lanza una sacudida de máxima intensidad cargando al máximo el lanzadescargas.
+Выпустите максимальный разряд, зарядив электропушку до предела.
+Wystrzel maksymalną dawkę, ładując iskrownik do pełna.
+Dispare o Fuzil de Eletrochoque com a carga máxima.
+스파크 샷을 최대로 충전해 발사합니다.
+以高壓電槍發射蓄足的最大電力。
+使用电击枪射出蓄满的最大电力。
+サブウェポンで敵をまとめて{0}体倒す
+Kill {0} enemies at once with a sub-weapon.
+Tuer {0} ennemis d'un coup avec une arme secondaire.
+Uccidi in un colpo solo {0} nemici con un'arma secondaria.
+Töten Sie {0} Gegner augenblicklich mit einer Nebenwaffe.
+Elimina a {0} enemigos a la vez con un arma secundaria.
+Убейте сразу {0} врагов доп. оружием.
+Zabij {0} wrogów naraz za pomocą pomocniczej broni.
+Mate {0} inimigos de uma vez c/ armas sec.
+보조 무기로 적 {0}명을 동시에 처치합니다.
+用次要武器一次殺死 {0} 名敵人。
+使用次要武器一次杀死 {0} 名敌人。
+タイラントの帽子を撃ち落とす
+Shoot Tyrant's hat off his head.
+Tirer sur le chapeau du Tyran.
+Fai cadere il cappello del Tyrant sparandogli in testa.
+Schießen Sie Tyrant den Hut vom Kopf.
+Quítale el sombrero a Tyrant de un disparo a la cabeza.
+Сбейте шляпу с головы тирана.
+Zestrzel czapkę z głowy Tyrana.
+Tire o chapéu do Tirano a bala.
+총을 쏴 타이런트의 머리에서 모자를 벗깁니다.
+將暴君頭上的帽子射下來。
+射下暴君头上的帽子。
+タイラントに膝をつかせる
+Bring Tyrant down to one knee.
+Forcer le Tyran à mettre un genou à terre.
+Costringi il Tyrant a inginocchiarsi.
+Bringen Sie Tyrant auf ein Knie.
+Haz que el Tyrant se arrodille.
+Заставьте тирана преклонить колено.
+Spraw, aby Tyran oparł się kolanem o ziemię.
+Deixe o Tirano de joelho.
+타이런트가 한쪽 무릎을 꿇게 합니다.
+使暴君單膝跪地。
+使暴君单膝跪地。
+レオン編「警察署地下/留置場」の分電盤を</n>{0}回操作で通電させる
+Open the Jail's electronic cell door in {0} moves.</n>[Leon's story]
+Ouvrir la porte électronique de la cellule en {0} manipulations.</n>[Campagne de Leon]
+Apri la porta elettronica della cella in {0} mosse.</n>(Storia di Leon)
+Öffnen Sie die elektronische Zellentür in {0} Zügen.</n>[Leons Kampagne]
+Abre la celda electrónica en {0} pasos .</n>[Historia de Leon]
+Откройте электронный замок на двери камеры за определенное </n>количество ходов ({0}). </n>[Кампания Леона]
+Otwórz zamek elektroniczny do celi w {0} ruchach.</n>[Leon's story]
+Abra a porta eletrônica da cela em {0} movimentos.</n>[Leon]
+{0}번 이내로 감옥 전자문을 엽니다.</n>[레온 스토리]
+於 {0} 次動作內打開拘留所牢房的電子門鎖。</n>[里昂的劇情]
+于 {0} 次操作内解开拘留所牢房的电子门。</n>[里昂的剧情]
+クレア編「警察署/コレクションルーム」の分電盤を</n>{0}回操作で通電させる
+Open the Private Collection Room's electronic door in {0} moves.</n>[Claire's story]
+Ouvrir la porte électronique de la salle de collection privée en</n>{0} manipulations. [Campagne de Claire]
+Apri la porta elettronica della stanza della collezione privata in {0} mosse.</n>(Storia di Claire)
+Öffnen Sie die elektronische Tür im Privatsammlungszimmer in</n>{0} Zügen. [Claires Kampagne]
+Abre la puerta electrónica en la colección privada en {0} pasos.</n>[Historia de Claire]
+Откройте электронный замок на двери комнаты с коллекциями </n>за определенное количество ходов ({0}). </n>[Кампания Клэр]
+Otwórz zamek elektroniczny do pokoju z prywatną kolekcją w {0} ruchach.</n>[Claire's story]
+Abra a porta na Sala da Coleção em {0} movimentos.</n>[Claire]
+{0}번 이내로 컬렉션 보관실 전자문을 엽니다.</n>[클레어 스토리]
+於 {0} 次動作內打開私人收藏室的電子門鎖。</n>[克蕾兒的劇情]
+于 {0} 次操作内解开收藏室的电子门。</n>[克莱尔的剧情]
+レオン編 (2nd)「警察署地下/留置場」の分電盤を</n>{0}回操作で通電させる
+Open the Jail's electronic cell door in {0} moves.</n>[Leon's 2nd Run story]
+Ouvrir la porte électronique de la cellule en {0} manipulations.</n>[Campagne de Leon, scénario bis]
+Apri la porta elettronica della cella in {0} mosse.</n>(Storia di Leon, Seconda avventura)
+Öffnen Sie die elektronische Zellentür in {0} Zügen.</n>[Leon - 2. Durchgang]
+Abre la puerta de la celda en {0} pasos.</n>[Escenario [2] de Leon]
+Откройте электронный замок на двери камеры за определенное </n>количество ходов ({0}). </n>[Второе прохождение кампании Леона]
+Otwórz zamek elektroniczny do celi w {0} ruchach.</n>[Leon's 2nd Run story]
+Abra a porta eletrônica da cela em {0} movimentos.</n>[Leon, 2ª Jornada]
+{0}번 이내로 감옥 전자문을 엽니다.</n>[레온의 두 번째 도전 스토리]
+於 {0} 次動作內打開拘留所牢房的電子門鎖。</n>[里昂的二周目劇情]
+于 {0} 次操作内解开拘留所牢房的电子门。</n>[里昂的第 2 版本剧情]
+クレア編 (2nd)「警察署/コレクションルーム」の分電盤を</n>{0}回操作で通電させる
+Open the Private Collection Room's electronic door in {0} moves.</n>[Claire's 2nd Run story]
+Ouvrir la porte électronique de la salle de collection privée en</n>{0} manipulations. [Campagne de Claire, scénario bis]
+Apri la porta elettronica della stanza della collezione privata in {0} mosse.</n>(Storia di Claire, Seconda avventura)
+Öffnen Sie die elektronische Tür im Privatsammlungszimmer in</n>{0} Zügen. [Claire - 2. Durchgang]
+Abre la puerta electrónica en la colección privada en {0} pasos.</n>[Escenario [2] de Claire]
+Откройте электронный замок на двери комнаты с коллекциями </n>за определенное количество ходов ({0}).</n>[Второе прохождение кампании Клэр]
+Otwórz zamek elektroniczny do pokoju z prywatną kolekcją w {0} ruchach.</n>[Claire's 2nd Run story]
+Abra a porta na Sala da Coleção em {0} movimentos.</n>[Claire, 2ª Jornada]
+{0}번 이내로 컬렉션 보관실 전자문을 엽니다.</n>[클레어의 두 번째 도전 스토리]
+於 {0} 次動作內打開私人收藏室的電子門鎖。</n>[克蕾兒的二周目劇情]
+于 {0} 次操作内解开收藏室的电子门。</n>[克莱尔的第 2 版本剧情]
+レオン/クレア編「研究所/薬品実験室」の薬液充填機を</n>{0}回操作で作動させる
+Fill the cartridge in the Drug Testing Lab in {0} moves.</n>[Either Leon's or Claire's story]
+Remplir la cartouche en {0} manipulations dans le labo de test</n>des médicaments. [Campagne de Leon ou Claire]
+Nell'area test medicinali riempi la cartuccia in {0} mosse.</n>(Nella storia di Leon o di Claire)
+Füllen Sie die Kartusche im Medikamententestlabor in {0} Zügen.</n>[Leons oder Claires Kampagne]
+Rellena el cartucho del laboratorio en {0} pasos.</n>[Historia de Leon o de Claire]
+Заполните картридж в испытательной лаборатории за определенное </n>количество ходов ({0}).</n>[Кампания Леона или Клэр]
+Uzupełnij pojemnik w laboratorium w {0} ruchach.</n>[Either Leon's or Claire's story]
+Encha o contêiner no Laboratório de Teste em {0} movimentos.</n>[Leon ou Claire]
+약품 실험실에서 {0}번 이내로 카트리지를 채웁니다.</n>[레온 또는 클레어 스토리]
+於 {0} 次動作內填充好藥物測試實驗室中的藥匣。</n>[里昂或克蕾兒的劇情]
+于 {0} 次操作内将药物测试实验室的药剂罐填充完毕。</n>[里昂或克莱尔的剧情]
+レオン/クレア編 (2nd)「研究所/薬品実験室」の薬液充填機を</n>{0}回操作で作動させる
+Fill the cartridge in the Drug Testing Lab in {0} moves.</n>[Either Leon's or Claire's 2nd Run story]
+Remplir la cartouche en {0} manipulations dans le labo de test</n>des médicaments. [Campagne de Leon ou Claire, scénario bis]
+Nell'area test medicinali riempi la cartuccia in {0} mosse.</n>(Storia di Leon o di Claire, Seconda avventura)
+Füllen Sie die Kartusche im Medikamententestlabor in {0} Zügen.</n>[Leon oder Claire - 2. Durchgang]
+Rellena el cartucho del laboratorio en  {0} pasos.</n>[Escenario [2] de Leon o de Claire]
+Заполните картридж в испытательной лаборатории за определенное </n>количество ходов ({0}).</n>[Второе прохождение кампании Леона или Клэр]
+Uzupełnij pojemnik w laboratorium w {0} ruchach.</n>[Leon lub Claire 2nd Run]
+Encha o contêiner no Laboratório de Teste em {0} movimentos.</n>[Leon ou Claire, 2ª Jornada]
+약품 실험실에서 {0}번 이내로 카트리지를 채웁니다.</n>[레온 또는 클레어의 두 번째 도전 스토리]
+於 {0} 次動作內填充好藥物測試實驗室中的藥匣。</n>[里昂或克蕾兒的第 2 版本劇情]
+于 {0} 次操作内将药物测试实验室的药剂罐填充完毕。</n>[里昂或克莱尔的第 2 版本剧情]
+G第1形態の目にナイフを突き刺す
+Stab Stage 1 G in the giant eyeball with a knife.
+Poignarder l'œil géant de G (1re forme).
+Accoltella G (stadio 1) nell'occhio gigante.
+Stoßen Sie G (Phase 1) ein Messer in den Riesenaugapfel.
+Clávale al G (Fase 1) un cuchillo en el ojo.
+Ударьте «Г» первой формы ножом в гигантский глаз.
+Dźgnij G w wersji 1 nożem w wielkie oko.
+Esfaqueie o olho gigante do G Fase 1.
+1단계 G의 거대한 눈알을 칼로 찌릅니다.
+以小刀刺中 G 第 1 形態的巨大眼球。
+用匕首刺中 G 第一形态的巨大眼球。
+G第2形態をクレーンを1度しかぶつけずに倒す
+Defeat Stage 2 G using the crane only once.
+Vaincre G (2e forme) en n'utilisant la grue qu'une seule fois.
+Sconfiggi G (stadio 2) utilizzando la gru solo una volta.
+Besiegen Sie G (Phase 2) und setzen Sie den Kran dabei nur</n>einmal ein.
+Derrota al G (Fase 2) usando la grúa sólo una vez.
+Победите «Г» второй формы, использовав кран только один раз.
+Pokonaj G w wersji 2, używając żurawia tylko raz.
+Derrote o G (Fase 2) usando o guindaste 1x.
+크레인을 한 번만 사용해 2단계 G를 처치합니다.
+利用起重機一次擊敗 G 第 2 形態。
+使用起重机一次击败 G 第二形态。
+G第3形態の投てきを阻止する
+Stop Stage 3 G from throwing things around.
+Empêcher G (3e forme) de lancer des objets.
+Impedisci a G (stadio 3) di lanciare oggetti.
+Verhindern Sie, dass G (Phase 3) Dinge wirft.
+No dejes que el G (Fase 3) te lance ningún objeto.
+Помешайте «Г» третьей формы разбрасывать вещи.
+Nie pozwól G w wersji 3 rzucać przedmiotami.
+Não deixe o G Fase 3 ficar jogando objetos.
+3단계 G가 물건을 던지지 못하게 합니다.
+阻止 G 第 3 形態四處亂丟東西。
+阻止 G 第三形态四处乱掷物品。
+G第4形態を壁から撃ち落とす
+Shoot Stage 4 G down off of a wall.
+Tirer sur G (4e forme) pour le faire tomber d'un mur.
+Spara a G (stadio 4) facendolo cadere da un muro.
+Schießen Sie G (Phase 4) von einer Wand.
+Tira al G (Fase 4) de una pared.
+Сбейте «Г» четвертой формы со стены.
+Zestrzel G w wersji 4 ze ściany.
+Derrube o G Fase 4 da parede.
+총을 쏴서 4단계 G가 벽에서 내려오게 합니다.
+將 G 第 4 形態從牆上射下來。
+把 G 第四形态从墙上射下来。
+G第4形態を爆発まで{0}分以上残して倒す
+Defeat Stage 4 G with {0}+ minutes left until detonation.
+Vaincre G (4e forme) au moins {0} minutes avant la détonation.
+Sconfiggi G (stadio 4) con almeno {0} minuti alla detonazione.
+Besiegen Sie G (Phase 4) mit mindestens {0} Minuten bis zur</n>Detonation.
+Derrota al G (Fase 4) cuando queden +{0} min. para la explosión.
+Победите «Г» четвертой формы за {0}+ мин. до взрыва.
+Pokonaj G w wersji 4 z zapasem co najmniej {0} min do detonacji.
+Vença o G Fase 4 faltando {0}+ minutos para a explosão.
+폭파까지 {0}+분 남은 상태로 G 4단계를 처치합니다.
+在離爆炸還剩下 {0} 分鐘以上時擊敗 G 第 4 形態。
+在距离爆炸还剩下至少 {0} 分钟时，击败 G 第四形态。
+スーパータイラントの突進を阻止する
+Stop Super Tyrant from charging.
+Stopper la charge du Tyran S.
+Impedisci al Super Tyrant di caricare.
+Verhindern Sie den Ansturm des Super-Tyrant.
+Evita que el Super Tyrant embista.
+Не дайте супертирану совершить рывок.
+Nie pozwól Super Tyranowi rzucić się na Ciebie.
+Não deixe Supertirano investir.
+슈퍼 타이런트의 충전을 저지합니다.
+阻止超級暴君衝鋒。
+阻止超级暴君冲撞。
+スーパータイラントを爆発まで{0}分以上残して倒す
+Defeat Super Tyrant with {0}+ minutes left until detonation.
+Vaincre le Tyran S au moins {0} minutes avant la détonation.
+Sconfiggi il Super Tyrant con almeno {0} minuti alla detonazione.
+Besiegen Sie Super-Tyrant mit mindestens {0} Minuten bis zur</n>Detonation.
+Derrota al Super Tyrant cuando queden +{0} min. para la explosión.
+Победите супертирана за {0}+ мин. до взрыва.
+Pokonaj Super Tyrana z zapasem co najmniej {0} min do detonacji.
+Vença o Supertirano faltando {0}+ minutos para a explosão.
+폭파까지 {0}+분 남은 상태로 슈퍼 타이런트를 처치합니다.
+在離爆炸還剩下 {0} 分鐘以上時擊敗超級暴君。
+在距离爆炸还剩下至少 {0} 分钟前，击败超级暴君。
+エイダパートをEMFスキャナープロジェクター以外の</n>武器を使わずにクリアする
+Use only the EMF Visualizer to complete Ada's gameplay segment.
+Compléter la partie d'Ada en n'utilisant que le détecteur CEM.
+Usa solo il Rilevatore EMF per terminare la sezione di Ada.
+Schließen Sie Adas Segment ausschließlich unter Verwendung</n>des EMF Visualizer ab.
+Termina la parte de Ada usando solo el visualizador EMF.
+Пройдите сценарий Ады, используя только визуализатор ЭМП.
+Użyj tylko wizualizatora EMF do ukończenia segmentu Ady.
+No segmento da Ada, use apenas o Visualizador de CEM.
+EMF 비주얼라이저만 사용해 에이다의 게임플레이 </n>세그먼트를 완료합니다.
+只利用電磁場顯像器完成艾達的遊戲段落。
+只使用电磁场显像器完成艾达的游戏段落。
+シェリーパートで寝室から{0}秒以内に脱出する
+Escape the bedroom within {0} seconds during Sherry's segment.
+Quitter la chambre en moins de {0} secondes durant la partie de Sherry.
+Nella sezione di Sherry, fuggi dalla camera da letto entro {0} secondi.
+Entkommen Sie in Sherrys Abschnitt innerhalb von {0} Sekunden</n>aus dem Schlafzimmer.
+Durante la parte de Sherry, huye de la habitación en {0} segundos.
+В сценарии Шерри сбегите из спальни за {0} сек.
+Ucieknij z pokoju w {0} sekund w trakcie segmentu Sherry.
+No segmento da Sherry, fuja do quarto em {0} segundos.
+셰리의 세그먼트에서 {0}초 안에 침실을 탈출합니다.
+在雪莉的段落中，於 {0} 秒內逃出臥室。
+在雪莉的段落中，于 {0} 秒之内逃出卧室。
+全てのダイヤルキーと金庫を開錠する
+Open all of the safes and locks in the game.
+Ouvrir tous les coffres et cadenas du jeu.
+Apri tutte le casseforti e i lucchetti del gioco.
+Öffnen Sie alle Tresore und Schlösser im Spiel.
+Abre todas las cajas y cerraduras del juego.
+Вскройте все сейфы и замки в игре.
+Otwórz wszystkie sejfy i zamki w grze.
+Abra todos os cofres e trancas no jogo.
+게임 내 모든 금고 및 자물쇠를 엽니다.
+打開遊戲中所有的保險箱和鎖。
+打开游戏中所有的锁和保险箱。
+全てのMr.ラクーンを破壊する
+Destroy all Mr. Raccoons.
+Détruire tous les Mr. Raccoon.
+Distruggi tutti i Mr. Raccoon.
+Zerstören Sie alle Mr. Raccoons.
+Destruye todos los Mr. Raccoons.
+Уничтожьте всех м-ров Енотов.
+Zniszcz wszystkich Panów Szopów.
+Destrua todos Mr. Raccoon.
+미스터 라쿤을 모두 파괴합니다.
+摧毀所有的浣熊先生。
+摧毁所有的浣熊先生。
+全てのファイルを読む
+Read all of the files.
+Lire tous les fichiers.
+Leggi tutti i documenti.
+Lesen Sie alle Akten.
+Lee todos los archivos.
+Прочитайте все файлы.
+Przeczytaj wszystkie pliki.
+Leia todos arquivos.
+모든 파일을 읽어봅니다.
+閱讀所有檔案。
+阅读游戏中所有的文件。
+全てのフィルムを現像する
+Develop all rolls of film.
+Développer toutes les pellicules.
+Sviluppa tutti i rullini.
+Entwickeln Sie alle Filme.
+Revela todos los rollos de película.
+Проявите все катушки с пленкой.
+Wywołaj wszystkie filmy.
+Revele todos os filmes.
+필름통을 모두 현상합니다.
+沖洗所有膠捲。
+冲洗所有胶卷。
+写真のヒントから隠れたアイテムを2つ見つける
+Using the photo hints, find 2 hidden items.
+Trouver deux objets cachés grâce aux indices en photo.
+Trova 2 oggetti nascosti usando gli indizi fotografici.
+Finden Sie mithilfe der Fotohinweise zwei versteckte Objekte.
+Encuentra 2 objetos ocultos con pistas fotográficas.
+Отыщите два спрятанных предмета с помощью подсказок на фото.
+Znajdź 2 ukryte przedmioty, używając wskazówek ze zdjęć.
+Encontre 2 itens pelas dicas fotográficas.
+사진 힌트를 사용해 숨겨진 아이템 2개를 찾아냅니다.
+利用照片提示，找出 2 個隱藏物品。
+利用照片提示，找到 2 个隐藏物品。
+アイテムスロットを最大まで拡張する
+Expand inventory slots to max.
+Agrandir l'inventaire au maximum.
+Espandi al massimo gli slot dell'inventario.
+Maximieren Sie Ihre Inventarplätze.
+Expande al máximo los espacios del inventario.
+Получите максимальное количество ячеек снаряжения.
+Zwiększ liczbę miejsc w ekwipunku do maksimum.
+Maximize os espaços do invent.
+인벤토리 슬롯을 최대로 확장합니다.
+將物品欄的欄位數擴充到最大。
+将物品栏的槽位数扩充到最大。
+全てのカスタムパーツをレオン編で入手する
+Obtain all of the custom parts in Leon's story.
+Obtenir tous les éléments de personnalisation dans la campagne de Leon.
+Ottieni tutti le parti di modifica nella storia di Leon.
+Sammeln Sie alle Spezialzubehör-Teile in Leons Kampagne.
+Obtén todas las piezas adicionales con Leon.
+Соберите все детали в кампании за Леона.
+Zdobądź wszystkie niestandardowe części w historii Leona.
+Obtenha todas as peças na história do Leon.
+레온의 스토리에서 모든 맞춤형 부품을 획득합니다.
+在里昂的劇情中取得所有改裝零件。
+在里昂的剧情中取得所有改装零件。
+全てのカスタムパーツをクレア編で入手する
+Obtain all of the custom parts in Claire's story.
+Obtenir tous les éléments de personnalisation dans la campagne de Claire.
+Ottieni tutti le parti di modifica nella storia di Claire.
+Sammeln Sie alle Spezialzubehör-Teile in Claires Kampagne.
+Obtén todas las piezas adicionales con Claire.
+Соберите все детали в кампании за Клэр.
+Zdobądź wszystkie niestandardowe części w historii Claire.
+Obtenha todas as peças na história da Claire.
+클레어의 스토리에서 모든 맞춤형 부품을 획득합니다.
+在克蕾兒的劇情中取得所有改裝零件。
+在克莱尔的剧情中取得所有改装零件。
+全ての武器をレオン編で入手する
+Obtain all of the weapons in Leon's story.
+Obtenir toutes les armes dans la campagne de Leon.
+Ottieni tutte le armi nella storia di Leon.
+Sammeln Sie alle Waffen in Leons Kampagne.
+Obtén todas las armas con Leon.
+Соберите все оружие в кампании за Леона.
+Zdobądź wszystkie bronie w historii Leona.
+Obtenha todas armas na história do Leon.
+레온의 스토리에서 모든 무기를 획득합니다.
+在里昂的劇情中取得所有武器。
+在里昂的剧情中取得所有武器。
+全ての武器をクレア編で入手する
+Obtain all of the weapons in Claire's story.
+Obtenir toutes les armes dans la campagne de Claire.
+Ottieni tutte le armi nella storia di Claire.
+Sammeln Sie alle Waffen in Claires Kampagne.
+Obtén todas las armas con Claire.
+Соберите все оружие в кампании за Клэр.
+Zdobądź wszystkie bronie w historii Claire.
+Obtenha todas armas na história da Claire.
+클레어의 스토리에서 모든 무기를 획득합니다.
+在克蕾兒的劇情中取得所有武器。
+在克莱尔的剧情中取得所有武器。
+ゲームモード「HARDCORE」でレオン編をクリアする
+Complete Leon's story on "Hardcore" game mode.
+Compléter la campagne de Leon en mode "Hardcore".
+Completa la storia di Leon in modalità "Estrema".
+Schließen Sie Leons Kampagne auf "Veteran" ab.
+Completa el escenario de Leon en modo "Hardcore".
+Пройдите кампанию Леона в режиме «Хардкор».
+Ukończ historię Leona w trybie gry „Hardcore”.
+Conclua a história do Leon em "Intenso".
+레온의 스토리를 "하드코어" 게임 모드로 완료합니다.
+在「硬派」遊戲模式中完成里昂的劇情。
+在“专家”游戏模式中完成里昂的剧情。
+ゲームモード「HARDCORE」でクレア編をクリアする
+Complete Claire's story on "Hardcore" game mode.
+Compléter la campagne de Claire en mode "Hardcore".
+Completa la storia di Claire in modalità "Estrema".
+Schließen Sie Claires Kampagne auf "Veteran" ab.
+Completa el escenario de Claire en modo "Hardcore".
+Пройдите кампанию Клэр в режиме «Хардкор».
+Ukończ historię Claire w trybie gry „Hardcore”.
+Conclua a história da Claire em "Intenso".
+클레어의 스토리를 "하드코어" 게임 모드로 완료합니다.
+在「硬派」遊戲模式中完成克蕾兒的劇情。
+在“专家”游戏模式中完成克莱尔的剧情。
+ゲームモード「STANDARD」以上のレオン編を</n>クリアランクAでクリアする
+Complete Leon's story on "Standard" or "Hardcore" with an A rank.
+Compléter la campagne de Leon en "Normal" ou "Hardcore" avec le rang A.
+Completa la storia di Leon in modalità "Standard" o "Estrema" con il grado A.
+Schließen Sie Leons Kampagne auf "Standard" oder "Veteran"</n>mit Rang A ab.
+Completa el escenario de Leon en modo "Estándar" o "Hardcore" con rango A.
+Пройдите кампанию Леона в режиме «Стандартный» или «Хардкор» с рангом A.
+Ukończ historię Leona w trybie „Standardowy” lub „Hardcore” z rangą A.
+Consiga um A na história do Leon ("Padrão" ou "Intenso").
+레온의 스토리를 "일반" 또는 "하드코어" 모드에서 </n>A 등급으로 완료합니다.
+在「標準」或「硬派」模式中，以 A 級完成里昂的劇情。
+在“标准”或“专家”模式中，以 A 级完成里昂的剧情。
+ゲームモード「STANDARD」以上のクレア編を</n>クリアランクAでクリアする
+Complete Claire's story on "Standard" or "Hardcore" with an A rank.
+Compléter la campagne de Claire en "Normal" ou "Hardcore" avec le rang A.
+Completa la storia di Claire in modalità "Standard" o "Estrema" con il grado A.
+Schließen Sie Claires Kampagne auf "Standard" oder "Veteran"</n>mit Rang A ab.
+Completa el escenario de Claire en modo "Estándar" o "Hardcore" con rango A.
+Пройдите кампанию Клэр в режиме «Стандартный» или «Хардкор» с рангом A.
+Ukończ historię Claire w trybie „Standardowy” lub „Hardcore” z rangą A.
+Consiga um A na história da Claire ("Padrão" ou "Intenso").
+클레어의 스토리를 "일반" 또는 "하드코어" 모드에서 </n>A 등급으로 완료합니다.
+在「標準」或「硬派」模式中，以 A 級完成克蕾兒的劇情。
+在“标准”或“专家”模式中，以 A 级完成克莱尔的剧情。
+ゲームモード「STANDARD」以上のレオン編を</n>クリアランクSでクリアする
+Complete Leon's story on "Standard" or "Hardcore" with an S rank.
+Compléter la campagne de Leon en "Normal" ou "Hardcore" avec le rang S.
+Completa la storia di Leon in modalità "Standard" o "Estrema" con il grado S.
+Schließen Sie Leons Kampagne auf "Standard" oder "Veteran"</n>mit Rang S ab.
+Completa el escenario de Leon en modo "Estándar" o "Hardcore" con rango S.
+Пройдите кампанию Леона в режиме «Стандартный» или «Хардкор» с рангом S.
+Ukończ historię Leona w trybie „Standardowy” lub „Hardcore” z rangą S.
+Consiga um S na história do Leon ("Padrão" ou "Intenso").
+레온의 스토리를 "일반" 또는 "하드코어" 모드에서 </n>S 등급으로 완료합니다.
+在「標準」或「硬派」模式中，以 S 級完成里昂的劇情。
+在“标准”或“专家”模式中，以 S 级完成里昂的剧情。
+ゲームモード「STANDARD」以上のクレア編を</n>クリアランクSでクリアする
+Complete Claire's story on "Standard" or "Hardcore" with an S rank.
+Compléter la campagne de Claire en "Normal" ou "Hardcore" avec le rang S.
+Completa la storia di Claire in modalità "Standard" o "Estrema" con il grado S.
+Schließen Sie Claires Kampagne auf "Standard" oder "Veteran"</n>mit Rang S ab.
+Completa el escenario de Claire en "Estándar" o "Hardcore" con rango S.
+Пройдите кампанию Клэр в режиме «Стандартный» или «Хардкор» с рангом S.
+Ukończ historię Claire w trybie „Standardowy” lub „Hardcore” z rangą S.
+Consiga um S na história da Claire ("Padrão" ou "Intenso").
+클레어의 스토리를 "일반" 또는 "하드코어" 모드에서 </n>S 등급으로 완료합니다.
+在「標準」或「硬派」模式中，以 S 級完成克蕾兒的劇情。
+在“标准”或“专家”模式中，以 S 级完成克莱尔的剧情。
+ゲームモード「HARDCORE」のクリアランクSで</n>レオン編をクリアする
+Complete Leon's story on "Hardcore" with an S rank.
+Compléter la campagne de Leon en "Hardcore" avec le rang S.
+Completa la storia di Leon in modalità "Estrema" con il grado S.
+Schließen Sie Leons Kampagne auf "Veteran" mit Rang S ab.
+Completa el escenario de Leon en modo "Hardcore" con rango S.
+Пройдите кампанию Леона в режиме «Хардкор» с рангом S.
+Ukończ historię Leona w trybie „Hardcore” z rangą S.
+Consiga um S na história do Leon ("Intenso").
+레온의 스토리를 "하드코어" 모드에서 S 등급으로 완료합니다.
+在「硬派」模式中，以 S 級完成里昂的劇情。
+在“专家”模式中，以 S 级完成里昂的剧情。
+ゲームモード「HARDCORE」のクリアランクSで</n>クレア編をクリアする
+Complete Claire's story on "Hardcore" with an S rank.
+Compléter la campagne de Claire en "Hardcore" avec le rang S.
+Completa la storia di Claire in modalità "Estrema" con il grado S.
+Schließen Sie Claires Kampagne auf "Veteran" mit Rang S ab.
+Completa el escenario de Claire en modo "Hardcore" con rango S.
+Пройдите кампанию Клэр в режиме «Хардкор» с рангом S.
+Ukończ historię Claire w trybie „Hardcore” z rangą S.
+Consiga um S na história da Claire ("Intenso").
+클레어의 스토리를 "하드코어" 모드에서 S 등급으로 완료합니다.
+在「硬派」模式中，以 S 級完成克蕾兒的劇情。
+在“专家”模式中，以 S 级完成克莱尔的剧情。
+プレイ時間を{0}時間以内でクリアする
+Complete the game within {0} hours.
+Compléter le jeu en moins de {0} heures.
+Completa il gioco entro {0} ore.
+Spielen Sie das Spiel in {0} Stunden durch.
+Termina el juego en {0} horas.
+Пройдите игру за {0} ч.
+Ukończ grę w {0} godz.
+Termine o jogo em até {0} horas.
+{0}시간 안에 게임을 완료합니다.
+在 {0} 小時內完成遊戲。
+在 {0} 小时内完成游戏。
+アイテムボックスを一度も開かずにクリアする
+Clear the game without opening the item box.
+Compléter le jeu sans ouvrir le coffre à objets.
+Completa il gioco senza aprire la cassa oggetti.
+Schließen Sie das Spiel ab, ohne die Inventarbox zu öffnen.
+Completa una partida sin abrir el baúl de objetos.
+Пройдите игру, не открывая ящик с предметами.
+Ukończ grę, nie otwierając skrzynki na przedmioty.
+Conclua o jogo sem abrir o baú.
+아이템 상자를 열지 않고 게임을 완료합니다.
+在未開啟置物箱的情況下通過遊戲。
+在不开启物品箱的情况下完成游戏。
+回復アイテムを一度も使わずにクリアする
+Complete the game without using a recovery item.
+Compléter le jeu sans utiliser d'objet de soin.
+Completa il gioco senza usare un oggetto curativo.
+Schließen Sie das Spiel ab, ohne ein Heilungsobjekt zu verwenden.
+Completa una partida sin usar ningún objeto de recuperación.
+Пройдите игру, не пользуясь средствами восстановления.
+Ukończ grę, nie korzystając z przedmiotów regenerujących.
+Conclua o jogo sem usar um item de recuperação.
+회복 아이템을 사용하지 않고 게임을 완료합니다.
+在未使用治療物品的情況下完成遊戲。
+在不使用治疗物品的情况下完成游戏。
+歩数を{0}歩以内でクリアする
+Take {0} steps or fewer in one playthrough.
+Ne pas effectuer plus de {0} pas dans une partie.
+Fai {0} passi o meno in un singolo playthrough.
+Machen Sie höchstens {0} Schritte in einem Spieldurchlauf.
+Da {0} pasos o menos en una partida.
+Сделайте не более {0} шагов за одно прохождение.
+Wykonaj maks. {0} kroków podczas jednego przejścia gry.
+Dê {0} ou menos passos no jogo todo.
+게임을 한 번 완료할 때까지 발걸음을 </n>{0}회 이하로 유지합니다.
+在單次通關過程中，移動不超過 {0} 步。
+在单次通关过程中，移动不超过 {0} 步。
+【Extra】The 4th Survivorをクリアする
+Complete "The 4th Survivor" extra mode.
+Compléter le mode additionnel "Le 4e survivant".
+Completa la modalità extra "Il 4° sopravvissuto".
+Schließen Sie den Zusatzmodus "The 4th Survivor" ab.
+Completa el modo extra "El 4.º superviviente".
+Пройдите доп. режим «Четвертый выживший».
+Ukończ dodatkowy tryb gry „Czwarty ocalały”.
+Conclua o modo "O 4º Sobrevivente".
+"4번째 생존자" 추가 모드를 완료합니다.
+完成額外模式「第 4 生還者」。
+完成“第4生还者”模式。
+【Extra】The 豆腐 Survivorをクリアする
+Complete "The Tofu Survivor" extra mode.
+Compléter le mode additionnel "Le Tofu survivant".
+Completa la modalità extra "Tofu, il sopravvissuto".
+Schließen Sie den Zusatzmodus "The Tofu Survivor" ab.
+Completa el modo extra "El tofu superviviente".
+Пройдите доп. режим «Выживший тофу».
+Ukończ dodatkowy tryb gry „Ocalały Tofu”.
+Conclua "O Tofu Sobrevivente".
+"두부 생존자" 추가 모드를 완료합니다.
+完成額外模式「豆腐生還者」。
+完成额外模式“豆腐生还者”。
+【Extra】「ういろう」でThe 豆腐 Survivorをクリアする
+Complete "The Tofu Survivor" extra mode with Uiro-Mochi.
+Compléter le mode additionnel "Le Tofu survivant" avec Uiro-Mochi.
+Completa la modalità extra "Tofu, il sopravvissuto" con Uiro-Mochi.
+Schließen Sie den Zusatzmodus "The Tofu Survivor" mit</n>Uiro-Mochi ab.
+Completa el modo extra "El tofu superviviente" con Uiro-Mochi.
+Пройдите доп. режим «Выживший тофу» за Уиро-Моти.
+Ukończ dodatkowy tryb gry „Ocalały Tofu” z Uiro-Mochi.
+Conclua "O Tofu Sobrevivente" com Uiro-Mochi.
+"두부 생존자" 추가 모드를 우이로 모치로 완료합니다.
+以外郎糕完成額外模式「豆腐生還者」。
+以外郎饼完成额外模式“豆腐生还者”。
+【Extra】「杏仁豆腐」でThe 豆腐 Survivorをクリアする
+Complete "The Tofu Survivor" extra mode with Annin Tofu.
+Compléter le mode additionnel "Le Tofu survivant" avec Annin Tofu.
+Completa la modalità extra "Tofu, il sopravvissuto" con Annin Tofu.
+Schließen Sie den Zusatzmodus "The Tofu Survivor" mit</n>Annin Tofu ab.
+Completa el modo extra "El tofu superviviente" con Annin Tofu.
+Пройдите доп. режим «Выживший тофу» за Аннин Тофу.
+Ukończ dodatkowy tryb gry „Ocalały Tofu” z Annin Tofu.
+Conclua "O Tofu Sobrevivente" com o Tofu de Amêndoa.
+"두부 생존자" 추가 모드를 행인두부로 완료합니다.
+以杏仁豆腐完成額外模式「豆腐生還者」。
+以杏仁豆腐完成额外模式“豆腐生还者”。
+【Extra】「こんにゃく」でThe 豆腐 Survivorをクリアする
+Complete "The Tofu Survivor" extra mode with Konjac.
+Compléter le mode additionnel "Le Tofu survivant" avec Konjac.
+Completa la modalità extra "Tofu, il sopravvissuto" con Konjac.
+Schließen Sie den Zusatzmodus "The Tofu Survivor" mit Konjak ab.
+Completa el modo extra "El tofu superviviente" con Konjac.
+Пройдите доп. режим «Выживший тофу» за Коньяк.
+Ukończ dodatkowy tryb gry „Ocalały Tofu” z Konnyaku.
+Conclua "O Tofu Sobrevivente" com Konjac.
+"두부 생존자" 추가 모드를 곤약으로 완료합니다.
+以蒟蒻完成額外模式「豆腐生還者」。
+以蒟蒻完成额外模式“豆腐生还者”。
+【Extra】「プリン」でThe 豆腐 Survivorをクリアする
+Complete "The Tofu Survivor" extra mode with Flan.
+Compléter le mode additionnel "Le Tofu survivant" avec Flan.
+Completa la modalità di gioco extra "Tofu, il sopravvissuto" con Flan.
+Schließen Sie den Zusatzmodus "The Tofu Survivor" mit Flan ab.
+Completa el modo extra "El tofu superviviente" con Flan.
+Пройдите доп. режим «Выживший тофу» за Флан.
+Ukończ dodatkowy tryb gry „Ocalały Tofu” z Flanem.
+Conclua "O Tofu Sobrevivente" com a Pudim.
+"두부 생존자" 추가 모드를 푸딩으로 완료합니다.
+以焦糖布丁完成額外模式「豆腐生還者」。
+以焦糖蛋奶完成额外模式“豆腐生还者”。
+レオン/クレア編 (1st/2nd)の全4シナリオをクリアする
+Complete all four stories (Leon/Leon [2nd Run]/Claire/Claire [2nd Run]).
+Compléter les 4 campagnes : Leon/Leon (bis)/Claire/Claire (bis).
+Completa tutte le storie (Leon / Leon (2) / Claire / Claire (2)).
+Schließen Sie alle vier Kampagnen ab.</n>(Leon / Leon [2. Durchgang] / Claire / Claire [2. Durchgang])
+Completa los cuatro escenarios: Leon, Leon [2], Claire y Claire [2].
+Пройдите все четыре сюжетные кампании </n>(Леон/Леон [2-е прохождение]/Клэр/Клэр [2-е прохождение]).
+Ukończ wszystkie cztery historie (Leon/Leon [2nd Run]/Claire/Claire [2nd Run]).
+Conclua todas as histórias (Leon/Leon [2ª]/Claire/Claire [2ª]).
+스토리 네 개를 모두 완료합니다(레온/레온 [두 번째 도전]/</n>클레어/클레어 [두 번째 도전]).
+生還
+完成全部四个剧情（里昂/里昂 [第 2 版本]/克莱尔/克莱尔 [第 2 版本]）。
+ゲームモード「STANDARD」以上をクリアランクAでクリアする
+Complete the game on "Standard" or "Hardcore" with an A rank.
+Compléter le jeu en "Normal" ou "Hardcore" avec le rang A.
+Completa il gioco in modalità "Standard" o "Estrema" con il grado A.
+Schließen Sie das Spiel auf "Standard" oder "Veteran" mit</n>Rang A ab.
+Termina el juego en modo "Estándar" o "Hardcore" con rango A.
+Пройдите игру в режиме «Стандартный» или «Хардкор» с рангом A.
+Ukończ grę w trybie „Standardowy” lub „Hardcore” z rangą A.
+Consiga uma nota A no jogo ("Padrão" ou "Intenso").
+게임을 "일반" 또는 "하드코어" 모드에서</n>A 등급으로 완료합니다.
+在「標準」或「硬派」模式中，以 A 級完成遊戲。
+在“标准”或“专家”模式中，以 A 级完成游戏。
+ゲームモード「STANDARD」以上をクリアランクSでクリアする
+Complete the game on "Standard" or "Hardcore" with an S rank.
+Compléter le jeu en "Normal" ou "Hardcore" avec le rang S.
+Completa il gioco in modalità "Standard" o "Estrema" con il grado S.
+Schließen Sie das Spiel auf "Standard" oder "Veteran" mit</n>Rang S ab.
+Termina el juego en modo "Estándar" o "Hardcore" con rango S.
+Пройдите игру в режиме «Стандартный» или «Хардкор» с рангом S.
+Ukończ grę w trybie „Standardowy” lub „Hardcore” z rangą S.
+Consiga uma nota S no jogo ("Padrão" ou "Intenso").
+게임을 "일반" 또는 "하드코어" 모드에서 </n>S 등급으로 완료합니다.
+在「標準」或「硬派」模式中，以 S 級完成遊戲。
+在“标准”或“专家”模式中，以 S 级完成游戏。
+ゲームモード「HARDCORE」をクリアランクSでクリアする
+Complete the game on "Hardcore" with an S rank.
+Compléter le jeu en "Hardcore" avec le rang S.
+Completa il gioco in modalità "Estrema" con il grado S.
+Schließen Sie das Spiel auf "Veteran" mit Rang S ab.
+Completa el juego en modo Hardcore con rango S.
+Пройдите игру в режиме «Хардкорный» с рангом S.
+Ukończ grę w trybie „Hardcore” z rangą S.
+Consiga uma nota S no jogo ("Intenso").
+게임을 "하드코어" 모드에서 S 등급으로 완료합니다.
+在「硬派」模式中，以 S 級完成遊戲。
+在“专家”模式中，以 S 级完成游戏。
+Mr.ラクーンを{0}体破壊する
+Destroy {0} Mr. Raccoons.
+Détruire {0} Mr. Raccoon.
+Distruggi {0} Mr. Raccoon.
+Zerstören Sie {0} Mr. Raccoons.
+Destruye {0} Mr. Raccoons.
+Уничтожьте мистеров Енотов: {0}.
+Zniszcz {0} Panów Szopów.
+Destrua {0} Mr. Raccoons.
+미스터 라쿤을 {0}개 파괴합니다.
+摧毀 {0} 個浣熊先生。
+摧毁 {0} 个浣熊先生。

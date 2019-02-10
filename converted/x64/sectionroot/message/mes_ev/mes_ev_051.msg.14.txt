@@ -1,0 +1,704 @@
+﻿<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>市民の皆さん</n>大規模な暴動が発生したため――<PAGE></n>ラクーンシティ警察署へ</n>避難することをお勧めします<PAGE></n>必要な方には 食料や医療品を</n>無料で支給します<PAGE></n>ウソでしょ</n>信じられない…<PAGE></n>署に行けば何か分かる</n>もうすぐだ<PAGE></n>ええ そうね</n>でも 生き残ってるのが私たちだけだったら？<PAGE></n>いや 他にもいるさ</n>デカい町だ　きっといる<PAGE></n>歩くしかなさそうだ<PAGE></n>「走る」の間違い？<PAGE></n>ああ そうだな<PAGE></n>おい ウソだろ！<PAGE></n>レオン！</n>早くバックして<PAGE></n>何なの！？<PAGE></n>マジか！<PAGE></n>降りるんだ！</n>早くしろ！<PAGE></n>開かない！<PAGE></n>つかまってろ！
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Attention all citizens:</n>Due to the citywide outbreak,<PAGE></n>you are advised to take shelter</n>at the Raccoon City police station.<PAGE></n>Free food and medical supplies</n>will be provided to everyone in need.<PAGE></n>Oh my god, this is so unreal...<PAGE></n>The police station's not much farther.</n>They'll know something.<PAGE></n>Yeah, but...what if we're the only ones?</n>What if there's no survivors—<PAGE></n>No. There's survivors.</n>It's a big city...there has to be.<PAGE></n>Looks like we're walking from here.<PAGE></n>More like running.<PAGE></n>Yeah, good call.<PAGE></n>Jesus Christ!<PAGE></n>Leon! We gotta back up!<PAGE></n>What the—!?<PAGE></n>Holy shit!<PAGE></n>Claire, get out!</n>Get out NOW!<PAGE></n>I can't!<PAGE></n>Hold on!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Avis à tous les citoyens :</n>Suite aux incidents qui touchent la ville,<PAGE></n>nous vous invitons à venir vous réfugier dans</n>le commissariat de police de Raccoon City.<PAGE></n>Des vivres et du matériel médical seront</n>distribués à tous ceux qui en ont besoin.<PAGE></n>Oh mon Dieu... c'est surréaliste...<PAGE></n>Le commissariat n'est plus très loin.</n>Ils auront des infos.<PAGE></n>D'accord, mais imagine qu'on soit les seuls...</n>qu'il n'y ait pas de survivant...<PAGE></n>Non. Il y a des survivants.</n>C'est une grande ville... C'est obligé.<PAGE></n>Je crois qu'on va devoir marcher.<PAGE></n>"Courir" plutôt.<PAGE></n>Tu marques un point.<PAGE></n>Oh ! La vache !<PAGE></n>Leon ! Il faut que tu recules !<PAGE></n>Oh non...<PAGE></n>Oh, merde...<PAGE></n>Claire, sors d'ici !</n>Allez, vite !<PAGE></n>Je peux pas !<PAGE></n>Accroche-toi !
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Attenzione! A tutti i cittadini!</n>A causa dell'epidemia in corso...<PAGE></n>... vi invitiamo a rifugiarvi presso</n>la centrale di polizia di Raccoon City.<PAGE></n>Cibo e medicinali verranno distribuiti</n>a chiunque ne abbia bisogno.<PAGE></n>Oh mio Dio, non posso crederci.<PAGE></n>La centrale di polizia è vicina. Ci diranno qualcosa.<PAGE></n>Sì, ma... se fossimo rimasti soli?</n>Gli unici sopravvissuti?<PAGE></n>Qualcuno è sopravvissuto.</n>La città è grande... Non siamo soli.<PAGE></n>Dovremo camminare da qui.<PAGE></n>Meglio correre.<PAGE></n>Sì, buona idea.<PAGE></n>Cristo santo!<PAGE></n>Leon! Torniamo indietro!<PAGE></n>Ma che...<PAGE></n>Porca troia!<PAGE></n>Claire, esci! Esci ora!<PAGE></n>Non riesco!<PAGE></n>Tieniti forte!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>An alle Einwohner:</n>Aufgrund des stadtweiten Ausbruchs<PAGE></n>wird Ihnen empfohlen,</n>in der Polizeistation von Raccoon City Zuflucht zu suchen.<PAGE></n>Lebens- und Arzneimittel werden allen Bedürftigen</n>kostenfrei zur Verfügung gestellt.<PAGE></n>Oh, mein Gott. Das kann nicht wahr sein...<PAGE></n>Die Polizeistation ist nicht mehr weit.</n>Die werden mehr wissen.<PAGE></n>Ja, aber... was wenn wir die Einzigen sind?</n>Wenn's keine Überlebenden–<PAGE></n>Nein. Die Stadt ist groß.</n>Da muss es doch... welche geben.<PAGE></n>Wir müssen wohl zu Fuß gehen.<PAGE></n>Wohl eher rennen.<PAGE></n>Ja, gute Idee.<PAGE></n>Ach, du Schande!<PAGE></n>Leon! Fahr rückwärts!<PAGE></n>Was zur?<PAGE></n>Heilige Scheiße.<PAGE></n>Claire, steig aus!</n>Steig aus JETZT!<PAGE></n>Ich kann nicht!<PAGE></n>Festhalten!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Atención a todos los ciudadanos:</n>Debido a la extensión de la epidemia,<PAGE></n>les aconsejamos que vayan a buscar refugio</n>en la comisaría de Raccoon City.<PAGE></n>Se les facilitará comida y medicinas</n>a todo el que las necesite.<PAGE></n>Oh, Dios mío, qué desastre.<PAGE></n>La comisaría no está lejos.</n>Sabrán qué pasa.<PAGE></n>Sí pero... ¿Y si estamos solos y no hay supervivientes?<PAGE></n>No. Hay supervivientes.</n>Esto es grande, tiene que haber.<PAGE></n>Tendremos que seguir caminando.<PAGE></n>O corriendo.<PAGE></n>Tú lo has dicho.<PAGE></n>¡Oh! ¡Dios mío!<PAGE></n>¡Leon! ¡Da marcha atrás!<PAGE></n>¿Qué...?<PAGE></n>¡Joder!<PAGE></n>¡Claire, sal! ¡Sal ahora!<PAGE></n>¡No puedo!<PAGE></n>¡Agárrate!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Внимание гражданам!</n>В связи с городской эпидемией...<PAGE></n>...призываем вас укрыться</n>в полицейском участке Раккун-Сити.<PAGE></n>Всем нуждающимся будут</n>предоставлены еда и лекарства.<PAGE></n>Боже, все как во сне...<PAGE></n>Участок уже недалеко.</n>Они точно в курсе.<PAGE></n>Да, но... что если мы последние?</n>И выживших больше нет?<PAGE></n>Есть. Выжившие есть.</n>Это большой город... Должны быть...<PAGE></n>Похоже, дальше идем пешком.<PAGE></n>Лучше бегом.<PAGE></n>Согласен.<PAGE></n>Боже мой!<PAGE></n>Леон! Давай задний ход!<PAGE></n>Что это?..<PAGE></n>Ох, черт!<PAGE></n>Клэр, на выход!</n>БЫСТРО!<PAGE></n>Не могу!<PAGE></n>Держись!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Uwaga, uwaga!</n>W związku z panującą w mieście epidemią<PAGE></n>należy schronić się na posterunku</n>policji w Raccoon City.<PAGE></n>Wszystkim potrzebującym zapewnione</n>zostanie wyżywienie i pomoc medyczna.<PAGE></n>Boże, to jest jak koszmarny sen...<PAGE></n>Komisariat jest już niedaleko.</n>Tam się czegoś dowiemy.<PAGE></n>Tak, ale... co, jeśli zostaliśmy tylko my dwoje?</n>Co, jeśli nikt nie ocalał?<PAGE></n>Nie sądzę. Ktoś musiał przeżyć.</n>To duże miasto... ktoś na pewno.<PAGE></n>Stąd chyba musimy iść pieszo.<PAGE></n>Chyba raczej biec.<PAGE></n>Racja.<PAGE></n>Jezu Chryste!<PAGE></n>Leon! Musimy wycofać!<PAGE></n>Co do jasnej...!?<PAGE></n>Jasny szlag!<PAGE></n>Claire, wysiadaj!</n>NO JUŻ! Wysiadaj!<PAGE></n>Nie mogę!<PAGE></n>Trzymaj się!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>Atenção, todos os moradores.</n>Devido a uma epidemia generalizada,<PAGE></n>é recomendado que todos se refugiem</n>na delegacia de Raccoon City.<PAGE></n>Forneceremos mantimentos e suprimentos médicos</n>sem custo a quem precisar.<PAGE></n>Meu Deus, mas que bizarro...<PAGE></n>A delegacia fica aqui perto.</n>Eles vão saber o que tá acontecendo.<PAGE></n>É, mas... e se só tiver a gente?</n>E se não tiver mais nenhum sobrevivente...<PAGE></n>Para. Tem mais sobrevivente.</n>A cidade é grande... Tem que ter.<PAGE></n>Parece que a gente vai ter que seguir andando.<PAGE></n>Melhor correndo.<PAGE></n>É, boa ideia.<PAGE></n>Caramba!<PAGE></n>Leon! Dá a ré!<PAGE></n>Mas o quê?!<PAGE></n>Puta merda!<PAGE></n>Claire! Sai!</n>Sai AGORA!<PAGE></n>Não dá!<PAGE></n>Se segura!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>시민 여러분,</n>도시 전체가 소요 상태이므로<PAGE></n>모두 라쿤 시티 경찰서로</n>대피하시기 바랍니다.<PAGE></n>필요하신 분에게 음식과</n>의료 장비를 제공해드립니다.<PAGE></n>이럴 수가, 말도 안 돼...<PAGE></n>경찰서가 멀지 않아요.</n>경찰이 뭔가 알고 있을 겁니다.<PAGE></n>네, 그런데... 우리 둘 뿐이라면요?</n>만약에 생존자가 없다면...<PAGE></n>아뇨, 있을 겁니다.</n>여긴 대도시니까... 그래야만 해요.<PAGE></n>여기서부터는 걸어가야 할 것 같군요.<PAGE></n>뛰는 게 맞겠네요.<PAGE></n>좋은 생각이에요.<PAGE></n>세상에!<PAGE></n>레온! 후진해요!<PAGE></n>도대체 뭐—!?<PAGE></n>젠장!<PAGE></n>클레어, 내려요!</n>내려요, 당장!<PAGE></n>못하겠어요!<PAGE></n>꽉 잡아요!
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>所有市民請注意：</n>由於全市出現暴動，<PAGE></n>建議各位市民前往</n>拉昆市警察局避難。<PAGE></n>該處會提供</n>免費的食物和醫療用品。<PAGE></n>老天，這實在太不真實了...<PAGE></n>警察局就快到了。</n>他們一定知道些什麼。<PAGE></n>但... 會不會只有我們還活著？</n>會不會沒有其他生還者...<PAGE></n>一定還有生還者的。</n>這城市這麼大... 一定還有人活著。<PAGE></n>看來我們得用走的了。<PAGE></n>還是用跑的吧。<PAGE></n>嗯，我贊成。<PAGE></n>我的天！<PAGE></n>里昂！我們得後退！<PAGE></n>什麼...！？<PAGE></n>該死！<PAGE></n>克蕾兒，快逃！</n>快逃出去！<PAGE></n>我沒辦法！<PAGE></n>等等！
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>各位市民请注意：</n>由于全市出现异常情况，<PAGE></n>建议你们前往</n>浣熊市警察局避难。<PAGE></n>我们会为有需要的市民</n>提供免费的食物与医疗用品。<PAGE></n>天啊，真是太不真实了...<PAGE></n>警察局就在不远处。</n>他们一定知道些什么。<PAGE></n>好吧，但是... 万一只剩我们了呢？</n>会不会根本没有别的生还者...<PAGE></n>不会的。一定还有生还者。</n>这么大的城市... 一定还有人活着。<PAGE></n>看来我们得用走的了。<PAGE></n>我想得用跑的。<PAGE></n>没错，我同意。<PAGE></n>我的老天爷！<PAGE></n>里昂！快倒车！<PAGE></n>什么...！？<PAGE></n>见鬼了！<PAGE></n>克莱尔，快下车！</n>快点下车！<PAGE></n>我出不去！<PAGE></n>坐稳了！
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+<TIME 2.05, 6.55><TIME 8.07, 12.27><TIME 13.25, 17.42><TIME 18.61, 20.45><TIME 22.07, 24.8><TIME 26.30, 30.23><TIME 29.96, 35.1><TIME 51.45, 52.99><TIME 62.44, 63.57><TIME 64.35, 65.4><TIME 65.82, 67.0><TIME 69.74, 71.58><TIME 77.87, 78.83><TIME 85.66, 86.13><TIME 86.94, 88.76><TIME 91.78, 92.34><TIME 94.87, 95.87>
+市民の皆さん</n>大規模な暴動が発生したため――
+Attention all citizens:</n>Due to the citywide outbreak,
+Avis à tous les citoyens :</n>Suite aux incidents qui touchent la ville,
+Attenzione! A tutti i cittadini!</n>A causa dell'epidemia in corso...
+An alle Einwohner:</n>Aufgrund des stadtweiten Ausbruchs
+Atención a todos los ciudadanos:</n>Debido a la extensión de la epidemia,
+Внимание гражданам!</n>В связи с городской эпидемией...
+Uwaga, uwaga!</n>W związku z panującą w mieście epidemią
+Atenção, todos os moradores.</n>Devido a uma epidemia generalizada,
+시민 여러분,</n>도시 전체가 소요 상태이므로
+所有市民請注意：</n>由於全市出現暴動，
+各位市民请注意：</n>由于全市出现异常情况，
+ラクーンシティ警察署へ</n>避難することをお勧めします
+you are advised to take shelter</n>at the Raccoon City police station.
+nous vous invitons à venir vous réfugier dans</n>le commissariat de police de Raccoon City.
+... vi invitiamo a rifugiarvi presso</n>la centrale di polizia di Raccoon City.
+wird Ihnen empfohlen,</n>in der Polizeistation von Raccoon City Zuflucht zu suchen.
+les aconsejamos que vayan a buscar refugio</n>en la comisaría de Raccoon City.
+...призываем вас укрыться</n>в полицейском участке Раккун-Сити.
+należy schronić się na posterunku</n>policji w Raccoon City.
+é recomendado que todos se refugiem</n>na delegacia de Raccoon City.
+모두 라쿤 시티 경찰서로</n>대피하시기 바랍니다.
+建議各位市民前往</n>拉昆市警察局避難。
+建议你们前往</n>浣熊市警察局避难。
+必要な方には 食料や医療品を</n>無料で支給します
+Free food and medical supplies</n>will be provided to everyone in need.
+Des vivres et du matériel médical seront</n>distribués à tous ceux qui en ont besoin.
+Cibo e medicinali verranno distribuiti</n>a chiunque ne abbia bisogno.
+Lebens- und Arzneimittel werden allen Bedürftigen</n>kostenfrei zur Verfügung gestellt.
+Se les facilitará comida y medicinas</n>a todo el que las necesite.
+Всем нуждающимся будут</n>предоставлены еда и лекарства.
+Wszystkim potrzebującym zapewnione</n>zostanie wyżywienie i pomoc medyczna.
+Forneceremos mantimentos e suprimentos médicos</n>sem custo a quem precisar.
+필요하신 분에게 음식과</n>의료 장비를 제공해드립니다.
+該處會提供</n>免費的食物和醫療用品。
+我们会为有需要的市民</n>提供免费的食物与医疗用品。
+ウソでしょ</n>信じられない…
+Oh my god, this is so unreal...
+Oh mon Dieu... c'est surréaliste...
+Oh mio Dio, non posso crederci.
+Oh, mein Gott. Das kann nicht wahr sein...
+Oh, Dios mío, qué desastre.
+Боже, все как во сне...
+Boże, to jest jak koszmarny sen...
+Meu Deus, mas que bizarro...
+이럴 수가, 말도 안 돼...
+老天，這實在太不真實了...
+天啊，真是太不真实了...
+署に行けば何か分かる</n>もうすぐだ
+The police station's not much farther.</n>They'll know something.
+Le commissariat n'est plus très loin.</n>Ils auront des infos.
+La centrale di polizia è vicina. Ci diranno qualcosa.
+Die Polizeistation ist nicht mehr weit.</n>Die werden mehr wissen.
+La comisaría no está lejos.</n>Sabrán qué pasa.
+Участок уже недалеко.</n>Они точно в курсе.
+Komisariat jest już niedaleko.</n>Tam się czegoś dowiemy.
+A delegacia fica aqui perto.</n>Eles vão saber o que tá acontecendo.
+경찰서가 멀지 않아요.</n>경찰이 뭔가 알고 있을 겁니다.
+警察局就快到了。</n>他們一定知道些什麼。
+警察局就在不远处。</n>他们一定知道些什么。
+ええ そうね</n>でも 生き残ってるのが私たちだけだったら？
+Yeah, but...what if we're the only ones?</n>What if there's no survivors—
+D'accord, mais imagine qu'on soit les seuls...</n>qu'il n'y ait pas de survivant...
+Sì, ma... se fossimo rimasti soli?</n>Gli unici sopravvissuti?
+Ja, aber... was wenn wir die Einzigen sind?</n>Wenn's keine Überlebenden–
+Sí pero... ¿Y si estamos solos y no hay supervivientes?
+Да, но... что если мы последние?</n>И выживших больше нет?
+Tak, ale... co, jeśli zostaliśmy tylko my dwoje?</n>Co, jeśli nikt nie ocalał?
+É, mas... e se só tiver a gente?</n>E se não tiver mais nenhum sobrevivente...
+네, 그런데... 우리 둘 뿐이라면요?</n>만약에 생존자가 없다면...
+但... 會不會只有我們還活著？</n>會不會沒有其他生還者...
+好吧，但是... 万一只剩我们了呢？</n>会不会根本没有别的生还者...
+いや 他にもいるさ</n>デカい町だ　きっといる
+No. There's survivors.</n>It's a big city...there has to be.
+Non. Il y a des survivants.</n>C'est une grande ville... C'est obligé.
+Qualcuno è sopravvissuto.</n>La città è grande... Non siamo soli.
+Nein. Die Stadt ist groß.</n>Da muss es doch... welche geben.
+No. Hay supervivientes.</n>Esto es grande, tiene que haber.
+Есть. Выжившие есть.</n>Это большой город... Должны быть...
+Nie sądzę. Ktoś musiał przeżyć.</n>To duże miasto... ktoś na pewno.
+Para. Tem mais sobrevivente.</n>A cidade é grande... Tem que ter.
+아뇨, 있을 겁니다.</n>여긴 대도시니까... 그래야만 해요.
+一定還有生還者的。</n>這城市這麼大... 一定還有人活著。
+不会的。一定还有生还者。</n>这么大的城市... 一定还有人活着。
+歩くしかなさそうだ
+Looks like we're walking from here.
+Je crois qu'on va devoir marcher.
+Dovremo camminare da qui.
+Wir müssen wohl zu Fuß gehen.
+Tendremos que seguir caminando.
+Похоже, дальше идем пешком.
+Stąd chyba musimy iść pieszo.
+Parece que a gente vai ter que seguir andando.
+여기서부터는 걸어가야 할 것 같군요.
+看來我們得用走的了。
+看来我们得用走的了。
+「走る」の間違い？
+More like running.
+"Courir" plutôt.
+Meglio correre.
+Wohl eher rennen.
+O corriendo.
+Лучше бегом.
+Chyba raczej biec.
+Melhor correndo.
+뛰는 게 맞겠네요.
+還是用跑的吧。
+我想得用跑的。
+ああ そうだな
+Yeah, good call.
+Tu marques un point.
+Sì, buona idea.
+Ja, gute Idee.
+Tú lo has dicho.
+Согласен.
+Racja.
+É, boa ideia.
+좋은 생각이에요.
+嗯，我贊成。
+没错，我同意。
+おい ウソだろ！
+Jesus Christ!
+Oh ! La vache !
+Cristo santo!
+Ach, du Schande!
+¡Oh! ¡Dios mío!
+Боже мой!
+Jezu Chryste!
+Caramba!
+세상에!
+我的天！
+我的老天爷！
+何？　うわっ！
+Joder...
+レオン！</n>早くバックして
+Leon! We gotta back up!
+Leon ! Il faut que tu recules !
+Leon! Torniamo indietro!
+Leon! Fahr rückwärts!
+¡Leon! ¡Da marcha atrás!
+Леон! Давай задний ход!
+Leon! Musimy wycofać!
+Leon! Dá a ré!
+레온! 후진해요!
+里昂！我們得後退！
+里昂！快倒车！
+何なの！？
+What the—!?
+Oh non...
+Ma che...
+Was zur?
+¿Qué...?
+Что это?..
+Co do jasnej...!?
+Mas o quê?!
+도대체 뭐—!?
+什麼...！？
+什么...！？
+マジか！
+Holy shit!
+Oh, merde...
+Porca troia!
+Heilige Scheiße.
+¡Joder!
+Ох, черт!
+Jasny szlag!
+Puta merda!
+젠장!
+該死！
+见鬼了！
+降りるんだ！</n>早くしろ！
+Claire, get out!</n>Get out NOW!
+Claire, sors d'ici !</n>Allez, vite !
+Claire, esci! Esci ora!
+Claire, steig aus!</n>Steig aus JETZT!
+¡Claire, sal! ¡Sal ahora!
+Клэр, на выход!</n>БЫСТРО!
+Claire, wysiadaj!</n>NO JUŻ! Wysiadaj!
+Claire! Sai!</n>Sai AGORA!
+클레어, 내려요!</n>내려요, 당장!
+克蕾兒，快逃！</n>快逃出去！
+克莱尔，快下车！</n>快点下车！
+開かない！
+I can't!
+Je peux pas !
+Non riesco!
+Ich kann nicht!
+¡No puedo!
+Не могу!
+Nie mogę!
+Não dá!
+못하겠어요!
+我沒辦法！
+我出不去！
+つかまってろ！
+Hold on!
+Accroche-toi !
+Tieniti forte!
+Festhalten!
+¡Agárrate!
+Держись!
+Trzymaj się!
+Se segura!
+꽉 잡아요!
+等等！
+坐稳了！
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>ウソだろ…<PAGE></n>クレア！<PAGE></n>クレア 大丈夫か！？<PAGE></n>ええ！<PAGE></n>大丈夫よ　あなたは？<PAGE></n>ダメだ！</n>ここは危険だ！<PAGE></n>先に行って！</n>警察署で会いましょう！<PAGE></n>分かった！
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>Oh, no...<PAGE></n>CLAIRE!<PAGE></n>CLAIRE, YOU OK!?<PAGE></n>YEAH!<PAGE></n>I'M ALRIGHT!</n>HOW ABOUT YOU!?<PAGE></n>I CAN'T STAY HERE!</n>IT'S NOT SAFE!<PAGE></n>GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!<PAGE></n>I'LL BE THERE!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>Oh, non...<PAGE></n>Claire !<PAGE></n>Claire, ça va ?<PAGE></n>Oui !<PAGE></n>Moi ça va !</n>Et de ton côté ?<PAGE></n>Je peux pas rester ici !</n>C'est trop dangereux !<PAGE></n>Pars tout seul !</n>On se retrouve au commissariat !<PAGE></n>Entendu !
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>Oh, merda!<PAGE></n>Claire!<PAGE></n>Claire, stai bene?<PAGE></n>Sì!<PAGE></n>Tutto ok! Tu stai bene?<PAGE></n>Non posso stare qui! Non è sicuro!<PAGE></n>Vai avanti! Ci vediamo alla centrale!<PAGE></n>Sì, va bene!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>Oh, nein...<PAGE></n>Claire!<PAGE></n>Claire, alles klar?!<PAGE></n>Ja!<PAGE></n>Mir geht's gut!</n>Was ist mit dir?!<PAGE></n>Ich muss weg hier!</n>Ist nicht sicher!<PAGE></n>Geh schon weiter!</n>Ich treff dich bei der Station!<PAGE></n>Ich komm' hin!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>Oh, no...<PAGE></n>¡Claire!<PAGE></n>¡Claire! ¡¿Estás bien?!<PAGE></n>¡Sí!<PAGE></n>¡Estoy bien! ¡¿Qué tal tú?!<PAGE></n>¡No puedo quedarme! ¡Es peligroso!<PAGE></n>¡Sigue tú! ¡Te veré en la comisaría!<PAGE></n>¡Allí estaré!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>О нет...<PAGE></n>КЛЭР!<PAGE></n>Клэр, ты цела?!<PAGE></n>Да!<PAGE></n>Я в порядке!</n>Ты сам как?!<PAGE></n>Надо бежать!</n>Здесь опасно!<PAGE></n>Да, давай!</n>Встретимся в участке!<PAGE></n>Хорошо!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>O, nie...<PAGE></n>CLAIRE!<PAGE></n>CLAIRE, WSZYSTKO OK?!<PAGE></n>TAK!<PAGE></n>JESTEM CAŁA!</n>A TY?!<PAGE></n>MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!<PAGE></n>DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!<PAGE></n>TAM SIĘ ZNAJDZIEMY!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>Ah, não...<PAGE></n>CLAIRE!<PAGE></n>CLAIRE, VOCÊ TÁ BEM?<PAGE></n>TÔ!<PAGE></n>EU TÔ BEM!</n>E VOCÊ?<PAGE></n>NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!<PAGE></n>VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!<PAGE></n>TE ESPERO LÁ!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>아, 안 돼...<PAGE></n>클레어!<PAGE></n>클레어, 괜찮아요?<PAGE></n>네!<PAGE></n>괜찮아요!</n>그쪽은요?<PAGE></n>여기 있으면 안 되겠어요!</n>위험해요!<PAGE></n>어서 가요!</n>경찰서에서 만나죠!<PAGE></n>알겠어요!
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>糟糕...<PAGE></n>克蕾兒！<PAGE></n>克蕾兒，妳還好嗎！？<PAGE></n>還好！<PAGE></n>我沒事！</n>你呢！？<PAGE></n>我不能待在這！</n>這裡很危險！<PAGE></n>繼續前進！</n>我們在警察局會合！<PAGE></n>我會去的！
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>噢！糟了...<PAGE></n>克莱尔！<PAGE></n>克莱尔，你没事吧！？<PAGE></n>嗯！<PAGE></n>我没事！</n>你呢？<PAGE></n>我不能继续待在这里！</n>这里太危险了！<PAGE></n>你先走！</n>我会去警察局跟你会合！<PAGE></n>我在那里等你！
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+<TIME 26.0, 27.34><TIME 39.95, 40.39><TIME 41.0, 41.99><TIME 45.79, 46.65><TIME 47.0, 49.23><TIME 53.5, 55.16><TIME 55.85, 58.35><TIME 59.3, 60.26>
+ウソだろ…
+Oh, no...
+Oh, non...
+Oh, merda!
+Oh, nein...
+Oh, no...
+О нет...
+O, nie...
+Ah, não...
+아, 안 돼...
+糟糕...
+噢！糟了...
+クレア！
+CLAIRE!
+Claire !
+Claire!
+Claire!
+¡Claire!
+КЛЭР!
+CLAIRE!
+CLAIRE!
+클레어!
+克蕾兒！
+克莱尔！
+クレア 大丈夫か！？
+CLAIRE, YOU OK!?
+Claire, ça va ?
+Claire, stai bene?
+Claire, alles klar?!
+¡Claire! ¡¿Estás bien?!
+Клэр, ты цела?!
+CLAIRE, WSZYSTKO OK?!
+CLAIRE, VOCÊ TÁ BEM?
+클레어, 괜찮아요?
+克蕾兒，妳還好嗎！？
+克莱尔，你没事吧！？
+ええ！
+YEAH!
+Oui !
+Sì!
+Ja!
+¡Sí!
+Да!
+TAK!
+TÔ!
+네!
+還好！
+嗯！
+大丈夫よ　あなたは？
+I'M ALRIGHT!</n>HOW ABOUT YOU!?
+Moi ça va !</n>Et de ton côté ?
+Tutto ok! Tu stai bene?
+Mir geht's gut!</n>Was ist mit dir?!
+¡Estoy bien! ¡¿Qué tal tú?!
+Я в порядке!</n>Ты сам как?!
+JESTEM CAŁA!</n>A TY?!
+EU TÔ BEM!</n>E VOCÊ?
+괜찮아요!</n>그쪽은요?
+我沒事！</n>你呢！？
+我没事！</n>你呢？
+ダメだ！</n>ここは危険だ！
+I CAN'T STAY HERE!</n>IT'S NOT SAFE!
+Je peux pas rester ici !</n>C'est trop dangereux !
+Non posso stare qui! Non è sicuro!
+Ich muss weg hier!</n>Ist nicht sicher!
+¡No puedo quedarme! ¡Es peligroso!
+Надо бежать!</n>Здесь опасно!
+MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!
+NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!
+여기 있으면 안 되겠어요!</n>위험해요!
+我不能待在這！</n>這裡很危險！
+我不能继续待在这里！</n>这里太危险了！
+先に行って！</n>警察署で会いましょう！
+GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!
+Pars tout seul !</n>On se retrouve au commissariat !
+Vai avanti! Ci vediamo alla centrale!
+Geh schon weiter!</n>Ich treff dich bei der Station!
+¡Sigue tú! ¡Te veré en la comisaría!
+Да, давай!</n>Встретимся в участке!
+DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!
+VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!
+어서 가요!</n>경찰서에서 만나죠!
+繼續前進！</n>我們在警察局會合！
+你先走！</n>我会去警察局跟你会合！
+分かった！
+I'LL BE THERE!
+Entendu !
+Sì, va bene!
+Ich komm' hin!
+¡Allí estaré!
+Хорошо!
+TAM SIĘ ZNAJDZIEMY!
+TE ESPERO LÁ!
+알겠어요!
+我會去的！
+我在那里等你！
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>市民の皆さん</n>大規模な暴動が発生したため――<PAGE></n>ラクーンシティ警察署へ</n>避難することをお勧めします<PAGE></n>必要な方には 食料や医療品を</n>無料で支給します<PAGE></n>ウソでしょ 信じられない…<PAGE></n>署に行けば何か分かる</n>もうすぐだ<PAGE></n>ええそうね</n>でも 生き残ってるのが私たちだけだったら？<PAGE></n>いや 他にもいるさ</n>デカい町だ きっといる<PAGE></n>歩くしかなさそうだ<PAGE></n>「走る」の間違い？<PAGE></n>ああ そうだな<PAGE></n>おい ウソだろ！<PAGE></n>何？　うわっ！<PAGE></n>レオン！</n>早くバックして<PAGE></n>何なの！？<PAGE></n>マジか！<PAGE></n>降りるんだ！</n>早くしろ！<PAGE></n>開かない！<PAGE></n>つかまってろ！
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Attention all citizens:</n>Due to the citywide outbreak,<PAGE></n>you are advised to take shelter</n>at the Raccoon City police station.<PAGE></n>Free food and medical supplies</n>will be provided to everyone in need.<PAGE></n>Oh my god, this is so unreal...<PAGE></n>The police station's not much farther.</n>They'll know something.<PAGE></n>Yeah, but...what if we're the only ones?</n>What if there's no survivors—<PAGE></n>No. There's survivors.</n>It's a big city...there has to be.<PAGE></n>Looks like we're walking from here.<PAGE></n>More like running.<PAGE></n>Yeah, good call.<PAGE></n>Jesus Christ!<PAGE></n><PAGE></n>Leon! We gotta back up!<PAGE></n>What the—!?<PAGE></n>Holy shit!<PAGE></n>Claire, get out!</n>Get out NOW!<PAGE></n>I can't!<PAGE></n>Hold on!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Avis à tous les citoyens :</n>Suite aux incidents qui touchent la ville,<PAGE></n>nous vous invitons à venir vous réfugier dans</n>le commissariat de police de Raccoon City.<PAGE></n>Des vivres et du matériel médical seront</n>distribués à tous ceux qui en ont besoin.<PAGE></n>Oh mon Dieu... c'est surréaliste...<PAGE></n>Le commissariat n'est plus très loin.</n>Ils auront des infos.<PAGE></n>D'accord, mais imagine qu'on soit les seuls...</n>qu'il n'y ait pas de survivant...<PAGE></n>Non. Il y a des survivants.</n>C'est une grande ville... C'est obligé.<PAGE></n>Je crois qu'on va devoir marcher.<PAGE></n>"Courir" plutôt.<PAGE></n>Tu marques un point.<PAGE></n>Oh ! La vache !<PAGE></n><PAGE></n>Leon ! Il faut que tu recules !<PAGE></n>Oh non...<PAGE></n>Oh, merde...<PAGE></n>Claire, sors d'ici !</n>Allez, vite !<PAGE></n>Je peux pas !<PAGE></n>Accroche-toi !
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Attenzione! A tutti i cittadini!</n>A causa dell'epidemia in corso...<PAGE></n>... Vi invitiamo a rifugiarvi presso</n>la centrale di polizia di Raccoon City.<PAGE></n>Cibo e medicinali verranno distribuiti</n>a chiunque ne abbia bisogno.<PAGE></n>Oh mio Dio, non posso crederci.<PAGE></n>La centrale di polizia è vicina. Ci diranno qualcosa.<PAGE></n>Sì, ma... se fossimo rimasti soli?</n>Gli unici sopravvissuti?<PAGE></n>Qualcuno è sopravvissuto.</n>La città è grande... Non siamo soli.<PAGE></n>Dovremo camminare da qui.<PAGE></n>Meglio correre.<PAGE></n>Sì, buona idea.<PAGE></n>Cristo santo!<PAGE></n><PAGE></n>Leon! Torniamo indietro!<PAGE></n>Ma che...<PAGE></n>Porca troia!<PAGE></n>Claire, esci! Esci ora!<PAGE></n>Non riesco!<PAGE></n>Tieniti forte!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>An alle Einwohner:</n>Aufgrund des stadtweiten Ausbruchs<PAGE></n>wird Ihnen empfohlen,</n>in der Polizeistation von Raccoon City Zuflucht zu suchen.<PAGE></n>Lebens- und Arzneimittel werden allen Bedürftigen</n>kostenfrei zur Verfügung gestellt.<PAGE></n>Oh, mein Gott, das kann nicht wahr sein...<PAGE></n>Die Polizeistation ist nicht mehr weit.</n>Die werden mehr wissen.<PAGE></n>Ja, aber... was wenn wir die Einzigen sind?</n>Wenn's keine Überlebenden–<PAGE></n>Nein. Die Stadt ist groß.</n>Da muss es doch... welche geben.<PAGE></n>Wir müssen wohl zu Fuß gehen.<PAGE></n>Wohl eher rennen.<PAGE></n>Ja, gute Idee.<PAGE></n>Ach, du Schande!<PAGE></n><PAGE></n>Leon! Fahr rückwärts!<PAGE></n>Was zur?<PAGE></n>Heilige Scheiße.<PAGE></n>Claire, steig aus!</n>Steig aus JETZT!<PAGE></n>Ich kann nicht!<PAGE></n>Festhalten!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Atención a todos los ciudadanos:</n>Debido a la extensión de la epidemia,<PAGE></n>les aconsejamos que vayan a buscar refugio</n>en la comisaría de Raccoon City.<PAGE></n>Se les facilitará comida y medicinas</n>a todo el que las necesite.<PAGE></n>Oh Dios mío, qué desastre...<PAGE></n>La comisaría no está lejos.</n>Sabrán qué pasa.<PAGE></n>Sí pero... ¿Y si estamos solos y no hay supervivientes?<PAGE></n>No. Hay supervivientes.</n>Esto es grande, tiene que haber.<PAGE></n>Tendremos que seguir caminando.<PAGE></n>O corriendo.<PAGE></n>Tú lo has dicho. <PAGE></n>¡Oh! ¡Dios mío!<PAGE></n>Joder...<PAGE></n>¡Leon! ¡Da marcha atrás!<PAGE></n>¿Qué...?<PAGE></n>¡Joder!<PAGE></n>¡Claire, sal! ¡Sal ahora!<PAGE></n>¡No puedo!<PAGE></n>¡Agárrate!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Внимание гражданам!</n>В связи с городской эпидемией...<PAGE></n>...призываем вас укрыться</n>в полицейском участке Раккун-Сити.<PAGE></n>Всем нуждающимся будут</n>предоставлены еда и лекарства.<PAGE></n>Боже, все как во сне...<PAGE></n>Участок уже недалеко.</n>Они точно в курсе.<PAGE></n>Да, но... что если мы последние?</n>И выживших больше нет?<PAGE></n>Есть. Выжившие есть.</n>Это большой город... Должны быть...<PAGE></n>Похоже, дальше идем пешком.<PAGE></n>Лучше бегом.<PAGE></n>Согласен.<PAGE></n>Боже мой!<PAGE></n><PAGE></n>Леон! Давай задний ход!<PAGE></n>Что это?..<PAGE></n>Ох, черт!<PAGE></n>Клэр, на выход!</n>БЫСТРО!<PAGE></n>Не могу!<PAGE></n>Держись!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Uwaga, uwaga!</n>W związku z panującą w mieście epidemią<PAGE></n>należy schronić się na posterunku</n>policji w Raccoon City.<PAGE></n>Wszystkim potrzebującym zapewnione</n>zostanie wyżywienie i pomoc medyczna.<PAGE></n>Boże, to jest jak koszmarny sen...<PAGE></n>Komisariat jest już niedaleko.</n>Tam się czegoś dowiemy.<PAGE></n>Tak, ale... co, jeśli zostaliśmy tylko my dwoje?</n>Co, jeśli nikt nie ocalał?<PAGE></n>Nie sądzę. Ktoś musiał przeżyć.</n>To duże miasto... ktoś na pewno.<PAGE></n>Stąd chyba musimy iść pieszo.<PAGE></n>Chyba raczej biec.<PAGE></n>Racja.<PAGE></n>Jezu Chryste!<PAGE></n><PAGE></n>Leon! Musimy wycofać!<PAGE></n>Co do jasnej...!?<PAGE></n>Jasny szlag!<PAGE></n>Claire, wysiadaj!</n>NO JUŻ! Wysiadaj!<PAGE></n>Nie mogę!<PAGE></n>Trzymaj się!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>Atenção, todos os moradores.</n>Devido a uma epidemia generalizada,<PAGE></n>é recomendado que todos se refugiem</n>na delegacia de Raccoon City.<PAGE></n>Forneceremos mantimentos e suprimentos médicos</n>sem custo a quem precisar.<PAGE></n>Meu Deus, mas que bizarro...<PAGE></n>A delegacia fica aqui perto.</n>Eles vão saber o que tá acontecendo.<PAGE></n>É, mas... e se só tiver a gente?</n>E se não tiver mais nenhum sobrevivente...<PAGE></n>Para. Tem mais sobrevivente.</n>A cidade é grande... Tem que ter.<PAGE></n>Parece que a gente vai ter que seguir andando.<PAGE></n>Melhor correndo.<PAGE></n>É, boa ideia.<PAGE></n>Caramba!<PAGE></n><PAGE></n>Leon! Dá a ré!<PAGE></n>Mas o quê?!<PAGE></n>Puta merda!<PAGE></n>Claire! Sai!</n>Sai AGORA!<PAGE></n>Não dá!<PAGE></n>Se segura!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>시민 여러분,</n>도시 전체가 소요 상태이므로<PAGE></n>모두 라쿤 시티 경찰서로</n>대피하시기 바랍니다.<PAGE></n>필요하신 분에게 음식과</n>의료 장비를 제공해드립니다.<PAGE></n>이럴 수가, 말도 안 돼...<PAGE></n>경찰서가 멀지 않아요.</n>경찰이 뭔가 알고 있을 겁니다.<PAGE></n>네, 그런데... 우리 둘 뿐이라면요?</n>만약에 생존자가 없다면...<PAGE></n>아뇨, 있을 겁니다.</n>여긴 대도시니까... 그래야만 해요.<PAGE></n>여기서부터는 걸어가야 할 것 같군요.<PAGE></n>뛰는 게 맞겠네요.<PAGE></n>좋은 생각이에요.<PAGE></n>세상에!<PAGE></n><PAGE></n>레온! 후진해요!<PAGE></n>도대체 뭐—!?<PAGE></n>이런!<PAGE></n>클레어, 내려요!</n>내려요 당장!<PAGE></n>못하겠어요!<PAGE></n>잠깐!
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>所有市民請注意：</n>由於全市出現暴動，<PAGE></n>建議各位市民前往</n>拉昆市警察局避難。<PAGE></n>該處會提供</n>免費的食物和醫療用品。<PAGE></n>老天，這實在太不真實了...<PAGE></n>警察局就快到了。</n>他們一定知道些什麼。<PAGE></n>但... 會不會只有我們還活著？</n>會不會沒有其他生還者...<PAGE></n>一定還有生還者的。</n>這城市這麼大... 一定還有人活著。<PAGE></n>看來我們得用走的了。<PAGE></n>還是用跑的吧。<PAGE></n>嗯，我贊成。<PAGE></n>我的天！<PAGE></n><PAGE></n>里昂！我們得後退！<PAGE></n>什麼...！？<PAGE></n>該死！<PAGE></n>克蕾兒，快逃！</n>快逃出去！<PAGE></n>我沒辦法！<PAGE></n>等等！
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>各位市民请注意：</n>由于全市出现异常情况，<PAGE></n>建议你们前往</n>浣熊市警察局避难。<PAGE></n>我们会为有需要的市民</n>提供免费的食物与医疗用品。<PAGE></n>天啊，真是太不真实了...<PAGE></n>警察局就在不远处。</n>他们一定知道些什么。<PAGE></n>好吧，但是... 万一只剩我们了呢？</n>会不会根本没有别的生还者...<PAGE></n>不会的。一定还有生还者。</n>这么大的城市... 一定还有人活着。<PAGE></n>看来我们得用走的了。<PAGE></n>我想得用跑的。<PAGE></n>没错，我同意。<PAGE></n>我的老天爷！<PAGE></n><PAGE></n>里昂！快倒车！<PAGE></n>什么...！？<PAGE></n>见鬼了！<PAGE></n>克莱尔，快下车！</n>快点下车！<PAGE></n>我出不去！<PAGE></n>坐稳了！
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+<TIME 27.17, 27.53><TIME 39.95, 41.99><TIME 44.5, 45.39><TIME 45.63, 47.1><TIME 50.18, 52.13><TIME 53.22, 55.39>
+市民の皆さん</n>大規模な暴動が発生したため――
+Attention all citizens:</n>Due to the citywide outbreak,
+Avis à tous les citoyens :</n>Suite aux incidents qui touchent la ville,
+Attenzione! A tutti i cittadini!</n>A causa dell'epidemia in corso...
+An alle Einwohner:</n>Aufgrund des stadtweiten Ausbruchs
+Atención a todos los ciudadanos:</n>Debido a la extensión de la epidemia,
+Внимание гражданам!</n>В связи с городской эпидемией...
+Uwaga, uwaga!</n>W związku z panującą w mieście epidemią
+Atenção, todos os moradores.</n>Devido a uma epidemia generalizada,
+시민 여러분,</n>도시 전체가 소요 상태이므로
+所有市民請注意：</n>由於全市出現暴動，
+各位市民请注意：</n>由于全市出现异常情况，
+ラクーンシティ警察署へ</n>避難することをお勧めします
+you are advised to take shelter</n>at the Raccoon City police station.
+nous vous invitons à venir vous réfugier dans</n>le commissariat de police de Raccoon City.
+... Vi invitiamo a rifugiarvi presso</n>la centrale di polizia di Raccoon City.
+wird Ihnen empfohlen,</n>in der Polizeistation von Raccoon City Zuflucht zu suchen.
+les aconsejamos que vayan a buscar refugio</n>en la comisaría de Raccoon City.
+...призываем вас укрыться</n>в полицейском участке Раккун-Сити.
+należy schronić się na posterunku</n>policji w Raccoon City.
+é recomendado que todos se refugiem</n>na delegacia de Raccoon City.
+모두 라쿤 시티 경찰서로</n>대피하시기 바랍니다.
+建議各位市民前往</n>拉昆市警察局避難。
+建议你们前往</n>浣熊市警察局避难。
+必要な方には 食料や医療品を</n>無料で支給します
+Free food and medical supplies</n>will be provided to everyone in need.
+Des vivres et du matériel médical seront</n>distribués à tous ceux qui en ont besoin.
+Cibo e medicinali verranno distribuiti</n>a chiunque ne abbia bisogno.
+Lebens- und Arzneimittel werden allen Bedürftigen</n>kostenfrei zur Verfügung gestellt.
+Se les facilitará comida y medicinas</n>a todo el que las necesite.
+Всем нуждающимся будут</n>предоставлены еда и лекарства.
+Wszystkim potrzebującym zapewnione</n>zostanie wyżywienie i pomoc medyczna.
+Forneceremos mantimentos e suprimentos médicos</n>sem custo a quem precisar.
+필요하신 분에게 음식과</n>의료 장비를 제공해드립니다.
+該處會提供</n>免費的食物和醫療用品。
+我们会为有需要的市民</n>提供免费的食物与医疗用品。
+ウソでしょ 信じられない…
+Oh my god, this is so unreal...
+Oh mon Dieu... c'est surréaliste...
+Oh mio Dio, non posso crederci.
+Oh, mein Gott, das kann nicht wahr sein...
+Oh Dios mío, qué desastre...
+Боже, все как во сне...
+Boże, to jest jak koszmarny sen...
+Meu Deus, mas que bizarro...
+이럴 수가, 말도 안 돼...
+老天，這實在太不真實了...
+天啊，真是太不真实了...
+署に行けば何か分かる</n>もうすぐだ
+The police station's not much farther.</n>They'll know something.
+Le commissariat n'est plus très loin.</n>Ils auront des infos.
+La centrale di polizia è vicina. Ci diranno qualcosa.
+Die Polizeistation ist nicht mehr weit.</n>Die werden mehr wissen.
+La comisaría no está lejos.</n>Sabrán qué pasa.
+Участок уже недалеко.</n>Они точно в курсе.
+Komisariat jest już niedaleko.</n>Tam się czegoś dowiemy.
+A delegacia fica aqui perto.</n>Eles vão saber o que tá acontecendo.
+경찰서가 멀지 않아요.</n>경찰이 뭔가 알고 있을 겁니다.
+警察局就快到了。</n>他們一定知道些什麼。
+警察局就在不远处。</n>他们一定知道些什么。
+ええそうね</n>でも 生き残ってるのが私たちだけだったら？
+Yeah, but...what if we're the only ones?</n>What if there's no survivors—
+D'accord, mais imagine qu'on soit les seuls...</n>qu'il n'y ait pas de survivant...
+Sì, ma... se fossimo rimasti soli?</n>Gli unici sopravvissuti?
+Ja, aber... was wenn wir die Einzigen sind?</n>Wenn's keine Überlebenden–
+Sí pero... ¿Y si estamos solos y no hay supervivientes?
+Да, но... что если мы последние?</n>И выживших больше нет?
+Tak, ale... co, jeśli zostaliśmy tylko my dwoje?</n>Co, jeśli nikt nie ocalał?
+É, mas... e se só tiver a gente?</n>E se não tiver mais nenhum sobrevivente...
+네, 그런데... 우리 둘 뿐이라면요?</n>만약에 생존자가 없다면...
+但... 會不會只有我們還活著？</n>會不會沒有其他生還者...
+好吧，但是... 万一只剩我们了呢？</n>会不会根本没有别的生还者...
+いや 他にもいるさ</n>デカい町だ きっといる
+No. There's survivors.</n>It's a big city...there has to be.
+Non. Il y a des survivants.</n>C'est une grande ville... C'est obligé.
+Qualcuno è sopravvissuto.</n>La città è grande... Non siamo soli.
+Nein. Die Stadt ist groß.</n>Da muss es doch... welche geben.
+No. Hay supervivientes.</n>Esto es grande, tiene que haber.
+Есть. Выжившие есть.</n>Это большой город... Должны быть...
+Nie sądzę. Ktoś musiał przeżyć.</n>To duże miasto... ktoś na pewno.
+Para. Tem mais sobrevivente.</n>A cidade é grande... Tem que ter.
+아뇨, 있을 겁니다.</n>여긴 대도시니까... 그래야만 해요.
+一定還有生還者的。</n>這城市這麼大... 一定還有人活著。
+不会的。一定还有生还者。</n>这么大的城市... 一定还有人活着。
+歩くしかなさそうだ
+Looks like we're walking from here.
+Je crois qu'on va devoir marcher.
+Dovremo camminare da qui.
+Wir müssen wohl zu Fuß gehen.
+Tendremos que seguir caminando.
+Похоже, дальше идем пешком.
+Stąd chyba musimy iść pieszo.
+Parece que a gente vai ter que seguir andando.
+여기서부터는 걸어가야 할 것 같군요.
+看來我們得用走的了。
+看来我们得用走的了。
+「走る」の間違い？
+More like running.
+"Courir" plutôt.
+Meglio correre.
+Wohl eher rennen.
+O corriendo.
+Лучше бегом.
+Chyba raczej biec.
+Melhor correndo.
+뛰는 게 맞겠네요.
+還是用跑的吧。
+我想得用跑的。
+ああ そうだな
+Yeah, good call.
+Tu marques un point.
+Sì, buona idea.
+Ja, gute Idee.
+Tú lo has dicho. 
+Согласен.
+Racja.
+É, boa ideia.
+좋은 생각이에요.
+嗯，我贊成。
+没错，我同意。
+おい ウソだろ！
+Jesus Christ!
+Oh ! La vache !
+Cristo santo!
+Ach, du Schande!
+¡Oh! ¡Dios mío!
+Боже мой!
+Jezu Chryste!
+Caramba!
+세상에!
+我的天！
+我的老天爷！
+何？　うわっ！
+Joder...
+レオン！</n>早くバックして
+Leon! We gotta back up!
+Leon ! Il faut que tu recules !
+Leon! Torniamo indietro!
+Leon! Fahr rückwärts!
+¡Leon! ¡Da marcha atrás!
+Леон! Давай задний ход!
+Leon! Musimy wycofać!
+Leon! Dá a ré!
+레온! 후진해요!
+里昂！我們得後退！
+里昂！快倒车！
+何なの！？
+What the—!?
+Oh non...
+Ma che...
+Was zur?
+¿Qué...?
+Что это?..
+Co do jasnej...!?
+Mas o quê?!
+도대체 뭐—!?
+什麼...！？
+什么...！？
+マジか！
+Holy shit!
+Oh, merde...
+Porca troia!
+Heilige Scheiße.
+¡Joder!
+Ох, черт!
+Jasny szlag!
+Puta merda!
+이런!
+該死！
+见鬼了！
+降りるんだ！</n>早くしろ！
+Claire, get out!</n>Get out NOW!
+Claire, sors d'ici !</n>Allez, vite !
+Claire, esci! Esci ora!
+Claire, steig aus!</n>Steig aus JETZT!
+¡Claire, sal! ¡Sal ahora!
+Клэр, на выход!</n>БЫСТРО!
+Claire, wysiadaj!</n>NO JUŻ! Wysiadaj!
+Claire! Sai!</n>Sai AGORA!
+클레어, 내려요!</n>내려요 당장!
+克蕾兒，快逃！</n>快逃出去！
+克莱尔，快下车！</n>快点下车！
+開かない！
+I can't!
+Je peux pas !
+Non riesco!
+Ich kann nicht!
+¡No puedo!
+Не могу!
+Nie mogę!
+Não dá!
+못하겠어요!
+我沒辦法！
+我出不去！
+つかまってろ！
+Hold on!
+Accroche-toi !
+Tieniti forte!
+Festhalten!
+¡Agárrate!
+Держись!
+Trzymaj się!
+Se segura!
+잠깐!
+等等！
+坐稳了！
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>ウソでしょ<PAGE></n>クレア！<PAGE></n>クレア 大丈夫か！？<PAGE></n>ええ 大丈夫よ！</n>あなたは？<PAGE></n>ダメだ！</n>ここは危険だ！<PAGE></n>そんな…<PAGE></n>先に行って！</n>警察署で会いましょう！
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Oh, shit...!<PAGE></n>CLAIRE!<PAGE></n>CLAIRE, YOU OK!?<PAGE></n>YEAH! I'M ALRIGHT!</n>HOW ABOUT YOU!?<PAGE></n>I CAN'T STAY HERE!</n>IT'S NOT SAFE!<PAGE></n>Oh, shit...<PAGE></n>GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Oh, merde...<PAGE></n>Claire !<PAGE></n>Claire, ça va ?<PAGE></n>Oui ! Ça va !</n>Et de ton côté ?<PAGE></n>Je peux pas rester ici !</n>C'est trop dangereux !<PAGE></n>Oh, merde...<PAGE></n>Pars tout seul !</n>On se retrouve au commissariat !
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Oh, merda!<PAGE></n>Claire!<PAGE></n>Claire, stai bene?<PAGE></n>Sì, tutto ok! Tu stai bene?<PAGE></n>Non posso stare qui! Non è sicuro!<PAGE></n>Oh, merda...<PAGE></n>Vai avanti! Ci vediamo alla centrale!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Oh, Mist!<PAGE></n>Claire!<PAGE></n>Claire, alles klar?!<PAGE></n>Ja! Mir geht's gut!</n>Was ist mit dir?!<PAGE></n>Ich muss weg hier!</n>Ist nicht sicher!<PAGE></n>Scheiße...<PAGE></n>Geh schon weiter!</n>Ich treff dich bei der Station!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Mierda...<PAGE></n>¡Claire!<PAGE></n>¡¿Claire, estás bien?!<PAGE></n>¡Sí! ¡Estoy bien! ¡¿Qué tal tú?!<PAGE></n>¡No puedo quedarme! ¡Es peligroso!<PAGE></n>Joder...<PAGE></n>¡Sigue tú! ¡Te veré en la comisaría!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Вот черт!..<PAGE></n>КЛЭР!<PAGE></n>Клэр, ты цела?!<PAGE></n>Да! Я в порядке!</n>Ты сам как?!<PAGE></n>Надо бежать!</n>Здесь опасно!<PAGE></n>О черт...<PAGE></n>Да, давай!</n>Встретимся в участке!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>O, kurwa...!<PAGE></n>CLAIRE!<PAGE></n>CLAIRE, WSZYSTKO OK?!<PAGE></n>TAK! JESTEM CAŁA!</n>A TY?!<PAGE></n>MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!<PAGE></n>O cholera...<PAGE></n>DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>Cacete!<PAGE></n>CLAIRE!<PAGE></n>CLAIRE, VOCÊ TÁ BEM?<PAGE></n>TÔ! EU TÔ BEM!</n>E VOCÊ?<PAGE></n>NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!<PAGE></n>Ai, merda...<PAGE></n>VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>이런, 젠장...!<PAGE></n>클레어!<PAGE></n>클레어, 괜찮아요?<PAGE></n>네! 괜찮아요!</n>그쪽은요?<PAGE></n>여기 있으면 안 되겠어요!</n>위험해요!<PAGE></n>이런, 젠장...<PAGE></n>어서 가요!</n>경찰서에서 만나죠!
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>噢，該死！<PAGE></n>克蕾兒！<PAGE></n>克蕾兒，妳還好嗎！？<PAGE></n>還好！我沒事！</n>你呢！？<PAGE></n>我不能待在這！</n>這裡很危險！<PAGE></n>噢，該死...<PAGE></n>繼續前進！</n>我們在警察局會合！
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>噢，糟糕...！<PAGE></n>克莱尔！<PAGE></n>克莱尔，你没事吧！？<PAGE></n>嗯！我没事！</n>你呢？<PAGE></n>我不能继续待在这里！</n>这里太危险了！<PAGE></n>喔，糟糕...<PAGE></n>你先走！</n>我会去警察局跟你会合！
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+<TIME 24.2, 25.64><TIME 44.32, 45.71><TIME 45.85, 47.39><TIME 48.08, 51.64><TIME 53.04, 55.87><TIME 56.31, 58.0><TIME 60.58, 64.55>
+ウソでしょ
+Oh, shit...!
+Oh, merde...
+Oh, merda!
+Oh, Mist!
+Mierda...
+Вот черт!..
+O, kurwa...!
+Cacete!
+이런, 젠장...!
+噢，該死！
+噢，糟糕...！
+クレア！
+CLAIRE!
+Claire !
+Claire!
+Claire!
+¡Claire!
+КЛЭР!
+CLAIRE!
+CLAIRE!
+클레어!
+克蕾兒！
+克莱尔！
+クレア 大丈夫か！？
+CLAIRE, YOU OK!?
+Claire, ça va ?
+Claire, stai bene?
+Claire, alles klar?!
+¡¿Claire, estás bien?!
+Клэр, ты цела?!
+CLAIRE, WSZYSTKO OK?!
+CLAIRE, VOCÊ TÁ BEM?
+클레어, 괜찮아요?
+克蕾兒，妳還好嗎！？
+克莱尔，你没事吧！？
+ええ 大丈夫よ！</n>あなたは？
+YEAH! I'M ALRIGHT!</n>HOW ABOUT YOU!?
+Oui ! Ça va !</n>Et de ton côté ?
+Sì, tutto ok! Tu stai bene?
+Ja! Mir geht's gut!</n>Was ist mit dir?!
+¡Sí! ¡Estoy bien! ¡¿Qué tal tú?!
+Да! Я в порядке!</n>Ты сам как?!
+TAK! JESTEM CAŁA!</n>A TY?!
+TÔ! EU TÔ BEM!</n>E VOCÊ?
+네! 괜찮아요!</n>그쪽은요?
+還好！我沒事！</n>你呢！？
+嗯！我没事！</n>你呢？
+ダメだ！</n>ここは危険だ！
+I CAN'T STAY HERE!</n>IT'S NOT SAFE!
+Je peux pas rester ici !</n>C'est trop dangereux !
+Non posso stare qui! Non è sicuro!
+Ich muss weg hier!</n>Ist nicht sicher!
+¡No puedo quedarme! ¡Es peligroso!
+Надо бежать!</n>Здесь опасно!
+MUSZĘ STĄD SPADAĆ!</n>JEST NIEBEZPIECZNIE!
+NÃO DÁ PRA FICAR AQUI!</n>TÁ PERIGOSO!
+여기 있으면 안 되겠어요!</n>위험해요!
+我不能待在這！</n>這裡很危險！
+我不能继续待在这里！</n>这里太危险了！
+そんな…
+Oh, shit...
+Oh, merde...
+Oh, merda...
+Scheiße...
+Joder...
+О черт...
+O cholera...
+Ai, merda...
+이런, 젠장...
+噢，該死...
+喔，糟糕...
+先に行って！</n>警察署で会いましょう！
+GO ON AHEAD!</n>I'LL MEET YOU AT THE STATION!
+Pars tout seul !</n>On se retrouve au commissariat !
+Vai avanti! Ci vediamo alla centrale!
+Geh schon weiter!</n>Ich treff dich bei der Station!
+¡Sigue tú! ¡Te veré en la comisaría!
+Да, давай!</n>Встретимся в участке!
+DOBRA, LEĆ!</n>SPOTKAMY SIĘ NA KOMISARIACIE!
+VAI NA FRENTE!</n>TE ENCONTRO NA DELEGACIA!
+어서 가요!</n>경찰서에서 만나죠!
+繼續前進！</n>我們在警察局會合！
+你先走！</n>我会去警察局跟你会合！

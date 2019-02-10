@@ -1,0 +1,174 @@
+﻿<TIME 7.10, 8.11></n><TIME 14.00, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>びくともしない<PAGE></n>誰か… いるの？<PAGE></n>ねえ 大丈夫</n>何もしないから<PAGE></n>怖いの？</n>私が助けてあげる<PAGE></n>助けがいるのは あなたの方だよ<PAGE></n>何？</n>よく聞こえない<PAGE></n>あなたの方が危ない<PAGE></n>どうして？<PAGE></n>そこ… すぐ後ろに…<PAGE></n>え？<PAGE></n>ウソでしょ<PAGE></n>冗談キツいわ
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Won't budge.<PAGE></n>Hello...?<PAGE></n>Hey... It's OK.</n>I won't hurt you, I promise.<PAGE></n>Do you need help?</n>Here...you can take my hand.<PAGE></n>You...need...help...<PAGE></n>I'm sorry, I can't understand you.<PAGE></n>You need help.<PAGE></n>Why...?<PAGE></n>He's right behind you.<PAGE></n>What?<PAGE></n>Oh my god...<PAGE></n>You gotta be kidding me...
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Ça bouge pas.<PAGE></n>Qui est là ?<PAGE></n>Hé ! T'en fais pas. Je te veux pas de mal.<PAGE></n>Tu veux que je t'aide ? Viens, attrape ma main.<PAGE></n>Tu... as besoin... d'aide.<PAGE></n>Désolée, j'ai pas compris.<PAGE></n>Tu as besoin d'aide.<PAGE></n>Pourquoi ?<PAGE></n>Il est juste derrière toi.<PAGE></n>Quoi ?<PAGE></n>Oh mon Dieu...<PAGE></n>Oh non c'est pas vrai...
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Non si muove.<PAGE></n>Chi c'è?<PAGE></n>Ehi! Tutto ok!</n>Non ti faccio male, giuro.<PAGE></n>Serve aiuto?</n>Vieni... prendimi la mano.<PAGE></n>È dietro di te...<PAGE></n>Scusami, non ti capisco.<PAGE></n>È dietro di te.<PAGE></n>Cosa?<PAGE></n>Lui è dietro di te.<PAGE></n>Chi?<PAGE></n>Oh mio Dio...<PAGE></n>Cos'è, uno scherzo?!
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Kein bisschen.<PAGE></n>Hallo?<PAGE></n>Hey... Ist okay.</n>Ich tu dir nichts, versprochen.<PAGE></n>Kann ich dir helfen?</n>Hier, nimm doch meine Hand.<PAGE></n>Du brauchst Hilfe.<PAGE></n>Tut mir leid, ich kann dich nicht verstehen.<PAGE></n>Du brauchst Hilfe.<PAGE></n>Wieso?<PAGE></n>Er ist genau hinter dir.<PAGE></n>Was?<PAGE></n>Oh, mein Gott...<PAGE></n>Das glaub ich einfach nicht...
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Pesa mucho.<PAGE></n>¿Hola...?<PAGE></n>Tranquila, no voy a hacerte daño.<PAGE></n>¿Te ayudo? Ten, dame la mano.<PAGE></n>Necesitas... ayuda...<PAGE></n>Perdona, no te he entendido.<PAGE></n>Necesitas ayuda.<PAGE></n>¿Por qué...?<PAGE></n>Está detrás de ti.<PAGE></n>¿Qué...?<PAGE></n>Oh, Dios mío...<PAGE></n>No puede ser verdad...
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Не получается.<PAGE></n>Эй?..<PAGE></n>Эй... Все хорошо.</n>Обещаю, я не причиню тебе вреда.<PAGE></n>Тебе нужна помощь?</n>Вот... возьми меня за руку.<PAGE></n>Тебе... нужна... помощь...<PAGE></n>Прости, я тебя не понимаю.<PAGE></n>Тебе нужна помощь.<PAGE></n>Почему?..<PAGE></n>Он прямо за тобой.<PAGE></n>Что?<PAGE></n>О боже...<PAGE></n>Ты что, шутишь?
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Ani drgnie.<PAGE></n>Halo...?<PAGE></n>Hej... wszystko jest w porządku.</n>Nie zrobię ci krzywdy, obiecuję.<PAGE></n>Potrzebujesz pomocy?</n>Masz... złap mnie za rękę.<PAGE></n>Potrzebujesz... pomocy...<PAGE></n>Przepraszam, ale nie rozumiem cię.<PAGE></n>Potrzebujesz pomocy.<PAGE></n>Dlaczego...?<PAGE></n>Jest tuż za tobą.<PAGE></n>Co?<PAGE></n>O Boże...<PAGE></n>To chyba jakiś żart...
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>Nem se mexe.<PAGE></n>Oi?<PAGE></n>Ei... tá tudo bem.</n>Eu não vou te machucar, juro.<PAGE></n>Você quer ajuda?</n>Aqui, ó... pode segurar a minha mão.<PAGE></n>Você... precisa... de ajuda...<PAGE></n>Desculpa, eu não tô te entendendo.<PAGE></n>Você precisa de ajuda.<PAGE></n>Por quê?<PAGE></n>Ele tá bem atrás de você.<PAGE></n>Quê?!<PAGE></n>Ai, meu Deus...<PAGE></n>Só pode ser brincadeira...
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>꼼짝도 안 하네.<PAGE></n>안녕..?<PAGE></n>저기... 괜찮아.</n>해치지 않을게, 정말이야.<PAGE></n>도와줄까?</n>여기... 내 손 잡아.<PAGE></n>도움이...필요한건…언니에요...<PAGE></n>미안한데, 뭐라 하는지 모르겠는데.<PAGE></n>언니에게 도움이 필요하다고요.<PAGE></n>왜...?<PAGE></n>그 사람이 언니 뒤에 있어요.<PAGE></n>뭐라고?<PAGE></n>이런 세상에…<PAGE></n>농담이겠지...
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>動不了。<PAGE></n>嗨...？<PAGE></n>嘿... 沒事的。</n>我不會傷害你的，我保證。<PAGE></n>需要幫忙嗎？</n>來... 你可以牽我的手。<PAGE></n>你... 需要... 幫忙...<PAGE></n>抱歉，我聽不清楚。<PAGE></n>你需要幫忙。<PAGE></n>為什麼？<PAGE></n>他就在你後面。<PAGE></n>什麼？<PAGE></n>我的天啊...<PAGE></n>別跟我開玩笑吧…
+<TIME 6.95, 8.11></n><TIME 15.28, 16.73></n><TIME 19.22, 24.17></n><TIME 26.3, 29.91></n><TIME 32.0, 34.92></n><TIME 35.71, 37.56></n><TIME 39.5, 41.14></n><TIME 42.16, 43.25></n><TIME 44.64, 47.77></n><TIME 48.34, 49.09></n><TIME 52.82, 54.13></n><TIME 70.57, 72.37></n>动不了。<PAGE></n>有人吗...？<PAGE></n>嘿... 没事的。</n>我不会伤害你，我保证。<PAGE></n>要帮你吗？</n>来... 你可以抓我的手。<PAGE></n>你... 需要... 帮助...<PAGE></n>抱歉，我没听清楚。<PAGE></n>你需要帮助。<PAGE></n>为什么...？<PAGE></n>他在你后面。<PAGE></n>什么？<PAGE></n>我的天啊...<PAGE></n>这不是真的吧...
+びくともしない
+Won't budge.
+Ça bouge pas.
+Non si muove.
+Kein bisschen.
+Pesa mucho.
+Не получается.
+Ani drgnie.
+Nem se mexe.
+꼼짝도 안 하네.
+動不了。
+动不了。
+誰か… いるの？
+Hello...?
+Qui est là ?
+Chi c'è?
+Hallo?
+¿Hola...?
+Эй?..
+Halo...?
+Oi?
+안녕..?
+嗨...？
+有人吗...？
+ねえ 大丈夫</n>何もしないから
+Hey... It's OK.</n>I won't hurt you, I promise.
+Hé ! T'en fais pas. Je te veux pas de mal.
+Ehi! Tutto ok!</n>Non ti faccio male, giuro.
+Hey... Ist okay.</n>Ich tu dir nichts, versprochen.
+Tranquila, no voy a hacerte daño.
+Эй... Все хорошо.</n>Обещаю, я не причиню тебе вреда.
+Hej... wszystko jest w porządku.</n>Nie zrobię ci krzywdy, obiecuję.
+Ei... tá tudo bem.</n>Eu não vou te machucar, juro.
+저기... 괜찮아.</n>해치지 않을게, 정말이야.
+嘿... 沒事的。</n>我不會傷害你的，我保證。
+嘿... 没事的。</n>我不会伤害你，我保证。
+怖いの？</n>私が助けてあげる
+Do you need help?</n>Here...you can take my hand.
+Tu veux que je t'aide ? Viens, attrape ma main.
+Serve aiuto?</n>Vieni... prendimi la mano.
+Kann ich dir helfen?</n>Hier, nimm doch meine Hand.
+¿Te ayudo? Ten, dame la mano.
+Тебе нужна помощь?</n>Вот... возьми меня за руку.
+Potrzebujesz pomocy?</n>Masz... złap mnie za rękę.
+Você quer ajuda?</n>Aqui, ó... pode segurar a minha mão.
+도와줄까?</n>여기... 내 손 잡아.
+需要幫忙嗎？</n>來... 你可以牽我的手。
+要帮你吗？</n>来... 你可以抓我的手。
+助けがいるのは あなたの方だよ
+You...need...help...
+Tu... as besoin... d'aide.
+È dietro di te...
+Du brauchst Hilfe.
+Necesitas... ayuda...
+Тебе... нужна... помощь...
+Potrzebujesz... pomocy...
+Você... precisa... de ajuda...
+도움이...필요한건…언니에요...
+你... 需要... 幫忙...
+你... 需要... 帮助...
+何？</n>よく聞こえない
+I'm sorry, I can't understand you.
+Désolée, j'ai pas compris.
+Scusami, non ti capisco.
+Tut mir leid, ich kann dich nicht verstehen.
+Perdona, no te he entendido.
+Прости, я тебя не понимаю.
+Przepraszam, ale nie rozumiem cię.
+Desculpa, eu não tô te entendendo.
+미안한데, 뭐라 하는지 모르겠는데.
+抱歉，我聽不清楚。
+抱歉，我没听清楚。
+あなたの方が危ない
+You need help.
+Tu as besoin d'aide.
+È dietro di te.
+Du brauchst Hilfe.
+Necesitas ayuda.
+Тебе нужна помощь.
+Potrzebujesz pomocy.
+Você precisa de ajuda.
+언니에게 도움이 필요하다고요.
+你需要幫忙。
+你需要帮助。
+どうして？
+Why...?
+Pourquoi ?
+Cosa?
+Wieso?
+¿Por qué...?
+Почему?..
+Dlaczego...?
+Por quê?
+왜...?
+為什麼？
+为什么...？
+そこ… すぐ後ろに…
+He's right behind you.
+Il est juste derrière toi.
+Lui è dietro di te.
+Er ist genau hinter dir.
+Está detrás de ti.
+Он прямо за тобой.
+Jest tuż za tobą.
+Ele tá bem atrás de você.
+그 사람이 언니 뒤에 있어요.
+他就在你後面。
+他在你后面。
+え？
+What?
+Quoi ?
+Chi?
+Was?
+¿Qué...?
+Что?
+Co?
+Quê?!
+뭐라고?
+什麼？
+什么？
+ウソでしょ
+Oh my god...
+Oh mon Dieu...
+Oh mio Dio...
+Oh, mein Gott...
+Oh, Dios mío...
+О боже...
+O Boże...
+Ai, meu Deus...
+이런 세상에…
+我的天啊...
+我的天啊...
+Get back!
+Zurück!
+Joder...
+Назад!
+Cofnij się!
+Pra trás!
+물러서!
+退後！
+走开！
+Ahhhhhh—!
+Oh mio Dio.
+Mein Gott...
+А-а-а-а-а!..
+Aaaaaaa—!
+Ahhhhhh!
+아아아아악!
+啊！
+啊啊啊...！
+冗談キツいわ
+You gotta be kidding me...
+Oh non c'est pas vrai...
+Cos'è, uno scherzo?!
+Das glaub ich einfach nicht...
+No puede ser verdad...
+Ты что, шутишь?
+To chyba jakiś żart...
+Só pode ser brincadeira...
+농담이겠지...
+別跟我開玩笑吧…
+这不是真的吧...

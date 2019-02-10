@@ -1,0 +1,48 @@
+﻿署内回覧
+Internal Memo
+Note interne
+Circolare interna
+Internes Memo
+Circular interna
+Служебная записка
+Notatka wewnętrzna
+Memorando Interno
+내부용 쪽지
+內部備忘錄
+内部备忘录
+1998, 9, 22</n></n>署内の配置換えによる備品の移動について報告します。</n></n>「3桁ナンバー耐熱金庫」</n>2F　S.T.A.R.S. オフィス　から</n><COL FILE_EMP>1F　西側オフィス</COLOR >　へ移動</n>
+Sept. 22, 1998</n></n>Office Supply Internal Relocation Notice</n></n>Heat-resistant 3-number combination safe</n> - Moved from S.T.A.R.S. Office (2F) to</n>   <COL FILE_EMP>West Office (1F)</COLOR>.
+22 septembre 1998</n></n>Avis de transfert de matériel</n></n>Coffre à 3 chiffres résistant à la chaleur</n>- Déplacé du bureau du S.T.A.R.S. (2F)</n>vers le <COL FILE_EMP>bureau ouest (1F)</COLOR>.
+22 settembre 1998</n></n>Circolare di trasferimento forniture ufficio</n></n>Cassaforte ignifuga dotata di combinazione</n>a tre cifre</n> - Spostata dall'ufficio S.T.A.R.S. (2F)</n>all'<COL FILE_EMP>ufficio ala ovest (1F)</COLOR>.
+22.9.1998</n></n>Interne Bürobedarfs-Verlegungsmitteilung</n></n>Hitzebeständiger Tresor mit Dreizahlenschloss</n>– Vom S.T.A.R.S.-Büro (in 2F) ins</n>   <COL FILE_EMP>Büro (Westseite, 1F)</COLOR> verlegt.
+22 de sept., 1998</n></n>Nota de reubicación interna de los suministros</n></n>Combinación de 3 cifras de la caja ignífuga</n> - Pasa de la oficina (2F) de los S.T.A.R.S. a</n>   <COL FILE_EMP>la oficina oeste (1F)</COLOR>.
+22 сентября 1998 г.</n></n>Записка о перемещении офисных принадлежностей</n></n>Термостойкий сейф с комбинацией из трех чисел</n> - Перемещен из офиса S.T.A.R.S. (2Э)</n>   в <COL FILE_EMP>западный офис (1Э)</COLOR>.
+22 wrz. 1998 r.</n></n>Wewnętrzna notatka o przeniesieniu zasobów</n></n>Sejf termoodporny z szyfrem 3-cyfrowym</n>- Przeniesiony z biura S.T.A.R.S. (2F) do</n>   <COL FILE_EMP>zachodniego biura (1F)</COLOR>.
+22 de set. de 1998</n></n>Aviso de Realocação de Material de Escritório</n></n>Cofre numérico resistente a calor 3</n> - Do Escritório da S.T.A.R.S. (2º andar) para</n>   <COL FILE_EMP>Escritório Oeste (1º andar)</COLOR>.
+1998년 9월 22일</n></n>내부 사무 용품 재배치 통지</n></n>내열성 3자리 조합 금고</n> - S.T.A.R.S. 사무실(2층)에서</n>   <COL FILE_EMP>서쪽 사무실(1층)으로 이동</COLOR>.
+1998 年 9 月 22 日</n></n>辦公用品內部搬遷通知</n></n>耐火三數密碼保險箱：從 S.T.A.R.S.</n>辦公室（2 樓）移至<COL FILE_EMP>西廳（1 樓）</COLOR>。
+1998 年 9 月 22 日</n></n>办公用品内部搬迁通告</n></n>耐热 3 码组合保险箱</n>-从 S.T.A.R.S. 办公室（2 楼）搬到</n>   <COL FILE_EMP>西办公室（1 楼）</COLOR>。
+解錠番号は「<COL FILE_EMP>左9、右15、左7</COLOR >」</n>担当者は、早めに番号を変更してください。</n></n><RIGHT>ラクーン警察　施設課
+The combo is <COL FILE_EMP>Left 9, Right 15, Left 7</COLOR>.</n>Please change the combo ASAP upon receipt.</n></n><RIGHT>R.P.D. Facility Maintenance Dept.
+Combinaison : <COL FILE_EMP>gauche 9, droite 15, gauche 7</COLOR>.</n>Veuillez modifier la combinaison dès réception.</n></n><RIGHT>Service de maintenance des bureaux du R.P.D.
+La combinazione è <COL FILE_EMP>sx 9, dx 15, sx 7</COLOR>.</n>Si prega di cambiarla appena possibile.</n></n><RIGHT>Dipartimento manutenzione R.P.D.
+Die Kombination lautet: <COL FILE_EMP>L 9, R 15, L 7</COLOR>.</n>Bitte Kombination sofort nach Erhalt ändern.</n></n><RIGHT>R.P.D.-Hausmeister
+La combinación es <COL FILE_EMP>izq. 9, dcha. 15, izq. 7</COLOR>.</n>Cambiad la combinación cuando lo leáis.</n></n><RIGHT>Dept. de mantenimiento. de R.P.D.
+Комбинация: <COL FILE_EMP>9 влево, 15 вправо, 7 влево</COLOR>.</n>Измените ее сразу после получения записки!</n></n><RIGHT>Отдел снабжения полицейского</n><RIGHT>управления Раккун-Сити
+Kombinacja: <COL FILE_EMP>9 w lewo, 15 w prawo, 7 w lewo</COLOR>.</n>Po odebraniu należy niezwłocznie zmienić</n>kombinację.</n></n><RIGHT>Dział napraw i konserwacji R.P.D.
+O segredo é <COL FILE_EMP>Esquerda 9, Direita 15, Esquerda 7</COLOR>.</n>Favor trocar assim que receber o material.</n></n><RIGHT>Depto. de Manutenção do R.P.D.
+암호 조합은 <COL FILE_EMP>왼쪽으로 9,</n>오른쪽으로 15, 왼쪽으로 7</COLOR>입니다.</n>금고를 받은 즉시 조합을 변경하십시오.</n></n><RIGHT>R.P.D. 유지보수 담당 부서
+密碼組合為<COL FILE_EMP>左 9、右 15、左 7</COLOR>。</n>請在收到後立刻更改密碼。</n></n><RIGHT>拉昆市警局設施管理部門。
+密码组合是<COL FILE_EMP>左 9、右 15、左 7</COLOR>。</n>收到后请尽快更改密码。</n></n><RIGHT>浣熊市警察局设备维修部
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

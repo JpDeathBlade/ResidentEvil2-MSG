@@ -1,0 +1,108 @@
+﻿<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>お遊びは… もう… 終わりだ！<PAGE></n>いや！<PAGE></n>ただじゃおかん<PAGE></n>放して！<PAGE></n>いや… やめて！<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>The game...is...over!<PAGE></n>No...!<PAGE></n>Now you're in trouble!<PAGE></n>Let me go!<PAGE></n>No... Stop!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>Fini... de... jouer !<PAGE></n>Non !<PAGE></n>Maintenant je te tiens !<PAGE></n>Lâchez-moi !<PAGE></n>Non ! Arrête !<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>Adesso... basta... giocare!<PAGE></n>No!<PAGE></n>Ora sei nei guai!<PAGE></n>Mi lasci!<PAGE></n>No, basta!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>Das Spiel... ist... aus!<PAGE></n>Nein!<PAGE></n>Jetzt kriegst du Ärger!<PAGE></n>Lass mich los!<PAGE></n>Nein... Stopp!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>¡El juego... se... acabó!<PAGE></n>¡No...!<PAGE></n>¡La has cagado!<PAGE></n>¡Déjame!<PAGE></n>¡No...! ¡Para!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>Игра... окон... чена!<PAGE></n>Нет!..<PAGE></n>Сейчас получишь!<PAGE></n>Пустите!<PAGE></n>Нет... Хватит!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>Dość... tej... zabawy!<PAGE></n>Nie...!<PAGE></n>Masz problem!<PAGE></n>Puść mnie!<PAGE></n>Nie... przestań!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>Fim... de... jogo!<PAGE></n>Não!<PAGE></n>Agora você tá encrencada!<PAGE></n>Me solta!<PAGE></n>Não... Para!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>게임은... 끝났어!<PAGE></n>안 돼...!<PAGE></n>혼 좀 나야겠구나!<PAGE></n>놔줘요!<PAGE></n>싫어... 그만 해!<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>遊戲... 結束了！<PAGE></n>不行！<PAGE></n>這下要你好看！<PAGE></n>放開我！<PAGE></n>不要... 住手！<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>游戏... 结束了！<PAGE></n>不行！<PAGE></n>这下要你好看！<PAGE></n>放开我！<PAGE></n>不要... 住手！<PAGE></n>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+<TIME 9.47, 13.86><TIME 13.9, 15.51><TIME 16.31, 17.96><TIME 18.4, 20.01><TIME 26.98, 28.82><TIME 36.93, 39.53>
+</n>
+</n>
+</n>
+</n>
+</n>
+</n>
+</n>
+</n>
+</n>（費力呼吸）>
+</n>
+お遊びは… もう… 終わりだ！
+The game...is...over!
+Fini... de... jouer !
+Adesso... basta... giocare!
+Das Spiel... ist... aus!
+¡El juego... se... acabó!
+Игра... окон... чена!
+Dość... tej... zabawy!
+Fim... de... jogo!
+게임은... 끝났어!
+遊戲... 結束了！
+游戏... 结束了！
+いや！
+No...!
+Non !
+No!
+Nein!
+¡No...!
+Нет!..
+Nie...!
+Não!
+안 돼...!
+不行！
+不行！
+I got you!
+Ich hab dich!
+¡Sí!
+Поймал!
+Mam cię!
+Te peguei!
+잡았다!
+抓到你了！
+抓住你了！
+ただじゃおかん
+Now you're in trouble!
+Maintenant je te tiens !
+Ora sei nei guai!
+Jetzt kriegst du Ärger!
+¡La has cagado!
+Сейчас получишь!
+Masz problem!
+Agora você tá encrencada!
+혼 좀 나야겠구나!
+這下要你好看！
+这下要你好看！
+放して！
+Let me go!
+Lâchez-moi !
+Mi lasci!
+Lass mich los!
+¡Déjame!
+Пустите!
+Puść mnie!
+Me solta!
+놔줘요!
+放開我！
+放开我！
+<（やられＡＤ）>
+いや… やめて！
+No... Stop!
+Non ! Arrête !
+No, basta!
+Nein... Stopp!
+¡No...! ¡Para!
+Нет... Хватит!
+Nie... przestań!
+Não... Para!
+싫어... 그만 해!
+不要... 住手！
+不要... 住手！

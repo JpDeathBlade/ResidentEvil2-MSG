@@ -1,0 +1,117 @@
+﻿<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>シェリー 早く！<PAGE></n><PAGE></n>パパ…？<PAGE></n>今 何て？<PAGE></n>何…<PAGE></n>パパ やめて！
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>Sherry, come on!<PAGE></n><PAGE></n>Daddy...?<PAGE></n>What'd you say?<PAGE></n>Oh god...<PAGE></n>DADDY, NO!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>Sherry, vite !<PAGE></n><PAGE></n>Papa... ?<PAGE></n>Qu'est-ce que tu as dit ?<PAGE></n>Oh mon Dieu...<PAGE></n>Papa, non !
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>Sherry, forza!<PAGE></n>Cosa?<PAGE></n>Papà?<PAGE></n>Come hai detto?<PAGE></n>Oh Dio...<PAGE></n>Papà, no!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>Sherry, komm schon!<PAGE></n><PAGE></n>Daddy?<PAGE></n>Was sagst du?<PAGE></n>O Gott...<PAGE></n>Daddy, nein!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>¡Sherry, vamos!<PAGE></n><PAGE></n>¿Papá...?<PAGE></n>¿Qué has dicho?<PAGE></n>Oh Dios...<PAGE></n>¡Papá, no!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>Шерри, давай!<PAGE></n><PAGE></n>Папа?..<PAGE></n>Что-что?<PAGE></n>О боже...<PAGE></n>ПАПА, НЕТ!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>No dalej, Sherry!<PAGE></n><PAGE></n>Tatuś...?<PAGE></n>Co powiedziałaś?<PAGE></n>O, Boże...<PAGE></n>TATUSIU, NIE!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>Sherry, aqui!<PAGE></n><PAGE></n>Pai?!<PAGE></n>O que foi que você disse?<PAGE></n>Meu Deus...<PAGE></n>PAPAI, NÃO!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>셰리, 어서!<PAGE></n><PAGE></n>아빠...?<PAGE></n>뭐라고 했니?<PAGE></n>아 이런...<PAGE></n>아빠, 안 돼!
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>雪莉，快點！<PAGE></n><PAGE></n>爸爸？<PAGE></n>你說什麼？<PAGE></n>天啊...<PAGE></n>爸爸，不要！
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>雪莉，快点！<PAGE></n><PAGE></n>爸爸？<PAGE></n>你说什么？<PAGE></n>天啊...<PAGE></n>爸爸，不要！
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+<TIME 1.14, 2.32><TIME 12.65, 13.22><TIME 15.43, 16.21><TIME 16.46, 17.35><TIME 20.55, 21.46><TIME 32.39, 33.62>
+シェリー 早く！
+Sherry, come on!
+Sherry, vite !
+Sherry, forza!
+Sherry, komm schon!
+¡Sherry, vamos!
+Шерри, давай!
+No dalej, Sherry!
+Sherry, aqui!
+셰리, 어서!
+雪莉，快點！
+雪莉，快点！
+Cosa?
+パパ…？
+Daddy...?
+Papa... ?
+Papà?
+Daddy?
+¿Papá...?
+Папа?..
+Tatuś...?
+Pai?!
+아빠...?
+爸爸？
+爸爸？
+今 何て？
+What'd you say?
+Qu'est-ce que tu as dit ?
+Come hai detto?
+Was sagst du?
+¿Qué has dicho?
+Что-что?
+Co powiedziałaś?
+O que foi que você disse?
+뭐라고 했니?
+你說什麼？
+你说什么？
+何…
+Oh god...
+Oh mon Dieu...
+Oh Dio...
+O Gott...
+Oh Dios...
+О боже...
+O, Boże...
+Meu Deus...
+아 이런...
+天啊...
+天啊...
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF520_0036_pl1000
+パパ やめて！
+DADDY, NO!
+Papa, non !
+Papà, no!
+Daddy, nein!
+¡Papá, no!
+ПАПА, НЕТ!
+TATUSIU, NIE!
+PAPAI, NÃO!
+아빠, 안 돼!
+爸爸，不要！
+爸爸，不要！

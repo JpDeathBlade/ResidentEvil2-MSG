@@ -1,0 +1,136 @@
+﻿<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>お前のせいで！<PAGE></n>何？<PAGE></n>ぐずぐずしてるから！<PAGE></n>何があったの？<PAGE></n>やだ<PAGE></n>来ないで！<PAGE></n>ウィリアムめ！<PAGE></n>何てこと…<PAGE></n>ウソでしょ
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>Your fault...!<PAGE></n>What?<PAGE></n>Took too long!<PAGE></n>What happened...?<PAGE></n>Oh god.<PAGE></n>Get off me!<PAGE></n>Damn you, William!<PAGE></n>Oh my god!<PAGE></n>Jesus Christ!
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>Ta faute !<PAGE></n>Quoi ?<PAGE></n>Trop tard !<PAGE></n>Qu'est-ce qui s'est passé ?<PAGE></n>Oh mon Dieu.<PAGE></n>Me touche pas !<PAGE></n>Enfoiré, William !<PAGE></n>Oh mon Dieu !<PAGE></n>C'est pas vrai !
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>È colpa tua...<PAGE></n>Cosa?<PAGE></n>Ci hai messo troppo tempo!<PAGE></n>Che è successo?<PAGE></n>Oh, Dio!<PAGE></n>Levati di dosso!<PAGE></n>Maledetto William!<PAGE></n>Oh mio Dio!<PAGE></n>Cristo santo.
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>Deine Schuld!<PAGE></n>Was?<PAGE></n>Zu trödelig!<PAGE></n>Was ist passiert?<PAGE></n>Oh, Gott.<PAGE></n>Weg von mir!<PAGE></n>Verdammt, William!<PAGE></n>Oh, mein Gott!<PAGE></n>Ach, du Scheiße.
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>¡Por tu culpa...!<PAGE></n>¿Qué?<PAGE></n>¡Demasiado tarde!<PAGE></n>¡¿Qué ha pasado...?!<PAGE></n>Oh Dios.<PAGE></n>¡No me toques!<PAGE></n>¡Maldito William...!<PAGE></n>¡Oh, Dios mío!<PAGE></n>Dios mío...
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>Это твоя вина!..<PAGE></n>Что?<PAGE></n>Почему... так долго?<PAGE></n>Что случилось?..<PAGE></n>О боже.<PAGE></n>Отойди от меня!<PAGE></n>Будь ты проклят, Уильям!<PAGE></n>О боже!<PAGE></n>Господи боже!
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>Twoja wina...!<PAGE></n>Co?<PAGE></n>Za długo!<PAGE></n>Co się stało...?<PAGE></n>O Boże.<PAGE></n>Złaź ze mnie!<PAGE></n>Niech cię szlag, William!<PAGE></n>O Boże!<PAGE></n>Jezu Chryste!
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>Culpa... sua!<PAGE></n>Quê?<PAGE></n>Demorou... demais!<PAGE></n>O que aconteceu?<PAGE></n>Meu Deus.<PAGE></n>Me solta!<PAGE></n>Maldito William!<PAGE></n>Ai, meu Deus!<PAGE></n>Minha nossa!
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>네 잘못이야...!<PAGE></n>뭐?<PAGE></n>너무 오래 걸렸잖아!<PAGE></n>무슨 일이야...?<PAGE></n>세상에.<PAGE></n>떨어져!<PAGE></n>윌리엄, 이 개자식!<PAGE></n>세상에!<PAGE></n>세상에!
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>你的錯！<PAGE></n>什麼？<PAGE></n>太遲了！<PAGE></n>你怎麼了？<PAGE></n>天啊。<PAGE></n>走開！<PAGE></n>該死，威廉！<PAGE></n>我的天啊！<PAGE></n>老天爺啊！
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>是你的错！<PAGE></n>什么？<PAGE></n>太迟了！<PAGE></n>发生了什么事？<PAGE></n>天啊。<PAGE></n>放开我！<PAGE></n>该死，威廉！<PAGE></n>天啊！<PAGE></n>我的老天啊！
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+<TIME 2.44, 3.83><TIME 3.85, 4.6><TIME 4.86, 6.55><TIME 6.56, 7.52><TIME 8.56, 9.31><TIME 9.66, 11.28><TIME 11.32, 12.9><TIME 15.1, 16.41><TIME 20.56, 22.08>
+お前のせいで！
+Your fault...!
+Ta faute !
+È colpa tua...
+Deine Schuld!
+¡Por tu culpa...!
+Это твоя вина!..
+Twoja wina...!
+Culpa... sua!
+네 잘못이야...!
+你的錯！
+是你的错！
+何？
+What?
+Quoi ?
+Cosa?
+Was?
+¿Qué?
+Что?
+Co?
+Quê?
+뭐?
+什麼？
+什么？
+ぐずぐずしてるから！
+Took too long!
+Trop tard !
+Ci hai messo troppo tempo!
+Zu trödelig!
+¡Demasiado tarde!
+Почему... так долго?
+Za długo!
+Demorou... demais!
+너무 오래 걸렸잖아!
+太遲了！
+太迟了！
+何があったの？
+What happened...?
+Qu'est-ce qui s'est passé ?
+Che è successo?
+Was ist passiert?
+¡¿Qué ha pasado...?!
+Что случилось?..
+Co się stało...?
+O que aconteceu?
+무슨 일이야...?
+你怎麼了？
+发生了什么事？
+やだ
+Oh god.
+Oh mon Dieu.
+Oh, Dio!
+Oh, Gott.
+Oh Dios.
+О боже.
+O Boże.
+Meu Deus.
+세상에.
+天啊。
+天啊。
+来ないで！
+Get off me!
+Me touche pas !
+Levati di dosso!
+Weg von mir!
+¡No me toques!
+Отойди от меня!
+Złaź ze mnie!
+Me solta!
+떨어져!
+走開！
+放开我！
+ウィリアムめ！
+Damn you, William!
+Enfoiré, William !
+Maledetto William!
+Verdammt, William!
+¡Maldito William...!
+Будь ты проклят, Уильям!
+Niech cię szlag, William!
+Maldito William!
+윌리엄, 이 개자식!
+該死，威廉！
+该死，威廉！
+何てこと…
+Oh my god!
+Oh mon Dieu !
+Oh mio Dio!
+Oh, mein Gott!
+¡Oh, Dios mío!
+О боже!
+O Boże!
+Ai, meu Deus!
+세상에!
+我的天啊！
+天啊！
+ウソでしょ
+Jesus Christ!
+C'est pas vrai !
+Cristo santo.
+Ach, du Scheiße.
+Dios mío...
+Господи боже!
+Jezu Chryste!
+Minha nossa!
+세상에!
+老天爺啊！
+我的老天啊！

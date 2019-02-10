@@ -1,0 +1,3 @@
+﻿テスト用ファイル（3）
+カラータグテスト中。</n></n><COL GREEN>GREENのタグ</COLOR>です。</n></n><COL WHITE>WHITEのタグ</COLOR>です。</n></n><COL FILE_EMP>FILE_EMPのタグ</COLOR>です。</n></n><COL BLUE>BLUEのタグ</COLOR>です。</n></n><COL SELECT>SELECTのタグ</COLOR>です。
+<END>

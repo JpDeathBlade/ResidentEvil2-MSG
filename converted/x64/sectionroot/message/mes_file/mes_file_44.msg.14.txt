@@ -1,0 +1,36 @@
+﻿納品書
+Delivery Receipt
+Reçu de livraison
+Ricevuta consegna
+Lieferschein
+Acuse de recibo
+Квитанция о доставке
+Potwierdzenie doręczenia
+Recibo de Entrega
+수령증
+送達回條
+送达回单
+ご注文頂きました以下の商品を</n>指定の場所に搬入しました。</n></n>耐熱金庫　×　1</n></n>解錠番号は<COL FILE_EMP>金庫側面</COLOR>にチョークで記載しました。</n>実際にご使用になる前に消去をお願いします。
+The item below has been delivered to the</n>location specified in your order.</n></n>Heat-resistant Safe x1</n></n>The combination is written on the <COL FILE_EMP>side of</n>the safe</COLOR> in chalk. Please remember to erase</n>it before you use the safe.
+L'article ci-dessous a été livré sur le lieu</n>indiqué sur votre facture.</n></n>Coffre résistant à la chaleur x1</n></n>La combinaison est écrite sur le <COL FILE_EMP>côté du coffre</COLOR></n>à la craie. N'oubliez pas de l'effacer avant</n>d'utiliser le coffre.
+L'oggetto seguente è stato consegnato</n>all'indirizzo specificato nel suo ordine.</n></n>Cassaforte ignifuga x1</n></n>La combinazione è scritta <COL FILE_EMP>di lato</COLOR> con</n>un gessetto. Assicuratevi di modificarla</n>e cancellarla dopo il primo utilizzo.
+Folgender Artikel wurde an den in Ihrer</n>Bestellung angegebenen Ort geliefert:</n></n>1x hitzebeständiger Tresor</n></n>Die Kombination ist mit Kreide</n><COL FILE_EMP>an der Seite des Tresors</COLOR> vermerkt.</n>Bitte vor Benutzung des Tresors entfernen.
+El siguiente objeto ha sido entregado</n>en la ubicación especificada en el pedido.</n></n>Caja fuerte ignífuga x1</n></n>La combinación está escrita con tiza</n>en la <COL FILE_EMP>parte de atrás de la caja</COLOR>. Recuerde</n>borrarla antes de usar la caja fuerte.
+По адресу, указанному вами при заказе,</n>был доставлен следующий товар:</n></n>Огнестойкий сейф, 1 шт.</n></n>Кодовая комбинация написана мелом на <COL FILE_EMP>боковой стенке</COLOR>. Не забудьте стереть надпись, </n>прежде чем приступать к использованию товара.
+Poniższy przedmiot został doręczony do miejsca</n>wskazanego w zleceniu.</n></n>Sejf termoodporny x1</n></n>Kod jest zapisany kredą na <COL FILE_EMP>bocznej ściance</n>sejfu</COLOR>. Należy pamiętać o usunięciu napisu</n>przed przystąpieniem do użytkowania sejfu.
+O pacote abaixo foi entregue ao</n>local especificado no pedido.</n></n>Cofre resistente a calor x1</n></n>O segredo está escrito a giz na <COL FILE_EMP>lateral</COLOR>.</n>Não se esqueça de apagar antes de usar o cofre.
+아래 항목을 요청하신</n>위치로 배달했습니다.</n></n>내열성 금고 1개</n></n>조합은 <COL FILE_EMP>금고 옆면</COLOR>에</n>분필로 쓰여 있습니다. 사용 후</n>지워주시기 바랍니다.
+下列物品已經送達您訂單中的</n>指定地點。</n></n>隔熱保險箱 x1</n></n>密碼已用粉筆寫在<COL FILE_EMP>保險箱側面</COLOR>。</n>請記得在您使用保險箱之前先行清除。</n>
+以下物品已送达</n>您订单上的指定地点。</n></n>耐热保险箱 x1</n></n>密码已用粉笔写在<COL FILE_EMP>保险箱侧面</COLOR>。</n>使用保险箱前请记得将其擦除。</n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

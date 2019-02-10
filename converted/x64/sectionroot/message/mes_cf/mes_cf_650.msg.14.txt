@@ -1,0 +1,366 @@
+﻿<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>イヤな音だ<PAGE></n>どこだ？<PAGE></n>エイダ？
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>I don't like the sound of that...<PAGE></n>Come on...<PAGE></n>Ada!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>J'aime pas ce bruit...<PAGE></n>Où est-elle ?<PAGE></n>Ada !
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>Quel rumore non mi piace.<PAGE></n>Dove sei...<PAGE></n>Ada!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>Hört sich gar nicht gut an...<PAGE></n>Komm schon...<PAGE></n>Ada!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>No me gusta cómo suena...<PAGE></n>Venga...<PAGE></n>¡Ada!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>Не нравится мне этот звук...<PAGE></n>Ну же...<PAGE></n>Ада!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>To nie zabrzmiało dobrze...<PAGE></n>No dalej...<PAGE></n>Ada!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>Não gostei desse barulho...<PAGE></n>Por favor...<PAGE></n>Ada!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>불길하군...<PAGE></n>어디...<PAGE></n>에이다!
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>聽起來不妙。<PAGE></n>拜託沒事...<PAGE></n>艾達！
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>感觉相当不妙...<PAGE></n>别出事呀...<PAGE></n>艾达！
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+<TIME 10.0, 11.63><TIME 17.0, 18.21><TIME 22.5, 24.23>
+イヤな音だ
+I don't like the sound of that...
+J'aime pas ce bruit...
+Quel rumore non mi piace.
+Hört sich gar nicht gut an...
+No me gusta cómo suena...
+Не нравится мне этот звук...
+To nie zabrzmiało dobrze...
+Não gostei desse barulho...
+불길하군...
+聽起來不妙。
+感觉相当不妙...
+どこだ？
+Come on...
+Où est-elle ?
+Dove sei...
+Komm schon...
+Venga...
+Ну же...
+No dalej...
+Por favor...
+어디...
+拜託沒事...
+别出事呀...
+エイダ？
+Ada!
+Ada !
+Ada!
+Ada!
+¡Ada!
+Ада!
+Ada!
+Ada!
+에이다!
+艾達！
+艾达！
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>どういうこと？<PAGE></n>シェリー</n>仕事が終わるまでは帰れないと言ったでしょ<PAGE></n>いつもそればっかり<PAGE></n>シェリー？<PAGE></n>なぜ家にいなかったの？</n>安全だったのに<PAGE></n>ねえ　シェリー！<PAGE></n>だって… 怖かったの<PAGE></n>あれがそこら中にいて…<PAGE></n>警察を呼べばよかったでしょう？<PAGE></n>そう教えたわよね<PAGE></n>呼んだけど来てくれなかったの<PAGE></n>ママも電話に出ないし…<PAGE></n>シェリー</n>今 話してる時間はないの<PAGE></n>そんな…</n>シェリー！　今行くからね！
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>What is this...?<PAGE></n>Sherry... I told you,</n>I cannot leave here until my work is done.<PAGE></n>That's what you always say.<PAGE></n>Sherry...?<PAGE></n>Why didn't you stay in the house?</n>It was safe there.<PAGE></n>Hey! Sherry!<PAGE></n>I was scared.<PAGE></n>Those things were everywhere and—<PAGE></n>You should've called the police!<PAGE></n>That's what we taught you.<PAGE></n>I did, but nobody came.<PAGE></n>And you didn't answer your phone so—<PAGE></n>Sherry, I don't have time for this!<PAGE></n>Oh, no...</n>Sherry! Sherry! I'm coming...!
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>Qu'est-ce que c'est... ?<PAGE></n>Sherry... Je te l'ai dit, je ne peux pas sortir</n>d'ici avant d'avoir fini mon travail.<PAGE></n>Tu dis tout le temps ça.<PAGE></n>Sherry ?<PAGE></n>Pourquoi tu es pas restée à la maison ?</n>Tu étais en sécurité là-bas !<PAGE></n>Hé ! Sherry !<PAGE></n>J'avais peur !<PAGE></n>Ces monstres étaient partout et...<PAGE></n>T'aurais dû appeler la police !<PAGE></n>C'est pourtant ce qu'on t'a appris.<PAGE></n>Je l'ai fait, mais personne n'est venu.<PAGE></n>Et tu répondais pas au téléphone alors...<PAGE></n>Sherry, je n'ai pas le temps de discuter !<PAGE></n>Oh, non...</n>Sherry ! Sherry, j'arrive !
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>Dove diavolo...<PAGE></n>Sherry... te l'ho detto, non posso</n>andarmene se non finisco il mio lavoro.<PAGE></n>È quello che dici sempre.<PAGE></n>Sherry?<PAGE></n>Perché non sei rimasta a casa?</n>Eri al sicuro, lì.<PAGE></n>Ehi! Sherry!<PAGE></n>Avevo paura.<PAGE></n>Quei mostri erano ovunque e...<PAGE></n>Bisogna chiamare la polizia...<PAGE></n>... come ti abbiamo insegnato.<PAGE></n>L'ho fatto, ma non è arrivata.<PAGE></n>E tu non rispondevi al telefono, quindi...<PAGE></n>Sherry, io non ho tempo per questo!<PAGE></n>Oh no! Sherry! Sherry! Arrivo!
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>Was ist das...?<PAGE></n>Sherry... Ich hab dir gesagt,</n>ich kann hier nicht weg, bevor meine Arbeit fertig ist.<PAGE></n>Das sagst du doch immer.<PAGE></n>Sherry?<PAGE></n>Warum bist du nicht im Haus geblieben?</n>Da warst du sicher.<PAGE></n>Hey! Sherry!<PAGE></n>Ich hatte Angst.<PAGE></n>Diese Dinger waren überall und...<PAGE></n>Bei so was rufst du die Polizei!<PAGE></n>Das hatten wir dir gesagt.<PAGE></n>Hab ich, aber es kam niemand.<PAGE></n>Und du hast nicht abgehoben, also...<PAGE></n>Sherry, ich kann jetzt wirklich nicht!<PAGE></n>Oh, nein...</n>Sherry! Sherry, ich komme!
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>¿Qué es esto?<PAGE></n>Sherry... Ya te he dicho que no puedo</n>irme hasta que termine de trabajar.<PAGE></n>Siempre dices lo mismo.<PAGE></n>¿Sherry...?<PAGE></n>¿Por qué no te quedaste en casa?</n>Estabas a salvo.<PAGE></n>¡Eh! ¡Sherry!<PAGE></n>Tenía miedo.<PAGE></n>Había monstruos por todas partes y...<PAGE></n>¡Pues haber llamado a la policía!<PAGE></n>Eso lo que te enseñamos.<PAGE></n>Llamé, pero no vino nadie.<PAGE></n>Y no contestabas al teléfono, así que...<PAGE></n>¡Sherry, no tengo tiempo para esto!<PAGE></n>Oh, no...</n>¡Sherry! ¡Sherry! ¡Ya voy...!
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>Что это?..<PAGE></n>Шерри... Я же сказала,</n>я не уйду, пока не закончу работу.<PAGE></n>Ты всегда так говоришь.<PAGE></n>Шерри?..<PAGE></n>Почему ты не осталась дома?</n>Там было безопасно.<PAGE></n>Эй! Шерри!<PAGE></n>Я испугалась.<PAGE></n>Эти существа были повсюду, и...<PAGE></n>Надо было звонить в полицию!<PAGE></n>Разве не этому мы тебя учили?<PAGE></n>Я позвонила, но никто не приехал.<PAGE></n>И ты тоже не брала телефон, вот я...<PAGE></n>Шерри, у меня нет на это времени!<PAGE></n>О нет...</n>Шерри! Шерри! Я иду!..
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>Co to jest...?<PAGE></n>Sherry... Mówiłam,</n>nie mogę stąd odejść, dopóki nie skończę.<PAGE></n>Zawsze tak mówisz.<PAGE></n>Sherry...?<PAGE></n>Dlaczego nie zostałaś w domu?</n>Tam byłaś bezpieczna.<PAGE></n>Hej! Sherry!<PAGE></n>Bałam się.<PAGE></n>Te stwory były wszędzie, a...<PAGE></n>Trzeba było zadzwonić na policję!<PAGE></n>Tego cię uczyliśmy.<PAGE></n>Zadzwoniłam, ale nikt nie przyjechał.<PAGE></n>Ty nie odbierałaś telefonu i...<PAGE></n>Sherry, nie mam na to czasu!<PAGE></n>O, nie...</n>Sherry! Sherry! Już idę...!
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>O que tá havendo?<PAGE></n>Sherry... já falei,</n>não posso ir embora antes de terminar o meu trabalho.<PAGE></n>Você sempre diz isso...<PAGE></n>Sherry?<PAGE></n>Por que você não ficou na casa?</n>Lá era seguro.<PAGE></n>Ei! Sherry!<PAGE></n>Eu fiquei com medo.<PAGE></n>Tava cheio daqueles trecos, e...<PAGE></n>Você devia ter ligado pra polícia!<PAGE></n>Foi o que a gente te ensinou!<PAGE></n>Eu liguei, mas não veio ninguém!<PAGE></n>E você não atendeu o telefone, então...<PAGE></n>Sherry! Eu não tô com tempo pra isso.<PAGE></n>Ah, não.</n>Sherry! Sherry, eu tô indo!
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>여긴 뭐...?<PAGE></n>셰리... 말했잖니,</n>엄마는 일이 끝날 때까지는 갈 수 없단다.<PAGE></n>맨날 그 말만 하네요.<PAGE></n>셰리...?<PAGE></n>왜 집에 있지 않았니?</n>거긴 안전했는데.<PAGE></n>얘! 셰리!<PAGE></n>무서웠어요.<PAGE></n>주변에 그것들로 가득했는데—<PAGE></n>경찰을 불렀어야지!<PAGE></n>우리가 그렇게 가르쳐줬잖아.<PAGE></n>했어요, 근데 아무도 안 왔어요.<PAGE></n>엄마는 전화도 안 받고 그래서—<PAGE></n>셰리, 이럴 시간이 없구나!<PAGE></n>아, 안 돼...</n>셰리! 셰리! 내가 갈게...!
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>怎麼回事...？<PAGE></n>雪莉... 我告訴過你，</n>工作還沒有做完我不能走。<PAGE></n>你每次都這麼說。<PAGE></n>雪莉？<PAGE></n>你為什麼不待在家裡？</n>那裡才安全。<PAGE></n>喂！雪莉！<PAGE></n>我好怕。<PAGE></n>那些東西到處都是，而且...<PAGE></n>你應該打給警察的！<PAGE></n>我們教過你。<PAGE></n>我打了，但是沒人來。<PAGE></n>而且你又不接電話，所以...<PAGE></n>雪莉，我沒時間陪你耗！<PAGE></n>噢，不...</n>雪莉！雪莉！你等我！
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>怎么回事...？<PAGE></n>雪莉... 我跟你说过，</n>工作还没完成之前我不能离开。<PAGE></n>你每次都这么说。<PAGE></n>雪莉？<PAGE></n>为什么你不待在房子里？</n>那里明明很安全。<PAGE></n>喂！雪莉！<PAGE></n>我好害怕。<PAGE></n>到处都是怪物，还有...<PAGE></n>你怎么不打给警察！<PAGE></n>我们教过你的。<PAGE></n>我打了，但是没有人来。<PAGE></n>而且你也不接电话，所以我才...<PAGE></n>雪莉，现在不是说这个的时候！<PAGE></n>糟了，不...</n>雪莉！雪莉！你等我！
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+<TIME 8.15, 9.36><TIME 9.37, 13.7><TIME 13.73, 15.4><TIME 15.48, 16.54><TIME 16.56, 19.35><TIME 20.69, 22.2><TIME 23.85, 25.27><TIME 25.3, 27.48><TIME 27.49, 29.63><TIME 29.76, 31.43><TIME 31.47, 33.24><TIME 33.24, 35.52><TIME 35.53, 39.07><TIME 45.48, 49.24>
+…いやだ もう帰りたいよ</n>お願い
+...no, I wanna go home. Please.
+Non ! Je veux rentrer à la maison. S'il te plaît !
+No, voglio andare a casa! Ti prego!
+Nein, ich will nach Hause, bitte!
+No, quiero irme a casa... ¡por favor!
+...Нет, я хочу домой. Пожалуйста.
+Nie... Chcę do domu. Proszę.
+... não, eu quero ir pra casa. Por favooor.
+...싫어요, 집에 가고 싶다고요. 부탁이에요.
+... 不，我想回家。拜託。
+... 不，我想回家。求求你。
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2020_pl3000
+どういうこと？
+What is this...?
+Qu'est-ce que c'est... ?
+Dove diavolo...
+Was ist das...?
+¿Qué es esto?
+Что это?..
+Co to jest...?
+O que tá havendo?
+여긴 뭐...?
+怎麼回事...？
+怎么回事...？
+シェリー</n>仕事が終わるまでは帰れないと言ったでしょ
+Sherry... I told you,</n>I cannot leave here until my work is done.
+Sherry... Je te l'ai dit, je ne peux pas sortir</n>d'ici avant d'avoir fini mon travail.
+Sherry... te l'ho detto, non posso</n>andarmene se non finisco il mio lavoro.
+Sherry... Ich hab dir gesagt,</n>ich kann hier nicht weg, bevor meine Arbeit fertig ist.
+Sherry... Ya te he dicho que no puedo</n>irme hasta que termine de trabajar.
+Шерри... Я же сказала,</n>я не уйду, пока не закончу работу.
+Sherry... Mówiłam,</n>nie mogę stąd odejść, dopóki nie skończę.
+Sherry... já falei,</n>não posso ir embora antes de terminar o meu trabalho.
+셰리... 말했잖니,</n>엄마는 일이 끝날 때까지는 갈 수 없단다.
+雪莉... 我告訴過你，</n>工作還沒有做完我不能走。
+雪莉... 我跟你说过，</n>工作还没完成之前我不能离开。
+いつもそればっかり
+That's what you always say.
+Tu dis tout le temps ça.
+È quello che dici sempre.
+Das sagst du doch immer.
+Siempre dices lo mismo.
+Ты всегда так говоришь.
+Zawsze tak mówisz.
+Você sempre diz isso...
+맨날 그 말만 하네요.
+你每次都這麼說。
+你每次都这么说。
+シェリー？
+Sherry...?
+Sherry ?
+Sherry?
+Sherry?
+¿Sherry...?
+Шерри?..
+Sherry...?
+Sherry?
+셰리...?
+雪莉？
+雪莉？
+なぜ家にいなかったの？</n>安全だったのに
+Why didn't you stay in the house?</n>It was safe there.
+Pourquoi tu es pas restée à la maison ?</n>Tu étais en sécurité là-bas !
+Perché non sei rimasta a casa?</n>Eri al sicuro, lì.
+Warum bist du nicht im Haus geblieben?</n>Da warst du sicher.
+¿Por qué no te quedaste en casa?</n>Estabas a salvo.
+Почему ты не осталась дома?</n>Там было безопасно.
+Dlaczego nie zostałaś w domu?</n>Tam byłaś bezpieczna.
+Por que você não ficou na casa?</n>Lá era seguro.
+왜 집에 있지 않았니?</n>거긴 안전했는데.
+你為什麼不待在家裡？</n>那裡才安全。
+为什么你不待在房子里？</n>那里明明很安全。
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+<COLOR FF0000>#Rejected#</COLOR> CF650_2080_pl5300
+ねえ　シェリー！
+Hey! Sherry!
+Hé ! Sherry !
+Ehi! Sherry!
+Hey! Sherry!
+¡Eh! ¡Sherry!
+Эй! Шерри!
+Hej! Sherry!
+Ei! Sherry!
+얘! 셰리!
+喂！雪莉！
+喂！雪莉！
+だって… 怖かったの
+I was scared.
+J'avais peur !
+Avevo paura.
+Ich hatte Angst.
+Tenía miedo.
+Я испугалась.
+Bałam się.
+Eu fiquei com medo.
+무서웠어요.
+我好怕。
+我好害怕。
+あれがそこら中にいて…
+Those things were everywhere and—
+Ces monstres étaient partout et...
+Quei mostri erano ovunque e...
+Diese Dinger waren überall und...
+Había monstruos por todas partes y...
+Эти существа были повсюду, и...
+Te stwory były wszędzie, a...
+Tava cheio daqueles trecos, e...
+주변에 그것들로 가득했는데—
+那些東西到處都是，而且...
+到处都是怪物，还有...
+警察を呼べばよかったでしょう？
+You should've called the police!
+T'aurais dû appeler la police !
+Bisogna chiamare la polizia...
+Bei so was rufst du die Polizei!
+¡Pues haber llamado a la policía!
+Надо было звонить в полицию!
+Trzeba było zadzwonić na policję!
+Você devia ter ligado pra polícia!
+경찰을 불렀어야지!
+你應該打給警察的！
+你怎么不打给警察！
+そう教えたわよね
+That's what we taught you.
+C'est pourtant ce qu'on t'a appris.
+... come ti abbiamo insegnato.
+Das hatten wir dir gesagt.
+Eso lo que te enseñamos.
+Разве не этому мы тебя учили?
+Tego cię uczyliśmy.
+Foi o que a gente te ensinou!
+우리가 그렇게 가르쳐줬잖아.
+我們教過你。
+我们教过你的。
+呼んだけど来てくれなかったの
+I did, but nobody came.
+Je l'ai fait, mais personne n'est venu.
+L'ho fatto, ma non è arrivata.
+Hab ich, aber es kam niemand.
+Llamé, pero no vino nadie.
+Я позвонила, но никто не приехал.
+Zadzwoniłam, ale nikt nie przyjechał.
+Eu liguei, mas não veio ninguém!
+했어요, 근데 아무도 안 왔어요.
+我打了，但是沒人來。
+我打了，但是没有人来。
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+<COLOR FF0000>#Rejected#</COLOR> CF650_2150_pl3000
+ママも電話に出ないし…
+And you didn't answer your phone so—
+Et tu répondais pas au téléphone alors...
+E tu non rispondevi al telefono, quindi...
+Und du hast nicht abgehoben, also...
+Y no contestabas al teléfono, así que...
+И ты тоже не брала телефон, вот я...
+Ty nie odbierałaś telefonu i...
+E você não atendeu o telefone, então...
+엄마는 전화도 안 받고 그래서—
+而且你又不接電話，所以...
+而且你也不接电话，所以我才...
+What...?
+Quoi ?
+Cosa...
+Was?
+Что?..
+Co...?
+Quê?!
+뭐지...?
+什麼？
+怎么回事...？
+シェリー</n>今 話してる時間はないの
+Sherry, I don't have time for this!
+Sherry, je n'ai pas le temps de discuter !
+Sherry, io non ho tempo per questo!
+Sherry, ich kann jetzt wirklich nicht!
+¡Sherry, no tengo tiempo para esto!
+Шерри, у меня нет на это времени!
+Sherry, nie mam na to czasu!
+Sherry! Eu não tô com tempo pra isso.
+셰리, 이럴 시간이 없구나!
+雪莉，我沒時間陪你耗！
+雪莉，现在不是说这个的时候！
+そんな…</n>シェリー！　今行くからね！
+Oh, no...</n>Sherry! Sherry! I'm coming...!
+Oh, non...</n>Sherry ! Sherry, j'arrive !
+Oh no! Sherry! Sherry! Arrivo!
+Oh, nein...</n>Sherry! Sherry, ich komme!
+Oh, no...</n>¡Sherry! ¡Sherry! ¡Ya voy...!
+О нет...</n>Шерри! Шерри! Я иду!..
+O, nie...</n>Sherry! Sherry! Już idę...!
+Ah, não.</n>Sherry! Sherry, eu tô indo!
+아, 안 돼...</n>셰리! 셰리! 내가 갈게...!
+噢，不...</n>雪莉！雪莉！你等我！
+糟了，不...</n>雪莉！雪莉！你等我！

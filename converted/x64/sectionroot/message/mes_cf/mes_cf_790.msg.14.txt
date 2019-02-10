@@ -1,0 +1,71 @@
+﻿<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67><PAGE></n>何だ？<PAGE></n>あぁ クソッ…<PAGE></n>よし 来いよ！
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>Whoa!<PAGE></n>What the hell...!?<PAGE></n>Oh, shit...<PAGE></n>Alright, come on!
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67><PAGE></n>C'était quoi ?<PAGE></n>Oh, merde...<PAGE></n>Allez viens, amène-toi !
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67><PAGE></n>Che diavolo...<PAGE></n>Merda.<PAGE></n>Forza, andiamo!</n>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67><PAGE></n>Was zur Hölle?<PAGE></n>Oh, Scheiße...<PAGE></n>Okay, komm schon!
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67><PAGE></n>¡¿Pero qué...?!<PAGE></n>Oh, mierda...<PAGE></n>¡Vale, vamos!
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>Ого!<PAGE></n>Какого черта?!<PAGE></n>Вот дерьмо...<PAGE></n>Ну ладно, давай!
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>Ej!<PAGE></n>Co do jasnej...?<PAGE></n>O cholera...<PAGE></n>No dalej...!
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>Opa!<PAGE></n>Mas que merda é essa?!<PAGE></n>Ai, cacete.<PAGE></n>Tá bom, pode vir!
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>워!<PAGE></n>이건 뭐야...!?<PAGE></n>이런, 젠장...<PAGE></n>좋아, 덤벼라!
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>哇！<PAGE></n>什麼鬼...！？<PAGE></n>噢，該死...<PAGE></n>好，放馬過來吧！
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>哇！<PAGE></n>搞什么鬼...！？<PAGE></n>喔，糟糕...<PAGE></n>好，放马过来吧！
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+<TIME 4.51, 5.34><TIME 9.67, 11.01><TIME 25.13, 26.28><TIME 36.03, 37.67>
+Whoa!
+Ого!
+Ej!
+Opa!
+워!
+哇！
+哇！
+何だ？
+What the hell...!?
+C'était quoi ?
+Che diavolo...
+Was zur Hölle?
+¡¿Pero qué...?!
+Какого черта?!
+Co do jasnej...?
+Mas que merda é essa?!
+이건 뭐야...!?
+什麼鬼...！？
+搞什么鬼...！？
+あぁ クソッ…
+Oh, shit...
+Oh, merde...
+Merda.
+Oh, Scheiße...
+Oh, mierda...
+Вот дерьмо...
+O cholera...
+Ai, cacete.
+이런, 젠장...
+噢，該死...
+喔，糟糕...
+よし 来いよ！
+Alright, come on!
+Allez viens, amène-toi !
+Forza, andiamo!</n>
+Okay, komm schon!
+¡Vale, vamos!
+Ну ладно, давай!
+No dalej...!
+Tá bom, pode vir!
+좋아, 덤벼라!
+好，放馬過來吧！
+好，放马过来吧！

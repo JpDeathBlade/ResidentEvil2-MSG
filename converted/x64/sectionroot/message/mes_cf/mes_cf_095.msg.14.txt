@@ -1,0 +1,143 @@
+﻿<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35><PAGE></n><PAGE></n>何なんだ これは…<PAGE></n>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>Hmm...<PAGE></n>What...?<PAGE></n>Oh... Oh, what the fuck!?<PAGE></n>Huh? What!?
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35><PAGE></n><PAGE></n>Oh... Oh putain !<PAGE></n>Hein ? C'est quoi ?
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35><PAGE></n>Cosa?<PAGE></n>Ma Cristo santo! <PAGE></n>Cosa?
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>Hmm...<PAGE></n>Was...?<PAGE></n>Oh... oh, verflucht!<PAGE></n>Was?!
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35><PAGE></n><PAGE></n>¡Oh, joder!<PAGE></n>¿Qué...?
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>Хм...<PAGE></n>Что?..<PAGE></n>Ох... какого хрена?!<PAGE></n>А? Что?!
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>Hmm...<PAGE></n>Co...?<PAGE></n>O... Co jest, kurwa!?<PAGE></n>Co to?!
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>Hmm...<PAGE></n>Quê?<PAGE></n>Ah... Que porra é essa?!<PAGE></n>Hein? Que foi isso?!
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>흠...<PAGE></n>뭐지...?<PAGE></n>아... 아, 도대체 뭐야!?<PAGE></n>응? 뭐지!?
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>嗯...<PAGE></n>這...<PAGE></n>搞什麼鬼！？<PAGE></n>嗯？什麼東西！？
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>嗯...<PAGE></n>怎么回事...？<PAGE></n>噢... 这是什么鬼东西！？<PAGE></n>那是？什么！？
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+<TIME 0.74, 1.7><TIME 4.38, 5.21><TIME 11.72, 13.72><TIME 19.44, 20.35>
+何なんだ これは…
+Oh... Oh, what the fuck!?
+Oh... Oh putain !
+Ma Cristo santo! 
+Oh... oh, verflucht!
+¡Oh, joder!
+Ох... какого хрена?!
+O... Co jest, kurwa!?
+Ah... Que porra é essa?!
+아... 아, 도대체 뭐야!?
+搞什麼鬼！？
+噢... 这是什么鬼东西！？
+Huh? What!?
+Hein ? C'est quoi ?
+Cosa?
+Was?!
+¿Qué...?
+А? Что?!
+Co to?!
+Hein? Que foi isso?!
+응? 뭐지!?
+嗯？什麼東西！？
+那是？什么！？
+Hmm...
+Hmm...
+Хм...
+Hmm...
+Hmm...
+흠...
+嗯...
+嗯...
+What...?
+Cosa?
+Was...?
+Что?..
+Co...?
+Quê?
+뭐지...?
+這...
+怎么回事...？
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24><PAGE></n>ああ ウソ…</n>ひどい…<PAGE></n>何？<PAGE></n>誰？
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Wha—?<PAGE></n>Oh, god! Poor guy...<PAGE></n>What!?<PAGE></n>Who's there!?
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Hein ?<PAGE></n>Oh, bon sang ! Le pauvre...<PAGE></n>Hein ?<PAGE></n>Qui est là ?!
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Cos...<PAGE></n>Oh, Dio! Poveraccio... Oh...<PAGE></n>Cosa?<PAGE></n>Chi va la?
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Was?<PAGE></n>O Gott. Armer Kerl...<PAGE></n>Was?!<PAGE></n>Wer ist da?!
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>¿Qué...?<PAGE></n>Oh Dios, pobre hombre...<PAGE></n>¡¿Qué?!<PAGE></n>¡¿Quién va?!
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Что...<PAGE></n>Боже! Бедняга...<PAGE></n>Что?!<PAGE></n>Кто здесь?!
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Co...?<PAGE></n>O, Boże! Biedaczysko...<PAGE></n>Co?!<PAGE></n>Jest tam kto?!
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>Quê?<PAGE></n>Nossa! Coitado...<PAGE></n>Quê?!<PAGE></n>Quem tá aí?!
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>뭐...?<PAGE></n>세상에! 불쌍해라...<PAGE></n>뭐지!?<PAGE></n>거기 누구야!?
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>什麼...<PAGE></n>天啊！可憐的傢伙...<PAGE></n>什麼！？<PAGE></n>是誰！？
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>什么？<PAGE></n>天啊！真是太惨了...<PAGE></n>怎么回事！？<PAGE></n>谁在那里！？
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+<TIME 5.19, 5.5><TIME 12.26, 14.2><TIME 18.06, 18.54><TIME 20.48, 21.24>
+Wha—?
+Hein ?
+Cos...
+Was?
+¿Qué...?
+Что...
+Co...?
+Quê?
+뭐...?
+什麼...
+什么？
+ああ ウソ…</n>ひどい…
+Oh, god! Poor guy...
+Oh, bon sang ! Le pauvre...
+Oh, Dio! Poveraccio... Oh...
+O Gott. Armer Kerl...
+Oh Dios, pobre hombre...
+Боже! Бедняга...
+O, Boże! Biedaczysko...
+Nossa! Coitado...
+세상에! 불쌍해라...
+天啊！可憐的傢伙...
+天啊！真是太惨了...
+何？
+What!?
+Hein ?
+Cosa?
+Was?!
+¡¿Qué?!
+Что?!
+Co?!
+Quê?!
+뭐지!?
+什麼！？
+怎么回事！？
+誰？
+Who's there!?
+Qui est là ?!
+Chi va la?
+Wer ist da?!
+¡¿Quién va?!
+Кто здесь?!
+Jest tam kto?!
+Quem tá aí?!
+거기 누구야!?
+是誰！？
+谁在那里！？

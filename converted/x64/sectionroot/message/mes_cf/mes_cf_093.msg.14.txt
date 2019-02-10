@@ -1,0 +1,557 @@
+﻿<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0010_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0020_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<COLOR FF0000>#Rejected#</COLOR> CF093_0050_pl7800_41
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>助けて！</n>頼む！　助けてくれ！<PAGE></n>つかまれ！<PAGE></n>こっちだ！<PAGE></n>そっちの手も！<PAGE></n><PAGE></n>しっかりしろ！<PAGE></n>そんな…<PAGE></n>クソ…
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>HELP ME! PLEASE! HELP ME!<PAGE></n>Gimme your hand!<PAGE></n>I got you.<PAGE></n>Gimme your other hand!<PAGE></n><PAGE></n>Hang in there!<PAGE></n>Oh my god...<PAGE></n>Jesus Christ...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>Aide-moi ! Putain, aide-moi !<PAGE></n>Donnez votre main !<PAGE></n>Je vous tiens.<PAGE></n>L'autre main, allez !<PAGE></n><PAGE></n>Tenez bon !<PAGE></n>Oh putain !<PAGE></n>C'est horrible !
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>Aiutami! Ti prego! Aiutami!<PAGE></n>Dammi la mano!<PAGE></n>Ti ho preso.<PAGE></n>Dammi anche l'altra!<PAGE></n><PAGE></n>Resisti!<PAGE></n>Oh mio Dio...<PAGE></n>Cristo santo...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>Hilfe! Bitte! Hilfe!<PAGE></n>Geben Sie mir die Hand!<PAGE></n>Ich hab Sie.<PAGE></n>Jetzt die andere Hand!<PAGE></n><PAGE></n>Durchhalten!<PAGE></n>Oh, mein Gott...<PAGE></n>Ach, du Scheiße...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>¡Ayuda! ¡¡Por favor!! ¡¡Ayúdame!!<PAGE></n>¡Dame la mano!<PAGE></n>¡Te tengo!<PAGE></n>¡La otra mano!<PAGE></n><PAGE></n>¡Aguanta!<PAGE></n>Dios mío...<PAGE></n>Santo cielo...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>ПОМОГИТЕ! ПОЖАЛУЙСТА! ПОМОГИТЕ!<PAGE></n>Дай мне руку!<PAGE></n>Держу.<PAGE></n>Давай другую руку!<PAGE></n><PAGE></n>Держись!<PAGE></n>О боже...<PAGE></n>Господи...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>POMOCY! BŁAGAM! POMOCY!<PAGE></n>Daj rękę!<PAGE></n>Mam cię!<PAGE></n>Daj drugą rękę!<PAGE></n><PAGE></n>Trzymaj się!<PAGE></n>O Boże...<PAGE></n>Jezu Chryste...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>SOCORRO! POR FAVOR! SOCORRO!<PAGE></n>Segura a minha mão!<PAGE></n>Te peguei.<PAGE></n>Me dá a outra mão!<PAGE></n><PAGE></n>Aguenta aí!<PAGE></n>Meu Deus...<PAGE></n>Cruzes...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>도와줘! 제발! 살려줘요!<PAGE></n>손 잡아요!<PAGE></n>잡았어요.<PAGE></n>다른쪽 손도!<PAGE></n><PAGE></n>버텨요!<PAGE></n>세상에...<PAGE></n>말도 안 돼...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>救我！拜託！救我！<PAGE></n>把手給我！<PAGE></n>我抓住你了。<PAGE></n>把另一隻手給我！<PAGE></n><PAGE></n>撐住！<PAGE></n>我的天啊...<PAGE></n>老天爺啊...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>救我！拜托！救救我！<PAGE></n>快握住我的手！<PAGE></n>我抓住你了。<PAGE></n>另一只手也伸过来给我！<PAGE></n><PAGE></n>坚持住！<PAGE></n>天啊...<PAGE></n>我的老天...
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<TIME 3.75, 5.50><TIME 5.53, 6.53><TIME 7.4, 8.4><TIME 10.6, 11.82><TIME 13.27, 16.93><TIME 16.96, 18.0><TIME 24.28, 25.35><TIME 25.75, 27.67>
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+<COLOR FF0000>#Rejected#</COLOR> CF093_0005_pl5700
+助けて！</n>頼む！　助けてくれ！
+HELP ME! PLEASE! HELP ME!
+Aide-moi ! Putain, aide-moi !
+Aiutami! Ti prego! Aiutami!
+Hilfe! Bitte! Hilfe!
+¡Ayuda! ¡¡Por favor!! ¡¡Ayúdame!!
+ПОМОГИТЕ! ПОЖАЛУЙСТА! ПОМОГИТЕ!
+POMOCY! BŁAGAM! POMOCY!
+SOCORRO! POR FAVOR! SOCORRO!
+도와줘! 제발! 살려줘요!
+救我！拜託！救我！
+救我！拜托！救救我！
+つかまれ！
+Gimme your hand!
+Donnez votre main !
+Dammi la mano!
+Geben Sie mir die Hand!
+¡Dame la mano!
+Дай мне руку!
+Daj rękę!
+Segura a minha mão!
+손 잡아요!
+把手給我！
+快握住我的手！
+こっちだ！
+I got you.
+Je vous tiens.
+Ti ho preso.
+Ich hab Sie.
+¡Te tengo!
+Держу.
+Mam cię!
+Te peguei.
+잡았어요.
+我抓住你了。
+我抓住你了。
+そっちの手も！
+Gimme your other hand!
+L'autre main, allez !
+Dammi anche l'altra!
+Jetzt die andere Hand!
+¡La otra mano!
+Давай другую руку!
+Daj drugą rękę!
+Me dá a outra mão!
+다른쪽 손도!
+把另一隻手給我！
+另一只手也伸过来给我！
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0030_pl0000
+しっかりしろ！
+Hang in there!
+Tenez bon !
+Resisti!
+Durchhalten!
+¡Aguanta!
+Держись!
+Trzymaj się!
+Aguenta aí!
+버텨요!
+撐住！
+坚持住！
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CF093_0040_pl0000
+そんな…
+Oh my god...
+Oh putain !
+Oh mio Dio...
+Oh, mein Gott...
+Dios mío...
+О боже...
+O Boże...
+Meu Deus...
+세상에...
+我的天啊...
+天啊...
+クソ…
+Jesus Christ...
+C'est horrible !
+Cristo santo...
+Ach, du Scheiße...
+Santo cielo...
+Господи...
+Jezu Chryste...
+Cruzes...
+말도 안 돼...
+老天爺啊...
+我的老天...
+Tell... Marvin...
+Préviens... Marvin...
+Dì a... Marvin...
+Sag... Marvin...
+Dile a... Marvin...
+Скажи... Марвин...
+Powiedz... Marvinowi...
+Fala... pro Marvin...
+마빈에게... 전해...
+告訴... 馬文...
+告诉... 马文...
+Huh...?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>開けてくれ！</n>頼む！　早く開けてくれ！<PAGE></n>つかまって！<PAGE></n>早く！</n>さあ そっちの手も！<PAGE></n>大丈夫よ！　しっかり！<PAGE></n>そんな…<PAGE></n><PAGE></n>ごめんなさい…<PAGE></n><PAGE></n>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>OPEN THE DOOR! HURRY UP! HURRY UP, OPEN IT!<PAGE></n>- Here, give me your hand!</n>- Here, here, help me!<PAGE></n>Hold on, give me your—give me your other hand.<PAGE></n>It's OK! I got you!<PAGE></n>Oh...Oh my god...<PAGE></n>Tell... Marvin...<PAGE></n>I'm so sorry...<PAGE></n>Oh, god...<PAGE></n>Huh?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>Ouvre la porte ! Vite ! Dépêche-toi, ouvre-la !<PAGE></n>- Donnez-moi votre main !</n>- Vite, vite, aide-moi !<PAGE></n>Allez, un petit effort... Donnez-moi l'autre main !<PAGE></n>C'est bon ! Je vous tiens !<PAGE></n>Oh... Oh mon Dieu...<PAGE></n>Préviens... Marvin...<PAGE></n>Je suis désolée...<PAGE></n>Oh, non...<PAGE></n>Hein ?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>La serranda! Aprite! Avanti, aprite!<PAGE></n>Dai, dammi la mano!<PAGE></n>Forza, dammi la... Dammi l'altra mano.<PAGE></n>Tranquillo! Ti ho preso!<PAGE></n>Oh mio Dio!<PAGE></n>Dì a... Marvin...<PAGE></n>Mi dispiace...<PAGE></n>Oh mio Dio...<PAGE></n>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>Die Tür auf! Aufmachen! Aufmachen! Bitte!<PAGE></n>Hier, geben Sie mir die Hand!<PAGE></n>Festhalten, geben Sie –</n>geben Sie mir die andere Hand.<PAGE></n>Ist okay! Ich hab Sie!<PAGE></n>Oh... Oh, mein Gott...<PAGE></n>Sag... Marvin...<PAGE></n>Tut mir so leid...<PAGE></n>Oh, Gott...<PAGE></n>Hm?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>¡La persiana! ¡Rápido! ¡¡Rápido, súbela!!<PAGE></n>- ¡Dame la mano!</n>- ¡Oye! ¡Aquí! ¡¡Ayuda!!<PAGE></n>¡Espera, dame... la otra mano!<PAGE></n>¡Está bien! ¡Te tengo!<PAGE></n>Oh... ¡oh Dios mío!<PAGE></n>Dile a... Marvin...<PAGE></n>Lo siento....<PAGE></n>Oh Dios...<PAGE></n>¿Eh?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>ОТКРОЙ ДВЕРЬ! СКОРЕЕ! ОТКРЫВАЙ СКОРЕЕ!<PAGE></n>Дай мне свою руку!</n>Помоги, помоги мне!<PAGE></n>Держись, дай мне... Дай мне другую руку.<PAGE></n>Все хорошо! Я держу!<PAGE></n>Ох... О боже...<PAGE></n>Скажи... Марвин...<PAGE></n>Прости меня...<PAGE></n>Боже мой...<PAGE></n>Что?..
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>OTWÓRZ DRZWI! SZYBKO! OTWIERAJ!<PAGE></n> -Tutaj, daj rękę!</n> -Tutaj, tutaj, pomoż mi!<PAGE></n>Trzymaj się, daj... daj drugą rękę.<PAGE></n>Dobra! Mam cię!<PAGE></n>O… O mój Boże…<PAGE></n>Powiedz... Marvinowi...<PAGE></n>Tak mi przykro...<PAGE></n>O, Boże...<PAGE></n>Hm?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>ABRE A PORTA! RÁPIDO! VAI LOGO, ABRE!<PAGE></n>- Aqui, me dá a mão!</n>- Aqui, aqui, me ajuda!<PAGE></n>Espera, me dá... me dá a outra mão!<PAGE></n>Tá tudo bem! Eu te peguei!<PAGE></n>Ah... Ai, meu Deus...<PAGE></n>Fala... pro Marvin...<PAGE></n>Me desculpa...<PAGE></n>Ai, meu Deus...<PAGE></n>Hã?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>문 열어! 얼른! 빨리, 열라고!<PAGE></n>- 여기야, 손 잡아줘!</n>- 여기, 여기야, 도와줘!<PAGE></n>잠깐, 손— 반대쪽 손도요.<PAGE></n>괜찮아요! 잡았어요!<PAGE></n>아... 맙소사...<PAGE></n>마빈에게... 전해...<PAGE></n>정말 미안해요…<PAGE></n>아, 이런...<PAGE></n>음?
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>把門打開！快點！快打開！<PAGE></n>- 快，把手給我！</n>- 在這裡，在這裡，救命！<PAGE></n>等等，另一隻、把另一隻手給我。<PAGE></n>沒事的！我抓住你了！<PAGE></n>噢... 噢，我的天啊...<PAGE></n>告訴... 馬文...<PAGE></n>對不起...<PAGE></n>噢，天啊...<PAGE></n>嗯？
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>开门！快点！快打开！<PAGE></n>- 来，快握住我的手！</n>- 这里，这里，救我！<PAGE></n>坚持住，把另一只、另一只手也伸给我。<PAGE></n>没事了！我抓住你了！<PAGE></n>噢... 噢，天啊...<PAGE></n>告诉... 马文...<PAGE></n>我很抱歉...<PAGE></n>天啊...<PAGE></n>什么？
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+<TIME 0.04, 3.95><TIME 4.38, 5.71><TIME 9.34, 11.7><TIME 16.39, 18.44><TIME 22.78, 24.31><TIME 25.81, 27.59><TIME 29.83, 31.48><TIME 34.73, 35.85><TIME 39.0, 39.94>
+開けてくれ！</n>頼む！　早く開けてくれ！
+OPEN THE DOOR! HURRY UP! HURRY UP, OPEN IT!
+Ouvre la porte ! Vite ! Dépêche-toi, ouvre-la !
+La serranda! Aprite! Avanti, aprite!
+Die Tür auf! Aufmachen! Aufmachen! Bitte!
+¡La persiana! ¡Rápido! ¡¡Rápido, súbela!!
+ОТКРОЙ ДВЕРЬ! СКОРЕЕ! ОТКРЫВАЙ СКОРЕЕ!
+OTWÓRZ DRZWI! SZYBKO! OTWIERAJ!
+ABRE A PORTA! RÁPIDO! VAI LOGO, ABRE!
+문 열어! 얼른! 빨리, 열라고!
+把門打開！快點！快打開！
+开门！快点！快打开！
+つかまって！
+- Here, give me your hand!</n>- Here, here, help me!
+- Donnez-moi votre main !</n>- Vite, vite, aide-moi !
+Dai, dammi la mano!
+Hier, geben Sie mir die Hand!
+- ¡Dame la mano!</n>- ¡Oye! ¡Aquí! ¡¡Ayuda!!
+Дай мне свою руку!</n>Помоги, помоги мне!
+ -Tutaj, daj rękę!</n> -Tutaj, tutaj, pomoż mi!
+- Aqui, me dá a mão!</n>- Aqui, aqui, me ajuda!
+- 여기야, 손 잡아줘!</n>- 여기, 여기야, 도와줘!
+- 快，把手給我！</n>- 在這裡，在這裡，救命！
+- 来，快握住我的手！</n>- 这里，这里，救我！
+早く… 助けて…
+Here, here, help me!
+Vite, vite, aide-moi !
+Aiuto, aiuto!
+Hören Sie, hier, Hilfe!
+¡Oye! ¡Aquí! ¡¡Ayuda!!
+Помоги, помоги мне!
+Tutaj, pomocy!
+Aqui, aqui, me ajuda!
+여기, 여기야, 도와줘!
+在這裡，在這裡，救命！
+这里，这里，救我！
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2030_pl1000
+早く！</n>さあ そっちの手も！
+Hold on, give me your—give me your other hand.
+Allez, un petit effort... Donnez-moi l'autre main !
+Forza, dammi la... Dammi l'altra mano.
+Festhalten, geben Sie –</n>geben Sie mir die andere Hand.
+¡Espera, dame... la otra mano!
+Держись, дай мне... Дай мне другую руку.
+Trzymaj się, daj... daj drugą rękę.
+Espera, me dá... me dá a outra mão!
+잠깐, 손— 반대쪽 손도요.
+等等，另一隻、把另一隻手給我。
+坚持住，把另一只、另一只手也伸给我。
+（叫び）
+AAAAAAAHHHHHHHHH!!!
+Ah!
+А-А-А-А-А-А-А-А-А-А-А-А!
+AAAAAAAHHHHHHHHH!!!
+AAAAAAAHHHHHHHHH!
+아아아아아악!
+啊啊啊啊啊啊啊！
+啊啊啊啊啊啊啊！！！
+大丈夫よ！　しっかり！
+It's OK! I got you!
+C'est bon ! Je vous tiens !
+Tranquillo! Ti ho preso!
+Ist okay! Ich hab Sie!
+¡Está bien! ¡Te tengo!
+Все хорошо! Я держу!
+Dobra! Mam cię!
+Tá tudo bem! Eu te peguei!
+괜찮아요! 잡았어요!
+沒事的！我抓住你了！
+没事了！我抓住你了！
+そんな…
+Oh...Oh my god...
+Oh... Oh mon Dieu...
+Oh mio Dio!
+Oh... Oh, mein Gott...
+Oh... ¡oh Dios mío!
+Ох... О боже...
+O… O mój Boże…
+Ah... Ai, meu Deus...
+아... 맙소사...
+噢... 噢，我的天啊...
+噢... 噢，天啊...
+Tell... Marvin...
+Préviens... Marvin...
+Dì a... Marvin...
+Sag... Marvin...
+Dile a... Marvin...
+Скажи... Марвин...
+Powiedz... Marvinowi...
+Fala... pro Marvin...
+마빈에게... 전해...
+告訴... 馬文...
+告诉... 马文...
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CF093_2080_pl1000
+ごめんなさい…
+I'm so sorry...
+Je suis désolée...
+Mi dispiace...
+Tut mir so leid...
+Lo siento....
+Прости меня...
+Tak mi przykro...
+Me desculpa...
+정말 미안해요…
+對不起...
+我很抱歉...
+Oh, god...
+Oh, non...
+Oh mio Dio...
+Oh, Gott...
+Oh Dios...
+Боже мой...
+O, Boże...
+Ai, meu Deus...
+아, 이런...
+噢，天啊...
+天啊...
+Huh?
+Hein ?
+Hm?
+¿Eh?
+Что?..
+Hm?
+Hã?
+음?
+嗯？
+什么？

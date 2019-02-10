@@ -1,0 +1,322 @@
+﻿１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６
+123456789012345678901234567890123456789012345678901234567890123456789
+何もなしか
+Nothing out here...
+Y'a rien par là...
+Qui non c'è niente...
+Hier draußen ist nichts...
+No hay nada.
+Здесь ничего...
+Nic tu nie ma...
+Nada aqui fora...
+밖엔 아무것도 없어...
+這裡什麼也沒有...
+这里什么都没有...
+時間のムダだ
+Waste of time...
+J'ai pas le temps...
+Non è il momento...
+Zeitverschwendung...
+Pierdo el tiempo...
+Пустая трата времени...
+Strata czasu...
+Perda de tempo...
+시간 낭비야...
+白白浪費時間...
+白白浪费时间...
+なんにもない…
+Middle of nowhere...
+Au milieu de nulle part...
+In mezzo al nulla...
+Mitten im Nirgendwo...
+En medio de la nada...
+Глушь какая-то...
+To jakieś pustkowie...
+No meio do nada...
+정말 외진 곳이네...
+走遠了...
+走远了...
+戻った方がよさそう
+That was a bad idea...
+C'est pas le moment...
+Pessima idea...
+Das war eine schlechte Idee...
+Qué mala idea...
+Плохая была идея...
+To był kiepski pomysł...
+Foi uma péssima ideia...
+돌아가는게 좋겠어...
+不該走遠的...
+真不该这么做的...
+大丈夫か？
+You all right!?
+Ça va ?
+Sta bene?
+Alles in Ordnung?!
+¿Está bien?
+Ты в порядке?!
+Żyjesz?!
+Você tá bem?!
+무슨 일이죠!?
+你還好吧！？
+你没事吧！？
+大丈夫！？
+Are you OK!?
+Est-ce que ça va ?
+Tutto bene?
+Alles in Ordnung?!
+¡¿Estás bien?!
+Ты как?!
+Nic ci nie jest?!
+Tá tudo bem?!
+괜찮은 거예요!?
+你還好嗎！？
+你还好吗！？
+動かないで</n>すぐに戻る
+Don't move... I'll be back for you.
+Bougez pas. Je vais revenir vous aider.
+Tenga duro. Torno subito.
+Bleiben Sie da.</n>Ich komme zurück.
+Espere. Volveré enseguida.
+Стой там... Я вернусь за тобой.
+Nie ruszaj się... Wrócę po ciebie.
+Não se mexe... Já venho te buscar.
+움직이지 마세요... 곧 돌아올 테니까.
+別亂動... 我會回來找你的。
+别乱动，我会回来找你的。
+待ってて</n>見てくる
+Wait here. I'll check it out.
+Restez ici. Je vais jeter un œil.
+Aspetti qui. Vado a vedere.
+Warten Sie hier.</n>Ich schau mal nach.
+Espera. Voy a ver.
+Жди там. Я проверю.
+Poczekaj tu. Sprawdzę to.
+Espera aqui. Vou dar uma olhada.
+여기서 기다려요. 내가 확인할게요.
+在這裡等我。我去看看。
+在这里等我，我去看看。
+おい！　何してる！？
+Hey! What're you doing!?
+Hé ! Qu'est-ce que ça veut dire ?
+Ehi! Che sta facendo?
+Hey! Was soll denn das!?
+¡Eh! ¡¿Qué estás haciendo?!
+Эй! Что ты делаешь?!
+Hej! Co ty robisz?!
+Ei! O que você tá fazendo?!
+이봐요! 지금 뭐 하는 겁니까!?
+喂！你這是在幹什麼！？
+喂！你在做什么！？
+ちょっと… 何なの！？
+Hey! What the hell!?
+Hé ! Qu'est-ce que ça veut dire ?
+Ehi! Ma che diavolo...
+Hey! Was zum Teufel!?
+¡Eh! ¡¿Qué demonios...?!
+Эй! Какого черта?!
+Hej! Co jest?!
+Ei! Que porra é essa?!
+이봐요! 도대체 뭐죠?
+喂！搞什麼鬼啊！？
+喂！搞什么鬼！？
+止まれ！　撃つぞ…！
+Freeze...! I'll shoot!
+Bouge pas ! Ou je tire !
+Non muoverti! O sparo!
+Stopp! Ich schieße!
+¡Alto! ¡O disparo...!
+Стоять!.. Иначе я стреляю!
+Stój...! Bo strzelę!
+Parado! Vou atirar!
+꼼짝 마...! 쏘겠다!
+不准動...！我要開槍囉！
+别动！不然我要开枪了！
+それ以上 近づかないで！
+Don't come any closer!
+Ne t'approche pas de moi !
+Non provare ad avvicinarti!
+Kommen Sie mir nicht näher!
+¡No des un paso más!
+Не подходи ко мне!
+Ani kroku dalej!
+Nem mais um passo!
+가까이 오지 마!
+別再靠近了！
+别再靠近了！
+バカな…　ありえない…
+No way...this can't be!
+Non... C'est impossible...
+Impossibile... Non può essere...
+Unmöglich...</n>Das kann nicht sein!
+Ni hablar... No puede ser...
+Что это... Этого не может быть!
+Nie... to niemożliwe!
+Não creio... Impossível!
+말도 안 돼... 이럴 수가!
+不會吧... 這不可能！
+不会吧... 这不可能！
+ありえない…</n>まだ生きてるなんて…
+No way...can't be alive!
+Impossible... Il peut pas être vivant !
+Impossibile... Non può essere vivo!
+Unmöglich...</n>Wie ist der am Leben!?
+No puede ser. No puede estar vivo.
+Что это... Почему ты не умираешь?
+Niemożliwe... nie mógł przeżyć!
+Não pode... estar vivo!
+말도 안 돼... 살아 있을 리가 없는데!
+不會吧... 怎麼可能還活著！
+不会吧... 怎么可能还活着！
+これは…
+What the—!?
+C'est quoi, ça ?!
+Ma che...
+Was zum!?
+¡Joder!
+Какого?..
+Co do jasnej...?!
+Mas o quê?!
+도대체 뭐—!?
+這什麼...！？
+什么鬼...！？
+まるで悪夢だわ…
+It's like...a nightmare.
+Mais qu'est-ce qui se passe ici ?!
+È come un incubo.
+Ist wie ein Albtraum.
+Es una pesadilla.
+Чертовщина какая-то.
+To jakiś... koszmar.
+Parece... um pesadelo.
+마치... 악몽 같아.
+這是... 惡夢嗎。
+简直像... 恶梦一样。
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV124_0010_pl0000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+<COLOR FF0000>#Rejected#</COLOR> CONV280_0010_pl1000
+一体どうなってる？
+This is outta control!
+C'est l'apocalypse !
+Tutto questo è assurdo!
+Das reinste Chaos!
+Esto está descontrolado.
+Это настоящее безумие!
+Wszystko wymknęło się spod kontroli!
+Já saiu de controle!
+통제 불능 상태야!
+這太離譜了！
+这太夸张了！
+とにかく… 先へ進もう
+Can't stop... Gotta keep moving.
+Allez... Faut pas que je reste là.
+Non posso stare qui... Devo andarmene.
+Darf nicht anhalten...</n>Muss in Bewegung bleiben.
+No puedo quedarme... Debo irme.
+Нельзя останавливаться...</n>Нужно идти.
+Nie mogę się zatrzymywać...</n>Muszę iść dalej.
+Não posso parar...
+멈출 수 없어... 계속 가야 해.
+不能停下來... 得繼續走才行。
+不能停下脚步... 必须继续走才行。
+まさか…</n>この街の…住民はみんな…
+Shit... It's everybody...! They've all turned...
+Merde ! C'est tout le monde... Ils se sont tous transformés !
+Merda... Tutti... Si sono trasformati tutti.
+Scheiße...</n>Die sind alle so! Alle verwandelt.
+Mierda... Todos igual. Se han transformado.
+Черт... Они все такие!..</n>Все обратились...
+Niech to... Wszyscy...!</n>Wszyscy się przemienili...
+Merda... Todo mundo virou...
+젠장... 다들...! 다들 변해 버렸군...
+可惡... 每一個人都...！他們都變成了...
+该死... 每个人都...！他们都变成...
+世界の終わりみたい…
+It's like the end of the world...!
+On croirait la fin du monde !
+Sembra l'apocalisse!
+Ist wie das Ende der Welt!
+¡Parece el fin del mundo!
+Это какой-то конец света!..
+To jakiś koniec świata...!
+Parece o fim do mundo!
+종말이 온 것만 같아...!
+簡直就像世界末日一樣...！
+简直就像世界末日...！
+よかった　警察署だ
+There it is...the station.
+Le voilà... Le commissariat.
+Finalmente! La centrale.
+Da ist sie... die Polizeistation.
+Ahí está... La comisaría.
+Вот он... участок.
+Jest... posterunek.
+Olha lá... a delegacia.
+저기 있군... 경찰서야.
+看到了... 警察局。
+看到了... 是警察局。
+警察署だわ！</n>あと少し…
+The police station...! Almost there...
+Le commissariat ! J'y suis presque...
+La centrale di polizia! Ci sono quasi.
+Die Polizeistation! Bin fast da.
+¡La comisaría! Ya casi estoy...
+Полицейский участок!..</n>Еще чуть-чуть...
+Posterunek policji...!</n>Już niedaleko...
+A delegacia! Falta pouco...
+경찰서야...! 거의 다 왔어...
+警察局...！就快到了...
+是警察局...！就快到了...

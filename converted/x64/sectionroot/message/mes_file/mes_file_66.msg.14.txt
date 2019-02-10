@@ -1,0 +1,36 @@
+﻿修理業者の作業計画書
+Repair Plan
+Projet de réparation
+Piano di riparazione
+Reparaturplan
+Plan de reparaciones
+План ремонта
+Plan naprawy
+Plano de Conserto
+수리 계획
+修理計畫
+修复计划
+修繕対象：</n>警察署西側の時計台</n></n>文化財としての高い価値を鑑み、</n>修繕にあたって専門の技術者を招く予定です。</n>本格的な作業は、彼の到着を待って開始します。</n>ただし、留め金が激しく劣化し危険であるため、</n>落下防止の処置のみ緊急で行います。
+Location: Police station west side clock tower</n></n>Due to the high cultural value of the bell, I'm</n>calling a specialist in to make the repairs.</n>Will go over the details once they're on the</n>scene, but in the meantime, I'll take steps to</n>secure the bell since the yoke is threatening</n>to break.
+Lieu : horloge ouest du commissariat</n></n>En raison de la grande valeur culturelle de</n>la cloche, j'appelle un spécialiste pour les</n>réparations. On verra les détails quand il</n>sera sur place, mais en attendant, je vais</n>sécuriser la cloche pour éviter un accident.
+Luogo: centrale di polizia,</n>lato ovest della torre dell'orologio</n></n>Dato il grande valore storico della campana,</n>chiamerò uno specialista per farla riparare.</n>Illustrerò i dettagli una volta che sarà arrivato.</n>Nel frattempo, metterò in sicurezza la campana,</n>in quanto il supporto minaccia di rompersi.
+Ort: Polizeistation, westlicher Uhrenturm</n></n>Aufgrund des hohen kulturellen Werts</n>der Glocke werde ich einen Spezialisten für die</n>Reparatur anfordern. Weitere Informationen</n>folgen, wenn er da ist. Bis dahin werde ich</n>Maßnahmen zur Sicherung der Glocke</n>betreiben, da das Joch zu brechen droht.
+Lugar: Torre del reloj al oeste de la comisaría</n></n>Debido al valor cultural de la campana,</n>he llamado a un especialista para repararla.</n>Revisaremos los detalles cuando lleguen,</n>pero mientras tomaré medidas para asegurarla,</n>ya que el yugo amenaza con romperse.
+Место: часовая башня в западной части</n>полицейского участка</n></n>Ввиду высокой исторической ценности колокола,</n>мне пришлось доверить его ремонт специалисту.</n>Подробностями поделюсь, когда он прибудет,</n>а пока просто закреплю колокол, потому</n>что хомут вот-вот треснет.
+Miejsce: Posterunek policji, wieża zegarowa</n>po stronie zachodniej</n></n>Ze względu na zabytkowy charakter dzwonu</n>do naprawy wzywam specjalistę. Omówimy</n>sprawę na miejscu, ale w międzyczasie podejmę</n>działania zmierzające do zabezpieczenia dzwonu</n>ze względu na ryzyko uszkodzenia mocowania.
+Local: Torre do relógio oeste da delegacia.</n></n>Devido ao alto valor cultural do sino,</n>vou chamar um especialista para fazer o</n>conserto. Repasso os detalhes quando</n>chegar no local, mas enquanto isso, não</n>vou deixar o sino ser danificado, já que</n>a sustentação está ameaçando ceder.
+장소: 경찰서 서쪽 시계탑</n></n>종의 높은 문화적 가치로 인해</n>전문가를 불러 수리하기로 함.</n>그들이 현장에 오면 상세 내용을</n>확인할 것이며, 그 전에 받침대가</n>부러질 위험이 있으므로 보강 조치를</n>취할 예정.
+地點：警局西側鐘樓</n></n>由於那鼎鐘具有很高的文化價值，我會打電話</n>請專人過來修理。等他們來到現場，我</n>會再細說細節，但在那之前，我會先把</n>鐘固定好，那條軛快要斷了。
+地点：警察局钟楼西侧</n></n>由于钟楼有很高的文化价值，</n>我正召集专家进行维修。等他们</n>到了现场便会讨论细节，但同</n>时，因为轴承有可能断掉，所</n>以我会想办法把这个钟加固。</n>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

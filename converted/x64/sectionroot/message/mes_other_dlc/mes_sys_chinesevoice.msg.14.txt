@@ -1,0 +1,64 @@
+﻿中国語 [zh]
+Chinese [zh]
+Chinois [zh]
+Cinese [zh]
+Chinesisch [zh]
+Chino [zh]
+Китайский [zh]
+Chiński [zh]
+Chinês [zh]
+중국어 [zh]
+中文普通話 [zh]
+中文普通话 [zh]
+音声言語に「中国語」が追加されました。</n>オプションの「音声言語」の項目から切り替えられます。
+Chinese voice has been added.</n>You can change the voice language from Options → Language → Voice Language.
+Le doublage chinois a été ajouté.</n>Vous pouvez changer la langue des voix via :</n>Options → Langue → Voix
+Il doppiaggio in lingua cinese è ora disponibile.</n>Puoi selezionarlo da Opzioni → Lingua → Lingua delle voci.
+Es wurde chinesische Sprachausgabe hinzugefügt.</n>Sie können die Sprache der Sprachausgabe unter</n>Optionen  → Sprache  →  Sprachausgabe ändern.
+Se han añadido voces en chino.</n>Puedes cambiar el idoma de las voces desde Opciones → Idioma → Idioma de voces.
+В игре появилась озвучка на китайском языке.</n>Язык озвучки можно изменить в меню «Настройки» → «Язык» → «Язык озвучки».
+Dodano dialogi w języku chińskim.</n>Możesz zmienić język dialogów w obszarze Opcje → Język → Język nagrań głosowych.
+Acrescentamos dublagem em chinês.</n>Você pode alterar o idioma da dublagem em Opções → Idioma → Idioma das Vozes.
+중국어 음성이 추가되었습니다.</n>음성 언어는 옵션 → 언어 → 음성 언어에서 변경할 수 있습니다.
+追加了中文語音。</n>可以在選項 - 語言 - 語音語言選擇。
+追加了中文语音。</n>可以在选项 - 语言 - 语音语言选择。
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_ChineseVoice_DLCError
+中国語ボイスパック
+Mandarin Voice Pack
+Pack de voix : Chinois mandarin
+Pacchetto voci cinese mandarino
+Hochchinesische Sprachausgabe
+Pack de voces en chino mandarín
+Озвучка на севернокитайском языке
+Mandaryński pakiet głosowy
+Pacote de Vozes (Mandarim)
+북경어 음성 팩
+中文語音包
+中文语音包

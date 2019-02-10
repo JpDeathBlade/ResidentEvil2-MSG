@@ -1,0 +1,64 @@
+﻿<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>もしもし…？<PAGE></n>ごきげんよう クレア<PAGE></n>取引をしようじゃないか
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Hello...?<PAGE></n>Good to see you again, Claire.<PAGE></n>We've got unfinished business.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Allô ?<PAGE></n>Content de te revoir, Claire.<PAGE></n>On a une affaire à régler, toi et moi.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Pronto?<PAGE></n>Eccoti qui, Claire.<PAGE></n>Abbiamo un affare in sospeso.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Hallo?<PAGE></n>Schön, dich wiederzusehen, Claire.<PAGE></n>Wir haben noch eine Rechnung offen.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>¿Hola...?<PAGE></n>Me alegro de verte, Claire.<PAGE></n>Tenemos asuntos pendientes.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Эй?..<PAGE></n>Рад снова видеть тебя, Клэр.<PAGE></n>У нас есть незаконченное дельце.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Halo...?<PAGE></n>Miło cię znowu widzieć, Claire.<PAGE></n>Mamy niedokończone sprawy.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>Alô?<PAGE></n>Bom te ver de novo, Claire.<PAGE></n>A gente tem um assunto a resolver.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>여보세요…?<PAGE></n>다시 보니 반갑군, 클레어.<PAGE></n>아직 우리 해결을 못 봤잖아.
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>喂？<PAGE></n>克蕾兒，很高興又相見了。<PAGE></n>我們還有帳得算。
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>哪位...？<PAGE></n>真高兴又见面了，克莱尔。<PAGE></n>我们还有笔帐没算呢。
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+<TIME 17.77, 18.48><TIME 18.72, 20.39><TIME 21.80, 24.00>
+もしもし…？
+Hello...?
+Allô ?
+Pronto?
+Hallo?
+¿Hola...?
+Эй?..
+Halo...?
+Alô?
+여보세요…?
+喂？
+哪位...？
+ごきげんよう クレア
+Good to see you again, Claire.
+Content de te revoir, Claire.
+Eccoti qui, Claire.
+Schön, dich wiederzusehen, Claire.
+Me alegro de verte, Claire.
+Рад снова видеть тебя, Клэр.
+Miło cię znowu widzieć, Claire.
+Bom te ver de novo, Claire.
+다시 보니 반갑군, 클레어.
+克蕾兒，很高興又相見了。
+真高兴又见面了，克莱尔。
+取引をしようじゃないか
+We've got unfinished business.
+On a une affaire à régler, toi et moi.
+Abbiamo un affare in sospeso.
+Wir haben noch eine Rechnung offen.
+Tenemos asuntos pendientes.
+У нас есть незаконченное дельце.
+Mamy niedokończone sprawy.
+A gente tem um assunto a resolver.
+아직 우리 해결을 못 봤잖아.
+我們還有帳得算。
+我们还有笔帐没算呢。

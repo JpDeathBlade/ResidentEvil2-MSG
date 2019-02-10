@@ -1,0 +1,116 @@
+﻿<TIME 5.72, 7.56><TIME 17.58, 18.15>誰か いないのか？<PAGE></n>何なんだ…
+<TIME 5.72, 7.56><TIME 17.58, 18.15>Hello? Anybody there!?<PAGE></n>Something's not right...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>Hé ho ! Y'a quelqu'un ?<PAGE></n>Quelque chose tourne pas rond...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>Ehilà? C'è nessuno?<PAGE></n>C'è qualcosa che non va...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>Hallo? Irgendjemand da?!<PAGE></n>Hier stimmt was nicht...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>¡Hola! ¿Hay alguien ahí?<PAGE></n>Esto no me gusta...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>Эй?.. Есть тут кто-нибудь?!<PAGE></n>Что-то не так...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>Halo? Jest tu kto?!<PAGE></n>Coś tu nie gra...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>Oi? Tem alguém aí?<PAGE></n>Tem alguma coisa errada...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>저기요? 거기 누구 있습니까?<PAGE></n>뭔가 잘못됐어...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>喂？有人在嗎！？<PAGE></n>事情不太對勁...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>喂！有人在吗？<PAGE></n>有点不对劲...
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+<TIME 5.72, 7.56><TIME 17.58, 18.15>
+誰か いないのか？
+Hello? Anybody there!?
+Hé ho ! Y'a quelqu'un ?
+Ehilà? C'è nessuno?
+Hallo? Irgendjemand da?!
+¡Hola! ¿Hay alguien ahí?
+Эй?.. Есть тут кто-нибудь?!
+Halo? Jest tu kto?!
+Oi? Tem alguém aí?
+저기요? 거기 누구 있습니까?
+喂？有人在嗎！？
+喂！有人在吗？
+何なんだ…
+Something's not right...
+Quelque chose tourne pas rond...
+C'è qualcosa che non va...
+Hier stimmt was nicht...
+Esto no me gusta...
+Что-то не так...
+Coś tu nie gra...
+Tem alguma coisa errada...
+뭔가 잘못됐어...
+事情不太對勁...
+有点不对劲...
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>あのう…<PAGE></n>誰かいませんか？<PAGE></n>いないの？
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Hello?<PAGE></n>Anybody here?<PAGE></n>Hello...?
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Hé oh ?<PAGE></n>Est-ce qu'il y a quelqu'un ?<PAGE></n>Hé oh !
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Ehilà?<PAGE></n>C'è qualcuno qui?<PAGE></n>Ehilà?
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Hallo?<PAGE></n>Irgendjemand hier?<PAGE></n>Hallo?
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>¿Hola?<PAGE></n>¿Hay alguien ahí?<PAGE></n>¿Hola...?
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Эй?<PAGE></n>Есть тут кто-нибудь?<PAGE></n>Эй?..
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Halo?<PAGE></n>Jest tu ktoś?<PAGE></n>Halo...?
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>Oi?<PAGE></n>Tem alguém aí?<PAGE></n>Ei?
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>저기요?<PAGE></n>누구 있어요?<PAGE></n>저기요...?
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>有人嗎？<PAGE></n>有人在嗎？<PAGE></n>有人嗎？
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>有人吗？<PAGE></n>有人在吗？<PAGE></n>有人吗...？
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+<TIME 2.32, 3.01><TIME 6.29, 7.89><TIME 15.66, 16.71>
+あのう…
+Hello?
+Hé oh ?
+Ehilà?
+Hallo?
+¿Hola?
+Эй?
+Halo?
+Oi?
+저기요?
+有人嗎？
+有人吗？
+誰かいませんか？
+Anybody here?
+Est-ce qu'il y a quelqu'un ?
+C'è qualcuno qui?
+Irgendjemand hier?
+¿Hay alguien ahí?
+Есть тут кто-нибудь?
+Jest tu ktoś?
+Tem alguém aí?
+누구 있어요?
+有人在嗎？
+有人在吗？
+いないの？
+Hello...?
+Hé oh !
+Ehilà?
+Hallo?
+¿Hola...?
+Эй?..
+Halo...?
+Ei?
+저기요...?
+有人嗎？
+有人吗...？

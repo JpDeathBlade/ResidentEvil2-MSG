@@ -1,0 +1,60 @@
+﻿仮眠室利用履歴
+Nap Room Log
+Journal de la salle de repos
+Registro stanza relax
+Schlafraumprotokoll
+Registro de la sala de descanso
+Журнал комнаты отдыха
+Rejestr pokoju wypoczynkowego
+Registro da Sala da Soneca
+수면실 일지
+午休室記錄
+午睡室日志
+18545　トビー・ジャクソン</n><CENTER>入室03：44　退室07：31</n></n>18546　サラ・タカハシ</n><CENTER>入室04：51　退室07：08</n></n>18547　ウォルト・ペイジ</n><CENTER>入室12：03　退室13：36
+18545 Toby Jackson</n><CENTER> Entered: 03:44   Left: 07:31</n></n>18546 Sara Takahashi</n><CENTER>Entered: 04:51   Left: 07:08</n></n>18547 Walt Paige</n><CENTER>Entered: 12:03   Left: 13:36
+18545 Toby Jackson</n><CENTER> Arrivée : 03 h 44   Départ : 07 h 31</n></n>18546 Sara Takahashi</n><CENTER>Arrivée : 04 h 51   Départ : 07 h 08</n></n>18547 Walt Paige</n><CENTER>Arrivée : 12 h 03   Départ : 13 h 36
+18545 Toby Jackson</n><CENTER> Entrata: 03:44   Uscita: 07:31</n></n>18546 Sara Takahashi</n><CENTER>Entrata: 04:51   Uscita: 07:08</n></n>18547 Walt Paige</n><CENTER>Entrata: 12:03   Uscita: 13:36
+18545 Toby Jackson</n><CENTER> Zugang: 03:44   Verlassen: 07:31</n></n>18546 Sara Takahashi</n><CENTER>Zugang: 04:51   Verlassen: 07:08</n></n>18547 Walt Paige</n><CENTER>Zugang: 12:03   Verlassen: 13:36
+18545 Toby Jackson</n><CENTER>Entrada: 03:44   Salida: 07:31</n></n>18546 Sara Takahashi</n><CENTER>Entrada: 04:51   Salida: 07:08</n></n>18547 Walt Paige</n><CENTER>Entrada: 12:03   Salida: 13:36
+18545 Тоби Джексон</n><CENTER> Вход: 03:44   Выход: 07:31</n></n>18546 Сара Такахаси</n><CENTER>Вход: 04:51   Выход: 07:08</n></n>18547 Уолт Пейдж</n><CENTER>Вход: 12:03   Выход: 13:36
+18545 Toby Jackson</n><CENTER> Wejście: 03:44   Wyjście: 07:31</n></n>18546 Sara Takahashi</n><CENTER>Wejście: 04:51   Wyjście: 07:08</n></n>18547 Walt Paige</n><CENTER>Wejście: 12:03   Wyjście: 13:36
+18545 Toby Jackson</n><CENTER>Entrou: 03h44   Saiu: 07h31</n></n>18546 Sara Takahashi</n><CENTER>Entrou: 04h51   Saiu: 07h08</n></n>18547 Walt Paige</n><CENTER>Entrou: 12h03   Saiu: 13h36
+18545 토비 잭슨</n><CENTER> 입실: 03:44   퇴실: 07:31</n></n>18546 사라 다카하시</n><CENTER>입실: 04:51   퇴실: 07:08</n></n>18547 월트 페이지</n><CENTER>입실: 12:03   퇴실: 13:36
+18545 托比·傑克遜</n><CENTER>進入時間：03:44   離開時間：07:31</n></n>18546 高橋·莎拉</n><CENTER>進入時間：04:51   離開時間：07:08</n></n>18547 華特·佩奇</n><CENTER>進入時間：12:03   離開時間：13:36
+18545 托比·杰克森</n><CENTER>入室时间 03:44   离开时间 07:31</n></n>18546 高桥莎拉</n><CENTER>入室时间 04:51   离开时间 07:08</n></n>18547 华尔特·派吉</n><CENTER>入室时间 12:03   离开时间 13:36
+18548　アンソニー・ホワイト</n><CENTER>入室12：05　退室12：48</n></n>18549　シリル・アーチャー</n><CENTER>入室18：01　退室20：21</n></n>18550　デズモンド・ロック</n><CENTER>入室18：04　退室19：58
+18548 Anthony White</n><CENTER>Entered: 12:05   Left: 12:48</n></n>18549 Cyril Archer</n><CENTER>Entered: 18:01   Left: 20:21</n></n>18550 Desmond Lock</n><CENTER>Entered: 18:04   Left: 19:58
+18548 Anthony White</n><CENTER>Arrivée : 12 h 05   Départ : 12 h 48</n></n>18549 Cyril Archer</n><CENTER>Arrivée : 18 h 01   Départ : 20 h 21</n></n>18550 Desmond Lock</n><CENTER>Arrivée : 18 h 04   Départ : 19 h 58
+18548 Anthony White</n><CENTER>Entrata: 12:05   Uscita: 12:48</n></n>18549 Cyril Archer</n><CENTER>Entrata: 18:01   Uscita: 20:21</n></n>18550 Desmond Lock</n><CENTER>Entrata: 18:04   Uscita: 19:58
+18548 Anthony White</n><CENTER>Zugang: 12:05   Verlassen: 12:48</n></n>18549 Cyril Archer</n><CENTER>Zugang: 18:01   Verlassen: 20:21</n></n>18550 Desmond Lock</n><CENTER>Zugang: 18:04   Verlassen: 19:58
+18548 Anthony White</n><CENTER>Entrada: 12:05   Salida: 12:48</n></n>18549 Cyril Archer</n><CENTER>Entrada: 18:01   Salida: 20:21</n></n>18550 Desmond Lock</n><CENTER>Entrada: 18:04   Salida: 19:58
+18548 Энтони Уайт</n><CENTER> Вход: 12:05   Выход: 12:48</n></n>18549 Сирил Арчер</n><CENTER>Вход: 18:01   Выход: 20:21</n></n>18550 Дезмонд Лок</n><CENTER>Вход: 18:04   Выход: 19:58
+18548 Anthony White</n><CENTER>Wejście: 12:05   Wyjście: 12:48</n></n>18549 Cyril Archer</n><CENTER>Wejście: 18:01   Wyjście: 20:21</n></n>18550 Desmond Lock</n><CENTER>Wejście: 18:04   Wyjście: 19:58
+18548 Anthony White</n><CENTER>Entrou: 12h05   Saiu: 12h48</n></n>18549 Cyril Archer</n><CENTER>Entrou: 18h01   Saiu: 20h21</n></n>18550 Desmond Lock</n><CENTER>Entrou: 18h04   Saiu: 19h58
+18548 안토니 화이트</n><CENTER>입실: 12:05   퇴실: 12:48</n></n>18549 키릴 아처</n><CENTER>입실: 18:01   퇴실: 20:21</n></n>18550 데스먼드 락</n><CENTER>입실: 18:04   퇴실: 19:58
+18548 安東尼·懷特</n><CENTER>進入時間：12:05   離開時間：12:48</n></n>18549 西里爾·阿雀</n><CENTER>進入時間：18:01   離開時間：20:21</n></n>18550 德斯蒙德·勞克</n><CENTER>進入時間：18:04   離開時間：19:58
+18548 安东尼·怀特</n><CENTER>入室时间 12:05   离开时间 12:48</n></n>18549 塞利尔·亚切</n><CENTER>入室时间 18:01   离开时间 20:21</n></n>18550 戴斯蒙德·洛克</n><CENTER>入室时间 18:04   离开时间 19:58
+18551　ウェイン・リー</n><CENTER>入室20：16　退室--：--
+18551 Wayne Li</n><CENTER>Entered: 20:16   Left: --:--
+18551 Wayne Li</n><CENTER>Arrivée : 20 h 16  Départ : -- h --
+18551 Wayne Li</n><CENTER>Entrata: 20:16   Uscita: --:--
+18551 Wayne Li</n><CENTER>Zugang: 20:16   Verlassen: --:--
+18551 Wayne Li</n><CENTER>Entrada: 20:16   Salida: --:--
+18551 Уэйн Ли</n><CENTER>Вход: 20:16   Выход: --:--
+18551 Wayne Li</n><CENTER>Wejście: 20:16   Wyjście: --:--
+18551 Wayne Li</n><CENTER>Entrou: 20h16   Saiu: --:--
+18551 웨인 리</n><CENTER>입실: 20:16   퇴실: --:--
+18551 李韋恩</n><CENTER>進入時間：20:16   離開時間：--:--
+18551 李韦恩</n><CENTER>入室时间 20:16   离开时间 --:--
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

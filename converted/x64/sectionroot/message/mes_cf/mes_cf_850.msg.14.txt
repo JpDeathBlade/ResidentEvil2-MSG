@@ -1,0 +1,112 @@
+﻿<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>どうするの？<PAGE></n>列車を動かさないと<PAGE></n>あなたはここにいて</n>いい？<PAGE></n>分かった</n>ここで待ってるね<PAGE></n>いい子ね<PAGE></n>気をつけて<PAGE></n>大丈夫よ
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>What are you doing?<PAGE></n>I gotta get this train moving.<PAGE></n>I need you to stay right here, OK?<PAGE></n>OK. I promise I won't move.<PAGE></n>Good.<PAGE></n>Be careful.<PAGE></n>Always.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>Qu'est-ce que tu fais ?<PAGE></n>Je dois démarrer ce train.<PAGE></n>Attends-moi juste ici, d'accord ?<PAGE></n>OK. Promis, je bouge pas.<PAGE></n>Bien.<PAGE></n>Sois prudente !<PAGE></n>T'inquiète.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>Che cosa fai?<PAGE></n>Devo far partire il treno.<PAGE></n>Tu non muoverti da qui, ok?<PAGE></n>Va bene. Non mi muovo da qui.<PAGE></n>Brava!<PAGE></n>Sta' attenta.<PAGE></n>Certamente.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>Was machst du?<PAGE></n>Ich muss diesen Zug in Gang bringen.<PAGE></n>Du rührst dich nicht vom Fleck, okay?<PAGE></n>Okay. Ich bleib hier, ich versprech's.<PAGE></n>Gut.<PAGE></n>Sei vorsichtig.<PAGE></n>Immer.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>¿Qué estás haciendo?<PAGE></n>Tengo que mover este tren.<PAGE></n>Necesito que te quedes aquí, ¿vale?<PAGE></n>Vale. No me moveré.<PAGE></n>Bien.<PAGE></n>Ten cuidado.<PAGE></n>Siempre.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>Что ты делаешь?<PAGE></n>Нужно запустить этот поезд.<PAGE></n>Жди меня здесь, договорились?<PAGE></n>Хорошо. Никуда не уйду, обещаю.<PAGE></n>Молодец.<PAGE></n>Будь осторожна.<PAGE></n>Конечно.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>Co ty wyprawiasz?<PAGE></n>Muszę uruchomić ten pociąg.<PAGE></n>Zostań tutaj, OK?<PAGE></n>OK. Nie ruszę się stąd, obiecuję.<PAGE></n>Dobrze.<PAGE></n>Uważaj na siebie.<PAGE></n>Zawsze.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>O que você tá fazendo?<PAGE></n>Eu tenho que botar esse trem pra funcionar.<PAGE></n>Não sai daqui, tá bom?<PAGE></n>Tá. Eu fico aqui. Eu juro.<PAGE></n>Legal.<PAGE></n>Toma cuidado.<PAGE></n>Eu sempre tomo.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>지금 뭐 하는 거예요?<PAGE></n>이 기차를 작동시켜야 해.<PAGE></n>움직이지 말고 여기 있어, 알았지?<PAGE></n>알았어요. 가만히 있을게요.<PAGE></n>좋아.<PAGE></n>조심해요.<PAGE></n>당연하지.
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>你在做什麼？<PAGE></n>我得讓這輛列車動起來。<PAGE></n>你先留在這，可以嗎？<PAGE></n>好，我保證會乖乖待在這。<PAGE></n>很好。<PAGE></n>小心點。<PAGE></n>那當然。
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>你在做什么？<PAGE></n>我得让这辆列车动起来。<PAGE></n>你在这里不要动，可以吗？<PAGE></n>好，我保证不会乱跑。<PAGE></n>很好。<PAGE></n>注意安全。<PAGE></n>我会的。
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+<TIME 1.11, 2.22><TIME 2.29, 3.91><TIME 4.41, 6.5><TIME 6.93, 9.38><TIME 9.61, 10.54><TIME 10.87, 11.92><TIME 12.16, 13.16>
+どうするの？
+What are you doing?
+Qu'est-ce que tu fais ?
+Che cosa fai?
+Was machst du?
+¿Qué estás haciendo?
+Что ты делаешь?
+Co ty wyprawiasz?
+O que você tá fazendo?
+지금 뭐 하는 거예요?
+你在做什麼？
+你在做什么？
+列車を動かさないと
+I gotta get this train moving.
+Je dois démarrer ce train.
+Devo far partire il treno.
+Ich muss diesen Zug in Gang bringen.
+Tengo que mover este tren.
+Нужно запустить этот поезд.
+Muszę uruchomić ten pociąg.
+Eu tenho que botar esse trem pra funcionar.
+이 기차를 작동시켜야 해.
+我得讓這輛列車動起來。
+我得让这辆列车动起来。
+あなたはここにいて</n>いい？
+I need you to stay right here, OK?
+Attends-moi juste ici, d'accord ?
+Tu non muoverti da qui, ok?
+Du rührst dich nicht vom Fleck, okay?
+Necesito que te quedes aquí, ¿vale?
+Жди меня здесь, договорились?
+Zostań tutaj, OK?
+Não sai daqui, tá bom?
+움직이지 말고 여기 있어, 알았지?
+你先留在這，可以嗎？
+你在这里不要动，可以吗？
+分かった</n>ここで待ってるね
+OK. I promise I won't move.
+OK. Promis, je bouge pas.
+Va bene. Non mi muovo da qui.
+Okay. Ich bleib hier, ich versprech's.
+Vale. No me moveré.
+Хорошо. Никуда не уйду, обещаю.
+OK. Nie ruszę się stąd, obiecuję.
+Tá. Eu fico aqui. Eu juro.
+알았어요. 가만히 있을게요.
+好，我保證會乖乖待在這。
+好，我保证不会乱跑。
+いい子ね
+Good.
+Bien.
+Brava!
+Gut.
+Bien.
+Молодец.
+Dobrze.
+Legal.
+좋아.
+很好。
+很好。
+気をつけて
+Be careful.
+Sois prudente !
+Sta' attenta.
+Sei vorsichtig.
+Ten cuidado.
+Будь осторожна.
+Uważaj na siebie.
+Toma cuidado.
+조심해요.
+小心點。
+注意安全。
+大丈夫よ
+Always.
+T'inquiète.
+Certamente.
+Immer.
+Siempre.
+Конечно.
+Zawsze.
+Eu sempre tomo.
+당연하지.
+那當然。
+我会的。

@@ -1,0 +1,180 @@
+﻿<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>エイダ<PAGE></n>いい加減にして<PAGE></n>これであなたを2度救ったわ<PAGE></n>まさか数えてたとはね<PAGE></n>これはゲームじゃないのよ<PAGE></n>おい マジか<PAGE></n>死なない奴ばかりね<PAGE></n>カードキーは？<PAGE></n>持ってる　これもね<PAGE></n>その内容を説明してくれ<PAGE></n>それは私が聞いてから<PAGE></n>ここを出ましょう
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>Ada!?<PAGE></n>This is getting old...<PAGE></n>Saving your ass—that's twice.<PAGE></n>I didn't realize you were keeping score.<PAGE></n>Look, this isn't a game!<PAGE></n>You gotta be kidding me.<PAGE></n>Nothing dies down here.<PAGE></n>I take it you have the key card?<PAGE></n>Yeah, and this...<PAGE></n>I was hoping you could explain what's on it.<PAGE></n>Maybe... After I hear it.<PAGE></n>Let's get out of here. 
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>Ada !?<PAGE></n>Ça commence à bien faire.<PAGE></n>Déjà deux fois que je te sauve la peau.<PAGE></n>Alors comme ça on compte les points ?<PAGE></n>Écoute, ce n'est pas un jeu !<PAGE></n>C'est une blague ?<PAGE></n>Rien ne meurt ici, tu comprends ?<PAGE></n>J'imagine que tu as la carte ?<PAGE></n>Oui, et ça...<PAGE></n>J'espérais que tu m'en dises plus là-dessus...<PAGE></n>Peut-être... Après l'avoir écouté.<PAGE></n>Fichons le camp d'ici.
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>Ada!<PAGE></n>Sono stanca.<PAGE></n>È la seconda volta che ti salvo.<PAGE></n>Non pensavo tenesse il conto.<PAGE></n>Ehi, questo non è un gioco!<PAGE></n>Non posso crederci.<PAGE></n>Ma qui non muore niente?<PAGE></n>Hai con te la tessera?<PAGE></n>Sì, e questo...<PAGE></n>Speravo potesse spiegarmi...<PAGE></n>Forse... Prima lo sento.<PAGE></n>Andiamocene.
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>Ada!?<PAGE></n>Wird langsam öde.<PAGE></n>Deinen Arsch retten... schon zweimal.<PAGE></n>Ich wusste ja nicht, dass du mitzählst.<PAGE></n>Hör zu, das ist kein Spiel!<PAGE></n>Das glaub ich jetzt nicht.<PAGE></n>Hier unten stirbt nichts.<PAGE></n>Ich schätze, du hast die Karte?<PAGE></n>Ja, und das...<PAGE></n>Hab gehofft, du kannst mir sagen, was drauf ist.<PAGE></n>Möglich...</n>Wenn ich's gehört hab.<PAGE></n>Erst nichts wie raus.
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>¡Ada...!<PAGE></n>Me estoy cansando.<PAGE></n>De salvarte. Ya van dos.<PAGE></n>No sabía que ibas contándolas.<PAGE></n>¡Mira, esto no es un juego!<PAGE></n>Venga ya.<PAGE></n>Nada muere aquí abajo.<PAGE></n>¿Tienes la tarjeta llave?<PAGE></n>Sí, y esto...<PAGE></n>¿Tienes idea de lo que significa?<PAGE></n>Puede... Cuando lo escuche.<PAGE></n>Vámonos.
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>...Ада!?<PAGE></n>Мне начинает надоедать.<PAGE></n>Второй раз подряд спасаю твою задницу.<PAGE></n>А ты что, считаешь?<PAGE></n>Слушай, это не игра!<PAGE></n>Да ты что.<PAGE></n>Здесь, под землей, ничего не умирает навсегда.<PAGE></n>Я так понимаю, у тебя есть ключ.<PAGE></n>Ага... И вот...<PAGE></n>Я надеялся, ты сможешь объяснить, о чем здесь говорится.<PAGE></n>Возможно... Мне нужно ее послушать.<PAGE></n>Давай выбираться отсюда. 
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>Ada!?<PAGE></n>To się robi nudne.<PAGE></n>To ratowanie twojego tyłka. Już drugi raz.<PAGE></n>Nie wiedziałem, że liczysz punkty.<PAGE></n>Posłuchaj, to nie jest zabawa!<PAGE></n>To chyba jakiś żart.<PAGE></n>Tutaj nic nie umiera.<PAGE></n>Zakładam, że masz kartę magnetyczną?<PAGE></n>Tak, i jeszcze to...<PAGE></n>Miałem nadzieję, że mi wyjaśnisz zawartość.<PAGE></n>Może... Kiedy już posłucham.<PAGE></n>Wynośmy się stąd. 
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>Ada?!<PAGE></n>Já tá virando rotina.<PAGE></n>Salvar sua vida... já foram duas.<PAGE></n>Não sabia que você tava registrando.<PAGE></n>Olha, isso aqui não é um jogo!<PAGE></n>Tá de brincadeira...<PAGE></n>Nada morre aqui embaixo.<PAGE></n>Imagino que você esteja com o cartão.<PAGE></n>Tô. Isto aqui também...<PAGE></n>Imagino que você possa me explicar a gravação.<PAGE></n>Talvez... Depois que eu ouvir.<PAGE></n>Vamos sair logo daqui. 
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>...에이다!?<PAGE></n>슬슬 지겹네.<PAGE></n>당신을 구해주는 거 말이야.</n>이번이 두 번째라고.<PAGE></n>그걸 하나하나 점수 내고 있을 줄이야.<PAGE></n>이건 무슨 게임 같은 게 아니야!<PAGE></n>농담이겠지.<PAGE></n>여기 애들은 도무지 죽지를 않네.<PAGE></n>키 카드를 가지고 있겠지?<PAGE></n>그래, 그리고 이것도...<PAGE></n>내용이 뭔지 당신이</n>설명해 줄 수 있다면 좋겠는데.<PAGE></n>아마도… 우선 들어봐야겠지만.<PAGE></n>여기서 나가자. 
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>... 艾達！？<PAGE></n>我都快膩了。<PAGE></n>又救了你的小命，這已經是第二次了。<PAGE></n>原來你有在計較這個啊。<PAGE></n>喂，這可不是在玩遊戲！<PAGE></n>你只是在開玩笑吧。<PAGE></n>在這裡，什麼東西都死不了。<PAGE></n>門禁卡應該在你身上吧？<PAGE></n>對，還有這個...<PAGE></n>希望你可以解釋一下這裡頭的內容。<PAGE></n>或許可以吧... 等我聽過之後再說。<PAGE></n>我們先離開這裡。 
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>艾达！？<PAGE></n>我都快厌烦了。<PAGE></n>又救你一命... 第二次了。<PAGE></n>我真没发现你那么爱计较。<PAGE></n>听好了，这可不是在玩游戏！<PAGE></n>这不是真的吧...<PAGE></n>这里什么东西都死不透。<PAGE></n>钥匙卡在你身上吧？<PAGE></n>对，还有这个东西。<PAGE></n>我希望你能解释这是怎么一回事。<PAGE></n>或许吧... 我得先听一遍。<PAGE></n>我们走吧。 
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+<TIME 25.58, 26.42><TIME 26.61, 28.0><TIME 28.88, 30.97><TIME 32.23, 34.03><TIME 34.09, 35.8><TIME 35.98, 37.47><TIME 38.49, 40.43><TIME 50.33, 51.78><TIME 52.86, 54.95><TIME 55.83, 57.81><TIME 59.27, 63.4><TIME 65.3, 66.35>
+エイダ
+Ada!?
+Ada !?
+Ada!
+Ada!?
+¡Ada...!
+...Ада!?
+Ada!?
+Ada?!
+...에이다!?
+... 艾達！？
+艾达！？
+いい加減にして
+This is getting old...
+Ça commence à bien faire.
+Sono stanca.
+Wird langsam öde.
+Me estoy cansando.
+Мне начинает надоедать.
+To się robi nudne.
+Já tá virando rotina.
+슬슬 지겹네.
+我都快膩了。
+我都快厌烦了。
+これであなたを2度救ったわ
+Saving your ass—that's twice.
+Déjà deux fois que je te sauve la peau.
+È la seconda volta che ti salvo.
+Deinen Arsch retten... schon zweimal.
+De salvarte. Ya van dos.
+Второй раз подряд спасаю твою задницу.
+To ratowanie twojego tyłka. Już drugi raz.
+Salvar sua vida... já foram duas.
+당신을 구해주는 거 말이야.</n>이번이 두 번째라고.
+又救了你的小命，這已經是第二次了。
+又救你一命... 第二次了。
+まさか数えてたとはね
+I didn't realize you were keeping score.
+Alors comme ça on compte les points ?
+Non pensavo tenesse il conto.
+Ich wusste ja nicht, dass du mitzählst.
+No sabía que ibas contándolas.
+А ты что, считаешь?
+Nie wiedziałem, że liczysz punkty.
+Não sabia que você tava registrando.
+그걸 하나하나 점수 내고 있을 줄이야.
+原來你有在計較這個啊。
+我真没发现你那么爱计较。
+これはゲームじゃないのよ
+Look, this isn't a game!
+Écoute, ce n'est pas un jeu !
+Ehi, questo non è un gioco!
+Hör zu, das ist kein Spiel!
+¡Mira, esto no es un juego!
+Слушай, это не игра!
+Posłuchaj, to nie jest zabawa!
+Olha, isso aqui não é um jogo!
+이건 무슨 게임 같은 게 아니야!
+喂，這可不是在玩遊戲！
+听好了，这可不是在玩游戏！
+おい マジか
+You gotta be kidding me.
+C'est une blague ?
+Non posso crederci.
+Das glaub ich jetzt nicht.
+Venga ya.
+Да ты что.
+To chyba jakiś żart.
+Tá de brincadeira...
+농담이겠지.
+你只是在開玩笑吧。
+这不是真的吧...
+死なない奴ばかりね
+Nothing dies down here.
+Rien ne meurt ici, tu comprends ?
+Ma qui non muore niente?
+Hier unten stirbt nichts.
+Nada muere aquí abajo.
+Здесь, под землей, ничего не умирает навсегда.
+Tutaj nic nie umiera.
+Nada morre aqui embaixo.
+여기 애들은 도무지 죽지를 않네.
+在這裡，什麼東西都死不了。
+这里什么东西都死不透。
+※使わない（オフ）</n>「…ところで」
+(offscreen)</n>"...so,"
+(за границей экрана)</n>«…Итак».
+(spoza kadru)</n>„…więc,”
+(fora da tela)</n>"... então,"
+(화면 밖에서)</n>"...그래서,"
+（畫面外）</n>「... 所以，」
+（画面外）</n>“... 所以，”
+カードキーは？
+I take it you have the key card?
+J'imagine que tu as la carte ?
+Hai con te la tessera?
+Ich schätze, du hast die Karte?
+¿Tienes la tarjeta llave?
+Я так понимаю, у тебя есть ключ.
+Zakładam, że masz kartę magnetyczną?
+Imagino que você esteja com o cartão.
+키 카드를 가지고 있겠지?
+門禁卡應該在你身上吧？
+钥匙卡在你身上吧？
+持ってる　これもね
+Yeah, and this...
+Oui, et ça...
+Sì, e questo...
+Ja, und das...
+Sí, y esto...
+Ага... И вот...
+Tak, i jeszcze to...
+Tô. Isto aqui também...
+그래, 그리고 이것도...
+對，還有這個...
+对，还有这个东西。
+その内容を説明してくれ
+I was hoping you could explain what's on it.
+J'espérais que tu m'en dises plus là-dessus...
+Speravo potesse spiegarmi...
+Hab gehofft, du kannst mir sagen, was drauf ist.
+¿Tienes idea de lo que significa?
+Я надеялся, ты сможешь объяснить, о чем здесь говорится.
+Miałem nadzieję, że mi wyjaśnisz zawartość.
+Imagino que você possa me explicar a gravação.
+내용이 뭔지 당신이</n>설명해 줄 수 있다면 좋겠는데.
+希望你可以解釋一下這裡頭的內容。
+我希望你能解释这是怎么一回事。
+それは私が聞いてから
+Maybe... After I hear it.
+Peut-être... Après l'avoir écouté.
+Forse... Prima lo sento.
+Möglich...</n>Wenn ich's gehört hab.
+Puede... Cuando lo escuche.
+Возможно... Мне нужно ее послушать.
+Może... Kiedy już posłucham.
+Talvez... Depois que eu ouvir.
+아마도… 우선 들어봐야겠지만.
+或許可以吧... 等我聽過之後再說。
+或许吧... 我得先听一遍。
+ここを出ましょう
+Let's get out of here. 
+Fichons le camp d'ici.
+Andiamocene.
+Erst nichts wie raus.
+Vámonos.
+Давай выбираться отсюда. 
+Wynośmy się stąd. 
+Vamos sair logo daqui. 
+여기서 나가자. 
+我們先離開這裡。 
+我们走吧。 

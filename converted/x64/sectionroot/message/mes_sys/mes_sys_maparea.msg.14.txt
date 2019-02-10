@@ -1,0 +1,1160 @@
+﻿<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_2F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_3F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_4F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Police_B1F
+ガソリンスタンド
+Gas Station
+Station-service
+Stazione di servizio
+Tankstelle
+Gasolinera
+Автозаправка
+Stacja paliw
+Posto
+주유소
+加油站
+加油站
+市街地
+City Streets
+Rues de la ville
+Strade della città
+Stadt
+Calles
+Улицы города
+Ulice miasta
+Ruas da Cidade
+도시 거리
+城市街道
+城市街道
+警察署
+Police Station
+Commissariat
+Centrale di polizia
+Polizeistation
+Comisaría
+Полиц. участок
+Posterunek
+Delegacia
+경찰서
+警察局
+警察局
+1F
+1F
+1F
+1F
+1F
+1F
+1Э
+1F
+1º A
+1F
+1F
+1F
+2F
+2F
+2F
+2F
+2F
+2F
+2Э
+2F
+2º A
+2F
+2F
+2F
+3F
+3F
+3F
+3F
+3F
+3F
+3Э
+3F
+3º A
+3F
+3F
+3F
+4F
+4F
+4F
+4F
+4F
+4F
+4Э
+4F
+4º A
+4F
+4F
+4F
+B1
+B1
+B1
+B1
+B1
+B1
+П1
+B1
+SS 1
+B1
+B1
+B1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_RPD_G
+警察署地下
+Under R.P.D.
+Sous le R.P.D.
+Sotto la centrale
+Unter R.P.D.
+Sótano R.P.D.
+Под участком
+Pod R.P.D.
+Sob o R.P.D.
+R.P.D. 아래
+拉昆市警局下方
+浣熊市警察局后方
+地下施設
+Underground Facility
+Partie souterraine
+Struttura sotterranea
+Untergrundanlage
+Subterráneo
+Подземный комплекс
+Podziemny zakład
+Instal. Subterrâneas
+지하 시설
+地下設施
+地下设施
+上層
+Upper
+SUP
+SUP.
+Oben
+Sup.
+Верх.
+Góra
+Sup.
+상부
+上層
+上层
+中層
+Middle
+MOY
+CENT.
+Mitte
+Med.
+Сред.
+Śro.
+Méd.
+중부
+中層
+中层
+下層
+Lower
+INF
+INF.
+Unten
+Inf.
+Нижн.
+Dół
+Inf.
+하부
+下層
+下层
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_WaterPlant_G
+警察署裏通り
+Behind R.P.D.
+Derrière le R.P.D.
+Centrale (retro)
+Hinter dem R.P.D.
+Detrás de R.P.D.
+За участком
+Z tyłu R.P.D.
+Atrás do R.P.D.
+R.P.D. 뒤
+拉昆市警局後方
+浣熊市警察局后方
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_A
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_B
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_C
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_City_G
+孤児院
+Orphanage
+Orphelinat
+Orfanotrofio
+Waisenhaus
+Orfanato
+Приют
+Sierociniec
+Orfanato
+고아원
+孤兒院
+孤儿院
+1F
+1F
+1F
+1F
+1F
+1F
+1Э
+1F
+1º A
+1F
+1F
+1F
+2F
+2F
+2F
+2F
+2F
+2F
+2Э
+2F
+2º A
+2F
+2F
+2F
+B1
+B1
+B1
+B1
+B1
+B1
+П1
+B1
+SS 1
+B1
+B1
+B1
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_D
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_OrphanAsylum_G
+下水工事現場
+Sewer Entrance
+Entrée des égouts
+Ingresso fogne
+Kanaleingang
+Alcantarillas (entr.)
+Вход в канализацию
+Wej. do kanałów
+Entrada Esgoto
+하수도 입구
+下水道入口
+下水道入口
+下水道
+Sewers
+Égouts
+Fogne
+Kanalisation
+Alcantarillas
+Канализация
+Kanały
+Esgotos
+하수도
+下水道
+下水道
+上層
+Upper
+SUP
+SUP.
+Oben
+Sup.
+Верх.
+Góra
+Sup.
+상부
+上層
+上层
+中層
+Middle
+MOY
+CENT.
+Mitte
+Med.
+Сред.
+Śro.
+Méd.
+중부
+中層
+中层
+下層
+Lower
+INF
+INF.
+Unten
+Inf.
+Нижн.
+Dół
+Inf.
+하부
+下層
+下层
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+研究所
+Laboratory
+Laboratoire
+Laboratorio
+Labor
+Laboratorio
+Лаборатория
+Laboratorium
+Laboratório
+연구실
+實驗室
+实验室
+B1
+B1
+B1
+B1
+B1
+B1
+П1
+B1
+SS 1
+B1
+B1
+B1
+B2
+B2
+B2
+B2
+B2
+B2
+П2
+B2
+SS 2
+B2
+B2
+B2
+B3
+B3
+B3
+B3
+B3
+B3
+П3
+B3
+SS 3
+B3
+B3
+B3
+B4
+B4
+B4
+B4
+B4
+B4
+П4
+B4
+SS 4
+B4
+B4
+B4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_E
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_F
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_MapArea_Laboratory_G
+研究所最下層
+Lab Bottom Level
+Labo (niveau inf.)
+Livello Inferiore
+Labor – Untere Ebene
+Laboratorio (Nvl. inf.)
+Нижний ур. лаборатории
+Labor. (podz.)
+Nv. Inf. do Lab.
+연구실 하층부
+底層實驗室
+实验室底层
+未分類
+Unknown
+Inconnu
+Sconosciuto
+Unbekannt
+Desconocido
+Неизвестно
+Brak danych
+Desconhecido
+알 수 없음
+不明
+不明
+チュートリアル
+Tutorial
+Tutoriel
+Tutorial
+Tutorial
+Tutorial
+Обучение
+Samouczek
+Tutorial
+튜토리얼
+教學
+教程
+その他
+Misc.
+Autres
+Varie
+Verschiedenes
+Misc.
+Разное
+Inne
+Etc.
+기타
+其他
+其它

@@ -1,0 +1,311 @@
+﻿<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>ウィリアムがやったみたいね…<PAGE></n>何者だ？<PAGE></n>アネット・バーキンよ<PAGE></n>彼女が例の？<PAGE></n>時間がない…<PAGE></n>早く処分しないと…<PAGE></n>G-ウィルスを出しなさい！<PAGE></n>それは無理ね<PAGE></n>これは警告よ！<PAGE></n>あらそう？<PAGE></n>おい！<PAGE></n>待って！<PAGE></n>エイダ！<PAGE></n>G-ウィルスは渡さない！<PAGE></n>銃があるなんて反則よ<PAGE></n>レオン…<PAGE></n>俺はいいから 早く行け</n>彼女を止めるんだ 早く…<PAGE></n>施設のすぐそばよ</n>アネットを追ってる　<PAGE></n>彼女が持ってないなら NESTにあるはず<PAGE></n>手に入れたら解析に回すわ
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>Definitely William's handiwork...<PAGE></n>Identify yourself!<PAGE></n>Annette Birkin.<PAGE></n>She's who we're looking for?<PAGE></n>Not much time...<PAGE></n>Need to dispose of it...<PAGE></n>We're here for the G-Virus!<PAGE></n>That's not going to happen.<PAGE></n>I'm warning you, doctor!<PAGE></n>Oh yeah?<PAGE></n>Hey!<PAGE></n>STOP!<PAGE></n>Ada!<PAGE></n>You'll never get the G-Virus!<PAGE></n>Didn't expect that from a scientist.<PAGE></n>Leon...<PAGE></n>Forget about me... Just go...</n>Stop her before she gets away...<PAGE></n>I'm right outside the facility, in pursuit of Annette.<PAGE></n>If it's not on her, it must be in the NEST.<PAGE></n>Once it's in hand, I'll call for extraction.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>Ça c'est du William tout craché...<PAGE></n>Hé, qui êtes-vous ?<PAGE></n>Annette Birkin.<PAGE></n>C'est elle qu'on cherche ?<PAGE></n>Pas assez de temps...<PAGE></n>Il faut s'en débarrasser...<PAGE></n>Nous sommes là pour le virus G !<PAGE></n>Et puis quoi encore ?<PAGE></n>Dernier avertissement !<PAGE></n>Ah oui ?<PAGE></n>Hé !<PAGE></n>Arrêtez !<PAGE></n>Ada !<PAGE></n>Vous n'aurez jamais le virus G !<PAGE></n>Je crois que je l'ai sous-estimée.<PAGE></n>Leon...<PAGE></n>T'en fais pas pour moi... Vas-y...</n>Surtout, la laisse pas s'échapper...<PAGE></n>Je suis à l'extérieur de l'installation, sur la trace d'Annette.<PAGE></n>Si elle ne l'a pas sur elle, alors ça doit être dans le NEST.<PAGE></n>Quand je l'aurai, je ferai une demande d'extraction.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>È di sicuro opera di William...<PAGE></n>Ferma dove sei.</n><PAGE></n>Annette Birkin.<PAGE></n>Stava cercando lei?<PAGE></n>Non c'è più tempo...<PAGE></n>Devo sbarazzarmene.<PAGE></n>Siamo qui per il virus G!<PAGE></n>Puoi scordartelo.<PAGE></n>La avverto, dottoressa!<PAGE></n>Ah sì?<PAGE></n>Ehi!<PAGE></n>Ferma!<PAGE></n>Ada!<PAGE></n>Non avrete mai il virus G!<PAGE></n>Non sembra la tipica scienziata.<PAGE></n>Leon...<PAGE></n>Non pensi a me... Lei vada...</n>La fermi prima che scappi!<PAGE></n>Sono fuori dalla struttura. Inseguo Annette.<PAGE></n>Se non ce l'ha lei, sarà nel NEST.<PAGE></n>Una volta preso, ordinerò l'estrazione.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>Zweifelsohne Williams Werk...<PAGE></n>Identifizieren Sie sich!<PAGE></n>Annette Birkin.<PAGE></n>Ist das die Gesuchte?<PAGE></n>Kaum noch Zeit...<PAGE></n>Muss entsorgt werden...<PAGE></n>Wir wollen das G-Virus!<PAGE></n>Das kriegen Sie nicht.<PAGE></n>Ich warne Sie, Doktor!<PAGE></n>Ach, ja?<PAGE></n>Hey!<PAGE></n>Stopp!<PAGE></n>Ada!<PAGE></n>Sie kriegen das G-Virus nie!<PAGE></n>Wie überraschend für eine Forscherin.<PAGE></n>Leon...<PAGE></n>Kümmer dich nicht um mich. Geh...</n>Schnapp sie, bevor sie verschwindet.<PAGE></n>Ich bin direkt vor der Einrichtung</n>und verfolge Annette.<PAGE></n>Wenn sie es nicht hat,</n>muss es im NEST sein.<PAGE></n>Sobald ich es habe,</n>lass ich mich hier rausholen.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>Sin duda, esto es cosa de William...<PAGE></n>¡Identifíquese!<PAGE></n>Annette Birkin.<PAGE></n>¿Es a quien buscamos?<PAGE></n>No hay tiempo...<PAGE></n>Hay que eliminarlo...<PAGE></n>¿Dónde está el virus G?<PAGE></n>Eso no va a pasar.<PAGE></n>¡Conteste, doctora!<PAGE></n>¿O qué?<PAGE></n>¡Eh!<PAGE></n>¡Alto!<PAGE></n>¡Ada!<PAGE></n>¡Nunca conseguiréis el virus G!<PAGE></n>No esperaba eso de una científica.<PAGE></n>Leon...<PAGE></n>Déjame... Vete...</n>Detenla antes de que se escape...<PAGE></n>Estoy fuera del complejo, siguiendo a Annette.<PAGE></n>Si ella no lo tiene, estará en NEST.<PAGE></n>Cuando lo tenga pediré la extracción.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>Явно Уильям руку приложил...<PAGE></n>Назовите себя!<PAGE></n>Аннет Биркин.<PAGE></n>Это ее мы ищем?<PAGE></n>Времени мало...<PAGE></n>Нужно избавиться от этого...<PAGE></n>Мы здесь ради Г-вируса!<PAGE></n>Ничего не выйдет.<PAGE></n>Не мешайте, доктор!<PAGE></n>Или что?<PAGE></n>Эй!<PAGE></n>СТОЙ!<PAGE></n>Ада!<PAGE></n>Вы никогда не получите Г-вирус!<PAGE></n>Не ожидала такого от ученого.<PAGE></n>Леон...<PAGE></n>Оставь меня... Иди...</n>Останови ее, пока не сбежала...<PAGE></n>Я у здания фабрики, преследую Аннет.<PAGE></n>Раз у нее его нет, цель в «Гнезде».<PAGE></n>Получим медальон, и запрошу эвакуацию.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>To na pewno dzieło Williama...<PAGE></n>Kim pani jest?!<PAGE></n>Annette Birkin.<PAGE></n>To jej szukamy?<PAGE></n>Zostało mało czasu...<PAGE></n>Trzeba się tego pozbyć...<PAGE></n>Przyszliśmy po wirusa G!<PAGE></n>Nic z tego.<PAGE></n>Ostrzegam panią, pani doktor!<PAGE></n>Doprawdy?<PAGE></n>Ej!<PAGE></n>STÓJ!<PAGE></n>Ada!<PAGE></n>Nigdy nie dostaniecie wirusa G!<PAGE></n>Tego się nie spodziewałam po naukowcu.<PAGE></n>Leon...<PAGE></n>O mnie się nie martw... Idź...</n>Powstrzymaj ją, nie daj jej uciec...<PAGE></n>Jestem pod ośrodkiem, ścigam Annette.<PAGE></n>Jeśli nie ma tego przy sobie, pewnie zostało w Gnieździe.<PAGE></n>Jak już to zdobędę, poproszę o ewakuację.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>Com certeza é obra do William...<PAGE></n>Identifique-se!<PAGE></n>Annette Birkin.<PAGE></n>É ela que a gente tá procurando?<PAGE></n>Não sobrou muito tempo...<PAGE></n>Preciso me livrar disso...<PAGE></n>A gente veio pegar o Vírus G!<PAGE></n>Podem esquecer.<PAGE></n>Tô te avisando, doutora!<PAGE></n>Ah, é?<PAGE></n>Ei!<PAGE></n>PARADA!<PAGE></n>Ada!<PAGE></n>Vocês nunca vão pegar o Vírus G!<PAGE></n>Não esperava essa de uma cientista.<PAGE></n>Leon...<PAGE></n>Não se preocupa comigo. Pode ir...</n>Você precisa deter a Annette antes que ela fuja...<PAGE></n>Tô do lado de fora das instalações, perseguindo a Annette.<PAGE></n>Se não estiver com ela, deve estar no NEST.<PAGE></n>Assim que eu terminar, eu ligo pra solicitar a extração.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>윌리엄 솜씨가 분명하군...<PAGE></n>정체를 밝혀!<PAGE></n>아네트 버킨이야.<PAGE></n>우리가 찾던 사람인가?<PAGE></n>시간이 별로 없어...<PAGE></n>처리해야겠군...<PAGE></n>G 바이러스를 가지러 왔다!<PAGE></n>그럴 일은 없을 텐데.<PAGE></n>경고하겠어, 박사!<PAGE></n>그래?<PAGE></n>이봐!<PAGE></n>멈춰!<PAGE></n>에이다!<PAGE></n>G 바이러스는 꿈도 꾸지 말라고!<PAGE></n>과학자가 저럴 줄은 몰랐네.<PAGE></n>레온...<PAGE></n>난 됐어... 그냥 가...</n>저 여자가 빠져나가지 못하게 해...<PAGE></n>시설 바깥에 있어.</n>아네트를 추격하고 있고.<PAGE></n>아네트한테 없다면, 네스트에 있겠지.<PAGE></n>그걸 손에 넣으면,</n>날 즉시 빼내줘야겠어.
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>絕對是威廉幹的好事...<PAGE></n>你是誰？<PAGE></n>雅妮·柏金。<PAGE></n>她就是我們要找的人？<PAGE></n>沒有時間了...<PAGE></n>得把它處理掉...<PAGE></n>把 G 病毒交出來！<PAGE></n>我不會把它交給你的。<PAGE></n>博士，你別亂來！<PAGE></n>是嗎？<PAGE></n>喂！<PAGE></n>站住！<PAGE></n>艾達！<PAGE></n>你永遠也拿不到 G 病毒的！<PAGE></n>想不到科學家居然有這種能耐。<PAGE></n>里昂...<PAGE></n>別管我... 快...</n>阻止她，別讓她逃走...<PAGE></n>我目前在設施外，正在追蹤雅妮。<PAGE></n>如果不在她身上，那就一定在 NEST 裡。<PAGE></n>到手之後，我就會呼叫要求撤離。
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>绝对是威廉做的好事...<PAGE></n>你是谁？<PAGE></n>亚妮·柏金。<PAGE></n>我们在找的人就是她？<PAGE></n>没时间了...<PAGE></n>一定要把它处理掉。<PAGE></n>把 G 病毒交给我们！<PAGE></n>我不会把它交给你们的。<PAGE></n>博士，你别乱来！<PAGE></n>是吗？<PAGE></n>喂！<PAGE></n>别跑！<PAGE></n>艾达！<PAGE></n>我绝不让你们得到 G 病毒！<PAGE></n>没想到科学家竟然有这种能耐。<PAGE></n>里昂...<PAGE></n>别管我... 快去...</n>阻止她，别让她跑了...<PAGE></n>我正在设施外，追踪亚妮。<PAGE></n>如果东西不在她身上，一定在母巢里。<PAGE></n>得手之后，我会呼叫要求撤离。
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+<TIME 1.21, 3.76><TIME 4.11, 5.65><TIME 6.81, 8.36><TIME 8.91, 10.44><TIME 10.87, 12.81><TIME 13.34, 15.1><TIME 15.28, 17.33><TIME 18.99, 20.74><TIME 20.9, 22.54><TIME 22.56, 23.84><TIME 25.1, 26.03><TIME 26.63, 27.93><TIME 28.84, 30.04><TIME 33.12, 36.04><TIME 39.3, 42.28><TIME 43.98, 45.51><TIME 45.6, 50.56><TIME 65.59, 69.63><TIME 74.27, 78.24><TIME 83.38, 86.21>
+ウィリアムがやったみたいね…
+Definitely William's handiwork...
+Ça c'est du William tout craché...
+È di sicuro opera di William...
+Zweifelsohne Williams Werk...
+Sin duda, esto es cosa de William...
+Явно Уильям руку приложил...
+To na pewno dzieło Williama...
+Com certeza é obra do William...
+윌리엄 솜씨가 분명하군...
+絕對是威廉幹的好事...
+绝对是威廉做的好事...
+何者だ？
+Identify yourself!
+Hé, qui êtes-vous ?
+Ferma dove sei.</n>
+Identifizieren Sie sich!
+¡Identifíquese!
+Назовите себя!
+Kim pani jest?!
+Identifique-se!
+정체를 밝혀!
+你是誰？
+你是谁？
+アネット・バーキンよ
+Annette Birkin.
+Annette Birkin.
+Annette Birkin.
+Annette Birkin.
+Annette Birkin.
+Аннет Биркин.
+Annette Birkin.
+Annette Birkin.
+아네트 버킨이야.
+雅妮·柏金。
+亚妮·柏金。
+彼女が例の？
+She's who we're looking for?
+C'est elle qu'on cherche ?
+Stava cercando lei?
+Ist das die Gesuchte?
+¿Es a quien buscamos?
+Это ее мы ищем?
+To jej szukamy?
+É ela que a gente tá procurando?
+우리가 찾던 사람인가?
+她就是我們要找的人？
+我们在找的人就是她？
+時間がない…
+Not much time...
+Pas assez de temps...
+Non c'è più tempo...
+Kaum noch Zeit...
+No hay tiempo...
+Времени мало...
+Zostało mało czasu...
+Não sobrou muito tempo...
+시간이 별로 없어...
+沒有時間了...
+没时间了...
+早く処分しないと…
+Need to dispose of it...
+Il faut s'en débarrasser...
+Devo sbarazzarmene.
+Muss entsorgt werden...
+Hay que eliminarlo...
+Нужно избавиться от этого...
+Trzeba się tego pozbyć...
+Preciso me livrar disso...
+처리해야겠군...
+得把它處理掉...
+一定要把它处理掉。
+G-ウィルスを出しなさい！
+We're here for the G-Virus!
+Nous sommes là pour le virus G !
+Siamo qui per il virus G!
+Wir wollen das G-Virus!
+¿Dónde está el virus G?
+Мы здесь ради Г-вируса!
+Przyszliśmy po wirusa G!
+A gente veio pegar o Vírus G!
+G 바이러스를 가지러 왔다!
+把 G 病毒交出來！
+把 G 病毒交给我们！
+それは無理ね
+That's not going to happen.
+Et puis quoi encore ?
+Puoi scordartelo.
+Das kriegen Sie nicht.
+Eso no va a pasar.
+Ничего не выйдет.
+Nic z tego.
+Podem esquecer.
+그럴 일은 없을 텐데.
+我不會把它交給你的。
+我不会把它交给你们的。
+これは警告よ！
+I'm warning you, doctor!
+Dernier avertissement !
+La avverto, dottoressa!
+Ich warne Sie, Doktor!
+¡Conteste, doctora!
+Не мешайте, доктор!
+Ostrzegam panią, pani doktor!
+Tô te avisando, doutora!
+경고하겠어, 박사!
+博士，你別亂來！
+博士，你别乱来！
+あらそう？
+Oh yeah?
+Ah oui ?
+Ah sì?
+Ach, ja?
+¿O qué?
+Или что?
+Doprawdy?
+Ah, é?
+그래?
+是嗎？
+是吗？
+おい！
+Hey!
+Hé !
+Ehi!
+Hey!
+¡Eh!
+Эй!
+Ej!
+Ei!
+이봐!
+喂！
+喂！
+待って！
+STOP!
+Arrêtez !
+Ferma!
+Stopp!
+¡Alto!
+СТОЙ!
+STÓJ!
+PARADA!
+멈춰!
+站住！
+别跑！
+エイダ！
+Ada!
+Ada !
+Ada!
+Ada!
+¡Ada!
+Ада!
+Ada!
+Ada!
+에이다!
+艾達！
+艾达！
+「時間の無駄よ！」
+You're wasting your time!
+Vous perdez votre temps !
+¡Perdéis el tiempo!
+Вы зря тратите время!
+Marnujesz mój czas!
+Mas que perda de tempo!
+시간 낭비야!
+你在浪費時間！
+你在浪费时间！
+G-ウィルスは渡さない！
+You'll never get the G-Virus!
+Vous n'aurez jamais le virus G !
+Non avrete mai il virus G!
+Sie kriegen das G-Virus nie!
+¡Nunca conseguiréis el virus G!
+Вы никогда не получите Г-вирус!
+Nigdy nie dostaniecie wirusa G!
+Vocês nunca vão pegar o Vírus G!
+G 바이러스는 꿈도 꾸지 말라고!
+你永遠也拿不到 G 病毒的！
+我绝不让你们得到 G 病毒！
+銃があるなんて反則よ
+Didn't expect that from a scientist.
+Je crois que je l'ai sous-estimée.
+Non sembra la tipica scienziata.
+Wie überraschend für eine Forscherin.
+No esperaba eso de una científica.
+Не ожидала такого от ученого.
+Tego się nie spodziewałam po naukowcu.
+Não esperava essa de uma cientista.
+과학자가 저럴 줄은 몰랐네.
+想不到科學家居然有這種能耐。
+没想到科学家竟然有这种能耐。
+レオン…
+Leon...
+Leon...
+Leon...
+Leon...
+Leon...
+Леон...
+Leon...
+Leon...
+레온...
+里昂...
+里昂...
+俺はいいから 早く行け</n>彼女を止めるんだ 早く…
+Forget about me... Just go...</n>Stop her before she gets away...
+T'en fais pas pour moi... Vas-y...</n>Surtout, la laisse pas s'échapper...
+Non pensi a me... Lei vada...</n>La fermi prima che scappi!
+Kümmer dich nicht um mich. Geh...</n>Schnapp sie, bevor sie verschwindet.
+Déjame... Vete...</n>Detenla antes de que se escape...
+Оставь меня... Иди...</n>Останови ее, пока не сбежала...
+O mnie się nie martw... Idź...</n>Powstrzymaj ją, nie daj jej uciec...
+Não se preocupa comigo. Pode ir...</n>Você precisa deter a Annette antes que ela fuja...
+난 됐어... 그냥 가...</n>저 여자가 빠져나가지 못하게 해...
+別管我... 快...</n>阻止她，別讓她逃走...
+别管我... 快去...</n>阻止她，别让她跑了...
+いい報告なんだろうな
+You better be calling with good news.
+J'espère que tu as de bonnes nouvelles.
+Mi auguro che tu abbia buone notizie.
+Espero que tengas buenas noticias.
+Надеюсь, у тебя хорошие новости.
+Mam nadzieję, że masz dobre wieści.
+Acho bom serem boas notícias.
+좋은 소식 들려줘야 할 거야.
+希望你有好消息要報告。
+希望你有好消息要报告。
+施設のすぐそばよ</n>アネットを追ってる　
+I'm right outside the facility, in pursuit of Annette.
+Je suis à l'extérieur de l'installation, sur la trace d'Annette.
+Sono fuori dalla struttura. Inseguo Annette.
+Ich bin direkt vor der Einrichtung</n>und verfolge Annette.
+Estoy fuera del complejo, siguiendo a Annette.
+Я у здания фабрики, преследую Аннет.
+Jestem pod ośrodkiem, ścigam Annette.
+Tô do lado de fora das instalações, perseguindo a Annette.
+시설 바깥에 있어.</n>아네트를 추격하고 있고.
+我目前在設施外，正在追蹤雅妮。
+我正在设施外，追踪亚妮。
+どうする気だ？
+What's your plan, Ada?
+Quel est ton plan, Ada ?
+Qual è il tuo piano, Ada?
+¿Cuál es tu plan, Ada?
+Как поступим, Ада?
+Co planujesz, Ada?
+Qual é o plano, Ada?
+뭐 하려는 거야, 에이다?
+艾達，你打算怎麼做？
+艾达，你有什么计划？
+彼女が持ってないなら NESTにあるはず
+If it's not on her, it must be in the NEST.
+Si elle ne l'a pas sur elle, alors ça doit être dans le NEST.
+Se non ce l'ha lei, sarà nel NEST.
+Wenn sie es nicht hat,</n>muss es im NEST sein.
+Si ella no lo tiene, estará en NEST.
+Раз у нее его нет, цель в «Гнезде».
+Jeśli nie ma tego przy sobie, pewnie zostało w Gnieździe.
+Se não estiver com ela, deve estar no NEST.
+아네트한테 없다면, 네스트에 있겠지.
+如果不在她身上，那就一定在 NEST 裡。
+如果东西不在她身上，一定在母巢里。
+やるべきことは分かってるんだろうな
+I hope you know what you're doing.
+J'espère que tu sais ce que tu fais.
+Spero tu sappia cosa stai facendo.
+Espero que sepas lo que haces.
+Надеюсь, ты знаешь, что делаешь.
+Mam nadzieję, że wiesz, co robisz.
+Espero que você saiba o que tá fazendo.
+무슨 짓을 하고 있는 건지</n>알고는 있다면 좋겠군.
+我希望你知道自己在做什麼。
+我希望你清楚自己在做什么。
+手に入れたら解析に回すわ
+Once it's in hand, I'll call for extraction.
+Quand je l'aurai, je ferai une demande d'extraction.
+Una volta preso, ordinerò l'estrazione.
+Sobald ich es habe,</n>lass ich mich hier rausholen.
+Cuando lo tenga pediré la extracción.
+Получим медальон, и запрошу эвакуацию.
+Jak już to zdobędę, poproszę o ewakuację.
+Assim que eu terminar, eu ligo pra solicitar a extração.
+그걸 손에 넣으면,</n>날 즉시 빼내줘야겠어.
+到手之後，我就會呼叫要求撤離。
+得手之后，我会呼叫要求撤离。

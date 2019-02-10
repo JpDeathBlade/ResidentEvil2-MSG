@@ -1,0 +1,3056 @@
+﻿HDRモードに切り替えました。</n>※「画面モード」がフルスクリーン時のみ適用されます
+HDR Mode enabled.</n>HDR will only be used when Display Mode is set to Full Screen.
+Mode HDR activé.</n>Le mode HDR ne sera utilisé qu'avec le mode d'affichage "Plein écran".
+Modalità HDR attivata.</n>Verrà utilizzata solo quando la modalità di</n>visualizzazione è impostata su "Schermo intero".
+Der HDR-Modus wurde aktiviert.</n>HDR wird nur verwendet, wenn der Anzeigemodus</n>auf Vollbild eingestellt ist.
+Modo HDR activado.</n>HDR solo se utilizará en pantalla completa.
+Режим HDR включен.</n>HDR доступен только в полноэкранном режиме.
+Tryb HDR jest włączony.</n>Efekt HDR będzie stosowany tylko po ustawieniu trybu wyświetlania Pełny ekran.
+Modo HDR habilitado.</n>HDR só será usado quando o Modo de Exibição estiver configurado como Tela Inteira.
+HDR 모드가 활성화되어 있습니다.</n>HDR 모드는 디스플레이 모드가 전체 화면으로 설정되어 있는 경우에만 사용할 수 있습니다.
+已啟用 HDR 模式。</n>顯示模式設定為「全螢幕」時才會啟用 HDR。
+已启用 HDR 模式。</n>只有在显示模式设为“全屏幕”时才能启用 HDR。
+「画面モード」がフルスクリーンの状態ではなくなったため、</n>一時的にHDR出力を解除します。</n>HDR出力に戻したい場合は、「画面モード」をフルスクリーンに変更してください。
+HDR has been disabled since Display Mode is no</n>longer set to Full Screen.</n></n>To re-enable HDR, set Display Mode to Full Screen.
+Le mode HDR a été désactivé car vous n'êtes</n>plus en mode plein écran.</n></n>Pour réactiver le mode HDR, veuillez régler</n>le mode d'affichage sur "Plein écran".
+La modalità HDR è stata disattivata</n>poiché la modalità di visualizzazione</n>non è più impostata su "Schermo intero".</n></n>Per riattivare la modalità HDR, impostare la modalità</n>di visualizzazione su "Schermo intero".
+HDR wurde deaktiviert, da der Anzeigemodus</n>nicht länger auf Vollbild eingestellt ist.</n></n>Um HDR wieder zu aktivieren, muss der</n>Anzeigemodus auf Vollbild eingestellt werden.
+HDR ha sido desactivado ya que el modo de</n>pantalla ya no es "Pantalla completa".</n></n>Para volver a activar HDR, selecciona</n>"Pantalla completa" como modo de pantalla.
+HDR отключен, так как вы больше не находитесь в полноэкранном режиме.</n></n>Чтобы снова включить HDR, зайдите в настройки режима экрана и выберите «Во весь экран».
+Tryb HDR został wyłączony, ponieważ tryb wyświetlania</n>nie jest ustawiony jako Pełny ekran.</n></n>Aby ponownie włączyć tryb HDR, ustaw tryb wyświetlania jako Pełny ekran.
+HDR desabilitado, pois o Modo de Exibição não está</n>configurado como Tela Inteira.</n></n>Para reabilitá-lo, configure o Modo de Exibição como Tela Inteira.
+디스플레이 모드가 전체 화면으로 설정되지 않아</n>HDR이 비활성화되었습니다.</n></n>HDR을 다시 활성화하려면 디스플레이 모드를 전체 화면으로 설정하십시오.
+因為顯示不是全畫面, HDR 不可使用。</n></n>想使用 HDR 請轉成全畫面模式。
+因为显示不是全画面, HDR 不可使用。</n></n>想使用 HDR 请转成全画面模式。
+この項目はHDR出力の状態ではないため設定できません。</n>「画面モード」がフルスクリーンの状態か確認してください。
+This option is only available when HDR is being used.</n>Please check your Display Mode is set to Full Screen.
+Cette option n'est disponible que lorsque le mode HDR est utilisé.</n>Veuillez vérifier que le mode d'affichage est réglé sur "Plein écran".
+Questa opzione è disponibile solo quando la modalità</n>HDR è in uso. Si prega di controllare se la modalità</n>di visualizzazione è impostata su "Schermo intero".
+Diese Option ist nur verfügbar, wenn HDR verwendet wird.</n>Bitte überprüfen Sie, ob der Anzeigemodus auf Vollbild eingestellt ist.
+Esta opción solo está disponible cuando HDR esté en uso.</n>Comprueba que tu modo de pantalla está en pantalla completa.
+Эта опция доступна только при использовании HDR.</n>Убедитесь, что у вас включен полноэкранный режим.
+Ta opcja jest dostępna tylko w trybie HDR.</n>Upewnij się, że tryb wyświetlania jest ustawiony jako Pełny ekran.
+Esta opção só fica disponível com HDR ligado.</n>Verifique se o Modo de Exibição está configurado como Tela Inteira.
+HDR 모드를 사용하는 경우에만 사용 가능한 옵션입니다.</n>디스플레이 모드가 전체 화면으로 설정되어 있는지 확인하십시오.
+啟用 HDR 時才能使用此選項。</n>請檢查您的顯示模式是否設定為「全螢幕」。
+启用 HDR 时才能使用此选项。</n>请检查您的显示模式是否设置为“全屏幕”。
+操作が割り当てられていない項目があるため、</n>変更を適用することができません。</n>※空欄の項目は、赤色で表示されます</n></n>変更を適用せずに、この画面を抜けますか？
+Unable to apply changes since some actions are unbound.</n>(Unbound actions are shown in red.)</n></n>Return without applying changes?
+Impossible d'appliquer les changements car certaines actions</n>(indiquées en rouge) ne sont attribuées à aucune commande.</n></n>Quitter cet écran sans appliquer les changements ?
+Impossibile applicare le modifiche poiché</n>alcune azioni non sono state assegnate.</n>(Le azioni non assegnate sono evidenziate in rosso.)</n></n>Uscire senza applicare le modifiche?
+Die Änderungen konnten nicht angewendet werden,</n>da einige Aktionen nicht zugewiesen wurden.</n>(Nicht zugewiesene Aktionen werden rot angezeigt.)</n></n>Zurückkehren, ohne die Änderungen anzuwenden?
+No ha sido posible aplicar los cambios debido a</n>que algunas acciones no han sido asignadas.</n>(Las acciones sin asignar se muestran en rojo.)</n></n>¿Quieres volver sin aplicar los cambios?
+Невозможно применить изменения, так как некоторые действия не назначены.</n>(Такие действия отмечены красным.)</n></n>Вернуться без сохранения изменений?
+Nie można zastosować zmian, ponieważ niektóre czynności nie mają przypisanych klawiszy.</n>(Czynności bez przypisanych klawiszy są oznaczone na czerwono).</n></n>Wrócić bez stosowania zmian?
+Não foi possível aplicar as alterações, pois algumas ações estão sem atribuição.</n>(Ações sem atribuição aparecem em vermelho.)</n></n>Voltar sem aplicar alterações?
+일부 동작에 대한 컨트롤이 지정되지 않아 변경 사항을 적용할 수 없습니다.</n>(지정되지 않은 동작이 빨간색으로 표시되어 있습니다.)</n></n>변경 사항을 적용하지 않고 돌아가시겠습니까?
+部分動作未綁定，因此無法套用變更。</n>（未綁定的動作會以紅色顯示。）</n></n>您要不套用變更就返回嗎？
+部分动作未绑定，因此无法应用变更。</n>（未绑定的动作会以红色显示。）</n></n>您要不应用变更就返回吗？
+操作が重複している項目があるため、</n>変更を適用することができません。</n>※重複している項目は、赤色で表示されます</n></n>変更を適用せずに、この画面を抜けますか？
+Unable to apply changes since some actions have been</n>bound to the same control.</n>(Actions bound to the same control are shown in red.)</n></n>Return without applying changes?
+Impossible d'appliquer les changements car certaines actions</n>(indiquées en rouge) sont attribuées aux mêmes commandes.</n></n>Quitter cet écran sans appliquer les changements ?
+Impossibile applicare le modifiche poiché alcune azioni</n>sono state assegnate allo stesso tasto.</n>(Le azioni assegnate allo stesso tasto sono evidenziate in rosso.)</n></n>Uscire senza applicare le modifiche?
+Die Änderungen konnten nicht angewendet werden,</n>da einigen Aktionen dieselbe Steuerung zugewiesen wurde.</n>(Aktionen mit derselben Steuerung sind rot hervorgehoben.)</n></n>Zurückkehren, ohne die Änderungen anzuwenden?
+No ha sido posible aplicar los cambios debido a que</n>algunas acciones han sido asignadas al mismo control.</n>(Estas acciones se muestran en rojo.)</n></n>¿Quieres volver sin aplicar los cambios?
+Невозможно применить изменения, так как некоторые</n>действия привязаны к одинаковым клавишам.</n>(Эти действия выделены красным цветом.)</n></n>Вернуться без сохранения изменений?
+Nie można zastosować zmian, ponieważ niektóre czynności</n>przypisano do tego samego klawisza.</n>(Zaznaczono je na czerwono).</n></n>Wrócić bez stosowania zmian?
+Não foi possível aplicar as alterações, pois algumas</n>ações foram atribuídas ao mesmo comando.</n>(Ações atribuídas ao mesmo comando estão exibidas em vermelho).</n></n>Voltar sem aplicar alterações?
+일부 동작에 동일한 컨트롤이 지정되어</n>변경 사항을 적용할 수 없습니다.</n>(동일한 컨트롤이 지정된 동작이 빨간색으로 표시되어 있습니다.)</n></n>변경 사항을 적용하지 않고 돌아가시겠습니까?
+部分動作被綁定至相同操作方式，因此無法</n>套用變更。</n>（綁定至相同操作方式的動作會以紅色顯示。）</n></n>您要不套用變更就返回嗎？
+部分动作被绑定至相同的操作方式，因此无法</n>应用变更。</n>（绑定至相同操作方式的动作会以红色显示。）</n></n>您要不应用变更就返回吗？
+「操作割り当て」の機能が拡張されたため、操作が重複した項目があります。</n>現在の状態では、正常な操作ができない可能性があります。</n></n>オプション画面の「操作割り当て」から、重複している項目の変更をしてください。
+Some actions have been bound to the same control since</n>Control Settings options have been added.</n>You may not be able control the game normally.</n></n>Please change the actions that have been bound to the same</n>control via Options → Controls → Control Settings.
+Suite à l'ajout d'options de configuration, certaines actions</n>sont attribuées aux même commandes.</n>Il se peut que vous ne puissiez pas jouer normalement.</n></n>Veuillez reconfigurer les actions attribuées aux mêmes</n>commandes via Options → Commandes → Configuration.
+Poiché sono state aggiunte nuove opzioni alla</n>Configurazione comandi, alcune azioni sono state</n>assegnate allo stesso tasto. Potresti non riuscire</n>a giocare correttamente.</n></n>Si prega di cambiare le azioni assegnate allo stesso</n>tasto da: Opzioni → Comandi → Configurazione comandi.
+Einigen Aktionen wurde dieselbe Steuerung zugewiesen,</n>da Optionen zu den Steuerungseinstellungen hinzugefügt wurden.</n>Sie können das Spiel womöglich nicht richtig steuern.</n></n>Bitte ändern Sie die Aktionen, denen dieselbe Steuerung zugewiesen</n>wurde, unter Optionen → Steuerung → Steuerungseinstellungen.
+Algunas acciones han sido asignadas al mismo control</n>al añadirse opciones de control. Es posible que no</n>puedas controlar el juego con normalidad.</n></n>Por favor, cambia las opciones asignadas al mismo</n>control en Opciones → Controles → Ajustes de control.
+После добавления настроек управления</n>некоторые действия были привязаны к одинаковым клавишам.</n>Это может помешать игре.</n></n>Измените действия, привязанные к одинаковым</n>клавишам, в меню «Настройки» → «Управление» → «Настройки управления».
+Po dodaniu opcji ustawień sterowania</n>niektóre czynności zostały przypisane do tego samego klawisza.</n>Mogą wystąpić problemy ze sterowaniem w grze.</n></n>Zmień czynności przypisane do tego samego</n>klawisza w menu Opcje → Sterowanie → Ustawienia sterowania.
+Algumas ações foram atribuídas ao mesmo comando depois que</n>as opções de Configuração de Comandos foram adicionadas.</n>Você pode não conseguir controlar o jogo normalmente.</n></n>Altere as ações que foram atribuídas ao mesmo comando</n>em Opções → Controles → Configuração de Comandos.
+컨트롤 설정 옵션이 추가된 후</n>일부 동작에 동일한 컨트롤이 지정되어 있습니다.</n>게임을 정상적으로 컨트롤하지 못할 수 있습니다.</n></n>옵션 → 컨트롤 → 컨트롤 설정으로 이동해</n>동일한 컨트롤이 지정된 동작을 변경하십시오.
+我們在「控制設定」中新增了選項，</n>因此部分動作被綁定至相同操作方式。</n>您可能無法正常進行遊戲操作。</n></n>請從「選項」→「控制」→「控制設定」中</n>變更綁定至相同操作方式的動作。
+“控制设置”中添加了新选项，因此部分动作</n>被绑定至相同的操作方式。</n>您可能无法正常进行游戏操作。</n></n>请通过“选项”→“控制”→“控制设置”</n>来变更被绑定至相同操作方式的动作。
+操作が割り当てられていない項目があるため、</n>変更を適用することができません。</n>※空欄の項目は、赤色で表示されます</n></n>変更を適用せずに、この画面を抜けますか？</n>※この画面に入ったタイミングの操作が重複した状態に戻ります
+Unable to apply changes since some actions are unbound.</n>(Unbound actions are shown in red.)</n></n>Return without applying changes?</n>(Controls will be reverted to the state they were in before entering</n>this screen, with some actions bound to the same control.)
+Impossible d'appliquer les changements car certaines actions</n>(indiquées en rouge) ne sont attribuées à aucune commande.</n></n>Quitter cet écran sans appliquer les changements ?</n>(Vous repasserez à la configuration précédant l'ouverture de</n>ce menu, avec certaines actions attribuées aux mêmes commandes.)
+Impossibile applicare le modifiche poiché</n>alcune azioni non sono state assegnate.</n>(Le azioni non assegnate sono evidenziate in rosso.)</n></n>Uscire senza applicare le modifiche?</n>(Le modifiche ai comandi saranno annullate e alcune</n>azioni rimarranno assegnate allo stesso comando.)
+Die Änderungen konnten nicht angewendet werden,</n>da einige Aktionen nicht zugewiesen wurden.</n>(Nicht zugewiesene Aktionen werden rot angezeigt.)</n></n>Zurückkehren, ohne die Änderungen anzuwenden?</n>(Die Steuerung wird auf den Zustand vor Beginn</n>der Änderungen zurückgesetzt.)
+No ha sido posible aplicar los cambios debido a que</n>algunas acciones no tienen ningún control asignado.</n>(Las acciones sin asignar se muestran en rojo.)</n></n>¿Quieres volver sin aplicar los cambios?</n>(Los controles se revertirán a su estado original,</n>con algunas acciones asignadas al mismo comando.)
+Невозможно применить изменения, так как некоторые действия не назначены.</n>(Такие действия отмечены красным.)</n></n>Вернуться без сохранения изменений?</n>(Управление будет возвращено к состоянию на момент входа</n>на экран; некоторые действия будут привязаны к одной и той же клавише.)
+Nie można zastosować zmian, ponieważ niektóre czynności nie mają przypisanych klawiszy.</n>(Czynności bez przypisanych klawiszy są oznaczone na czerwono).</n></n>Wrócić bez stosowania zmian?</n>(Zostaną przywrócone ustawienia sterowania obowiązujące</n>zanim otwarto ten ekran, czyli niektóre czynności będą przypisane do tego samego klawisza).
+Não foi possível aplicar as alterações, pois algumas ações estão sem atribuição.</n>(Ações sem atribuição aparecem em vermelho.)</n></n>Voltar sem aplicar alterações?</n>(Os controles ficarão como estavam antes de você</n>acessar esta tela, com algumas ações atribuídas ao mesmo controle.)
+일부 동작에 대한 컨트롤이 지정되지 않아 변경 사항을 적용할 수 없습니다.</n>(지정되지 않은 동작이 빨간색으로 표시되어 있습니다.)</n></n>변경 사항을 적용하지 않고 돌아가시겠습니까?</n>(이 화면으로 이동하기 전 컨트롤 상태로 돌아가며,</n>일부 동작은 동일한 컨트롤이 지정됩니다.)
+部分動作未綁定，因此無法套用變更。</n>（未綁定的動作會以紅色顯示。）</n></n>您要不套用變更就返回嗎？</n>（控制方式將還原至您進入此畫面之前的狀態，</n>也就是部分動作被綁定至相同操作方式。）
+部分动作未绑定，因此无法应用变更。</n>（未绑定的动作会以红色显示。）</n></n>您要不应用变更就返回吗？</n>（控制方式将还原至您进入此屏幕之前的状态，</n>也就是部分动作被绑定至相同操作方式。）
+操作が重複している項目があるため、</n>変更を適用することができません。</n>※重複している項目は、赤色で表示されます</n></n>変更を適用せずに、この画面を抜けますか？</n>※この画面に入ったタイミングの操作が重複した状態に戻ります
+Unable to apply changes since some actions have been</n>bound to the same control.</n>(Actions bound to the same control are shown in red.)</n></n>Return without applying changes?</n>(Controls will be reverted to the state they were in before entering</n>this screen, with some actions bound to the same control.)
+Impossible d'appliquer les changements car certaines actions</n>(indiquées en rouge) sont attribuées aux mêmes commandes.</n></n>Quitter cet écran sans appliquer les changements ?</n>(Vous repasserez à la configuration précédant l'ouverture de</n>ce menu, avec certaines actions attribuées aux mêmes commandes.)
+Impossibile applicare le modifiche poiché alcune azioni</n>sono state assegnate allo stesso tasto.</n>(Le azioni assegnate allo stesso tasto sono evidenziate in rosso.)</n></n>Uscire senza applicare le modifiche?</n>(Le modifiche ai comandi saranno annullate e alcune</n>azioni rimarranno assegnate allo stesso comando.)
+Die Änderungen konnten nicht angewendet werden,</n>da einigen Aktionen dieselbe Steuerung zugewiesen wurde.</n>(Aktionen mit derselben Steuerung sind rot hervorgehoben.)</n></n>Zurückkehren, ohne die Änderungen anzuwenden?</n>(Die Steuerung wird auf den Zustand vor Beginn</n>der Änderungen zurückgesetzt.)
+No ha sido posible aplicar los cambios debido a que</n>algunas acciones están asignadas al mismo comando.</n>(Dichas acciones se muestran en rojo.)</n></n>¿Quieres volver sin aplicar los cambios?</n>(Los controles se revertirán a su estado original,</n>con algunas acciones asignadas al mismo comando.)
+Невозможно применить изменения, так как некоторые</n>действия привязаны к одной и той же клавише.</n>(Эти действия выделены красным цветом.)</n></n>Вернуться без сохранения изменений?</n>(Управление будет возвращено к состоянию на момент входа</n>на экран; некоторые действия будут привязаны к одной и той же клавише.)
+Nie można zastosować zmian, ponieważ niektóre czynności</n>przypisano do tego samego klawisza.</n>(Zaznaczono je na czerwono).</n></n>Wrócić bez stosowania zmian?</n>(Zostaną przywrócone ustawienia sterowania obowiązujące</n>zanim otwarto ten ekran, czyli niektóre czynności będą przypisane do tego samego klawisza).
+Não foi possível aplicar as alterações, pois algumas ações</n>foram atribuídas ao mesmo controle.</n>(Ações atribuídas ao mesmo controle estão exibidas em vermelho.)</n></n>Voltar sem aplicar alterações?</n>(Os controles ficarão como estavam antes de você</n>acessar esta tela, com algumas ações atribuídas ao mesmo controle.)
+일부 동작에 동일한 컨트롤이 지정되어 변경 사항을</n>적용할 수 없습니다.</n>(동일한 컨트롤이 지정된 동작이 빨간색으로 표시되어 있습니다.)</n></n>변경 사항을 적용하지 않고 돌아가시겠습니까?</n>(이 화면으로 이동하기 전 컨트롤 상태로 돌아가며,</n>일부 동작은 동일한 컨트롤이 지정됩니다.)
+部分動作被綁定至相同操作方式，</n>因此無法套用變更。</n>（綁定至相同操作方式的動作會以紅色顯示。）</n></n>您要不套用變更就返回嗎？</n>（控制方式將還原至您進入此畫面之前的狀態，</n>也就是部分動作被綁定至相同操作方式。）
+部分动作被绑定至相同操作方式，</n>因此无法应用变更。</n>（绑定至相同操作方式的动作会以红色显示。）</n></n>您要不应用变更就返回吗？</n>（控制方式将还原至您进入此屏幕之前的状态，</n>也就是部分动作被绑定至相同操作方式。）
+選択されたキーは、この操作に割り当てることができません。
+This key cannot be bound to this action.
+Cette touche ne peut être assignée à cette action.
+Questo tasto non può essere assegnato a questa azione.
+Diese Taste kann der Aktion nicht zugewiesen werden.
+Esta tecla no puede asignarse a esta acción.
+Эту клавишу нельзя привязать к выбранному действию.
+Nie można przypisać tego klawisza do tej czynności.
+Este comando não pode ser designado a esta ação.
+이 키를 해당 동작에 지정할 수 없습니다.
+這個鍵不能綁定到這個動作。
+这个键不能绑定到这个动作。
+選択されたキーは割り当てることができません。
+This key cannot be bound.
+Cette touche ne peut pas être assignée.
+Questo tasto non può essere assegnato.
+Diese Taste kann nicht zugewiesen werden.
+Esta tecla no puede ser asignada.
+Эту клавишу нельзя привязать к действию.
+Nie można przypisać tego klawisza.
+Este comando não pode ser designado.
+이 키를 지정할 수 없습니다.
+這個鍵不可以綁。
+这个键不可以绑。
+画面解像度の変更を適用しますか？</n>（変更を適用しない場合、10秒後に元の画面解像度に戻ります）
+Do you want to keep this resolution?</n>(Reverting to previous resolution in 10 seconds.)
+Souhaitez-vous conserver cette résolution ?</n>(Retour à la résolution précédente dans 10 secondes.)
+Vuoi utilizzare questa risoluzione?</n>(Ritorno alla risoluzione precedente in 10 secondi.)
+Möchten Sie die Auflösung beibehalten?</n>(Es wird in 10 Sekunden die vorherige Auflösung wiederhergestellt.)
+¿Quieres mantener esta resolución?</n>(Se restaurará la resolución anterior en 10 segundos.)
+Сохранить это разрешение?</n>(Возврат к прежнему разрешению через 10 секунд.)
+Czy chcesz zachować tę rozdzielczość?</n>(Po 10 sekundach nastąpi powrót do poprzedniej rozdzielczości).
+Quer manter esta resolução?</n>(Voltando à resolução anterior em 10 segundos.)
+이 해상도를 적용하시겠습니까?</n>(10초 후 이전 해상도로 돌아갑니다.)
+您要保留這個解析度設定嗎？</n>（10 秒後將還原至原本的解析度設定。）
+您要保留这个分辨率设置吗？</n>（10 秒后将还原至原本的分辨率设置。）
+グラフィックスAPIを「DirectX 12」にすることで、</n>パフォーマンスが向上する可能性があります。</n></n>グラフィックスAPIの変更には、ゲームを再起動する必要があります。</n>再起動しますか？
+Switching to DirectX 12 may improve performance.</n></n>You must restart the game to change the graphics API.</n>Restart now?
+Passer à DirectX 12 peut améliorer les performances.</n></n>Vous devez redémarrer le jeu pour changer l'API graphique.</n>Redémarrer maintenant ?
+L'utilizzo delle DirectX 12 potrebbe migliorare le prestazioni.</n></n>Per cambiare le librerie grafiche, è necessario riavviare il gioco.</n>Riavviare?
+Der Wechsel zu DirectX 12 kann die Performance verbessern.</n></n>Das Ändern der Grafik-API erfordert einen Neustart.</n>Das Spiel jetzt neu starten?
+Cambiar a Direct X 12 puede mejorar el rendimiento.</n></n>Para hacerlo será necesario reiniciar el juego.</n>¿Quieres continuar?
+DirectX 12 может улучшить производительность.</n></n>Для смены графического API требуется перезапуск игры.</n>Перезапустить игру?
+Przełączenie na DirectX 12 może poprawić wydajność.</n></n>Aby zmienić interfejs API grafiki, musisz ponownie uruchomić grę.</n>Chcesz to zrobić teraz?
+Se você trocar para DirectX 12, o desempenho pode melhorar.</n></n>É preciso reiniciar o jogo para alterar a API gráfica.</n>Reiniciar agora?
+DirectX 12로 전환하면 성능이 개선될 수 있습니다.</n></n>그래픽 API를 변경하려면 게임을 다시 시작해야 합니다.</n>지금 다시 시작하시겠습니까?
+切換至 DirectX 12 有機會改善效能。</n></n>如要變更圖形 API，您必須重新啟動遊戲。</n>要立即重新啟動嗎？
+切换至 DirectX 12 有机会改善性能。</n></n>如要变更图形 API，您必须重启游戏。</n>要立即重启游戏吗？
+グラフィックスAPIの変更には、ゲームを再起動する必要があります。</n>再起動しますか？
+You must restart the game to change the graphics API.</n>Restart now?
+Vous devez redémarrer le jeu pour changer l'API graphique.</n>Redémarrer maintenant ?
+Per cambiare le librerie grafiche, è necessario riavviare il gioco.</n>Riavviare?
+Das Ändern der Grafik-API erfordert einen Neustart.</n>Das Spiel jetzt neu starten?
+Para cambiar de API gráfica debes reiniciar el juego.</n>¿Quieres reiniciar ahora?
+Для смены графического API требуется перезапуск игры.</n>Перезапустить игру?
+Aby zmienić interfejs API grafiki, musisz ponownie uruchomić grę.</n>Chcesz to zrobić teraz?
+É preciso reiniciar o jogo para alterar a API gráfica.</n>Reiniciar agora?
+그래픽 API를 변경하려면 게임을 다시 시작해야 합니다.</n>지금 다시 시작하시겠습니까?
+如要變更圖形 API，您必須重新啟動遊戲。</n>要立即重新啟動嗎？
+如要变更图形 API，您必须重启游戏。</n>要立即重启游戏吗？
+前回のゲームが正しく終了されなかったため、</n>グラフィックスAPIを「DirectX 11」に変更して起動しました。</n></n>「DirectX 12」に戻す場合は、オプション画面から変更してください。
+The game did not shut down correctly.</n>The graphics API option has been set to DirectX 11.</n></n>If you want to use DirectX 12 again, change your</n>settings via options.
+Le jeu ne s'est pas arrêté correctement.</n>L'API graphique est maintenant réglée sur DirectX 11.</n></n>Si vous souhaitez utiliser DirectX 12 à nouveau,</n>veuillez effectuer ce changement dans le menu Options.
+Il gioco non è stato chiuso correttamente.</n>Le librerie grafiche sono state impostate su DirectX 11.</n></n>Se desideri usare nuovamente le DirectX 12, modifica</n>le tue impostazioni nel menu delle opzioni.
+Das Spiel wurde nicht korrekt beendet.</n>Die Grafik-API wurde auf DirectX 11 eingestellt.</n></n>Wenn Sie wieder DirectX 12 verwenden möchten,</n>können Sie die Einstellung in den Optionen ändern.
+El juego no se cerró adecuadamente.</n>La API gráfica ha cambiado a DirectX 11.</n></n>Si deseas volver a usar DirectX 12,</n>realiza dicho ajuste en Opciones.
+Игра была завершена некорректно.</n>Включен графический API DirectX 11.</n></n>DirectX 12 можно повторно включить</n>в настройках игры.
+Gra nie została zamknięta poprawnie.</n>Jako interfejs API grafiki ustawiono DirectX 11.</n></n>Jeśli chcesz ponownie włączyć DirectX 12,</n>zmień ustawienia w opcjach.
+O jogo não foi encerrado corretamente.</n>A API gráfica foi configurada como DirectX 11.</n></n>Se quiser voltar a usar DirectX 12, mude a</n>configuração nas opções.
+게임이 올바르게 종료되지 않았습니다.</n>그래픽 API가 DirectX 11으로 설정되었습니다.</n></n>다시 DirectX 12를 사용하려면 옵션에서 설정을</n>변경하십시오.
+遊戲沒有正常結束。</n>圖形 API 已設為 DirectX 11。</n></n>如果您希望再次使用 DirectX 12，</n>請於選項中變更此設定。
+游戏没有正常结束。</n>图形 API 已设为 DirectX 11。</n></n>若您希望再次使用 DirectX 12，</n>请于选项中变更此设置。
+前回のゲームが正しく終了されなかったため、</n>オプションのGraphics設定を初期状態に戻して起動しました。
+The game did not shut down correctly.</n>Graphics settings have been reset to default.
+Le jeu ne s'est pas arrêté correctement.</n>Les paramètres graphiques ont été réinitialisés.
+Il gioco non è stato chiuso correttamente.</n>Le impostazioni grafiche sono state ripristinate</n>alle loro impostazioni predefinite.
+Das Spiel wurde nicht korrekt beendet.</n>Die Grafikeinstellungen wurden zurückgesetzt.
+El juego no se cerró adecuadamente.</n>Las opciones gráficas han vuelto a</n>su configuración predeterminada.</n>
+Игра была завершена некорректно.</n>Настройки графики были установлены по умолчанию.
+Gra nie została poprawnie zamknięta.</n>Ustawienia graficzne zostały zresetowane do ustawień domyślnych.
+O jogo não foi encerrado corretamente.</n>As configurações gráficas foram revertidas para o padrão.
+게임이 올바르게 종료되지 않았습니다.</n>그래픽 설정이 기본값으로 재설정되었습니다.
+遊戲沒有正常結束，</n>所有設定變為初期設定。
+游戏没有正常结束，</n>所有设定重置到初期设定。
+「DirectX 12」が正常に動作しなかったため、</n>グラフィックスAPIを「DirectX 11」に変更して起動しました。</n></n>「DirectX 12」に戻す場合は、オプション画面から変更してください。
+The game encountered an error.</n>The graphics API has been set to DirectX 11.</n></n>If you want to use DirectX 12 again, change your</n>settings via options. 
+Une erreur s'est produite.</n>L'API graphique est maintenant réglée sur DirectX 11.</n></n>Si vous souhaitez utiliser DirectX 12 à nouveau,</n>veuillez effectuer ce changement dans le menu Options.
+Si è verificato un errore di gioco.</n>Le librerie grafiche sono state impostate su DirectX 11.</n></n>Se desideri usare nuovamente le DirectX 12, dovrai impostarle</n>nella schermata delle opzioni relative alla grafica.
+Im Spiel ist ein Fehler aufgetreten.</n>Die Grafik-API wurde auf DirectX 11 eingestellt.</n></n>Wenn Sie wieder DirectX 12 verwenden möchten,</n>können Sie die Einstellung in den Optionen ändern.
+Ha ocurrido un error en el juego.</n>La API gráfica ha cambiado a DirectX 11.</n></n>Si deseas volver a usar DirectX 12,</n>realiza dicho ajuste en Opciones.
+Произошла ошибка.</n>Включен графический API DirectX 11.</n></n>DirectX 12 можно повторно включить</n>в настройках игры. 
+Działanie gry zostało przerwane przez błąd.</n>Jako interfejs API grafiki ustawiono DirectX 11.</n></n>Jeśli chcesz ponownie włączyć DirectX 12,</n>zmień ustawienia w opcjach. 
+O jogo se deparou com um erro.</n>A API gráfica foi configurada como DirectX 11.</n></n>Se quiser voltar a usar DirectX 12, mude a</n>configuração nas opções. 
+게임에 오류가 발생했습니다.</n>그래픽 API가 DirectX 11으로 설정되었습니다.</n></n>다시 DirectX 12를 사용하려면 옵션에서 설정을</n>변경하십시오. 
+遊戲發生錯誤。</n>圖形 API 已設為 DirectX 11。</n></n>如果您希望再次使用 DirectX 12，</n>請於選項中變更此設定。 
+游戏出错。</n>图形 API 已设为 DirectX 11。</n></n>若您希望再次使用 DirectX 12，</n>请于选项中变更此设置。 
+セーブデータの保存が完了しました。</n>ゲームを再起動します。
+Data saved.</n></n>The game will now restart.
+Données sauvegardées.</n></n>Le jeu va maintenant redémarrer.
+Impostazioni salvate.</n></n>Verrà effettuato il riavvio del gioco.
+Daten wurden gespeichert.</n></n>Das Spiel wird jetzt neu gestartet.
+Datos guardados.</n></n>El juego se reiniciará.
+Данные сохранены.</n></n>Сейчас произойдет перезапуск игры.
+Dane zapisane.</n></n>Nastąpi ponowne uruchomienie gry.
+Dados salvos.</n></n>O jogo será reiniciado.
+데이터가 저장되었습니다.</n></n>이제 게임이 다시 시작됩니다.
+資料已儲存。</n></n>遊戲將立即重新啟動。
+数据已保存。</n></n>系统将立即重启游戏。
+使用グラフィックスメモリが大きいため、<COL PC_HALF_OVER>オレンジ色</COL>で表示されています。</n>この場合、軽微な不具合が生じる可能性があります。
+Graphics Memory has been colored <COL PC_HALF_OVER>orange</COL> due to high usage.</n>Minor bugs may occur.
+La mémoire graphique est affichée en <COL PC_HALF_OVER>orange</COL></n>pour indiquer une utilisation importante.</n>Des bugs mineurs peuvent survenir.
+A causa dell'elevato utilizzo, il valore relativo alla</n>memoria grafica utilizzata è stato evidenziato in <COL PC_HALF_OVER>arancione</COL>.</n>Potrebbero verificarsi problemi di entità minore.
+Aufgrund von hoher Grafikspeichernutzung wird dieser <COL PC_HALF_OVER>orange</COL> angezeigt.</n>Es können kleinere Fehler auftreten.
+Se ha resaltado la memoria gráfica en</n><COL PC_HALF_OVER>naranja</COL> debido a un rendimiento excesivo.</n>Es posible que haya problemas menores.
+Вследствие интенсивного использования графической памяти присвоен <COL PC_HALF_OVER>оранжевый</COL> уровень.</n>Возможны небольшие ошибки.
+Pamięć graficzna została oznaczona kolorem <COL PC_HALF_OVER>pomarańczowym</COL> ze względu na intensywne wykorzystanie.</n>Mogą występować drobne usterki.
+A memória gráfica passou ao estágio <COL PC_HALF_OVER>laranja</COL> por conta de uso intenso.</n>Pode ocasionar bugs leves.
+그래픽 메모리가 높은 사용량으로 인해 <COL PC_HALF_OVER>주황색</COL>이 되었습니다.</n>사소한 버그가 발생할 수 있습니다.
+由於使用率過高，圖形記憶體顯示變成<COL PC_HALF_OVER>橙色</COL>。</n>可能會出現小錯誤。
+由于使用率过高，图形内存显示变成<COL PC_HALF_OVER>橙色<COL>。</n>可能会出现小错误。
+使用グラフィックスメモリが大きいため、<COL PC_LIMIT_OVER>赤色</COL>で表示されています。</n>この場合、深刻な不具合が生じる可能性があります。
+Graphics Memory has been colored <COL PC_LIMIT_OVER>red</COL> due to high usage.</n>Serious bugs may occur.
+La mémoire graphique est affichée en <COL PC_LIMIT_OVER>rouge</COL></n>pour indiquer une utilisation importante.</n>Des bugs majeurs peuvent survenir.
+A causa dell'elevato utilizzo, il valore relativo alla</n>memoria grafica utilizzata è stato evidenziato in <COL PC_LIMIT_OVER>rosso</COL>.</n>Potrebbero verificarsi problemi di entità maggiore.
+Aufgrund von hoher Grafikspeichernutzung wird dieser <COL PC_LIMIT_OVER>rot</COL> angezeigt.</n>Es können erhebliche Fehler auftreten.
+Se ha resaltado la memoria gráfica en</n><COL PC_LIMIT_OVER>rojo</COL> debido a un rendimiento excesivo.</n>Es posible que haya problemas mayores.
+Вследствие интенсивного использования графической памяти присвоен <COL PC_LIMIT_OVER>красный</COL> уровень.</n>Возможны серьезные ошибки.
+Pamięć graficzna została oznaczona kolorem <COL PC_LIMIT_OVER>czerwonym</COL> ze względu na intensywne wykorzystanie.</n>Mogą występować poważne usterki.
+A memória gráfica passou ao estágio <COL PC_LIMIT_OVER>vermelho</COL> por conta de uso intenso.</n>Pode ocasionar bugs graves.
+그래픽 메모리가 높은 사용량으로 인해 <COL PC_LIMIT_OVER>빨간색</COL>이 되었습니다.</n>심각한 버그가 발생할 수 있습니다.
+由於使用率過高，圖形記憶體顯示變成<COL PC_LIMIT_OVER>紅色</COL>。</n>可能會出現嚴重的錯誤。
+由于使用率过高，图形内存显示变成<COL PC_LIMIT_OVER>红色</COL>。</n>可能会出现严重的错误。
+Exit
+Exit
+Quitter
+Esci
+Verlassen
+Salir
+Выйти
+Wyjdź
+Sair
+나가기
+離開
+退出
+ゲームを終了します
+Quit the game.
+Quitter le jeu.
+Esci dal gioco.
+Das Spiel beenden.
+Salir del juego.
+Выйти из игры.
+Wyjdź z gry.
+Sair do jogo.
+게임을 종료합니다.
+結束遊戲。
+退出游戏。
+ゲームを終了しますか？
+Quit the game?
+Quitter le jeu ?
+Uscire dal gioco?
+Das Spiel wirklich beenden?
+¿Quieres salir del juego?
+Выйти из игры?
+Wyjść z gry?
+Sair do jogo?
+게임을 종료하시겠습니까?
+確定要結束遊戲嗎？
+是否要退出游戏？
+<ICON DEFAULT> 標準の割り当て
+<ICON DEFAULT> Default
+<ICON DEFAULT> Par défaut
+<ICON DEFAULT> Predefiniti
+<ICON DEFAULT> Standard
+<ICON DEFAULT> Por defecto
+<ICON DEFAULT> По умолчанию
+<ICON DEFAULT> Domyślne
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Padrão
+<ICON DEFAULT> 기본
+<ICON DEFAULT> 預設
+<ICON DEFAULT> 默认
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON KEY_DEL> 割り当て解除
+<ICON KEY_DEL> Remove
+<ICON KEY_DEL> Désassigner
+<ICON KEY_DEL> Rimuovi
+<ICON KEY_DEL> Entfernen
+<ICON KEY_DEL> Quitar
+<ICON KEY_DEL> Удалить
+<ICON KEY_DEL> Usuń
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> Remover
+<ICON KEY_DEL> 제거
+<ICON KEY_DEL> 移除
+<ICON KEY_DEL> 移除
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_DEL> 
+<ICON KEY_ESC> キャンセル
+<ICON KEY_ESC> Cancel
+<ICON KEY_ESC> Annuler
+<ICON KEY_ESC> Annulla
+<ICON KEY_ESC> Abbrechen
+<ICON KEY_ESC> Cancelar
+<ICON KEY_ESC> Отменить
+<ICON KEY_ESC> Anuluj
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> Cancelar
+<ICON KEY_ESC> 취소
+<ICON KEY_ESC> 取消
+<ICON KEY_ESC> 取消
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON KEY_ESC> 
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_LEFT>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_UP>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_RIGHT>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+<ICON EQUIP_DOWN>
+グラフィックス自動設定
+Presets
+Réglages types
+Configurazione rapida
+Voreinstellungen
+Preajustes
+Предустановки
+Ustawienia wstępne
+Predefinições
+프리셋
+預設
+预设
+オススメ
+Recommended
+Recommandé
+Configurazione consigliata
+Empfohlen
+Recomendado
+Рекомендуемые
+Zalecane
+Recomendado
+권장
+建議
+建议
+限界突破
+Max
+Maximum
+Configurazione massima
+Maximum
+Máx.
+Максимальные
+Maksymalne
+Máximo
+최대
+最大值
+最大值
+画面品質重視
+Graphics Priority
+Priorité aux graphismes
+Priorità alla grafica
+Grafik priorisieren
+Prioridad de gráficos
+Важнее графика
+Priorytet: grafika
+Prioridade nos Gráficos
+그래픽 우선
+圖形優先
+图形优先
+バランス重視
+Balanced
+Équilibré
+Configurazione bilanciata
+Ausgeglichen
+Equilibrada
+Сбалансированные
+Zrównoważone
+Equilibrado
+균형 유지
+平衡
+平衡
+処理速度重視
+Performance Priority
+Priorité aux performances
+Priorità alle prestazioni
+Leistung priorisieren
+Prioridad de rendimiento
+Важнее производительность
+Priorytet: wydajność
+Prioridade no Desempenho
+성능 우선
+效能優先
+性能优先
+PCのグラフィックスメモリ容量から</n>オススメのオプションを設定します
+Sets options based on available graphics memory.
+Régler les options en fonction de la mémoire graphique disponible.
+Imposta le opzioni in base alla memoria grafica disponibile.
+Stellt die Optionen basierend auf dem Grafikspeicher ein.
+Ajusta las opciones basándote en la memoria gráfica disponible.
+Выбирает настройки в зависимости от доступной видеопамяти.
+Ustawia opcje zgodnie z ilością pamięci graficznej.
+Define as opções de acordo com a memória gráfica disponível.
+사용 가능한 그래픽 메모리를 기반으로 옵션을 설정합니다.
+根據可用的圖形記憶體來設定選項。
+根据可用的图形内存来设置选项。
+処理負荷を一切考慮せず</n>画面品質を考えうる限り最高に設定します
+Sets options to the maximum possible values, without</n>taking into account the impact on performance.
+Choisir les meilleures options possibles,</n>sans tenir compte de l'impact sur les performances.
+Imposta le opzioni ai valori più alti possibili senza</n>tenere conto dell'impatto sulle prestazioni.
+Stellt die Optionen auf die höchstmöglichen Werte</n>ohne Rücksicht auf Leistungseinbußen ein.
+Ajusta las opciones al valor máximo permitido por tu sistema,</n>ignorando el posible impacto en el rendimiento.
+Выбирает максимальные настройки независимо</n>от того, как они скажутся на производительности.
+Ustawia opcje na maksymalne wartości</n>bez uwzględniania ich wpływu na wydajność.
+Define as opções de acordo com os valores máximos possíveis,</n>sem levar em consideração o impacto no desempenho.
+성능에 대한 영향은 고려하지 않고,</n>가능한 최대 값으로 옵션을 설정합니다.
+在不考慮效能的情況下，</n>將選項設定至最大值。
+在不考虑性能的情况下，</n>将选项设置为最大值。
+処理負荷は高めですが</n>画面品質を優先したオプションを設定します</n></n>グラフィックスメモリ容量 : {0}GB 以上推奨
+Prioritizes graphical quality, but increases the demands</n>on your system.</n></n>Recommended graphics memory: {0} GB+
+Privilégier la qualité graphique, en augmentant</n>la charge de travail du système.</n></n>Mémoire graphique recommandée : {0} Go ou plus
+Da la priorità alla qualità della grafica,</n>ma aumenta il carico di lavoro sul sistema.</n></n>Memoria grafica raccomandata: più di {0} GB 
+Priorisiert die Grafikqualität, auch wenn dies</n>die Anforderungen an das System erhöht.</n></n>Empfohlener Grafikspeicher: {0} GB oder mehr
+Prioriza la calidad gráfica, pero afecta</n>al rendimiento del sistema.</n></n>Memoria gráfica recomendada: {0} GB+
+Отдает предпочтение качеству графики</n>в ущерб производительности.</n></n>Рекомендуемый объем видеопамяти: {0}+ ГБ
+Nadaje priorytet jakości grafiki, ale zwiększa</n>wymagania systemowe.</n></n>Zalecana ilość pamięci graficznej: więcej niż {0} GB
+Dá prioridade à qualidade gráfica,</n>mas exige mais do sistema.</n></n>Memória gráfica recomendada: {0} GB+
+그래픽 품질을 우선시합니다. 시스템 요구 사항이</n>높아집니다.</n></n>권장 그래픽 메모리: {0}GB 이상
+以圖形品質為優先，</n>不過會增加系統的工作需求。</n></n>建議圖形記憶體：{0} GB 以上
+以图形品质为优先，</n>不过会增加系统的工作需求。</n></n>建议图形内存：{0} GB 以上
+処理負荷と画面品質の</n>バランスのとれたオプションを設定します</n></n>グラフィックスメモリ容量 : {0}GB ~ {1}GB 推奨
+A balance between performance and graphical quality.</n></n>Recommended graphics memory: {0} GB-{1} GB
+Opter pour un bon compromis entre performances</n>et qualité graphique.</n></n>Mémoire graphique recommandée : De {0} à {1} Go
+Il giusto equilibrio tra prestazioni e qualità della grafica.</n></n></n>Memoria grafica raccomandata: da {0} GB a {1} GB
+Ein Kompromiss zwischen Leistung und Grafikqualität.</n></n>Empfohlener Grafikspeicher: {0} GB bis {1} GB
+Equilibrio entre rendimiento y calidad gráfica.</n></n>Memoria gráfica recomendada: {0} GB-{1} GB
+Баланс между производительностью и качеством графики.</n></n>Рекомендуемый объем видеопамяти: {0}–{1} ГБ
+Równowaga między wydajnością a jakością grafiki.</n></n>Zalecana ilość pamięci graficznej: {0}–{1} GB
+Equilíbrio entre desempenho e qualidade gráfica.</n></n>Memória gráfica recomendada: {0}–{1} GB
+성능과 그래픽 품질 간 균형을 유지합니다.</n></n>권장 그래픽 메모리: {0}GB~{1}GB
+在效能與圖形品質之間取得平衡。</n></n>建議圖形記憶體：{0} GB-{1} GB
+在性能与图形品质之间取得平衡。</n></n>建议图形内存：{0} GB 至 {1} GB
+画面の品質はあまり落とさず</n>処理負荷を軽減させたオプションを設定します</n></n>グラフィックスメモリ容量 : {0}GB 未満推奨
+Maintain decent graphical quality while minimizing the demands</n>on your system.</n></n>Recommended graphics memory: {0} GB or less
+Maintenir une qualité graphique décente tout en</n>minimisant la charge de travail du système.</n></n>Mémoire graphique recommandée : {0} Go ou moins
+Mantiene una qualità grafica accettabile e</n>minimizzando il carico di lavoro sul sistema.</n></n>Memoria grafica raccomandata: {0} GB o meno
+Bewahrt eine gute Grafikqualität, ohne dabei zu</n>große Anforderungen an das System zu stellen.</n></n>Empfohlener Grafikspeicher: {0} GB oder weniger
+Mantiene una calidad gráfica decente sin</n>sacrificar mucho rendimiento del sistema.</n></n>Memoria gráfica recomendada: {0} GB o menos
+Отдает предпочтение производительности</n>в ущерб качеству графики.</n></n>Рекомендуемый объем видеопамяти: {0} или меньше ГБ
+Zapewnia przyzwoitą jakość grafiki przy minimalnych</n>wymaganiach systemowych.</n></n>Zalecana ilość pamięci graficznej: {0} GB lub mniej
+Mantém qualidade gráfica em um nível bom,</n>minimizando o impacto no desempenho onde possível.</n></n>Memória gráfica recomendada: {0} GB ou menos.
+시스템 요구 사항은 최소화하면서 적정 수준의</n>그래픽 품질을 유지합니다.</n></n>권장 그래픽 메모리: {0}GB 이하
+在盡量降低系統工作需求的情況下，</n>維持一定的圖形品質。</n></n>建議圖形記憶體：{0} GB 以下
+在尽量降低系统工作需求的情况下，</n>维持一定的图形品质。</n></n>建议图形内存：{0} GB 以下
+Graphics
+Graphics
+Graphismes
+Grafica
+Grafik
+Gráficos
+Графика
+Ustawienia graficzne
+Gráficos
+그래픽
+圖形
+图形
+描画に関する設定ができます
+Change graphical settings.
+Changer les paramètres graphiques.
+Cambia le impostazioni della grafica.
+Die Grafikeinstellungen ändern.
+Ajusta las opciones gráficas.
+Изменить настройки графики.
+Zmień ustawienia graficzne.
+Mudar as configurações gráficas.
+그래픽 설정을 변경합니다.
+變更圖形設定。
+变更图形设置。
+使用グラフィックスメモリ
+Graphics Memory
+Mémoire graphique
+Memoria video utilizzata
+Grafikspeicher
+Memoria gráfica
+Память видеокарты
+Pamięć graficzna
+Memória Gráfica
+그래픽 메모리
+顯示記憶
+显示记忆
+処理負荷
+Processing Load
+Charge de travail
+Carico di lavoro
+Rechenlast
+Carga de proceso
+Загрузка процессора
+Obciążenie przetwarzaniem
+Volume de Processamento
+처리 로드
+處理負荷
+处理负荷
+画面品質
+Image Quality
+Qualité de l'image
+Qualità immagine
+Bildqualität
+Calidad de la imagen
+Качество изображения
+Jakość obrazu
+Qualidade da Imagem
+이미지 품질
+影像品質
+图像品质
+モデル品質
+Model Quality
+Qualité des modèles
+Qualità modelli
+Modellqualität
+Calidad de modelos
+Качество моделей
+Jakość modeli
+Qualidade dos Modelos
+모델 품질
+模型品質
+模型品质
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_PC_Option_Graph05
+ライティング品質
+Lighting Quality
+Qualité des éclairages
+Qualità illuminazione
+Lichtqualität
+Calidad de la luz
+Качество освещения
+Jakość oświetlenia
+Qualidade da Iluminação
+조명 품질
+照明品質
+光照品质
+画面効果品質
+Graphical Effects Quality
+Qualité des effets graphiques
+Qualità effetti grafici
+Grafikeffektqualität
+Calidad de efectos gráficos
+Качество графических эффектов
+Jakość efektów graficznych
+Qualidade dos Efeitos Gráficos
+그래픽 효과 품질
+圖形效果品質
+图形效果品质
+{0:F2}GB
+{0:F2} GB
+{0:F2} Go
+{0:F2} GB
+{0:F2} GB
+{0:F2} GB
+{0:F2} ГБ
+{0:F2} GB
+{0:F2} GB
+{0:F2}GB
+{0:F2} GB
+{0:F2} GB
+最高
+Max
+Maximum
+Massima
+Maximum
+Máx.
+Макс.
+Maks.
+Máximo
+최대
+最高
+最高
+高
+High
+Élevée
+Alta
+Hoch
+Alta
+Выс.
+Wys.
+Alto
+높음
+高
+高
+中
+Medium
+Moyenne
+Media
+Mittel
+Media
+Средн.
+Śr.
+Médio
+중간
+中
+中
+低
+Low
+Basse
+Bassa
+Niedrig
+Baja
+Низк.
+Nis.
+Baixo
+낮음
+低
+低
+最低
+Min
+Minimum
+Minima
+Minimum
+Mín.
+Мин.
+Min.
+Mínimo
+최소
+最低
+最低
+コントローラーの操作方法を変更できます
+Change control settings.
+Configurer les commandes (manette).
+Cambia le impostazioni dei comandi.
+Die Steuerungseinstellungen ändern.
+Ajusta las opciones de control.
+Изменить настройки управления.
+Zmień ustawienia sterowania.
+Mudar configurações de controle.
+컨트롤 설정을 변경합니다.
+變更控制設定。
+变更控制设置。
+キーバインド
+Key Bindings
+Assignation des touches
+Assegnazione tasti
+Tastenbelegung
+Asignación de teclas
+Горячие клавиши
+Przypisania klawiszy
+Definir Comandos
+키 지정
+按鍵綁定
+按键绑定
+マウスとキーボードの操作割り当てを変更します
+Adjust mouse and keyboard control settings.
+Configurer les commandes (clavier/souris).
+Regola le impostazioni per mouse e tastiera.
+Die Einstellungen für die Steuerung per Maus und Tastatur anpassen.
+Ajusta las opciones de control de teclado y ratón.
+Изменить настройки управления (мышь и клавиатура).
+Dostosuj ustawienia sterowania myszy i klawiatury.
+Ajustar configurações de mouse e teclado.
+마우스 및 키보드 컨트롤 설정을 조정합니다.
+調整滑鼠和鍵盤的控制設定。
+调整鼠标和键盘的控制设置。
+マウス操作感度
+Mouse Sensitivity
+Sensibilité de la souris
+Velocità visuale (mouse)
+Mausempfindlichkeit
+Sensibilidad del ratón
+Чувств. мыши
+Czułość myszy
+Sensibilidade do Mouse
+마우스 감도
+滑鼠靈敏度
+鼠标灵敏度
+マウス操作の通常時カメラ速度を調整できます
+Adjust camera speed during normal gameplay (mouse).
+Ajuster la vitesse de la caméra en mode normal (souris).
+Regola la velocità della visuale di gioco quando ti muovi (mouse).
+Geschwindigkeit der Kamera im regulären Spiel anpassen. (Maus)
+Ajusta la velocidad de la cámara durante la partida (ratón).
+Изменить скорость движения камеры во время игры (мышь).
+Dostosuj szybkość kamery podczas normalnej rozgrywki (mysz).
+Ajustar a velocidade da câmera durante os momentos normais (mouse).
+일반 게임 플레이 시 카메라 속도를 조정합니다(마우스).
+調整正常遊玩時的視角移動速度（滑鼠）。
+调整正常游玩时的视角移动速度（鼠标）。
+マウス操作の構え時カメラ速度を調整できます
+Adjust camera speed when aiming (mouse).
+Ajuster la vitesse de la caméra en mode visée (souris).
+Regola la velocità della visuale quando stai mirando (mouse).
+Geschwindigkeit der Kamera beim Zielen anpassen. (Maus)
+Ajusta la velocidad de la cámara al apuntar (ratón).
+Изменить скорость движения камеры при прицеливании (мышь).
+Dostosuj szybkość kamery podczas celowania (mysz).
+Ajustar a velocidade da câmera ao mirar (mouse).
+조준 시 카메라 속도를 조정합니다(마우스).
+調整瞄準時的視角移動速度（滑鼠）。
+调整瞄准时的视角移动速度（鼠标）。
+コントローラー操作感度
+Controller Sensitivity
+Sensibilité de la manette
+Velocità visuale (controller)
+Controller-Empfindlichkeit
+Sensibilidad del mando
+Чувств. геймпада
+Czułość kontrolera
+Sensibilidade do Controle
+컨트롤러 감도
+控制器靈敏度
+控制器灵敏度
+コントローラー操作の通常時カメラ速度を調整できます
+Adjust camera speed during normal gameplay (controller).
+Ajuster la vitesse de la caméra en mode normal (manette).
+Regola la velocità della visuale di gioco quando ti muovi (controller).
+Geschwindigkeit der Kamera im regulären Spiel anpassen. (Controller)
+Ajusta la velocidad de la cámara durante la partida (mando).
+Изменить скорость движения камеры во время игры (контроллер).
+Dostosuj szybkość kamery podczas normalnej rozgrywki (kontroler).
+Ajustar a velocidade da câmera durante os momentos normais (controle).
+일반 게임 플레이 시 카메라 속도를 조정합니다(컨트롤러).
+調整正常遊玩時的視角移動速度（控制器）。
+调整正常游玩时的视角移动速度（控制器）。
+コントローラー操作の構え時カメラ速度を調整できます
+Adjust camera speed when aiming (controller).
+Ajuster la vitesse de la caméra en mode visée (manette).
+Regola la velocità della visuale quando stai mirando (controller).
+Geschwindigkeit der Kamera beim Zielen anpassen. (Controller)
+Ajusta la velocidad de la cámara al apuntar (mando).
+Изменить скорость движения камеры при прицеливании (контроллер).
+Dostosuj szybkość kamery podczas celowania (kontroler).
+Ajustar a velocidade da câmera ao mirar (controle).
+조준 시 카메라 속도를 조정합니다(컨트롤러).
+調整瞄準時的視角移動速度（控制器）。
+调整瞄准时的视角移动速度（控制器）。
+色空間
+Color Space
+Espace de couleur
+Spazio colore
+Farbraum
+Espacio de color
+Цветовое пространство
+Przestrzeń barw
+Espaço de Cores
+색 공간
+色彩空間
+色彩空间
+モニターに合わせて色の表現を切替できます
+Adjust the color to suit your monitor setup.
+Changer l'espace de couleur en fonction de votre moniteur.
+Imposta lo spazio colore più adatto alla configurazione del monitor.
+Den Farbraum gemäß der Einstellung des Monitors anpassen.
+Ajusta el color con respecto a tu monitor.
+Привести цвет в соответствие с настройками монитора.
+Dostosuj barwy do konfiguracji monitora.
+Selecionar as cores adequadas à configuração do monitor.
+모니터 설정에 맞게 색상을 조정합니다.
+調整色彩以符合您的螢幕設定。
+调整色彩以符合您的屏幕设置。
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+sRGB
+Rec.709
+Rec. 709
+Rec. 709
+Rec. 709
+Rec. 709
+Rec. 709
+Rec. 709
+Rec. 709
+Rec. 709
+Rec.709
+Rec. 709
+Rec. 709
+Rec.2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+Rec. 2020
+グラフィックス自動設定
+Presets
+Réglages types
+Configurazione rapida
+Voreinstellungen
+Preajustes
+Предустановки
+Ustawienia wstępne
+Predefinições
+프리셋
+預設
+预设
+Graphicsの項目を自動的に割当できます
+Automatically set graphics options based on PC performance.
+Régler automatiquement les options graphiques selon les performances du PC.
+Imposta le opzioni grafiche in base alle prestazioni del PC.
+Stellt die Grafikoptionen gemäß der Leistung des PCs automatisch ein.
+Ajusta la calidad gráfica basándose en el rendimiento del PC.
+Автоматически задает качество графики в зависимости от производительности ПК.
+Dostosuj automatycznie opcje graficzne do wydajności komputera.
+Configurar opções gráficas de acordo com o desempenho do PC.
+PC 성능에 따라 자동으로 그래픽 옵션을 설정합니다.
+根據電腦效能自動設定圖形選項。
+根据电脑性能自动设置图形选项。
+画面モード
+Display Mode
+Mode d'affichage
+Modalità di visualizzazione
+Anzeigemodus
+Modo de pantalla
+Режим экрана
+Tryb wyświetlania
+Modo de Exibição
+디스플레이 모드
+顯示模式
+显示模式
+画面表示のタイプを切替できます
+Change the display mode.
+Changer le mode d'affichage.
+Imposta la modalità di visualizzazione.
+Den Anzeigemodus ändern.
+Cambia el modo de pantalla.
+Изменить режим экрана.
+Zmień tryb wyświetlania.
+Alterar o modo de exibição.
+디스플레이 모드를 변경합니다.
+變更顯示模式。
+变更显示模式。
+フルスクリーン
+Full Screen
+Plein écran
+Schermo intero
+Vollbild
+Pantalla completa
+Во весь экран
+Pełny ekran
+Tela Inteira
+전체 화면
+全螢幕
+全屏幕
+ウィンドウ
+Windowed
+Fenêtre
+Finestra
+Fenster
+Ventana
+Оконный режим
+W oknie
+Janela
+창 모드
+視窗
+窗口
+ボーダレスウィンドウ
+Borderless Window
+Fenêtre sans bordure
+Finestra senza bordi
+Randloses Fenster
+Ventana sin bordes
+Весь экран (оконный)
+W oknie bez ramki
+Janela sem Bordas
+경계 없는 창 모드
+無框線視窗
+无边框窗口
+画面解像度
+Resolution
+Résolution
+Risoluzione
+Auflösung
+Resolución
+Разрешение
+Rozdzielczość
+Resolução
+해상도
+解析度
+分辨率
+表示する画面の解像度を切替できます
+Change the display resolution.
+Changer la résolution d'affichage.
+Imposta la risoluzione dello schermo.
+Die Bildschirmauflösung ändern.
+Cambia la resolución de pantalla.
+Изменить разрешение экрана.
+Zmień rozdzielczość ekranu.
+Mudar a resolução exibida.
+디스플레이 해상도를 변경합니다.
+變更顯示解析度。
+变更显示分辨率。
+ディスプレイ周波数
+Refresh Rate
+Taux de rafraîchissement
+Frequenza di aggiornamento
+Bildwiederholfrequenz
+Frecuencia de refresco
+Частота обновления
+Częstotliwość odświeżania
+Taxa de Atualização
+새로 고침 빈도
+畫面更新頻率
+刷新率
+モニターのリフレッシュレートを切替できます
+Change the monitor refresh rate.
+Changer le taux de rafraîchissement du moniteur.
+Imposta la frequenza di aggiornamento dello schermo.
+Die Bildwiederholfrequenz des Monitors ändern.
+Ajusta la frecuencia de refresco del monitor.
+Изменить частоту обновления монитора.
+Zmień częstotliwość odświeżania monitora.
+Mudar a taxa de atualização do monitor.
+모니터 새로 고침 빈도를 변경합니다.
+變更螢幕的畫面更新頻率。
+变更屏幕刷新率。
+フレームレート
+Frame Rate
+Framerate
+Frame Rate
+Bildrate
+Tasa de imágenes
+Частота кадров
+Liczba klatek na sekundę
+Taxa de Quadros
+프레임 속도
+畫面更新率
+帧速率
+1秒間に描画するフレーム数を切替できます
+Change how many frames are rendered per second.
+Changer le nombre d'images par seconde.
+Imposta il numero di fotogrammi al secondo.
+Die Anzahl der Einzelbilder pro Sekunde (Framerate) einstellen.
+Ajusta el renderizado de imágenes por segundo.
+Изменить количество кадров в секунду.
+Zmień liczbę klatek renderowanych na sekundę.
+Mudar quantos quadros são renderizados por segundo.
+초당 렌더링되는 프레임 수를 변경합니다.
+變更每秒渲染的畫面格數。
+变更每秒渲染的帧数。
+可変
+Variable
+Variable
+Variabile
+Variabel
+Variable
+Переменная
+Zmienna
+Variável
+가변
+可變
+可变
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+垂直同期
+V-Sync
+Synchronisation verticale
+V-Sync
+V-Sync
+V-Sync
+Вертикальная синхронизация
+Synchronizacja pionowa
+Sincronização Vertical
+V-Sync
+垂直同步
+垂直同步
+ディスプレイ周波数とフレームレートとの同期のオン・オフを切替できます
+Turn monitor refresh rate and frame rate synchronization on or off.
+Activer ou désactiver la synchronisation du framerate avec le taux de rafraîchissement du moniteur.
+Attiva o disattiva la sincronizzazione tra la frequenza di aggiornamento dello schermo e il frame rate.
+Die Synchronisation der Bildwiederholrate des Monitors mit der Bildrate ein- und ausschalten.
+Activa o desactiva la sincronización entre la frecuencia de refresco y la tasa de imágenes.
+Вкл./выкл. синхронизацию частоты обновления монитора и частоты кадров.
+Włącz lub wyłącz synchronizację częstotliwości odświeżania monitora z liczbą klatek na sekundę.
+Ativar ou desativar sincronização de taxa de atualização do monitor com a taxa de quadros.
+모니터 새로 고침 빈도와 프레임 속도를 동기화하는 기능을 켜거나 끕니다.
+開啟或關閉螢幕和畫面的更新率的同步功能。
+开启或关闭屏幕刷新率和帧速率的同步功能。
+レンダリング方式
+Rendering Mode
+Mode de rendu
+Rendering
+Rendering-Methode
+Modo de renderizado
+Режим отрисовки
+Tryb renderowania
+Modo de Renderização
+렌더링 모드
+渲染模式
+渲染模式
+レンダリングを行う方式を切替できます
+Change the method used to render the game.
+Changer la méthode utilisée pour le rendu du jeu.
+Imposta il metodo utilizzato per la resa delle immagini.
+Die Rendering-Methode der Grafik ändern.
+Ajusta el método de renderizado del juego.
+Изменить метод отрисовки в игре.
+Zmień metodę renderowania stosowaną w grze.
+Mudar o método usado para renderizar os gráficos do jogo.
+게임을 렌더링할 때 사용할 방식을 변경합니다.
+變更對遊戲進行渲染的方式。
+变更对游戏进行渲染的方式。
+通常
+Normal
+Normal
+Normale
+Normal
+Normal
+Обычный
+Normalne
+Normal
+일반
+一般
+一般
+チェッカーボード
+Checkerboard
+Damier
+Checkerboard
+Schachbrett
+Tablero
+Шахматный
+Szachownicowe
+Checkerboard
+바둑판
+棋盤式
+棋盘式
+インターレース
+Interlaced
+Entrelacé
+Interlacciato
+Interlacing
+Entrelazado
+Чересстрочный
+Z przeplotem
+Entrelaçado
+인터레이스
+交錯式
+交错式
+イメージクオリティ
+Image Quality
+Qualité de l'image
+Qualità immagine
+Bildqualität
+Calidad de la imagen
+Качество изображения
+Jakość obrazu
+Qualidade da Imagem
+이미지 품질
+影像品質
+图像品质
+画面解像度に対してのレンダリング解像度の倍率を切替できます
+Change the resolution scaling factor.
+Changer le facteur de mise à l'échelle de la résolution.
+Imposta il fattore di scala della risoluzione.
+Den Skalierungsfaktor der Auflösung ändern.
+Ajusta el factor de escalado de resolución.
+Изменить коэффициент масштабирования разрешения.
+Zmień współczynnik skalowania rozdzielczości.
+Alterar o fator de escala da resolução.
+해상도 배율 인수를 변경합니다.
+變更解析度縮放比例。
+变更分辨率缩放比例。
+50%
+50%
+50 %
+50%
+50%
+50%
+50%
+50%
+50%
+50%
+50%
+50%
+60%
+60%
+60 %
+60%
+60%
+60%
+60%
+60%
+60%
+60%
+60%
+60%
+70%
+70%
+70 %
+70%
+70%
+70%
+70%
+70%
+70%
+70%
+70%
+70%
+80%
+80%
+80 %
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+90%
+90%
+90 %
+90%
+90%
+90%
+90%
+90%
+90%
+90%
+90%
+90%
+100%
+100%
+100 %
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+110%
+110%
+110 %
+110%
+110%
+110%
+110%
+110%
+110%
+110%
+110%
+110%
+120%
+120%
+120 %
+120%
+120%
+120%
+120%
+120%
+120%
+120%
+120%
+120%
+130%
+130%
+130 %
+130%
+130%
+130%
+130%
+130%
+130%
+130%
+130%
+130%
+140%
+140%
+140 %
+140%
+140%
+140%
+140%
+140%
+140%
+140%
+140%
+140%
+150%
+150%
+150 %
+150%
+150%
+150%
+150%
+150%
+150%
+150%
+150%
+150%
+160%
+160%
+160 %
+160%
+160%
+160%
+160%
+160%
+160%
+160%
+160%
+160%
+170%
+170%
+170 %
+170%
+170%
+170%
+170%
+170%
+170%
+170%
+170%
+170%
+180%
+180%
+180 %
+180%
+180%
+180%
+180%
+180%
+180%
+180%
+180%
+180%
+190%
+190%
+190 %
+190%
+190%
+190%
+190%
+190%
+190%
+190%
+190%
+190%
+200%
+200%
+200 %
+200%
+200%
+200%
+200%
+200%
+200%
+200%
+200%
+200%
+テクスチャ品質
+Texture Quality
+Qualité des textures
+Qualità texture
+Texturenqualität
+Calidad de las texturas
+Качество текстур
+Jakość tekstur
+Qualidade das Texturas
+텍스처 품질
+紋理品質
+纹理品质
+物体表面のテクスチャの品質を切替できます（推奨VRAM容量）
+Change the quality of object textures (recommended VRAM amount).
+Changer la qualité des textures des objets (quantité de VRAM recommandée).
+Imposta la qualità delle texture degli oggetti (quantità VRAM raccomandata).
+Die Qualität der Texturen von Objekten ändern (empfohlene VRAM-Größe).
+Ajusta la calidad de las texturas de objetos (cantidad de VRAM recomendada).
+Изменить качество текстур объектов (рекомендованный объем видеопамяти).
+Zmień jakość tekstur obiektów (zalecana ilość pamięci VRAM).
+Mudar a qualidade das texturas de objetos (quantidade de VRAM recomendada).
+개체 텍스처의 품질을 변경합니다(VRAM 크기 권장).
+變更物件紋理的品質（建議的 VRAM 容量）。
+变更物件纹理的品质（建议的 VRAM 容量）。
+高（8GB）
+High (8 GB)
+Élevée (8 Go)
+Alta (8 GB)
+Hoch (8 GB)
+Alta (8 GB)
+Высокое (8 ГБ)
+Wysoka (8 GB)
+Alta (8 GB)
+높음(8GB)
+高（8 GB）
+高（8 GB）
+高（6GB）
+High (6 GB)
+Élevée (6 Go)
+Alta (6 GB)
+Hoch (6 GB)
+Alta (6 GB)
+Высокое (6 ГБ)
+Wysoka (6 GB)
+Alta (6 GB)
+높음(6GB)
+高（6 GB）
+高（6 GB）
+高（4GB）
+High (4 GB)
+Élevée (4 Go)
+Alta (4 GB)
+Hoch (4 GB)
+Alta (4 GB)
+Высокое (4 ГБ)
+Wysoka (4 GB)
+Alta (4 GB)
+높음(4GB)
+高（4 GB）
+高（4 GB）
+高（3GB）
+High (3 GB)
+Élevée (3 Go)
+Alta (3 GB)
+Hoch (3 GB)
+Alta (3 GB)
+Высокое (3 ГБ)
+Wysoka (3 GB)
+Alta (3 GB)
+높음(3GB)
+高（3 GB）
+高（3 GB）
+高（2GB）
+High (2 GB)
+Élevée (2 Go)
+Alta (2 GB)
+Hoch (2 GB)
+Alta (2 GB)
+Высокое (2 ГБ)
+Wysoka (2 GB)
+Alta (2 GB)
+높음(2GB)
+高（2 GB）
+高（2 GB）
+高（1GB）
+High (1 GB)
+Élevée (1 Go)
+Alta (1 GB)
+Hoch (1 GB)
+Alta (1 GB)
+Высокое (1 ГБ)
+Wysoka (1 GB)
+Alta (1 GB)
+높음(1GB)
+高（1 GB）
+高（1 GB）
+高（0.5GB）
+High (0.5 GB)
+Élevée (0,5 Go)
+Alta (0.5 GB)
+Hoch (0,5 GB)
+Alta (0.5 GB)
+Высокое (0,5 ГБ)
+Wysoka (0,5 GB)
+Alta (0,5 GB)
+높음(0.5GB)
+高（0.5 GB）
+高（0.5 GB）
+高（0.25GB）
+High (0.25 GB)
+Élevée (0,25 Go)
+Alta (0.25 GB)
+Hoch (0,25 GB)
+Alta (0.25 GB) 
+Высокое (0,25 ГБ)
+Wysoka (0,25 GB)
+Alta (0,25 GB)
+높음(0.25GB)
+高（0.25 GB）
+高（0.25 GB）
+中（0.5GB）
+Medium (0.5 GB)
+Moyenne (0,5 Go)
+Media (0.5 GB)
+Mittel (0,5 GB)
+Media (0.5 GB)
+Среднее (0,5 ГБ)
+Średnia (0,5 GB)
+Média (0,5 GB)
+중간(0.5GB)
+中（0.5 GB）
+中（0.5 GB）
+中（0.25GB）
+Medium (0.25 GB)
+Moyenne (0,25 Go)
+Media (0.25 GB)
+Mittel (0,25 GB)
+Media (0.25 GB)
+Среднее (0,25 ГБ)
+Średnia (0,25 GB)
+Média (0,25 GB)
+중간(0.25GB)
+中（0.25 GB）
+中（0.25 GB）
+低（0GB）
+Low (0 GB)
+Basse (0 Go)
+Bassa (0 GB)
+Niedrig (0 GB)
+Baja (0 GB)
+Низкое (0 ГБ)
+Niska (0 GB)
+Baixa (0 GB)
+낮음(0GB)
+低（0 GB）
+低（0 GB）
+テクスチャフィルタリング品質
+Texture Filter Quality
+Filtrage des textures
+Qualità filtro texture
+Texturenfilterqualität
+Calidad de filtrado de texturas
+Качество фильтрации текстур
+Jakość filtrowania tekstur
+Qualidade do Filtro de Texturas
+텍스처 필터 품질
+紋理過濾品質
+纹理过滤品质
+物体表面のテクスチャの鮮明さを切替できます
+Change the clarity of object textures.
+Changer la clarté des textures.
+Imposta la chiarezza delle texture degli elementi.
+Die Schärfe der Texturen von Objekten ändern.
+Ajusta la claridad de las texturas de objetos.
+Изменить степень проработки текстур объектов.
+Zmień wyrazistość tekstur obiektów.
+Mudar a nitidez das texturas de objetos.
+개체 텍스처의 선명도를 변경합니다.
+變更物件紋理的清晰度。
+变更物件纹理的清晰度。
+高（ANISO x16）
+High (ANISO x16)
+Élevé (ANISO x16)
+Alta (ANISO x16)
+Hoch (ANISO x16)
+Alta (ANISO x16)
+Высокое (ANISO x16)
+Wysoka (ANISO x16)
+Alta (ANISO x16)
+높음(ANISO x16)
+高（16x 非等向性）
+高（16x 各向异性）
+高（ANISO x8）
+High (ANISO x8)
+Élevé (ANISO x8)
+Alta (ANISO x8)
+Hoch (ANISO x8)
+Alta (ANISO x8)
+Высокое (ANISO x8)
+Wysoka (ANISO x8)
+Alta (ANISO x8)
+높음(ANISO x8)
+高（8x 非等向性）
+高（8x 各向异性）
+高（ANISO x4）
+High (ANISO x4)
+Élevé (ANISO x4)
+Alta (ANISO x4)
+Hoch (ANISO x4)
+Alta (ANISO x4)
+Высокое (ANISO x4)
+Wysoka (ANISO x4)
+Alta (ANISO x4)
+높음(ANISO x4)
+高（4x 非等向性）
+高（4x 各向异性）
+高（ANISO x2）
+High (ANISO x2)
+Élevé (ANISO x2)
+Alta (ANISO x2)
+Hoch (ANISO x2)
+Alta (ANISO x2)
+Высокое (ANISO x2)
+Wysoka (ANISO x2)
+Alta (ANISO x2)
+높음(ANISO x2)
+高（2x 非等向性）
+高（2x 各向异性）
+中（Trilinear）
+Medium (Trilinear)
+Moyen (trilinéaire)
+Media (trilineare)
+Mittel (Trilinear)
+Media (Trilinear)
+Среднее (трилинейная)
+Średnia (trójliniowe)
+Média (Trilinear)
+중간(삼중 선형)
+中（三線性）
+中（三线性）
+低（Bilinear）
+Low (Bilinear)
+Bas (bilinéaire)
+Bassa (bilineare)
+Niedrig (Bilinear)
+Baja (Bilinear)
+Низкое (билинейная)
+Niska (dwuliniowe)
+Baixa (Bilinear)
+낮음(이중 선형)
+低（雙線性）
+低（双线性）
+メッシュ品質
+Mesh Quality
+Qualité des meshes
+Qualità della mesh
+Mesh-Qualität
+Calidad de mallas
+Качество сетки
+Jakość siatki
+Qualidade da Malha
+메시 품질
+網格品質
+网格品质
+3Dモデルのポリゴンメッシュの品質を切替できます
+Change the quality of polygonal meshes.
+Changer la qualité des meshes.
+Imposta la qualità della mesh poligonale.
+Die Qualität der Meshs (Polygonnetze) anpassen.
+Ajusta la calidad de las mallas poligonales.
+Изменить качество полигональных сеток.
+Zmień jakość siatek wielokątów.
+Mudar a qualidade das malhas poligonais.
+다각형 메시의 품질을 변경합니다.
+變更多邊形網格的品質。
+变更多边形网格的品质。
+影メッシュ品質
+Shadow Mesh Quality
+Qualité des meshes (ombres)
+Qualità della mesh delle ombre
+Schatten-Mesh-Qualität
+Calidad de malla de sombras
+Качество сеток теней
+Jakość siatki cieni
+Qualidade da Malha de Sombras
+그림자 메시 품질
+陰影網格品質
+阴影网格品质
+影に使われる3Dモデルのポリゴンメッシュの品質を切替できます
+Change the quality of polygonal meshes used for shadows.
+Changer la qualité des meshes utilisés pour les ombres.
+Imposta la qualità della mesh dei poligoni usati per le ombre.
+Die Qualität der für Schatten verwendeten Polygonnetze ändern.
+Ajusta la calidad de mallas poligonales usadas en sombras.
+Изменить качество полигональных сеток, используемых для отображения теней.
+Zmień jakość siatek wielokątów używanych do cieniowania.
+Mudar a qualidade das malhas poligonais usadas nas sombras.
+그림자에 사용되는 다각형 메시의 품질을 변경합니다.
+變更用於陰影的多邊形網格品質。
+变更用于阴影的多边形网格品质。
+アンチエイリアス
+Anti-aliasing
+Anti-aliasing
+Anti-aliasing
+Antialiasing
+Anti-aliasing
+Сглаживание
+Antyaliasing
+Suavização (AA)
+앤티앨리어싱
+反鋸齒
+反锯齿
+画像を滑らかに見せる機能を切替できます
+Change the graphics smoothing technique.
+Changer le procédé de lissage des graphismes.
+Imposta il metodo utilizzato per smussare i bordi delle immagini.
+Die Methode der Kantenglättung ändern.
+Cambia la técnica de suavizado de los gráficos.
+Изменить метод сглаживания графики.
+Zmień metodę wygładzania grafiki.
+Mudar a técnica de suavização dos gráficos.
+그래픽 다듬기 기법을 변경합니다.
+變更使圖形邊緣平滑化的技術。
+变更使图形边缘平滑的技术。
+OFF
+Off
+Non
+No
+Aus
+No
+Выкл.
+WYŁ.
+Desligada
+끄기
+關
+关
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+FXAA
+TAA
+TAA
+TAA
+TAA
+TAA
+TAA
+TAA
+TAA
+TAA
+TAA
+TAA
+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+FXAA+TAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+SMAA
+モーションブラー
+Motion Blur
+Flou cinétique
+Motion Blur
+Bewegungsunschärfe
+Motion Blur
+Размытие при движении
+Rozmycie w ruchu
+Desfoque de Movimento
+모션 블러
+動態模糊
+动态模糊
+動いている物体のブレ表現のオン・オフを切替できます
+Turn blur on or off when objects move.
+Activer ou désactiver l'effet de flou sur les objets en mouvement.
+Attiva o disattiva l'effetto sfocato per gli elementi in movimento.
+Die Unschärfe bei Bewegung ein- und ausschalten.
+Activa o desactiva este efecto cuando los objetos se muevan.
+Вкл./выкл. размытие при движении объектов.
+Włącz lub wyłącz efekt rozmycia obiektów w ruchu.
+Ativar ou desativar desfoque em objetos em movimento.
+개체가 이동할 때 블러를 켜거나 끕니다.
+開啟或關閉物件移動時的模糊效果。
+开启或关闭物件移动时的模糊效果。
+エフェクト発生量
+VFX Rendering
+Quantité d'effets visuels
+Quantità effetti grafici
+VFX Rendering
+Calidad de renderizado VFX
+Отрисовка визуальных эффектов
+Renderowanie efektów graficznych
+Renderização de Efeitos Visuais
+VFX 렌더링
+視覺效果渲染
+视觉效果渲染
+エフェクトを表示する量を切替できます
+Change the amount of visual effects that can be generated.
+Changer la quantité d'effets visuels pouvant être générés.
+Imposta il numero di effetti grafici generati.
+Die Menge der generierten visuellen Effekte anpassen.
+Cambia la cantidad de efectos visuales generados.
+Изменить количество доступных визуальных эффектов.
+Zmień ilość generowanych efektów graficznych.
+Mudar a quantidade de efeitos visuais que podem ser gerados.
+생성 가능한 시각 효과의 수를 변경합니다.
+變更能產生的視覺效果數量。
+变更能生成的视觉效果数量。
+影品質
+Shadow Quality
+Qualité des ombres
+Qualità delle ombre
+Schattenqualität
+Calidad de sombras
+Качество теней
+Jakość cieni
+Qualidade das Sombras
+그림자 품질
+陰影品質
+阴影品质
+影表現の品質を切替できます
+Change the quality of shadows.
+Changer la qualité des ombres.
+Imposta la qualità delle ombre.
+Die Qualität der Schatten anpassen.
+Ajusta la calidad de las sombras.
+Изменить качество теней.
+Zmień jakość cieni.
+Mudar a qualidade das sombras.
+그림자의 품질을 변경합니다.
+變更陰影品質。
+变更阴影品质。
+コンタクトシャドウ
+Contact Shadows
+Ombres de contact
+Ombre prospettiche
+Contact Shadows
+Sombras de contacto
+Контактные тени
+Cienie kontaktowe
+Sombras de Contato
+접촉 그림자
+接觸陰影
+接触阴影
+細かい影の描画を切替できます
+Change the rendering of detailed shadows.
+Changer le rendu des ombres détaillées.
+Attiva o disattiva le ombre dettagliate.
+Das Rendering von detaillierten Schatten ändern.
+Ajusta el renderizado de sombras detalladas.
+Изменить принцип отрисовки теней в местах соприкосновения деталей окружения.
+Zmień sposób renderowania cieni szczegółowych.
+Mudar o modo de renderização de sombras detalhadas.
+그림자 세부 렌더링 방식을 변경합니다.
+變更渲染陰影細節的方式。
+变更渲染阴影细节的方式。
+ムービー中のみ
+Cutscenes Only
+Cinématiques uniquement
+Solo filmati
+Nur Zwischensequenzen
+Sólo cinemáticas
+Только в роликах
+Tylko w scenkach
+Só em Cinemáticas
+컷신에만 적용
+僅用於過場動畫
+仅用于过场动画
+動的な物体の影
+Dynamic Shadows
+Ombres dynamiques
+Ombre dinamiche
+Dynamische Schatten
+Sombras dinámicas
+Динамические тени
+Dynamiczne cienie
+Sombras Dinâmicas
+다이내믹 그림자
+動態陰影
+动态阴影
+動いている物体の影の描画のオン・オフを切替できます
+Turn dynamic shadows for moving objects on or off.
+Activer ou désactiver les ombres dynamiques pour les objets en mouvement.
+Attiva o disattiva le ombre dinamiche per gli elementi in movimento.
+Dynamische Schatten für bewegliche Objekte ein- und ausschalten.
+Activa o desactiva las sombras dinámicas sobre objetos.
+Вкл./выкл. динамические тени у движущихся объектов.
+Włącz lub wyłącz dynamiczne cienie obiektów w ruchu.
+Ativar ou desativar sombras dinâmicas para objetos em movimento.
+움직이는 물체에 대한 다이내믹 그림자 표시를 켜거나 끕니다.
+開啟或關閉物件移動時的動態陰影效果。
+开启或关闭物件移动时的动态阴影效果。
+影のキャッシュ
+Shadow Cache
+Cache des ombrages
+Cache delle ombre
+Schatten-Cache
+Caché de sombras
+Кэширование теней
+Bufor cieni
+Cache de Sombra
+그림자 캐시
+陰影快取
+阴影缓存
+動的な物体の影のデータを一時的に貯めておく機能のオン・オフを切替できます
+Turn dynamic shadow caching for moving objects on or off.
+Activer ou désactiver la mise en cache des ombrages pour les objets en mouvement.
+Attiva o disattiva la cache per le ombre dinamiche.
+Den dynamischen Schatten-Cache für bewegliche Objekte ein- und ausschalten.
+Activa o desactiva el caché de sombras para objetos en movimiento.
+Вкл./выкл. кэширование динамических теней у движущихся объектов.
+Włącz lub wyłącz buforowanie cieni obiektów w ruchu.
+Ativar ou desativar armazenamento em cache de sombra para objetos em movimento.
+움직이는 물체에 대한 다이내믹 그림자 캐싱을 켜거나 끕니다.
+選擇是否對移動物件進行動態陰影快取。
+选择是否要对移动的物件进行动态阴影缓存。
+アンビエントオクルージョン
+Ambient Occlusion
+Occlusion ambiante
+Occlusione ambientale
+Umgebungsverdeckung
+Oclusión ambiental
+Объемный свет
+Okluzja otoczenia
+Oclusão de ambiente (AO)
+앰비언트 오클루전
+環境光遮蔽
+环境光遮蔽
+間接照明の陰影を切替できます
+Change the rendering of shadows cast by ambient lighting.
+Changer le rendu des ombres projetées par l'éclairage ambiant.
+Imposta la resa delle ombre generate tramite luce ambientale.
+Das Rendering von Schatten ändern, die durch Umgebungslicht erzeugt werden.
+Cambia el renderizado de las sombras mediante la luz ambiental.
+Изменить принцип отрисовки теней в окружающем освещении.
+Zmień sposób renderowania cieni tworzonych przez światło otoczenia.
+Mudar o modo de renderização de sombras lançadas pela luz ambiente.
+주변 광원에 따른 그림자 렌더링 방식을 변경합니다.
+變更渲染環境光所投射陰影的方式。</n>
+变更渲染环境光所投射阴影的方式。</n>
+OFF
+Off
+Non
+No
+Aus
+No
+Выкл.
+Wył.
+Desligada
+끄기
+關
+关
+SSAO（対応箇所のみ）
+SSAO (Set Areas Only)
+SSAO (zones prédéfinies seulement)
+SSAO (Solo in alcune aree)
+SSAO (nur bestimmte Bereiche)
+SSAO (Solo áreas predet.)
+SSAO (в опред. областях)
+SSAO (tylko wybrane obszary)
+SSAO (Apenas em Áreas Determinadas)
+SSAO(영역 설정 전용)
+螢幕空間環境光遮蔽（只用於預設地方）
+屏幕空间环境光遮蔽（只用于预设地方）
+SSAO
+SSAO
+SSAO
+SSAO
+SSAO
+SSAO
+SSAO
+SSAO
+SSAO
+SSAO
+螢幕空間環境光遮蔽
+屏幕空间环境光遮蔽
+HDAO
+HDAO
+HDAO
+HDAO
+HDAO
+HDAO
+HDAO
+HDAO
+HDAO
+HDAO
+高解析度環境光遮蔽
+高解析度环境光遮蔽
+HBAO+
+HBAO+
+HBAO+
+HBAO+
+HBAO+
+HBAO+
+HBAO+
+HBAO+
+HBAO+
+HBAO+
+進階版水平環境光遮蔽
+水平基准环境光遮蔽+
+ブルーム
+Bloom
+Bloom
+Effetto bloom
+Bloom
+Suavizado
+Свечение
+Efekt bloom
+Incandescência
+블룸
+泛光
+泛光
+明るい部分をにじませる効果のオン・オフを切替できます
+Turn light bleed from bright light sources on or off.
+Activer ou désactiver l'effet d'éblouissement face aux sources de lumière intense.
+Attiva o disattiva l'effetto di sovraesposizione nelle fonti di luce.
+Die Überbelichtung bei hellen Lichtquellen ein- und ausschalten.
+Activa o desactiva el sangrado de luz de fuentes brillantes.
+Вкл./выкл. размытость вокруг ярких источников света.
+Włącz lub wyłącz rozświetlanie ciemniejszych elementów światłem z tła.
+Ativar ou desativar vazamento de luz de fontes de iluminação fortes.
+밝은 광원에서의 빛 번짐을 켜거나 끕니다.
+開啟或關閉明亮光源的泛光效果。
+开启或关闭明亮光源的泛光效果。
+レンズフレア
+Lens Flare
+Lens flare
+Lens flare
+Lens Flare
+Lens Flare
+Блик в объективе
+Flara
+Refração da Lente
+렌즈 플레어
+鏡頭光暈
+镜头光晕
+レンズに映りこむ光表現のオン・オフを切替できます
+Turn the effect that shows light scattering on the lens on or off.
+Activer ou désactiver l'effet provoquant la dispersion de la lumière sur l'objectif.
+Attiva o disattiva l'effetto che genera aloni luminosi.
+Den Effekt ein- und ausschalten, der die Reflexion von Licht im Objektiv simuliert.
+Activa o desactiva el efecto que muestra luz dispersada sobre la lente.
+Вкл./выкл. эффект, показывающий блики в объективе.
+Włącz lub wyłącz efekt rozpraszania się światła w obiektywie.
+Ativar ou desativar o efeito de dispersão luminosa na lente.
+렌즈의 빛 분산을 표시하는 효과를 켜거나 끕니다.
+開啟或關閉光線在鏡頭中散射的效果。
+开启或关闭光线在镜头中散射的效果。
+ボリュームライト品質
+Volumetric Lighting Quality
+Qualité de l'éclairage volumétrique
+Qualità luci volumetriche
+Volumetrisches Licht
+Calidad de luz volumétrica
+Качество объемных лучей
+Jakość światła wolumetrycznego
+Qualidade da Iluminação Volumétrica
+입체 조명 품질
+體積照明品質
+体积光照品质
+差し込む光表現の品質を切替できます
+Change the quality of volumetric lighting.
+Changer la qualité de l'éclairage volumétrique.
+Imposta la qualità delle luci volumetriche.
+Die Qualität von volumetrischem Licht ändern.
+Ajusta la calidad de la luz volumétrica.
+Изменить качество объемных лучей.
+Zmień jakość światła wolumetrycznego.
+Mudar a qualidade da iluminação volumétrica.
+입체 조명 품질을 변경합니다.
+變更體積照明的品質。
+变更体积光照的品质。
+スクリーンスペースリフレクション
+Screen Space Reflections
+Reflets spatiaux
+Riflessi
+Screen Space Reflections
+Reflejos de pantalla
+Отражения в экранном пространстве
+Odbicia przestrzenne
+Reflexos no Espaço da Tela
+스크린 공간 반사
+螢幕空間反射
+屏幕空间反射
+反射の表現を向上させる機能を切替できます
+Change the function that improves surface reflections.
+Activer ou désactiver la fonction améliorant la réflexion sur les surfaces.
+Attiva o disattiva la funzione che migliora i riflessi sulle superfici.
+Die Funktion ändern, die Oberflächenspiegelungen verbessert.
+Ajusta la función que mejora los reflejos en superficies.
+Изменить функцию, улучшающую отражения на поверхности.
+Zmień ustawienia funkcji ulepszającej jakość odbić.
+Mudar a função que melhora reflexos de superfície.
+표면 반사 표현을 개선하는 기능을 변경합니다.
+開啟或關閉改善表面反射的功能。
+开启或关闭改善表面反射的功能。
+サブサーフェイススキャッタリング
+Subsurface Scattering
+Transluminescence
+Translucenza
+Volumenstreuung
+Transluminescencia
+Подповерхностное рассеивание
+Rozpraszanie podpowierzchniowe
+Dispersão Subsuperfície
+표면 분산
+次表面散射
+子面散射
+皮膚の質感を向上させる機能のオン・オフを切替できます
+Turn the effect that improves the quality of skin rendering on or off.
+Activer ou désactiver l'effet qui améliore la qualité du rendu de la peau.
+Attiva o disattiva l'effetto che migliora la qualità della pelle.
+Den Effekt ein- und ausschalten, der die Qualität der Hautdarstellung verbessert.
+Activa o desactiva el efecto que mejora la calidad del renderizado de la piel.
+Вкл./выкл. эффект, повышающий качество отрисовки кожи.
+Włącz lub wyłącz efekt poprawiający jakość renderowania skóry.
+Ativar ou desativar o efeito que melhora a qualidade da renderização das peles.
+피부 렌더링 품질을 개선하는 효과를 켜거나 끕니다.
+開啟或關閉改善皮膚渲染品質的效果。
+开启或关闭改善皮肤渲染品质的效果。
+被写界深度
+Depth of Field
+Profondeur de champ
+Profondità di campo
+Schärfentiefe
+Profundidad de campo
+Глубина резкости
+Głębia ostrości
+Profundidade do Campo
+피사계 심도
+景深
+景深
+奥ゆきに応じたピント表現のオン・オフを切替できます
+Turn the effect that adjusts focus depending on the distance of objects on or off.
+Activer ou désactiver l'effet de mise au point selon la distance des objets.
+Attiva o disattiva la sfocatura degli oggetti in secondo piano.
+Den Effekt ein- und ausschalten, der den Fokus entsprechend der Entfernung von Objekten anpasst.
+Activa o desactiva el efecto que ajusta el enfoque dependiendo de la distancia de objetos.
+Вкл./выкл. эффект, изменяющий резкость в зависимости от расстояния от объектов.
+Włącz lub wyłącz efekt regulujący ostrość zależnie od odległości obiektów.
+Ativar ou desativar o efeito que ajusta o foco de acordo com a distância dos objetos.
+개체의 거리에 따라 초점을 조정하는 효과를 켜거나 끕니다.
+開啟或關閉根據景物距離調整焦距的效果。
+开启或关闭根据景物距离调整焦距的效果。
+レンズ歪み
+Lens Distortion
+Distorsion de la lentille
+Distorsione lente
+Objektiv-Verzeichnung
+Distorsión de lente
+Дисторсия объектива
+Zniekształcenie obiektywu
+Distorção da Lente
+렌즈 왜곡
+鏡頭扭曲
+镜头畸变
+レンズの歪み表現を切替できます
+Change the lens distortion effect.
+Changer l'effet de distorsion de la lentille.
+Imposta l'effetto di distorsione della lente.
+Den Effekt der Verzeichnung des Objektivs ändern.
+Cambia el efecto de distorsión de lente.
+Изменить эффект дисторсии объектива.
+Zmień efekt zniekształcenia obiektywu.
+Mudar o efeito de distorção da lente.
+렌즈 왜곡 효과를 변경합니다.
+變更鏡頭扭曲效果。
+变更镜头畸变效果。
+ON（色収差あり）
+On (+chromatic aberration)
+Oui (+ aberration chromatique)
+Sì (con aberrazione cromatica)
+Ein (+chromatische Aberration)
+Sí (+ aberración cromática)
+Вкл. (+хроматическая аберрация)
+Wł. (+aberracja chromatyczna)
+Ligada (+aberração cromática)
+켜기(+색수차)
+開（+色差）
+开（+色像差）
+ON（色収差なし）
+On
+Oui
+Sì
+Ein
+Sí
+Вкл.
+Wł.
+Ligada
+켜기
+開
+开
+OFF
+Off
+Non
+No
+Aus
+No
+Выкл.
+Wył.
+Desligada
+끄기
+關
+关
+フィルム粒子ノイズ
+Film Noise
+Effet de grain
+Effetto grana
+Filmkorn
+Granulado de película
+Зернистость
+Efekt ziarna
+Granulado de Filme
+필름 노이즈
+底片顆粒
+胶片颗粒
+フィルム調のノイズ表現のオン・オフを切替できます
+Turn film noise on or off.
+Activer ou désactiver l'effet de grain appliqué à l'image.
+Attiva o disattiva l'effetto che ricorda la granulosità di una pellicola cinematografica.
+Den Filmkorn-Effekt ein- und ausschalten.
+Activa o desactiva el granulado de película.
+Вкл./выкл. зернистость.
+Włącz lub wyłącz efekt ziarna.
+Ativar ou desativar efeito granulado de filme.
+필름 노이즈를 켜거나 끕니다.
+開啟或關閉底片顆粒效果。
+开启或关闭胶片颗粒效果。
+グラフィックスAPI
+Graphics API
+API graphique
+Librerie grafiche
+Grafik-API
+API gráfica
+Графический API
+Interfejs API grafiki
+API Gráfica
+그래픽 API
+圖形 API
+图形 API
+描画に使うグラフィックスAPIを切替できます
+Change the API used for graphical processing.
+Changer l'API utilisée pour le traitement graphique.
+Imposta le librerie utilizzate per l'elaborazione dei processi grafici.
+Die API ändern, die für die Grafikverarbeitung verwendet wird.
+Cambia la API utilizada para procesar los gráficos.
+Изменить API, который будет использоваться для обработки графики.
+Zmień interfejs API używany do przetwarzania grafiki.
+Trocar a API usada para processamento gráfico.
+그래픽 처리에 사용되는 API를 변경합니다.
+變更圖形處理所使用的 API。
+变更图形处理所使用的 API。
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 11
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+DirectX 12
+ON（FreeSync 2）
+On (FreeSync 2)
+Oui (FreeSync 2)
+Sì (FreeSync 2)
+Ein (FreeSync 2)
+Sí (FreeSync 2)
+Вкл. (FreeSync 2)
+Wł. (FreeSync 2)
+Ligado (FreeSync 2)
+켜짐(FreeSync 2)
+開啟（FreeSync 2）
+开启（FreeSync 2）
+マウスクリック左右反転
+Mouse Buttons
+Boutons de souris
+Tasti mouse
+Maustasten
+Botones del ratón
+Кнопки мыши
+Przyciski myszy
+Botões do Mouse
+마우스 버튼
+滑鼠按鍵
+鼠标按键
+マウスの左クリックと右クリックを反転できます
+Switch left/right mouse button functionality.
+Inverser les fonctions des boutons gauche et droit de la souris.
+Inverti la funzione del tasto sinistro del mouse con quello destro.
+Die Funktionen der linken und rechten Maustaste vertauschen.
+Invierte la función de los botones izquierdo/derecho del ratón.
+Поменять местами функционал левой и правой кнопок мыши.
+Przełącz działanie lewego/prawego przycisku myszy.
+Inverter a função dos botões esquerdo e direito do mouse.
+왼쪽/오른쪽 마우스 버튼 기능을 전환합니다.
+互換滑鼠左鍵與右鍵的功能。
+互换鼠标左键与右键的功能。
+通常
+Normal
+Standard
+Normale
+Normal
+Normal
+Обычный режим
+Normalne
+Normais
+일반
+正常
+正常
+反転
+Switched
+Inversés
+Invertiti
+Vertauscht
+Invertidos
+Инверсия
+Odwrotne
+Invertidos
+전환됨
+互換
+互换
+カーソルの画面内固定
+Cursor Lock
+Verrouillage du curseur
+Blocco del cursore
+Cursorsperre
+Fijar cursor
+Блокировка курсора
+Blokada kursora
+Contenção de Cursor
+커서 잠금
+游標鎖定
+光标锁定
+マウスカーソルが画面から出ない機能のオン・オフを切替できます
+Turn the function that stops the mouse cursor going out of the window on or off.
+Activer ou désactiver la fonction empêchant le curseur de la souris de sortir de la fenêtre.
+Attiva o disattiva la funzione che blocca il cursore del mouse sulla finestra di gioco.
+Die Funktion ein- und ausschalten, die den Mauscursor daran hindert, aus dem Fenster bewegt zu werden.
+Activa o desactiva la función que impide que el cursor se salga de la ventana.
+Вкл./выкл. функцию, не позволяющую курсору мыши выходить за рамки окна.
+Włącz lub wyłącz funkcję zapobiegającą wychodzeniu kursora myszy poza okno.
+Ativar ou desativar a função que impede o cursor do mouse de sair da janela.
+마우스 커서가 창을 벗어나지 않도록 하는 기능을 켭니다.
+開啟或關閉禁止滑鼠游標跑出視窗外的功能。
+开启或关闭禁止鼠标光标跑出窗口外的功能。
+パーティクルライト品質
+Particle Lighting Quality
+Qualité de l'éclairage des particules
+Qualità effetti di luce particellari
+Partikel-Beleuchtungsqualität
+Calidad de la luz de partículas
+Качество освещения частиц
+Jakość oświetlenia cząsteczkowego
+Qualidade da Iluminação de Partículas
+파티클 조명 품질
+粒子照明品質
+粒子照明品质
+細かな粒子に当たる光表現の品質を切替できます
+Change the quality of particle lighting.
+Changer la qualité de l'éclairage des particules.
+Cambia la qualità degli effetti di luce particellari.
+Die Qualität der Beleuchtung von Partikeln ändern.
+Ajusta la calidad al iluminar partículas.
+Изменить качество освещения частиц.
+Zmień jakość oświetlenia cząsteczkowego.
+Mudar a qualidade da iluminação de partículas.
+파티클 조명의 품질을 변경합니다.
+變更粒子照明的品質。
+变更粒子照明的品质。
+操作を割り当てる項目を選択してください
+Select action to bind.
+Sélectionnez une action.
+Seleziona un'azione a cui assegnare un tasto.
+Eine Aktion wählen, die zugewiesen werden soll.
+Selecciona una acción.
+Выберите привязываемое действие.
+Wybierz czynność do przypisania.
+Escolha a ação para definir comando.
+지정할 동작을 선택하십시오.
+選擇動作來進行綁定。
+选择动作来进行绑定。
+割り当てたいキーを入力してください
+Press the key to bind this action to.
+Appuyez sur la touche à assigner à cette action.
+Premi un tasto per assegnare.
+Eine Taste drücken, der diese Aktion zugewiesen werden soll.
+Pulsa la tecla para asignar una acción.
+Нажмите клавишу, к которой хотите привязать это действие.
+Naciśnij klawisz, aby przypisać do niego tę czynność.
+Aperte uma tecla para vincular a esta ação.
+이 동작에 지정할 키를 누르십시오.
+按下要綁定此動作的按鍵。
+按下要绑定此动作的按键。
+キーバインド
+Key Bindings
+Assignation des touches
+Assegnazione tasti
+Tastenbelegung
+Asignación de teclas
+Горячие клавиши
+Przypisania klawiszy
+Configuração de Comandos
+키 지정
+按鍵綁定
+按键绑定
+<FONT 2>機能</FONT>
+Action
+Action
+Azione
+Aktion
+Acción
+Действие
+Czynność
+Ação
+Action
+Action
+Action
+<FONT 2>キー設定 A</FONT>
+Primary
+Touche principale
+Principale
+Primär
+Opción principal
+Основная
+Podstawowe
+Primário
+A
+A
+A
+<FONT 2>キー設定 B</FONT>
+Secondary
+Touche secondaire
+Alternativo
+Sekundär
+Opción secundaria
+Дополнительная
+Dodatkowe
+Secundário
+B
+B
+B
+武器を構える
+Aim weapon
+Viser
+Mirare
+Waffe zielen
+Apuntar arma
+Прицелиться
+Celowanie bronią
+Mirar
+무기 조준
+瞄準武器
+瞄准武器
+攻撃
+Attack
+Attaquer
+Attaccare
+Angriff
+Atacar
+Атаковать
+Atak
+Atacar
+공격
+攻擊
+攻击
+リロード
+Reload
+Recharger
+Ricaricare
+Nachladen
+Recargar
+Перезарядка
+Przeładowanie
+Recarregar
+재장전
+重新裝填
+装填
+サブウェポンを構える
+Ready sub-weapon
+Sortir l'arme secondaire
+Estrarre arma secondaria
+Nebenwaffe bereithalten
+Preparar arma secundaria
+Достать доп. оружие
+Przygotowanie pomocniczej broni
+Preparar arma secundária
+보조 무기 준비
+準備次要武器
+准备次要武器
+弾薬の切り替え
+Switch ammo
+Changer de munitions
+Cambiare munizioni
+Munition wechseln
+Cambiar munición
+Смена боеприпасов
+Zmiana amunicji
+Trocar munição
+탄약 전환
+切換彈藥
+切换弹药
+武器切り替え・←
+Change weapon ←
+Changer d'arme ←
+Cambiare arma ←
+Waffe wechseln ←
+Cambiar arma ←
+Сменить оружие ←
+Zmiana broni ←
+Trocar arma ←
+무기 변경 ←
+變更武器 ←
+变更武器 ←
+武器切り替え・↑
+Change weapon ↑
+Changer d'arme ↑
+Cambiare arma ↑
+Waffe wechseln ↑
+Cambiar arma ↑
+Сменить оружие ↑
+Zmiana broni ↑
+Trocar arma ↑
+무기 변경 ↑
+變更武器 ↑
+变更武器 ↑
+武器切り替え・↓
+Change weapon ↓
+Changer d'arme ↓
+Cambiare arma ↓
+Waffe wechseln ↓
+Cambiar arma ↓
+Сменить оружие ↓
+Zmiana broni ↓
+Trocar arma ↓
+무기 변경 ↓
+變更武器 ↓
+变更武器 ↓
+武器切り替え・→
+Change weapon →
+Changer d'arme →
+Cambiare arma →
+Waffe wechseln →
+Cambiar arma →
+Сменить оружие →
+Zmiana broni →
+Trocar arma →
+무기 변경 →
+變更武器 →
+变更武器 →
+プレイヤー移動・←
+Move left
+Aller à gauche
+Muoversi a sinistra
+Nach links bewegen
+Mover a la izquierda
+Двигаться влево
+Ruch w lewo
+Andar para a esquerda
+왼쪽 이동
+向左移動
+向左移动
+プレイヤー移動・↑
+Move forward
+Avancer
+Muoversi in avanti
+Vorwärts bewegen
+Mover adelante
+Двигаться вперед
+Ruch do przodu
+Andar para a frente
+앞으로 이동
+向前移動
+向前移动
+プレイヤー移動・↓
+Move back
+Reculer
+Muoversi indietro
+Rückwärts bewegen
+Mover atrás
+Двигаться назад
+Ruch do tyłu
+Andar para trás
+뒤로 이동
+向後移動
+向后移动
+プレイヤー移動・→
+Move right
+Aller à droite
+Muoversi a destra
+Nach rechts bewegen
+Mover a la derecha
+Двигаться вправо
+Ruch w prawo
+Andar para a direita
+오른쪽 이동
+向右移動
+向右移动
+走る
+Run
+Courir
+Correre
+Laufen
+Correr
+Бег
+Bieg
+Correr
+뛰기
+奔跑
+奔跑
+クイックターン
+Quick Turn
+Demi-tour rapide
+Voltarsi rapidamente
+Schnell umdrehen
+Giro rápido
+Быстрый разворот
+Szybki obrót
+Meia-volta
+빨리 돌기
+快速轉向
+快速转向
+カメラリセット
+Reset camera
+Recentrer la caméra
+Reimpostare la visuale
+Kamera zurücksetzen
+Reiniciar cámara
+Сброс камеры
+Resetowanie kamery
+Redefinir câmera
+카메라 재설정
+重設視角
+重置视角
+アクション
+Interact
+Interagir
+Interagire
+Interagieren
+Interactuar
+Действие
+Interakcja
+Interagir
+상호작용
+互動
+互动
+ポーズメニューを開く
+Pause Menu
+Menu Pause
+Menu di pausa
+Pause
+Menú de pausa
+Пауза
+Menu pauzy
+Menu de Pausa
+일시 정지 메뉴
+暫停選單
+暂停菜单
+マップを開く
+Open map
+Ouvrir la carte
+Aprire la mappa
+Karte öffnen
+Abrir mapa
+Открыть карту
+Otwieranie mapy
+Abrir mapa
+지도 열기
+打開地圖
+开启地图
+ステータス画面を開く
+Open inventory screen
+Ouvrir l'inventaire
+Schermata dell'inventario
+Inventar öffnen
+Inventario
+Открыть снаряжение
+Otwieranie ekranu ekwipunku
+Abrir tela do inventário
+인벤토리 화면 열기
+打開物品欄畫面
+开启物品栏画面
+【メニュー】決定
+Confirm (Menu)
+Confirmer (Menu)
+Confermare (Menu)
+Bestätigen (Menü)
+Confirmar (menú)
+Подтвердить (меню)
+Potwierdź (Menu)
+Confirmar (menu)
+확인 (메뉴)
+確定（選單）
+确定（菜单）
+【メニュー】戻る
+Return (Menu)
+Retour (Menu)
+Annullare (Menu)
+Zurück (Menü)
+Cancelar (menú)
+Назад (меню)
+Wróć (Menu)
+Voltar (menu)
+돌아가기 (메뉴)
+返回（選單）
+返回（菜单）
+【メニュー】タブ切り替え・←
+Switch tabs ← (Menu)
+Changer d'onglet ← (Menu)
+Cambiare scheda ← (Menu)
+Reiter wechseln ← (Menü)
+Cambiar pestaña ← (menú)
+Переключить вкладки ← (меню)
+Przełączenie kart ← (Menu)
+Mudar aba ← (menu)
+탭 전환 ← (메뉴)
+切換標籤 ←（選單）
+切换标签页 ←（菜单）
+【メニュー】タブ切り替え・→
+Switch tabs → (Menu)
+Changer d'onglet → (Menu)
+Cambiare scheda → (Menu)
+Reiter wechseln → (Menü)
+Cambiar pestaña → (menú)
+Переключить вкладки → (меню)
+Przełączenie kart → (Menu)
+Mudar aba → (menu)
+탭 전환 → (메뉴)
+切換標籤 →（選單）
+切换标签页 →（菜单）
+【メニュー】カテゴリ切替・←
+Switch categories ← (Menu)
+Changer de catégorie ← (Menu)
+Cambiare categoria ← (Menu)
+Kategorie wechseln ← (Menü)
+Cambiar categoría ← (menú)
+Переключить категории ← (меню)
+Przełączenie kategorii ← (Menu)
+Mudar categoria ← (menu)
+카테고리 전환 ← (메뉴)
+切換分類 ←（選單）
+切换类别 ←（菜单）
+【メニュー】カテゴリ切替・→
+Switch categories → (Menu)
+Changer de catégorie → (Menu)
+Cambiare categoria → (Menu)
+Kategorie wechseln → (Menü)
+Cambiar categoría → (menú)
+Переключить категории → (меню)
+Przełączenie kategorii → (Menu)
+Mudar categoria → (menu)
+카테고리 전환 → (메뉴)
+切換分類 →（選單）
+切换类别 →（菜单）
+【メニュー】移動・←
+← (Menu)
+← (Menu)
+← (Menu)
+← (Menü)
+Menú ← (menú)
+← (меню)
+← (Menu)
+← (menu)
+← (메뉴)
+選單 ←（選單）
+菜单 ←（菜单）
+【メニュー】移動・↑
+↑ (Menu)
+↑ (Menu)
+↑ (Menu)
+↑ (Menü)
+Menú ↑ (menú)
+↑ (меню)
+↑ (Menu)
+↑ (menu)
+↑ (메뉴)
+選單 ↑（選單）
+菜单 ↑（菜单）
+【メニュー】移動・↓
+↓ (Menu)
+↓ (Menu)
+↓ (Menu)
+↓ (Menü)
+Menú ↓ (menú)
+↓ (меню)
+↓ (Menu)
+↓ (menu)
+↓ (메뉴)
+選單 ↓（選單）
+菜单 ↓（菜单）
+【メニュー】移動・→
+→ (Menu)
+→ (Menu)
+→ (Menu)
+→ (Menü)
+Menú → (menú)
+→ (меню)
+→ (Menu)
+→ (menu)
+→ (메뉴)
+選單 →（選單）
+菜单 →（菜单）
+【メニュー】ページ送り・↑
+Page up (Menu)
+Page ↑ (Menu)
+Pagina su (Menu)
+Seite hoch (Menü)
+Página arriba (menú)
+Пред. страница (меню)
+Strona w górę (Menu)
+Página acima (menu)
+페이지 위로 (메뉴)
+向上翻頁（選單）
+向上翻页（菜单）
+【メニュー】ページ送り・↓
+Page down (Menu)
+Page ↓ (Menu)
+Pagina giù (Menu)
+Seite runter (Menü)
+Página abajo (menú)
+След. страница (меню)
+Strona w dół (Menu)
+Página abaixo (menu)
+페이지 아래로 (메뉴)
+向下翻頁（選單）
+向下翻页（菜单）
+【アイテムボックス】ソート
+Sort (Item Box)
+Trier (Coffre)
+Ordinare per (Cassa oggetti)
+Sortieren (Inventarbox)
+Ordenar (baúl de objetos)
+Сортировать (ящик с предметами)
+Sortowanie (Okno przedmiotu)
+Organizar (baú)
+정렬 (아이템 상자)
+排序（道具箱）
+排序（道具箱）
+【アイテムボックス】アイテム移動
+Move item (Item Box)
+Déplacer un objet (Coffre)
+Muovere un oggetto (Cassa oggetti)
+Objekt bewegen (Inventarbox)
+Mover objeto (baúl de objetos)
+Переместить предмет (ящик с предметами)
+Przeniesienie przedmiotu (Okno przedmiotu)
+Mover item (baú)
+아이템 이동 (아이템 상자)
+移動物品（道具箱）
+移动物品（道具箱）
+【メニュー】拡大
+Zoom in (Menu)
+Zoom + (Menu)
+Zoom avanti (Menu)
+Zoom + (Menü)
+Acercar (menú)
+Приблизить (меню)
+Przybliżenie (Menu)
+Mais zoom (menu)
+확대 (메뉴)
+放大（選單）
+放大（菜单）
+【メニュー】縮小
+Zoom out (Menu)
+Zoom - (Menu)
+Zoom indietro (Menu)
+Zoom - (Menü)
+Alejar (menú)
+Отдалить (меню)
+Oddalenie (Menu)
+Menos zoom (menu)
+축소 (메뉴)
+縮小（選單）
+缩小（菜单）
+【メニュー】リセット
+Reset (Menu)
+Réinitialiser (Menu)
+Predefiniti (Menu)
+Zurücksetzen (Menü)
+Reiniciar (menú)
+Сбросить (меню)
+Resetowanie (Menu)
+Redefinir (menu)
+재설정 (메뉴)
+重設（選單）
+重置（菜单）
+【フィギュア】操作説明表示切替
+Show/hide controls (Models)
+Afficher/masquer les commandes (Modèles)
+Mostrare/Nascondere i suggerimenti (Modelli)
+Steuerungshinweise ein-/ausblenden (Figuren)
+Mostrar/ocultar controles (modelos)
+Показать/скрыть управление (модели)
+Pokazanie/ukrycie wskazówek dot. sterowania (Model)
+Exibir/ocultar controles (modelos)
+컨트롤 힌트 표시/숨김 (모델)
+顯示/隱藏控制提示（模型）
+显示/隐藏控制提示（模型）
+【マップ】フロア切り替え・↑
+Change floor ↑ (Map)
+Changer de niveau ↑ (Carte)
+Cambiare piano ↑ (Mappa)
+Stockwerk wechseln ↑ (Karte)
+Cambiar de planta ↑ (mapa)
+Сменить этаж ↑ (карта)
+Zmiana piętra ↑ (Mapa)
+Subir andar (mapa)
+층 변경 ↑ (지도)
+變更樓層 ↑（地圖）
+变更楼层 ↑（地图）
+【マップ】フロア切り替え・↓
+Change floor ↓ (Map)
+Changer de niveau ↓ (Carte)
+Cambiare piano ↓ (Mappa)
+Stockwerk wechseln ↓ (Karte)
+Cambiar de planta ↓ (mapa)
+Сменить этаж ↓ (карта)
+Zmiana piętra ↓ (Mapa)
+Descer andar (mapa)
+층 변경 ↓ (지도)
+變更樓層 ↓（地圖）
+变更楼层 ↓（地图）
+この項目はPCが「DirectX 12」対応の時に設定できます
+This option is only available when using DirectX 12.
+Cette option n'est disponible que lorsque DirectX 12 est supporté.
+Questa opzione è disponibile soltanto con le DirectX 12.
+Diese Option ist nur bei Verwendung von DirectX 12 verfügbar.
+Esta opción solo está disponible si usas DirectX 12.
+Данная функция доступна только с DirectX 12.
+Ta opcja jest dostępna tylko w przypadku korzystania z DirectX 12.
+Opção disponível apenas ao usar DirectX 12.
+이 옵션은 DirectX 12 사용 시에만 이용할 수 있습니다.
+此選項只有在使用 DirectX 12 時才能選擇。
+此选项只有在使用 DirectX 12 时才能选择。
+Privacy Policy
+Privacy Policy
+Politique de confidentialité
+Informativa sulla privacy
+Datenschutzregelung
+Política de privacidad
+Политика конфиденциальности
+Polityka prywatności
+Política de Privacidade
+개인정보 보호정책
+隱私權政策
+隐私政策
+プライバシーポリシーを確認します
+View the privacy policy.
+Voir la politique de confidentialité.
+Visualizza l'informativa sulla privacy.
+Die Datenschutzregelung ansehen.
+Ve la política de privacidad.
+Открыть политику конфиденциальности.
+Zobacz Politykę prywatności.
+Ler a política de privacidade.
+개인정보 보호정책을 봅니다.
+查看隱私權政策。
+查看隐私政策。
+プライバシーポリシー確認のため</n>WEBページを開きますか？</n></n>プライバシーポリシー (http://www.capcom.co.jp/privacy/game/)
+Open the privacy policy webpage?</n></n>Privacy Policy (http://www.capcom.co.jp/privacy/game/)
+Ouvrir la page web relative à la politique de confidentialité ?</n></n>Politique de confidentialité (http://www.capcom.co.jp/privacy/game/)
+Aprire la pagina web relativa all'informativa sulla privacy?</n></n>Informativa sulla privacy: http://www.capcom.co.jp/privacy/game/
+Die Webseite mit der Datenschutzregelung öffnen?</n></n>Datenschutzregelung (http://www.capcom.co.jp/privacy/game/)
+¿Quieres ir a la página web de la política de privacidad?</n>Política de privacidad: (http://www.capcom.co.jp/privacy/game/)
+Перейти на веб-страницу, чтобы ознакомиться с политикой конфиденциальности?</n></n>Политика конфиденциальности (http://www.capcom.co.jp/privacy/game/)
+Przejść na stronę internetową z polityką prywatności?</n></n>Polityka prywatności (http://www.capcom.co.jp/privacy/game/)
+Abrir a página com a política de privacidade?</n></n>Política de Privacidade (http://www.capcom.co.jp/privacy/game/)
+개인정보 보호정책 웹페이지를 여시겠습니까?</n></n>개인정보 보호정책(http://www.capcom.co.jp/privacy/game/)
+打開隱私權政策網頁?</n></n>隱私權政策 (http://www.capcom.co.jp/privacy/game/) 
+打开隐私权政策网页?</n>隐私权政策 (http://www.capcom.co.jp/privacy/game/)

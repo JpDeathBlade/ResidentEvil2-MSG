@@ -1,0 +1,196 @@
+﻿<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>G-ウィルスを確認<PAGE></n>突入する<PAGE></n>バーキン博士 我々と来てもらいたい<PAGE></n>君たちが来るのは分かってた<PAGE></n>誰にも渡さないぞ<PAGE></n>私の生涯をかけた作品なんだ<PAGE></n>我々は命令を受けている<PAGE></n>最後にもう一度だけ言う…<PAGE></n>よせ！　撃つな！<PAGE></n>何を考えてる？</n>生きて連行しろという命令だ<PAGE></n>突入しましたが問題が発生</n>ターゲットの抵抗に遭いやむなく射殺<PAGE></n>はい そうです<PAGE></n>了解</n>サンプルを回収します<PAGE></n>撤収だ
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Got eyes on the G-Virus.<PAGE></n>We're going in.<PAGE></n>Doctor Birkin, you'll come along with us quietly.<PAGE></n>You think I didn't know you were coming?<PAGE></n>This is my life's work!<PAGE></n>I'm not handing over anything!<PAGE></n>We have our orders, Doctor Birkin.<PAGE></n>I'll ask you one more time...<PAGE></n>Stop! Hold your fire!<PAGE></n>What the fuck were you thinking!?</n>Our orders were to bring him in alive!<PAGE></n>We're in, sir, but we had a snafu.</n>Target resisted, we had to take him out.<PAGE></n>That's correct, sir.<PAGE></n>Roger that. Just the samples then.<PAGE></n>Let's move!
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Virus G en visuel.<PAGE></n>On entre.<PAGE></n>Dr. Birkin, vous allez nous suivre calmement.<PAGE></n>Je savais bien que vous viendriez !<PAGE></n>C'est le travail de ma vie !<PAGE></n>Hors de question que je cède quoi que ce soit !<PAGE></n>Nous avons des ordres, Dr. Birkin.<PAGE></n>Je vous le demande encore une fois.<PAGE></n>Stop ! Cessez le feu !<PAGE></n>Putain mais qu'est-ce qui t'a pris ?</n>On avait ordre de le ramener vivant !<PAGE></n>On est entrés, mais on a eu un problème.</n>La cible a résisté, on a dû l'abattre.<PAGE></n>C'est exact, monsieur.<PAGE></n>Bien compris. Juste les échantillons.<PAGE></n>Allez, on bouge.
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Virus G identificato.<PAGE></n>Entriamo.<PAGE></n>Dottor Birkin, deve venire con noi. Si muova.<PAGE></n>Credevate non vi stessi aspettando?<PAGE></n>Questo è il lavoro di una vita!<PAGE></n>Non lo avrete mai! Scordatevelo!<PAGE></n>Abbiamo degli ordini, dottor Birkin.<PAGE></n>Glielo chiederò ancora una volta.<PAGE></n>Fermi! Cessate il fuoco!<PAGE></n>Che cazzo ti è saltato in testa?</n>Gli ordini erano di catturarlo vivo!<PAGE></n>Ci siamo signore, ma c'è stato un problema.</n>Ha opposto resistenza ed è stato abbattuto.<PAGE></n>Esatto, signore.<PAGE></n>Ricevuto. Preleviamo il campione.<PAGE></n>Muoviamoci.
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>G-Virus gesichtet.<PAGE></n>Wir gehen rein...<PAGE></n>Doktor Birkin, Sie kommen jetzt ganz ruhig mit.<PAGE></n>Glauben Sie, ich wusste nicht,</n>dass Sie kommen?<PAGE></n>Das ist mein Lebenswerk!<PAGE></n>Ich gebe Ihnen gar nichts!<PAGE></n>Wir haben unsere Befehle, Doktor Birkin.<PAGE></n>Ich sag's nur noch einmal...<PAGE></n>Feuer einstellen!<PAGE></n>Was zum Teufel sollte das?!</n>Wir hatten Befehl, ihn lebend zu fassen!<PAGE></n>Wir sind drin, Sir, doch es gab Widerstand.</n>Wir mussten die Zielperson ausschalten.<PAGE></n>Korrekt, Sir.<PAGE></n>Roger. Nur die Proben also.<PAGE></n>Abmarsch!
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Virus G localizado.<PAGE></n>Entramos.<PAGE></n>Doctor Birkin, usted viene con nosotros.<PAGE></n>Ya sabía que veníais.<PAGE></n>Este trabajo es mi vida.<PAGE></n>No voy a daros nada.<PAGE></n>Tenemos órdenes, Doctor Birkin.<PAGE></n>Se lo diré una vez más...<PAGE></n>¡Alto el fuego!<PAGE></n>¿Qué cojones te pasa? ¡La orden era llevarlo vivo!<PAGE></n>Entramos, pero hubo un problema.</n>Se resistió y tuvimos que neutralizarlo.<PAGE></n>Afirmativo.<PAGE></n>Entendido. Sólo las muestras.<PAGE></n>¡En marcha!
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Вижу Г-вирус.<PAGE></n>Заходим.<PAGE></n>Доктор Биркин, вы пойдете с нами. Без лишнего шума.<PAGE></n>По-вашему, я не знал, что вы придете?<PAGE></n>Это дело всей моей жизни.<PAGE></n>Я ничего никому не отдам.<PAGE></n>У нас приказ, доктор Биркин.<PAGE></n>Я попрошу еще один раз...<PAGE></n>Стоп! Не стрелять!<PAGE></n>Что ты, мать твою, наделал?</n>Его приказано доставить живым!<PAGE></n>Сэр, мы внутри, но у нас тут залет.</n>Цель сопротивлялась, и ее пришлось устранить.<PAGE></n>Так точно, сэр.<PAGE></n>Вас понял. Только образцы.<PAGE></n>Пошли отсюда.
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Widzę wirusa G.<PAGE></n>Wchodzimy.<PAGE></n>Doktorze Birkin, proszę spokojnie</n>pójść z nami.<PAGE></n>Myśleliście, że nie wiedziałem,</n>że po mnie przyjdziecie?<PAGE></n>Całe życie nad tym pracowałem.<PAGE></n>Niczego nie oddam.<PAGE></n>Mamy rozkazy, doktorze Birkin.<PAGE></n>Poproszę jeszcze raz—<PAGE></n>Stój! Wstrzymaj ogień!<PAGE></n>Co ty kurwa wyprawiasz?</n>Mieliśmy doprowadzić go żywego.<PAGE></n>Jesteśmy na miejscu, ale cel stawiał</n>opór. Musieliśmy go zdjąć.<PAGE></n>Zgadza się, sir.<PAGE></n>Rozumiem. Tylko próbki.<PAGE></n>Ruszać się.
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>Vírus G avistado.<PAGE></n>Vamos entrar.<PAGE></n>Doutor Birkin, venha com a gente, sem escândalo.<PAGE></n>Acham mesmo que eu não sabia que vocês estavam vindo?<PAGE></n>Esse é o trabalho da minha vida toda!<PAGE></n>Eu não vou entregar nada!<PAGE></n>Temos ordens a cumprir, Doutor Birkin.<PAGE></n>Vou pedir só mais uma vez...<PAGE></n>Para! Não atira!<PAGE></n>Que merda você tem na cabeça?</n>A gente recebeu ordens pra trazer o cara vivo!<PAGE></n>Conseguimos entrar, senhor, mas tivemos um contratempo.</n>O alvo resistiu e tivemos que dar cabo dele.<PAGE></n>É isso mesmo, senhor.<PAGE></n>Entendido. Então só peguem as amostras.<PAGE></n>Vamos embora.
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>G 바이러스가 보인다.<PAGE></n>진입하겠다.<PAGE></n>버킨 박사님, 조용히 따라오시기 바랍니다.<PAGE></n>네 놈들이 오는 걸 모를 줄 알았나?<PAGE></n>이건 내 일생의 연구야.<PAGE></n>절대 넘겨줄 수 없어.<PAGE></n>저흰 명령을 따를 뿐입니다, 버킨 박사님.<PAGE></n>한 번만 더 말씀드리겠습니다-<PAGE></n>중지! 사격 중지!<PAGE></n>대체 정신이 있는 거야? 우리 임무는</n>박사를 산 채로 데려가는 거라고!<PAGE></n>네, 들어왔는데 문제가 약간 생겼습니다.</n>목표물이 저항하는 바람에 사살했습니다.<PAGE></n>그렇습니다.<PAGE></n>알겠습니다. 그럼 샘플만 확보하겠습니다.<PAGE></n>어서 이동해.
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>看到 G 病毒了。<PAGE></n>我們要進去了。<PAGE></n>柏金博士，請你乖乖配合，跟我們一起走。<PAGE></n>你們以為我不知道你們會來嗎？<PAGE></n>這是我畢生的心血結晶。<PAGE></n>我才不會交出任何東西。<PAGE></n>柏金博士，我們只是聽令行事。<PAGE></n>我再問你一次...<PAGE></n>住手！不要開槍！<PAGE></n>你在想什麼？</n>我們收到的命令是將他活捉回去！<PAGE></n>長官，我們進來了，但又發生老狀況。</n>目標反抗，我們只得把他殺了。<PAGE></n>沒錯，長官。<PAGE></n>收到，那就只帶樣本回去吧。<PAGE></n>走吧。
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>发现 G 病毒了。<PAGE></n>我们要进去了。<PAGE></n>柏金博士，请你乖乖配合，跟我们走。<PAGE></n>你们以为我不知道你们会来吗？<PAGE></n>这是我毕生的心血。<PAGE></n>我不会把任何东西交给你们。<PAGE></n>柏金博士，我们只是听令行事。<PAGE></n>我再问你一次...<PAGE></n>住手！不要开枪！<PAGE></n>你在想什么？</n>我们收到的命令是要活捉他！<PAGE></n>长官，我们进来了，但又发生老状况。</n>目标反抗，我们不得不杀了他。<PAGE></n>没错，长官。<PAGE></n>收到，那就只带样本回去吧。<PAGE></n>我们走。
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+<TIME 8.18, 9.5><TIME 10.5, 11.5><TIME 18.32, 21.68><TIME 22.32, 23.95><TIME 25.11, 26.88><TIME 27.63, 29.38><TIME 29.5, 32.0><TIME 32.5, 34.56><TIME 35.71, 37.38><TIME 46.31, 50.78><TIME 56.5, 62.28><TIME 65.5, 67.0><TIME 69.45, 72.62><TIME 75.81, 77.0>
+G-ウィルスを確認
+Got eyes on the G-Virus.
+Virus G en visuel.
+Virus G identificato.
+G-Virus gesichtet.
+Virus G localizado.
+Вижу Г-вирус.
+Widzę wirusa G.
+Vírus G avistado.
+G 바이러스가 보인다.
+看到 G 病毒了。
+发现 G 病毒了。
+突入する
+We're going in.
+On entre.
+Entriamo.
+Wir gehen rein...
+Entramos.
+Заходим.
+Wchodzimy.
+Vamos entrar.
+진입하겠다.
+我們要進去了。
+我们要进去了。
+バーキン博士 我々と来てもらいたい
+Doctor Birkin, you'll come along with us quietly.
+Dr. Birkin, vous allez nous suivre calmement.
+Dottor Birkin, deve venire con noi. Si muova.
+Doktor Birkin, Sie kommen jetzt ganz ruhig mit.
+Doctor Birkin, usted viene con nosotros.
+Доктор Биркин, вы пойдете с нами. Без лишнего шума.
+Doktorze Birkin, proszę spokojnie</n>pójść z nami.
+Doutor Birkin, venha com a gente, sem escândalo.
+버킨 박사님, 조용히 따라오시기 바랍니다.
+柏金博士，請你乖乖配合，跟我們一起走。
+柏金博士，请你乖乖配合，跟我们走。
+君たちが来るのは分かってた
+You think I didn't know you were coming?
+Je savais bien que vous viendriez !
+Credevate non vi stessi aspettando?
+Glauben Sie, ich wusste nicht,</n>dass Sie kommen?
+Ya sabía que veníais.
+По-вашему, я не знал, что вы придете?
+Myśleliście, że nie wiedziałem,</n>że po mnie przyjdziecie?
+Acham mesmo que eu não sabia que vocês estavam vindo?
+네 놈들이 오는 걸 모를 줄 알았나?
+你們以為我不知道你們會來嗎？
+你们以为我不知道你们会来吗？
+誰にも渡さないぞ
+This is my life's work!
+C'est le travail de ma vie !
+Questo è il lavoro di una vita!
+Das ist mein Lebenswerk!
+Este trabajo es mi vida.
+Это дело всей моей жизни.
+Całe życie nad tym pracowałem.
+Esse é o trabalho da minha vida toda!
+이건 내 일생의 연구야.
+這是我畢生的心血結晶。
+这是我毕生的心血。
+私の生涯をかけた作品なんだ
+I'm not handing over anything!
+Hors de question que je cède quoi que ce soit !
+Non lo avrete mai! Scordatevelo!
+Ich gebe Ihnen gar nichts!
+No voy a daros nada.
+Я ничего никому не отдам.
+Niczego nie oddam.
+Eu não vou entregar nada!
+절대 넘겨줄 수 없어.
+我才不會交出任何東西。
+我不会把任何东西交给你们。
+我々は命令を受けている
+We have our orders, Doctor Birkin.
+Nous avons des ordres, Dr. Birkin.
+Abbiamo degli ordini, dottor Birkin.
+Wir haben unsere Befehle, Doktor Birkin.
+Tenemos órdenes, Doctor Birkin.
+У нас приказ, доктор Биркин.
+Mamy rozkazy, doktorze Birkin.
+Temos ordens a cumprir, Doutor Birkin.
+저흰 명령을 따를 뿐입니다, 버킨 박사님.
+柏金博士，我們只是聽令行事。
+柏金博士，我们只是听令行事。
+最後にもう一度だけ言う…
+I'll ask you one more time...
+Je vous le demande encore une fois.
+Glielo chiederò ancora una volta.
+Ich sag's nur noch einmal...
+Se lo diré una vez más...
+Я попрошу еще один раз...
+Poproszę jeszcze raz—
+Vou pedir só mais uma vez...
+한 번만 더 말씀드리겠습니다-
+我再問你一次...
+我再问你一次...
+よせ！　撃つな！
+Stop! Hold your fire!
+Stop ! Cessez le feu !
+Fermi! Cessate il fuoco!
+Feuer einstellen!
+¡Alto el fuego!
+Стоп! Не стрелять!
+Stój! Wstrzymaj ogień!
+Para! Não atira!
+중지! 사격 중지!
+住手！不要開槍！
+住手！不要开枪！
+何を考えてる？</n>生きて連行しろという命令だ
+What the fuck were you thinking!?</n>Our orders were to bring him in alive!
+Putain mais qu'est-ce qui t'a pris ?</n>On avait ordre de le ramener vivant !
+Che cazzo ti è saltato in testa?</n>Gli ordini erano di catturarlo vivo!
+Was zum Teufel sollte das?!</n>Wir hatten Befehl, ihn lebend zu fassen!
+¿Qué cojones te pasa? ¡La orden era llevarlo vivo!
+Что ты, мать твою, наделал?</n>Его приказано доставить живым!
+Co ty kurwa wyprawiasz?</n>Mieliśmy doprowadzić go żywego.
+Que merda você tem na cabeça?</n>A gente recebeu ordens pra trazer o cara vivo!
+대체 정신이 있는 거야? 우리 임무는</n>박사를 산 채로 데려가는 거라고!
+你在想什麼？</n>我們收到的命令是將他活捉回去！
+你在想什么？</n>我们收到的命令是要活捉他！
+突入しましたが問題が発生</n>ターゲットの抵抗に遭いやむなく射殺
+We're in, sir, but we had a snafu.</n>Target resisted, we had to take him out.
+On est entrés, mais on a eu un problème.</n>La cible a résisté, on a dû l'abattre.
+Ci siamo signore, ma c'è stato un problema.</n>Ha opposto resistenza ed è stato abbattuto.
+Wir sind drin, Sir, doch es gab Widerstand.</n>Wir mussten die Zielperson ausschalten.
+Entramos, pero hubo un problema.</n>Se resistió y tuvimos que neutralizarlo.
+Сэр, мы внутри, но у нас тут залет.</n>Цель сопротивлялась, и ее пришлось устранить.
+Jesteśmy na miejscu, ale cel stawiał</n>opór. Musieliśmy go zdjąć.
+Conseguimos entrar, senhor, mas tivemos um contratempo.</n>O alvo resistiu e tivemos que dar cabo dele.
+네, 들어왔는데 문제가 약간 생겼습니다.</n>목표물이 저항하는 바람에 사살했습니다.
+長官，我們進來了，但又發生老狀況。</n>目標反抗，我們只得把他殺了。
+长官，我们进来了，但又发生老状况。</n>目标反抗，我们不得不杀了他。
+はい そうです
+That's correct, sir.
+C'est exact, monsieur.
+Esatto, signore.
+Korrekt, Sir.
+Afirmativo.
+Так точно, сэр.
+Zgadza się, sir.
+É isso mesmo, senhor.
+그렇습니다.
+沒錯，長官。
+没错，长官。
+了解</n>サンプルを回収します
+Roger that. Just the samples then.
+Bien compris. Juste les échantillons.
+Ricevuto. Preleviamo il campione.
+Roger. Nur die Proben also.
+Entendido. Sólo las muestras.
+Вас понял. Только образцы.
+Rozumiem. Tylko próbki.
+Entendido. Então só peguem as amostras.
+알겠습니다. 그럼 샘플만 확보하겠습니다.
+收到，那就只帶樣本回去吧。
+收到，那就只带样本回去吧。
+撤収だ
+Let's move!
+Allez, on bouge.
+Muoviamoci.
+Abmarsch!
+¡En marcha!
+Пошли отсюда.
+Ruszać się.
+Vamos embora.
+어서 이동해.
+走吧。
+我们走。

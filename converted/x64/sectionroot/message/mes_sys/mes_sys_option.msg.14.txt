@@ -1,0 +1,2364 @@
+﻿Controls
+Controls
+Commandes
+Comandi
+Steuerung
+Controles
+Управление
+Sterowanie
+Controles
+컨트롤
+控制
+控制
+Camera
+Camera
+Caméra
+Visuale
+Kamera
+Cámara
+Камера
+Kamera
+Câmera
+카메라
+視角
+视角
+Audio
+Audio
+Audio
+Audio
+Audio
+Sonido
+Звук
+Dźwięk
+Áudio
+오디오
+音訊
+音频
+Language
+Language
+Langue
+Lingua
+Sprache
+Idioma
+Язык
+Język
+Idioma
+언어
+語言
+语言
+Display
+Display
+Affichage
+Schermo
+Anzeige
+Pantalla
+Экран
+Wyświetlanie
+Exibição
+디스플레이
+顯示
+显示
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+RE NET
+Default
+Default
+Par défaut
+Predefiniti
+Standard
+Por defecto
+По умолчанию
+Domyślne
+Padrão
+기본
+預設
+默认
+ゲームモードに関する設定ができます
+Adjust game mode settings.
+Régler les paramètres liés aux modes de jeu.
+Regola le impostazioni per la modalità di gioco.
+Die Spielmodus-Einstellungen anpassen.
+Ajusta las opciones de modo de juego.
+Измените настройки режимов игры.
+Dostosuj ustawienia trybu gry.
+Ajustar a configuração de modos de jogo.
+게임 모드 설정을 조정합니다.
+調整遊戲模式設定。
+调整游戏模式设置。
+操作に関する設定ができます
+Adjust control settings.
+Régler les paramètres liés aux commandes.
+Regola le impostazioni dei comandi.
+Die Steuerung anpassen.
+Ajusta las opciones de control.
+Измените управление.
+Dostosuj sterowanie.
+Ajustar a configuração dos controles.
+컨트롤 설정을 조정합니다.
+調整控制設定。
+调整控制设置。
+カメラに関する設定ができます
+Adjust camera settings.
+Ajuster les paramètres de caméra.
+Regola le impostazioni per la visuale.
+Die Kameraeinstellungen anpassen.
+Ajusta las opciones de cámara.
+Настройки камеры.
+Dostosuj ustawienia kamery.
+Ajustar as configurações da câmera.
+카메라 설정을 조정합니다.
+調整視角設定。
+调整摄视角设置。
+画面表示に関する設定ができます
+Adjust game screen settings.
+Configurer l'écran de jeu.
+Regola le impostazioni dello schermo di gioco.
+Die Spielbildschirmeinstellungen anpassen.
+Ajusta las opciones de pantalla.
+Измените настройки экрана в игре.
+Dostosuj ustawienia ekranu gry.
+Ajustar as configurações de tela.
+게임 화면 설정을 조정합니다.
+調整遊戲畫面設定。
+调整游戏屏幕设置。
+サウンドに関する設定ができます
+Adjust audio settings.
+Régler les paramètres audio.
+Regola le impostazioni audio.
+Die Audioeinstellungen anpassen.
+Ajusta las opciones de sonido.
+Измените настройки звука.
+Dostosuj ustawienia dźwięku.
+Ajustar as configurações de áudio.
+오디오 설정을 조정합니다.
+調整聲音設定。
+调整音频设置。
+言語に関する設定ができます
+Change language settings.
+Changer les paramètres de langue.
+Cambia le impostazioni della lingua.
+Die Spracheinstellungen ändern.
+Cambia las opciones de idioma.
+Выберите нужный язык.
+Zmień ustawienia wersji językowej.
+Mudar as configurações de idioma.
+언어 설정을 변경합니다.
+變更語言設定。
+变更语言设置。
+RESIDENT EVIL.NETに関する設定ができます
+Change Resident Evil.Net settings.
+Modifier les paramètres liés à Resident Evil.Net.
+Cambia le impostazioni di RE NET.
+Die Einstellungen für Resident Evil.Net ändern.
+Ajusta las opciones de RE NET.
+Измените настройки сети Resident Evil.Net.
+Zmień ustawienia usługi Resident Evil.Net.
+Mudar as configurações da Resident Evil.Net.
+Resident Evil.Net 설정을 변경합니다.
+變更 Resident Evil.Net 的設定。
+变更 Resident Evil Net 设置。
+設定を初期状態に戻します
+Restore to default settings.
+Rétablir les paramètres par défaut.
+Ripristina tutto alle impostazioni predefinite.
+Die Standardeinstellungen wiederherstellen.
+Vuelve a la configuración por defecto.
+Восстановить настройки по умолчанию.
+Przywróć ustawienia domyślne.
+Voltar às configurações padrão.
+기본 설정으로 돌아갑니다.
+恢復預設設定
+恢复默认设置。
+この項目はメインメニューから設定できます
+This option can only be changed from the main menu.
+Cette option ne peut être modifiée que depuis le menu principal.
+Questa opzione può essere modificata solo dal menu principale.
+Diese Option kann nur vom Hauptmenü aus geändert werden.
+Esta opción solo se puede cambiar desde el menú principal.
+Эту настройку можно изменить только в главном меню.
+Tę opcję można zmienić tylko z poziomu menu głównego.
+Esta opção só pode ser alterada do menu principal.
+이 옵션은 메인 메뉴에서만 변경할 수 있습니다.
+此選項只能從主畫面變更。
+此选项只能在主菜单中进行变更。
+この項目はゲームモード「ASSISTED」の時に設定できます
+This setting is only available in "Assisted" game mode.
+Cette option n'est disponible qu'en mode "Facile".
+Questa impostazione verrà applicata alla modalità "Assistita".
+Diese Option ist nur im Spielmodus "Assistiert" verfügbar.
+Esta opción solo está disponible en modo "Asistido".
+Эта опция доступна только в упрощенном режиме.
+To ustawienie jest dostępne tylko w trybie gry „Wspomaganie”.
+Configuração disponível apenas no modo "Facilitado".
+이 옵션은 "지원" 게임 모드에서만 사용 가능합니다.
+此設定只可於「輔助」遊戲模式中使用。
+此设置只可于“辅助”游戏模式中使用。
+この項目はHDR出力に対応している時に設定できます
+This setting is available when HDR is supported.
+Cette option n'est disponible que lorsque l'affichage HDR est supporté.
+Impostazione disponibile solo se la modalità HDR è supportata.
+Diese Einstellung ist verfügbar, wenn HDR unterstützt wird.
+Podrás usar esta opción cuando HDR esté disponible.
+Эта опция доступна в случае поддержки HDR.
+To ustawienie jest dostępne tylko w trybie HDR.
+Configuração disponível apenas quando há suporte a HDR.
+이 설정은 HDR이 지원되는 경우에만 사용 가능합니다.
+此設定只可於系統支援 HDR 時使用。
+此设置只可于系统支持 HDR 时使用。
+この項目は「HDRモード」がオフの時に設定できます
+This setting is available when HDR Mode is set to off.
+Cette option n'est disponible que lorsque le mode HDR est désactivé.
+Impostazione disponibile solo se l'HDR è disattivato.
+Diese Einstellung ist verfügbar, wenn der HDR-Modus ausgeschaltet ist.
+Esta opción estará disponible cuando el modo HDR esté desactivado.
+Эта опция доступна с выключенным режимом HDR.
+To ustawienie jest dostępne tylko, gdy tryb HDR jest wyłączony.
+Configuração disponível apenas com modo HDR ativado.
+이 설정은 HDR 모드가 꺼져 있는 경우에만 사용 가능합니다.
+此設定只可於 HDR 模式關閉時使用。
+此设置只可于 HDR 模式关闭时使用。
+フィルム粒子ノイズ
+Film Noise
+Effet de grain
+Effetto grana
+Filmkorn
+Granulado de película
+Зернистость
+Efekt ziarna
+Granulado de Filme
+필름 노이즈
+底片顆粒
+胶片颗粒
+フィルム調のノイズ表現のオン・オフを切替できます
+Turn film noise on or off.
+Activer ou désactiver l'effet de grain appliqué à l'image.
+Attiva o disattiva l'effetto che ricorda la granulosità di una pellicola.
+Den Filmkorn-Effekt ein- und ausschalten.
+Activa o desactiva el granulado de película.
+Вкл./выкл. зернистость.
+Włącz lub wyłącz efekt ziarna.
+Ativar ou desativar efeito granulado de filme.
+필름 노이즈를 켜거나 끕니다.
+開啟或關閉底片顆粒效果。
+开启或关闭胶片颗粒效果。
+とても速い
+Very Fast
+Très rapide
+Molto veloce
+Sehr schnell
+Muy rápida
+Оч. быстро
+Bardzo szybko
+Muito Rápida
+아주 빠르게
+極快
+极快
+速い
+Fast
+Rapide
+Veloce
+Schnell
+Rápida
+Быстро
+Szybko
+Rápida
+빠르게
+快
+快
+遅い
+Slow
+Lente
+Lenta
+Langsam
+Lenta
+Медл.
+Wolno
+Devagar
+느리게
+慢
+慢
+ON
+On
+Oui
+Sì
+Ein
+Sí
+Вкл.
+Wł.
+Ligado
+켜기
+開
+开
+OFF
+Off
+Non
+No
+Aus
+No
+Выкл.
+Wył.
+Desligado
+끄기
+關
+关
+なし
+None
+Non
+Nessuno
+Kein
+No
+Нет
+Brak
+Não
+없음
+無
+无
+強
+Strong
+Fort
+Forte
+Stark
+Fuerte
+Громко
+Mocny
+Forte
+강하게
+強
+强
+弱
+Weak
+Faible
+Debole
+Schwach
+Débil
+Слабо
+Słaby
+Fraca
+약하게
+弱
+弱
+操作タイプ
+Button Assignments
+Configurations de touches
+Assegnazione comandi
+Tastenzuweisung
+Asignación de botones
+Назначения кнопок
+Przypisanie przycisków.
+Configuração dos Botões
+버튼 지정
+指派按鈕
+指派按钮
+操作方法を変更できます
+Select a control type.
+Sélectionner un type de contrôle.
+Seleziona un tipo di controllo.
+Eine Steuerungskonfiguration auswählen.
+Selecciona un tipo de control.
+Выберите тип управления.
+Wybierz typ sterowania.
+Selecionar um tipo de controle.
+컨트롤 유형을 선택합니다.
+選擇一種控制類型。
+请选择您的控制方式。
+操作割り当て
+Control Settings
+Configuration
+Configurazione comandi
+Steuerungseinstellungen
+Ajustes de control
+Настройки управления
+Ustawienia sterowania
+Configurações de Controle
+컨트롤 설정
+控制設定
+控制设置
+操作方法の割り当てを変更できます
+Select a control configuration to play with.
+Configurer les commandes.
+Seleziona una configurazione per i comandi.
+Die Steuerungskonfiguration ändern.
+Elige la configuración de control que prefieras.
+Выберите наиболее удобную раскладку управления.
+Wybierz konfigurację sterowania.
+Selecionar uma configuração de controle.
+게임 플레이에 사용할 컨트롤 구성을 선택합니다.
+請選擇要用來進行遊戲的控制配置。
+请选择要用来进行游戏时的控制配置。
+操作割り当て
+Control Settings
+Configuration
+Configurazione comandi
+Steuerungseinstellungen
+Ajustes de control
+Настройки управления
+Ustawienia sterowania
+Configurações de Controle
+컨트롤 설정
+控制設定
+控制设置
+操作方法の割り当てを変更できます
+Select a control configuration to play with.
+Configurer les commandes.
+Seleziona una configurazione per i comandi.
+Die Steuerungskonfiguration ändern.
+Elige la configuración de control que prefieras.
+Выберите наиболее удобную раскладку управления.
+Wybierz konfigurację sterowania.
+Selecionar uma configuração de controle.
+게임 플레이에 사용할 컨트롤 구성을 선택합니다.
+請選擇要用來進行遊戲的控制配置。
+请选择要用来进行游戏时的控制配置。
+操作割り当て（リモートプレイ）
+Control Settings (Remote Play)
+Configuration (Lecture à distance)
+Configurazione comandi (Riproduzione remota)
+Steuerungseinstellungen (Remote Play)
+Controles (Uso a distancia)
+Настройки управления («Дистанционное воспроизведение»)
+Ustawienia sterowania (gra zdalna)
+Configuração de Controle (Uso Remoto)
+컨트롤 설정 (리모트 플레이)
+控制器設定（遙控遊玩）
+控制设置（遥控操作）
+リモートプレイ時の操作方法の割り当てを変更できます
+Select a control configuration for Remote Play.
+Configurer les commandes pour la lecture à distance.
+Seleziona una configurazione comandi per la Riproduzione remota.
+Die Steuerungskonfiguration für Remote Play ändern.
+Selecciona una configuración para el uso a distancia.
+Выберите наиболее удобную раскладку управления в режиме «Дистанционное воспроизведение».
+Wybierz konfigurację sterowania na potrzeby gry zdalnej.
+Selecionar uma configuração de controle para Uso Remoto.
+리모트 플레이에 사용할 컨트롤 구성을 선택합니다.
+請選擇要用來進行遙控遊玩的控制配置。
+请选择遥控操作时的控制配置。
+オートリロード
+Auto-reload
+Rechargement automatique
+Ricarica automatica
+Auto-Nachladen
+Auto-recarga
+Авт. перезарядка
+Automatyczne przeładowanie
+Autorrecarregar
+자동 재장전
+自動裝填彈藥
+自动装填
+装填数が0になった際の自動リロード機能のオン・オフを切替できます
+Set auto-reload when your clip is empty on or off.
+Activer ou désactiver le rechargement automatique une fois votre chargeur vide.
+Attiva o disattiva la ricarica automatica quando l'arma è scarica.
+Das automatische Nachladen, wenn das Magazin leer ist, ein- und ausschalten.
+Activa o desactiva la auto-recarga cuando tu cargador esté vacío.
+Вкл./выкл. авт. перезарядку при опустошении магазина.
+Włącz lub wyłącz automatyczne przeładowanie po opróżnieniu magazynka.
+Ligar/desligar o autorrecarregamento quando o pente estiver vazio.
+탄창이 비었을 경우 자동 재장전 사용 여부를 설정합니다.
+設定彈匣清空時是否自動裝填彈藥。
+设定弹匣清空时是否自动装填子弹。
+照準設定
+When Aiming
+Visée
+Mira assistita
+Beim Zielen
+Al apuntar
+При прицеливании
+Podczas celowania
+Mirando
+조준 시
+瞄準時
+瞄准时
+照準に関する設定ができます
+Adjust aiming settings.
+Régler les paramètres de visée.
+Regola le impostazioni per la mira.
+Die Zieleinstellungen anpassen.
+Ajusta las opciones de apuntado.
+Измените настройки прицеливания.
+Dostosuj ustawienia celowania.
+Ajustar as configurações da mira.
+조준 설정을 조정합니다.
+調整瞄準設定。
+调整瞄准设置。
+照準時減速率
+Reticle Deceleration
+Ralentissement réticule
+Rallentamento reticolo
+Verlangsamung
+Deceleración de mira
+Замедление перекрестия
+Spowolnienie celownika
+Desaceleração do Retículo
+조준선 감속
+準星減速
+瞄准线减速
+照準アシスト
+Aim Assist
+Aide à la visée
+Puntamento automatico
+Zielhilfe
+Asistencia al apuntar
+Автонаведение
+Wspomaganie celowania
+Auxílio de Mira
+조준 지원
+瞄準輔助
+瞄准辅助
+ターゲットに照準が合っている時の照準の減速の強さを調整できます
+Adjust how much the reticle slows down when it's over a target.
+Régler le ralentissement du réticule lorsqu'il est sur une cible.
+Regola il rallentamento del reticolo quando è sul bersaglio.
+Anpassen, wie stark das Fadenkreuz verlangsamt wird, wenn es über einem Ziel ist.
+Ajusta cuánto se reduce la mira cuando esté sobre el objetivo.
+Измените степень замедления движения перекрестия при наведении на цель.
+Określ stopień spowolnienia celownika, gdy znajduje się on nad celem.
+Ajustar quanto o retículo desacelera ao passar sobre um alvo.
+조준선이 목표물 위에 있을 때 감속하는 정도를 조정합니다.
+調整準星通過目標時，速度減慢的程度。
+调整瞄准线通过目标时减速的幅度。
+敵への照準をアシストする機能のオン・オフを切替できます
+Turn aim assist on or off.
+Activer ou désactiver l'aide à la visée.
+Attiva o disattiva il puntamento automatico.
+Das automatische Zielen ein- und ausschalten.
+Activa o desactiva la asistencia al apuntar.
+Вкл./выкл. автонаведение.
+Włącz lub wyłącz wspomaganie celowania.
+Ativar ou desativar o auxílio de mira.
+조준 지원을 켜거나 끕니다.
+開啟或關閉瞄準輔助。
+开启或关闭瞄准辅助。
+コントローラー振動
+Controller Vibration
+Vibration de la manette
+Vibrazione
+Controller-Vibration
+Vibración del mando
+Вибрация геймпада
+Wibracje kontrolera
+Vibração do Controle
+컨트롤러 진동
+控制器震動
+振动
+コントローラー振動
+Vibration Function
+Fonction de vibration
+Funzione di vibrazione
+Vibrationsfunktion
+Función de vibración
+Вибрация
+Wibracje
+Vibração do Controle
+진동 기능
+震動功能
+震动功能
+コントローラー振動のオン・オフを切替できます
+Turn controller vibration on or off.
+Activer ou désactiver la vibration de la manette.
+Attiva o disattiva la vibrazione del controller.
+Die Vibration vom Controller ein- oder ausschalten.
+Activa o desactiva la vibración del mando.
+Вкл./выкл. вибрацию геймпада.
+Włącz lub wyłącz wibracje kontrolera.
+Ativar ou desativar vibração do controle.
+컨트롤러 진동을 켜거나 끕니다.
+開啟或關閉控制器震動。
+开启或关闭振动。
+コントローラー振動のオン・オフを切替できます
+Turn wireless controller vibration on or off.
+Activer ou désactiver la vibration de la manette sans fil.
+Attiva o disattiva la vibrazione del controller wireless.
+Die Vibrationsfunktion vom Wireless-Controller ein- oder ausschalten.
+Activa o desactiva la vibración del mando inalámbrico.
+Настройки вибрации
+Włącz lub wyłącz wibracje.
+Ativar ou desativar vibração do controle.
+무선 컨트롤러 진동을 켜거나 끕니다.
+開啟或關閉無線控制器震動功能。
+开启或关闭震动。
+操作タイプ
+Control Type
+Type
+Configurazione
+Steuerungskonfiguration
+Tipo de control
+Тип управления
+Typ sterowania
+Tipo de Controle
+컨트롤 유형
+控制類型
+控制方式
+Type A
+Type A
+Type A
+Tipo A
+Typ A
+Tipo A
+Тип A
+Typ A
+Tipo A
+A 유형
+A 型
+A 型
+Type B
+Type B
+Type B
+Tipo B
+Typ B
+Tipo B
+Тип B
+Typ B
+Tipo B
+B 유형
+B 型
+B 型
+Type C
+Type C
+Type C
+Tipo C
+Typ C
+Tipo C
+Тип C
+Typ C
+Tipo C
+C 유형
+C 型
+C 型
+Type D
+Type D
+Type D
+Tipo D
+Typ D
+Tipo D
+Тип D
+Typ D
+Tipo D
+D 유형
+D 型
+D 型
+Type E
+Type E
+Type E
+Tipo E
+Typ E
+Tipo E
+Тип E
+Typ E
+Tipo E
+E 유형
+E 型
+E 型
+Type F
+Type F
+Type F
+Tipo F
+Typ F
+Tipo F
+Тип F
+Typ F
+Tipo F
+F 유형
+F 型
+F 型
+Type G
+Type G
+Type G
+Tipo G
+Typ G
+Tipo G
+Тип G
+Typ G
+Tipo G
+G 유형
+G 型
+G 型
+Type H
+Type H
+Type H
+Tipo H
+Typ H
+Tipo H
+Тип H
+Typ H
+Tipo H
+H 유형
+H 型
+H 型
+Type I
+Type I
+Type I
+Tipo I
+Typ I
+Tipo I
+Тип I
+Typ I
+Tipo I
+I 유형
+I 型
+I 型
+走り操作タイプ
+Run Type
+Course
+Correre
+Sprint-Typ
+Tipo de carrera
+Режим бега
+Typ biegania
+Controle de corrida
+달리기 유형
+奔跑類型
+奔跑类型
+トリガー式
+Toggle
+Appuyer une fois
+Premi una volta
+Einmal drücken
+Pulsar
+Переключение
+Przełącz
+Alternar
+토글
+切換
+切换
+ホールド式
+Hold
+Maintenir
+Tieni premuto
+Halten
+Mantener
+Удержание
+Przytrzymaj
+Segurar
+유지
+按住
+按住
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_D>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_R>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_L>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON R_U>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_T>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON LT_B>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_T>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON RT_B>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON LS_P>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON RS_P>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON C_L>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_T><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LT_B><ICON PLUS><ICON POV>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_D>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON R_R>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_D><ICON PLUS><ICON LS_P>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON LS_P><ICON PLUS><ICON POV>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+<ICON C_R>
+アクション
+Interact
+Interagir
+Interagire
+Interagieren
+Interactuar
+Действие
+Interakcja
+Interagir
+상호작용
+互動
+互动
+走る
+Run
+Courir
+Correre
+Sprinten
+Correr
+Бег
+Bieg
+Correr
+뛰기
+奔跑
+奔跑
+クイックターン
+Quick Turn
+Demi-tour rapide
+Voltarsi rapidamente
+Schnelles Umdrehen
+Giro rápido
+Быстрый разворот
+Szybki obrót
+Meia-volta
+빨리 돌기
+快速轉向
+快速转向
+走る/クイックターン
+Run/Quick Turn
+Courir/Demi-tour rapide
+Correre/Voltarsi rapidamente
+Sprinten / Schnelles Umdrehen
+Correr/Giro rápido
+Бег/Быстрый поворот
+Bieg / szybki obrót
+Correr/Meia-volta
+뛰기/빨리 돌기
+奔跑/快速轉向
+奔跑/快速转向
+リロード
+Reload
+Recharger
+Ricaricare
+Nachladen
+Recargar
+Перезарядка
+Przeładowanie
+Recarregar
+재장전
+重新裝填
+装填
+攻撃
+Fire
+Tirer
+Sparare
+Feuern
+Disparar
+Огонь
+Strzał
+Atirar
+발사
+射擊
+射击
+ステータス画面を開く
+Open inventory screen
+Ouvrir l'inventaire
+Schermata dell'inventario
+Inventar öffnen
+Inventario
+Открыть инвентарь
+Otwieranie ekranu ekwipunku
+Abrir inventário
+인벤토리 화면 열기
+打開物品欄畫面
+开启物品栏画面
+武器を構える
+Aim weapon
+Viser
+Mirare
+Waffe zielen
+Apuntar arma
+Прицелиться
+Celowanie bronią
+Mirar
+무기 조준
+瞄準武器
+瞄准武器
+サブウェポンを構える
+Ready sub-weapon
+Sortir l'arme secondaire
+Estrarre arma secondaria
+Nebenwaffe bereithalten
+Preparar arma secundaria
+Достать доп. оружие
+Przygotowanie pomocniczej broni
+Preparar arma secundária
+보조 무기 준비
+準備次要武器
+准备次要武器
+攻撃
+Attack
+Attaquer
+Attaccare
+Angriff
+Disparar
+Атака
+Atak
+Atacar
+공격
+攻擊
+攻击
+弾薬の切り替え
+Switch ammo
+Changer de munitions
+Cambiare munizioni
+Munition wechseln
+Cambiar munición
+Смена боеприпасов
+Zmiana amunicji
+Trocar munição
+탄약 전환
+切換彈藥
+切换弹药
+移動
+Move
+Se déplacer
+Camminare
+Bewegen
+Mover
+Переместить
+Poruszanie się
+Andar
+이동
+移動
+移动
+カメラ操作
+Move camera
+Déplacer la caméra
+Orientare la visuale
+Kamera bewegen
+Mover cámara
+Движение камеры
+Zmiana położenia kamery
+Mover câmera
+카메라 이동
+移動視角
+视角移动
+カメラリセット
+Reset camera
+Recentrer la caméra
+Reimpostare la visuale
+Kamera zurücksetzen
+Reiniciar cámara
+Сброс камеры
+Resetowanie kamery
+Redefinir câmera
+카메라 재설정
+重設視角
+重置视角
+マップを開く
+Open map
+Voir la carte
+Aprire la mappa
+Karte öffnen
+Abrir mapa
+Карта
+Otwieranie mapy
+Abrir mapa
+지도 열기
+打開地圖
+开启地图
+装備変更
+Change weapons
+Changer d'arme
+Cambiare arma
+Waffe wechseln
+Cambiar arma
+Смена оружия
+Zmiana broni
+Trocar arma
+무기 변경
+變更武器
+变更武器
+サブウェポン装備変更
+Change sub-weapons
+Changer d'arme secondaire
+Cambiare arma secondaria
+Nebenwaffe wechseln
+Cambiar arma secundaria
+Смена доп. оружия
+Zmiana pomocniczej broni
+Trocar arma secundária
+보조 무기 변경
+變更次要武器
+变更次要武器
+ポーズメニューを開く
+Pause Menu
+Menu Pause
+Menu di pausa
+Pausenmenü
+Menú de pausa
+Пауза
+Menu pauzy
+Menu de Pausa
+일시 정지 메뉴
+暫停選單
+暂停菜单
+カメラ操作方向
+Camera Inversion
+Inversion des axes
+Inversione assi
+Kamera-Invertieren
+Inversión de cámara
+Инверсия камеры
+Inwersja kamery
+Inversão da Câmera
+카메라 반전
+視角反轉
+视角反转
+カメラの操作方向を切替できます
+Adjust camera inversion settings.
+Ajuster les paramètres d'inversion de la caméra.
+Regola i comandi invertiti per la visuale.
+Die Einstellungen zum Invertieren der Kamera anpassen.
+Ajusta las opciones de inversión de cámara.
+Измените настройки инверсии камеры.
+Dostosuj ustawienia inwersji kamery.
+Ajustar a configuração de inversão da câmera.
+카메라 반전 설정을 조정합니다.
+調整視角反轉設定。
+调整视角反转设置。
+カメラ操作速度
+Camera Speed
+Vitesse de la caméra
+Velocità
+Kamerageschwindigkeit
+Velocidad de la cámara
+Скорость камеры
+Szybkość kamery
+Velocidade da Câmera
+카메라 속도
+視角移動速度
+视角移动速度
+カメラの速度を調整できます
+Adjust the speed of the camera's movement.
+Ajuster la vitesse de mouvement de la caméra.
+Regola la velocità della visuale.
+Die Geschwindigkeit der Kamera anpassen.
+Ajusta la velocidad de la cámara.
+Измените скорость движения камеры.
+Dostosuj szybkość przesuwania kamery.
+Ajustar a velocidade de movimento da câmera.
+카메라 이동 속도를 조정합니다.
+調整視角的移動速度。
+调整视角的移动速度。
+通常時
+Normal Gameplay
+Vue normale
+Visuale di gioco
+Normal
+Normal
+Обычный игровой процесс
+Normalna rozgrywka
+Normal
+일반 게임플레이
+正常遊玩時
+正常游玩时
+構え時
+When Aiming
+En visant
+Mira
+Beim Zielen
+Al apuntar
+При прицеливании
+Podczas celowania
+Mirando
+조준 시
+瞄準時
+瞄准时
+通常時のカメラ操作方向を切替できます
+Adjust camera X- and Y-axis inversion settings during normal gameplay.
+Inverser ou non les axes X et Y en mode normal.
+Imposta l'inversione degli assi X e Y per la visuale di gioco.
+Die X- und Y-Achse der Kamera im regulären Spiel invertieren.
+Ajusta los ejes X e Y de la cámara invertida durante la partida.
+Измените настройки инверсии камеры по осям X и Y во время игры.
+Dostosuj ustawienia inwersji osi X i Y kamery podczas normalnej rozgrywki.
+Ajustar os eixos X e Y da câmera durante os momentos normais.
+일반 게임 플레이 시 카메라 조작 방향을 조정합니다.
+調整正常遊玩時視角的 X 軸與 Y 軸反轉設定。
+调整正常游玩时视角的 X 轴与 Y 轴反转设置。
+構え時のカメラ操作方向を切替できます
+Adjust camera X- and Y-axis inversion settings when aiming.
+Inverser ou non les axes X et Y en mode visée.
+Imposta l'inversione degli assi X e Y durante la mira.
+Die X- und Y-Achse der Kamera beim Zielen invertieren.
+Ajusta los ejes X e Y de la cámara invertida al apuntar.
+Измените настройки инверсии камеры по осям X и Y при прицеливании.
+Dostosuj inwersję osi X i Y kamery podczas celowania.
+Ajustar os eixos X e Y da câmera ao mirar.
+조준 시 카메라 조작 방향을 조정합니다.
+調整瞄準時視角的 X 軸與 Y 軸反轉設定。
+调整瞄准时视角的 X 轴与 Y 轴反转设置。
+通常時のカメラ速度を調整できます
+Adjust camera speed during normal gameplay.
+Ajuster la vitesse de la caméra en mode normal.
+Regola la velocità della visuale di gioco.
+Die Kamerageschwindigkeit im regulären Spiel anpassen.
+Ajusta la velocidad de la cámara durante la partida.
+Измените скорость движения камеры во время игры.
+Dostosuj szybkość kamery podczas normalnej rozgrywki.
+Ajustar a velocidade da câmera durante os momentos normais.
+일반 게임 플레이 시 카메라 속도를 조정합니다.
+調整正常遊玩時的視角移動速度。
+调整正常游玩时的视角移动速度。
+構え時のカメラ速度を調整できます
+Adjust camera speed when aiming.
+Ajuster la vitesse de la caméra en mode visée.
+Regola la velocità della visuale durante la mira.
+Die Kamerageschwindigkeit beim Zielen anpassen.
+Ajusta la velocidad de la cámara al apuntar.
+Измените скорость движения камеры при прицеливании.
+Dostosuj szybkość kamery podczas celowania.
+Ajustar a velocidade da câmera ao mirar.
+조준 시 카메라 속도를 조정합니다.
+調整瞄準時的視角移動速度。
+调整瞄准时的视角移动速度。
+通常
+Normal Gameplay
+Vue normale
+Visuale di gioco
+Normal
+Normal
+Обычный игровой процесс
+Normalna rozgrywka
+Normal
+일반 게임플레이
+正常遊玩時
+正常游玩时
+上下反転
+Invert Y-axis
+Axe Y inversé
+Inverti asse Y
+Y-Achse invertieren
+Invertir eje Y
+Инверт. ось X
+Odwróć oś Y
+Inverter eixo Y
+상하 반전
+反轉 Y 軸
+反转 Y 轴
+左右反転
+Invert X-axis
+Axe X inversé
+Inverti asse X
+X-Achse invertieren
+Invertir eje X
+Инверт. ось Y
+Odwróć oś X
+Inverter eixo X
+좌우 반전
+反轉 X 軸
+反转 X 轴
+上下左右反転
+Invert X- and Y-axis
+Axes X et Y inversés
+Inverti assi X e Y
+X- und Y-Achse invertieren
+Invertir ejes X e Y
+Инверт. оси X и Y
+Odwróć osie X i Y
+Inverter eixos X e Y
+상하좌우 반전
+反轉 X 與 Y 軸
+反转 X 轴与 Y 轴
+カメラ振動
+Camera Wobble
+Tremblements de caméra
+Oscillazione
+Kamera-Schwanken
+Temblor de la cámara
+Дрожание камеры
+Drgania kamery
+Oscilação da Câmera
+카메라 흔들림
+視角搖晃
+视角摇晃
+カメラ揺れのオン・オフを切替できます
+Set camera wobble during character movement on or off.
+Activer ou désactiver les tremblements de caméra.
+Attiva o disattiva l'oscillazione della visuale durante il movimento.
+Das Kamera-Schwanken bei Bewegung des Charakters ein- und ausschalten.
+Activa o desactiva el temblor de la cámara al mover el personaje.
+Вкл./выкл. дрожание камеры при движении персонажа.
+Włącz lub wyłącz drgania kamery podczas poruszania się.
+Ativar ou desativar a oscilação da câmera quando em movimento.
+캐릭터 이동 시 카메라 흔들림을 켜거나 끕니다.
+設定角色移動時視角是否搖晃。
+设置角色移动时视角是否会摇晃。
+視野角
+Field of View
+Champ de vision (FOV)
+Campo visivo
+Sichtfeld
+Ángulo de visión
+Поле зрения
+Pole widzenia
+Campo de Visão
+시야
+視野
+视野
+カメラに映る視野の広さを切替できます
+Adjust the field of view.
+Ajuster l'amplitude du champ de vision.
+Regola l'ampiezza del campo visivo.
+Das Sichtfeld (Field of View) anpassen.
+Ajusta la amplitud del campo de visión.
+Измените поле зрения.
+Dostosuj pole widzenia.
+Ajustar o campo de visão.
+시야를 조정합니다.
+調整視野範圍。
+调整视野。
+HDRモード
+HDR Mode
+Mode HDR
+Modalità HDR
+HDR-Modus
+Modo HDR
+Режим HDR
+Tryb HDR
+Modo HDR
+HDR 모드
+HDR 模式
+HDR 模式
+HDR出力状態のオン・オフを切替できます
+Turn HDR on or off.
+Activer ou désactiver le mode HDR.
+Attiva o disattiva l'HDR.
+HDR ein- und ausschalten.
+Activa o desactiva el modo HDR.
+Вкл./выкл. HDR.
+Włącz lub wyłącz tryb HDR.
+Ativar ou desativar HDR.
+HDR을 켜거나 끕니다.
+開啟或關閉 HDR。
+开启或关闭 HDR。
+最高輝度調整
+Max Brightness
+Luminosité maximale
+Luminosità massima
+Maximale Helligkeit
+Brillo máximo
+Макс. яркость
+Maks. jasność
+Brilho Máximo
+최고 밝기
+最高亮度
+最高亮度
+明るい部分の輝度を調整できます
+Adjust luminescence of bright areas.
+Régler la luminescence des zones claires.
+Regola la luminanza per le aree chiare.
+Die Lumineszenz von hellen Bereichen anpassen.
+Ajusta la luz de áreas brillantes.
+Измените освещенность светлых мест.
+Dostosuj oświetlenie jasnych obszarów.
+Ajustar a luminosidade de áreas claras.
+밝은 영역을 조정합니다.
+調整明亮區域的亮度。
+调整明亮区域的亮度。
+最低輝度調整
+Min Brightness
+Luminosité minimale
+Luminosità minima
+Minimale Helligkeit
+Brillo mínimo
+Мин. яркость
+Min. jasność
+Brilho Mínimo
+최저 밝기
+最低亮度
+最低亮度
+暗い部分の輝度を調整できます
+Adjust luminescence of dark areas.
+Régler la luminescence des zones sombres.
+Regola la luminanza delle aree scure.
+Die Lumineszenz von dunklen Bereichen anpassen.
+Ajusta la luz de áreas oscuras.
+Измените освещенность темных мест.
+Dostosuj oświetlenie ciemnych obszarów.
+Ajustar a luminosidade de áreas escuras.
+어두운 영역을 조정합니다.
+調整陰暗區域的亮度。
+调整阴暗区域的亮度。
+最高/最低輝度調整
+Max/Min Brightness
+Luminosité max/min
+Luminosità min./max.
+Maximale/Minimale Helligkeit
+Brillo máx./min.
+Макс./мин. яркость
+Maks./min. jasność
+Brilho Máximo/Mínimo
+최고/최저 밝기
+最高/最低亮度
+最高/最低亮度
+明部/暗部の輝度を調整できます
+Adjust the luminescence of bright and dark areas.
+Régler la luminescence des zones claires et sombres.
+Regola la luminosità per le aree chiare e scure.
+Die Lumineszenz von hellen und dunklen Bereichen anpassen.
+Ajusta la luz de áreas brillantes y oscuras.
+Измените освещенность темных и светлых мест.
+Dostosuj oświetlenie jasnych i ciemnych obszarów.
+Ajustar a luminosidade de áreas claras e escuras.
+밝은 영역과 어두운 영역을 조정합니다.
+調整明亮區域與陰暗區域的亮度。
+调整明亮区域与阴暗区域的亮度。
+明るさ調整
+Brightness
+Luminosité
+Luminosità
+Helligkeit
+Brillo
+Яркость
+Jasność
+Brilho
+밝기
+亮度
+亮度
+画面の明るさを調整できます
+Adjust screen brightness.
+Régler la luminosité de l'écran.
+Regola la luminosità dello schermo.
+Die Bildschirmhelligkeit anpassen.
+Ajusta el brillo de la pantalla.
+Измените яркость экрана.
+Dostosuj jasność obrazu.
+Ajustar o brilho da tela.
+화면 밝기를 조정합니다.
+調整畫面的亮度。
+调整屏幕亮度。
+最高輝度調整（HDR）
+Max Brightness (HDR)
+Luminosité maximale (HDR)
+Luminosità massima (HDR)
+Maximale Helligkeit (HDR)
+Brillo máximo (HDR)
+Макс. яркость (HDR)
+Maks. jasność (HDR)
+Brilho Máximo (HDR)
+최고 밝기(HDR)
+最高亮度（HDR）
+最高亮度（HDR）
+HDR出力時の明るい部分の輝度を調整できます
+Adjust the level of detail in bright areas when outputting in HDR.
+Régler le niveau de détail dans les zones claires en mode HDR.
+Regola la luminanza per le aree chiare in modalità HDR.
+Die Detaildarstellung in hellen Bereichen bei der HDR-Ausgabe anpassen.
+Ajusta el nivel de detalle de áreas brillantes en HDR.
+Измените уровень детализации светлых мест в режиме HDR.
+Dostosuj poziom szczegółowości jasnych obszarów w trybie HDR.
+Ajustar o nível de detalhe em áreas claras ao usar HDR.
+HDR 출력 시 밝은 영역의 세밀도를 조정합니다.
+調整以 HDR 模式輸出時，明亮區域的顯示精細程度。
+调整以 HDR 模式输出时明亮区域的显示精细程度。
+明るさ調整（HDR）
+Brightness (HDR)
+Luminosité (HDR)
+Luminosità (HDR)
+Helligkeit (HDR)
+Brillo (HDR)
+Яркость (HDR)
+Jasność (HDR)
+Brilho (HDR)
+밝기(HDR)
+亮度（HDR）
+亮度（HDR）
+HDR出力時の画面の明るさを調整できます
+Adjust brightness of the screen when outputting in HDR.
+Régler la luminosité de l'écran en mode HDR.
+Regola la luminosità dello schermo quando in modalità HDR.
+Die Bildschirmhelligkeit bei der Ausgabe in HDR anpassen.
+Ajusta el brillo de la pantalla al utilizar HDR.
+Измените яркость экрана в режиме HDR.
+Dostosuj jasność obrazu w trybie HDR.
+Ajustar o brilho da tela ao usar HDR.
+HDR 출력 시 화면 밝기를 조정합니다.
+調整以 HDR 模式輸出畫面時的畫面亮度。
+调整以 HDR 模式输出时的屏幕亮度。
+品質優先設定
+Priority Mode
+Priorité
+Priorità
+Prioritätsmodus
+Modo prioritario
+Режим приоритета
+Tryb priorytetowy
+Modo Prioritário
+우선 모드
+優先模式
+优先模式
+品質を優先させる処理を切替できます
+Select a feature to prioritize
+Sélectionner l'aspect à privilégier.
+Seleziona la priorità da assegnare.
+Auswählen, welcher Aspekt priorisiert werden soll.
+Selecciona aquello a lo que quieres dar prioridad.
+Выберите, чему отдавать приоритет во время игры.
+Wybierz priorytetową funkcję
+Selecionar uma configuração a ser priorizada.
+우선할 기능을 선택합니다.
+請選擇要優先處理的功能
+选择要优先处理的功能
+画質優先
+Prioritize Graphics
+Graphismes
+Priorità alla grafica
+Grafik priorisieren
+Dar prioridad a los gráficos
+Приоритет качества графики
+Priorytet grafiki
+Priorizar Gráficos
+그래픽 우선
+畫面優先
+图形优先
+処理速度優先
+Prioritize Processing Speed
+Performances
+Priorità alle prestazioni
+Geschwindigkeit priorisieren
+Dar prioridad al rendimiento
+Приоритет быстродействия
+Priorytet szybkości przetwarzania
+Priorizar Velocidade de Processamento
+처리 속도 우선
+處理速度優先
+处理速度优先
+表示領域調整
+Display Area
+Zone d'affichage
+Area visibile
+Anzeigebereich
+Área de pantalla
+Зона видимости
+Obszar wyświetlania
+Área de Exibição
+디스플레이 영역
+顯示區域
+显示区域
+画面の表示領域を調整できます
+Adjust the size of your screen's display area.
+Régler la taille de la zone d'affichage.
+Regola le dimensioni dell'area visualizzata.
+Die Größe des Anzeigebereichs anpassen.
+Ajusta el tamaño de la pantalla.
+Измените размер области отображения на экране.
+Dostosuj rozmiar obszaru wyświetlania.
+Ajustar o tamanho da área de exibição na tela.
+화면에 표시되는 영역의 크기를 조정합니다.
+調整螢幕顯示區域的大小。
+调整屏幕显示区域的大小。
+照準の色
+Reticle Settings
+Couleur
+Colore mirino
+Zielvorrichtung-Farbe
+Ajustes de retícula
+Настройки перекрестия
+Ustawienia celownika
+Configurações do Retículo
+조준선 설정
+十字線設定
+瞄准线设置
+照準の色を切替できます
+Choose your reticle color.
+Sélectionner la couleur du réticule.
+Scegli il colore del reticolo.
+Die Farbe des Fadenkreuzes auswählen.
+Cambia el color de la retícula.
+Измените цвет перекрестия.
+Wybierz kolor celownika.
+Escolha a cor do retículo.
+조준선 색상을 선택합니다.
+選擇十字線的顏色。
+请选择您的瞄准线颜色。
+照準
+Reticle Color
+Réticule
+Reticolo
+Fadenkreuz
+Color de retícula
+Цвет перекрестия
+Kolor celownika
+Cor do Retículo
+조준선 색상
+十字線顏色
+瞄准线颜色
+照準の色を切替できます
+Change the color of the reticle.
+Changer la couleur du réticule.
+Cambia il colore del reticolo.
+Die Farbe des Fadenkreuzes anpassen.
+Cambia el color de la retícula.
+Измените цвет перекрестия.
+Zmień kolor celownika
+Mudar a cor do retículo.
+조준선 색상을 변경합니다.
+變更十字線的顏色。
+变更瞄准线的颜色。
+レーザーポインター
+Dot Sight
+Viseur laser
+Puntatore laser
+Laser
+Color de mira
+Точка прицела
+Kropka celownika
+Mira Laser
+조준점
+紅點瞄準器
+红点瞄准器
+レーザーポインターの色を切替できます
+Change the color of the laser dot sight.
+Changer la couleur du viseur laser.
+Cambia il colore del puntatore laser.
+Die Farbe des Ziellasers ändern.
+Cambia el color del láser de la mira.
+Измените цвет точки лазерного прицела.
+Zmień kolor kropki celownika.
+Mudar a cor do ponto da mira laser.
+레이저 조준점 색상을 변경합니다.
+變更雷射紅點瞄準器的顏色。
+变更激光红点瞄准器的颜色。
+赤
+Red
+Rouge
+Rosso
+Rot
+Roja
+Красный
+Czerwony
+Vermelho
+빨간색
+紅
+红
+白
+White
+Blanc
+Bianco
+Weiß
+Blanca
+Белый
+Biały
+Branco
+흰색
+白
+白
+青
+Blue
+Bleu
+Blu
+Blau
+Azul
+Синий
+Niebieski
+Azul
+파란색
+藍
+蓝
+緑
+Green
+Vert
+Verde
+Grün
+Verde
+Зеленый
+Zielony
+Verde
+녹색
+綠
+绿
+チュートリアル表示
+Tutorials
+Tutoriels
+Tutorial
+Tutorials
+Tutoriales
+Обучение
+Samouczki
+Tutoriais
+튜토리얼
+教學
+教程
+チュートリアル表示のオン・オフを切替できます
+Turn tutorial text on or off.
+Activer ou désactiver les messages de tutoriel.
+Attiva o disattiva i testi dei tutorial.
+Die Tutorialanzeige ein- und ausschalten.
+Activa o desactiva los tutoriales.
+Вкл./выкл. обучающий текст.
+Włącz lub wyłącz tekst samouczków.
+Ativar ou desativar texto de tutorial.
+튜토리얼 텍스트를 켜거나 끕니다.
+開啟或關閉教學文字。
+开启或关闭教程文字。
+画面表示
+HUD
+HUD
+HUD
+HUD
+Interfaz
+Интерфейс
+Informacje wyświetlane na ekranie
+Interface
+HUD
+HUD
+HUD
+ゲーム中の画面表示物のオン・オフを切替できます
+Set in-game HUD (heads-up display) elements on or off.
+Activer ou désactiver les éléments du HUD.
+Visualizza o meno gli elementi sulla schermata di gioco.
+Die Anzeige des HUD im Spiel ein- oder ausschalten.
+Activa o desactiva elementos de la interfaz (HUD).
+Вкл./выкл. отображение элементов игрового интерфейса.
+Włącz lub wyłącz elementy wyświetlane na ekranie gry.
+Ativar ou desativar elementos da interface visual.
+게임 내 HUD(헤즈업 디스플레이) 요소를 켜거나 끕니다.
+開啟或關閉遊戲中的 HUD（抬頭顯示）元素。
+开启或关闭游戏中的 HUD（平视显示）元素。
+色の変更
+Color Change
+Changement de couleur
+Cambia colore
+Farbwechsel
+Cambio de color
+Смена цвета
+Zmiana koloru
+Mudança de Cor
+색상 변경
+變更顏色
+色彩变更
+画面に表示される色を切替できます
+Change the color displayed onscreen.
+Changer la couleur affichée à l'écran.
+Cambia il colore visualizzato a schermo.
+Die angezeigte Farbe ändern.
+Cambia el color que se muestra en pantalla.
+Измените цвета на экране.
+Zmień kolor wyświetlany na ekranie.
+Mudar a cor exibida na tela.
+화면에 표시되는 색상을 변경합니다.
+變更畫面上顯示的顏色。
+变更屏幕上显示的色彩。
+BGMボリューム
+BGM Volume
+Volume de la musique
+Volume musica
+Musiklautstärke
+Música
+Фоновая громкость
+Głośność muzyki w tle
+Volume da Música
+BGM 음량
+背景音樂音量
+背景音乐音量
+ボイスボリューム
+Voice Volume
+Volume des voix
+Volume voci
+Stimmenlautstärke
+Voces
+Громкость озвучки
+Głośność nagrań głosowych
+Volume das Vozes
+음성 음량
+語音音量
+语音音量
+SEボリューム
+Sound Effects Volume
+Volume des effets
+Volume effetti sonori
+Effektlautstärke
+Efectos
+Громкость эффектов
+Głośność efektów dźwiękowych
+Volume dos Efeitos Sonoros
+음향 효과 음량
+音效音量
+音效音量
+ダイナミックレンジコントロール
+Dynamic Range
+Plage dynamique
+Gamma dinamica
+Dynamikbereich
+Rango dinámico
+Динамич. диапазон
+Zakres dynamiki
+Alcance Dinâmico
+다이내믹 레인지
+動態範圍
+动态范围
+スピーカータイプ
+Sound Output Device
+Sortie audio
+Uscita audio
+Ausgabegerät
+Salida de sonido
+Устройство звукового вывода
+Urządzenie wyjściowe audio
+Dispositivo de Som
+사운드 출력 장치
+音訊輸出裝置
+扬声器类型
+BGMの音量を調整できます
+Adjust the volume of music.
+Ajuster le volume de la musique.
+Regola il volume della musica.
+Die Lautstärke der Musik anpassen.
+Ajusta el volumen de la música.
+Измените громкость музыки.
+Dostosuj głośność muzyki.
+Ajustar o volume da música.
+음악 음량을 조정합니다.
+調整音樂的音量。
+调整音乐的音量。
+ボイスの音量を調整できます
+Adjust the volume of voices.
+Régler le volume des voix.
+Regola il volume delle voci.
+Die Lautstärke der Sprachausgabe anpassen.
+Ajusta el volumen de las voces.
+Измените громкость голосов персонажей.
+Dostosuj głośność nagrań głosowych.
+Ajustar o volume das vozes.
+음성 음량을 조정합니다.
+調整語音的音量。
+调整语音的音量。
+SEの音量を調整できます
+Adjust the volume of sound effects.
+Régler le volume des effets sonores.
+Regola il volume degli effetti sonori.
+Die Lautstärke der Soundeffekte anpassen.
+Ajusta el volumen de los efectos de sonido.
+Измените громкость звуковых эффектов.
+Zmień głośność efektów dźwiękowych.
+Ajustar o volume dos efeitos sonoros.
+음향 효과 음량을 조정합니다.
+調整音效的音量。
+调整音效的音量。
+視聴環境に合わせて音量の幅を切替できます
+Adjust volume range to match your surroundings.
+Régler l'amplitude du volume selon votre environnement d'écoute.
+Regola la gamma dinamica in base all'ambiente circostante.
+Den Dynamikumfang an die Hörumgebung anpassen.
+Ajusta el rango del volumen con respecto a tu entorno.
+Настройте диапазон громкости под ваше окружение.
+Dopasuj zakres dynamiki do pomieszczenia.
+Ajustar o alcance do volume para combinar com o seu ambiente.
+주변 환경에 맞게 음량 범위를 조정합니다.
+調整音量範圍，以配合您的視聽環境。
+调整音量范围，以配合您周围的环境。
+視聴環境に合わせて最適な音質に切替できます
+Select the type of sound output device you are currently using.
+Sélectionner le type de sortie audio actuellement utilisé.
+Imposta il dispositivo di uscita audio in uso.
+Das Audioausgabegerät wählen, das Sie derzeit benutzen.
+Selecciona el dispositivo de sonido que deseas usar.
+Выберите тип используемого устройства звукового вывода.
+Wybierz typ urządzenia wyjściowego audio, z którego aktualnie korzystasz.
+Escolha o tipo de dispositivo de som que você está usando.
+현재 사용 중인 사운드 출력 장치 유형을 선택합니다.
+選擇您正在使用的音訊輸出裝置類型。
+调整扬声器设置，以配合您的周围环境。
+Small
+Small
+Réduite
+Ristretta
+Klein
+Pequeño
+Малый
+Małe
+Pequena
+작게
+小
+小
+Large
+Large
+Étendue
+Ampia
+Groß
+Amplio
+Большой
+Duże
+Grande
+크게
+大
+大
+TV(ディスプレイ)
+TV (Display)
+TV (Moniteur)
+Schermo
+Fernseher (Monitor)
+TV (Pantalla)
+ТВ (экран)
+TV (wyświetlanie)
+TV (Exibição)
+TV(디스플레이)
+TV（顯示）
+TV（显示）
+サラウンド7.1ch（5.1）
+7.1 (5.1) Surround Sound
+7.1 (5.1) Son surround
+Surround sound 7.1 (5.1) S
+7.1 (5.1) Surround Sound
+7.1 (5.1) Surround Sound
+Объемный звук 7.1 (5.1)
+Dźwięk przestrzenny 7.1 (5.1)
+7.1 (5.1) Som Surround
+7.1(5.1) 서라운드 사운드
+7.1（5.1）環繞音效
+7.1（5.1）环绕立体声
+ヘッドホン
+Headphones
+Casque
+Cuffie
+Kopfhörer
+Auriculares
+Наушники
+Słuchawki
+Fones de Ouvido
+헤드폰
+耳機
+耳机
+Dolby Atmos
+Dolby Atmos
+Dolby Atmos
+Dolby Atmos
+Dolby Atmos
+Dolby Atmos
+Dolby Atmos
+Dolby Atmos
+Dolby Atmos
+돌비 애트모스
+杜比全景聲
+杜比全景声
+リアルタイムバイノーラル
+Real-time Binaural
+Binaural temps réel
+Audio binaurale in tempo reale
+Echtzeit-Binaural
+Binaural en tiempo real
+Бинауральный звук
+Dźwięk binauralny w czasie rzeczywistym
+Binaural em Tempo Real
+실시간 입체 음향
+即時立體聲
+实时立体声
+音源の方向を立体的に再現する機能のオン・オフを切替できます
+Toggle the function that reproduces 3D audio on or off.
+Activer ou désactiver la fonction reproduisant l'audio 3D.
+Attiva o disattiva la funzione che riproduce l'audio 3D.
+Die Funktion für 3D-Audio ein- und ausschalten.
+Activa o desactiva la función que reproduce el sonido en 3D.
+Вкл./выкл. функцию создания эффекта 3D-звука.
+Włącz lub wyłącz funkcję reprodukcji dźwięku 3D.
+Ative ou desative a função que reproduz áudio em 3D.
+3D 오디오를 재현하는 기능을 끄거나 켭니다.
+開啟或關閉呈現 3D 音效的功能。
+开启或关闭实时立体声的功能。
+コントローラーのスピーカー
+Controller Speaker
+Haut-parleur de la manette
+Altoparlante controller
+Controller-Lautsprecher
+Altavoz del mando
+Динамик контроллера
+Głośnik kontrolera
+Alto-falante do Controle
+컨트롤러 스피커
+控制器喇叭
+控制器喇叭
+コントローラーのスピーカーからの音声出力のオン・オフを切替できます
+Turn controller speaker sound on or off.
+Activer ou désactiver le haut-parleur de la manette.
+Attiva o disattiva l'altoparlante del controller.
+Die Soundausgabe über den Lautsprecher vom Controller ein- und ausschalten.
+Activa o desactiva el altavoz del mando.
+Вкл./выкл. звук динамика контроллера.
+Włącz lub wyłącz głośnik kontrolera.
+Ativar ou desativar o alto-falante do controle.
+컨트롤러 스피커를 켜거나 끕니다.
+開啟或關閉控制器喇叭的聲音。
+开启或关闭控制器喇叭的声音。
+音声言語
+Voice Language
+Voix
+Lingua delle voci
+Sprachausgabe
+Idioma de voces
+Язык озвучки
+Język nagrań głosowych
+Idioma das Vozes
+음성 언어
+語音語言
+语音语言
+表示言語
+Display Language
+Textes
+Lingua dell'interfaccia
+Anzeigesprache
+Idioma del juego
+Язык игры
+Język elementów wyświetlanych
+Idioma do Texto
+표시 언어
+顯示語言
+显示语言
+音声言語を切替できます
+Set the voice playback language.
+Sélectionner la langue des voix.
+Scegli la lingua del doppiaggio.
+Die Sprache der Sprachausgabe ändern.
+Elige el idioma del doblaje.
+Выберите язык озвучки игры.
+Ustaw język nagrań głosowych.
+Definir o idioma dos diálogos falados.
+음성 재생 언어를 설정합니다.
+設定語音播放的語言。
+设置语音回放的语言。
+表示言語を切替できます
+Set the game display language.
+Sélectionner la langue des textes affichés à l'écran.
+Scegli la lingua del testo a schermo.
+Die Sprache der Textanzeige ändern.
+Elige el idioma del juego.
+Выберите язык игры.
+Określ język elementów wyświetlanych.
+Definir idioma do texto do jogo.
+게임에 표시되는 언어를 설정합니다.
+設定遊戲的顯示語言。
+设置游戏的显示语言。
+字幕表示
+Subtitles
+Sous-titres
+Sottotitoli
+Untertitel
+Subtítulos
+Субтитры
+Napisy
+Legendas
+자막
+字幕
+字幕
+字幕表示のオン・オフを切替できます
+Turn subtitles on or off.
+Activer ou désactiver les sous-titres.
+Attiva o disattiva i sottotitoli.
+Untertitel ein- und ausschalten.
+Activa o desactiva los subtítulos.
+Вкл./выкл. субтитры.
+Włącz lub wyłącz napisy.
+Ativar ou desativar as legendas.
+자막을 켜거나 끕니다.
+開啟或關閉字幕。
+开启或关闭字幕。
+最高輝度調整
+Max Brightness
+Luminosité maximale
+Luminosità massima
+Maximale Helligkeit
+Brillo máximo
+Макс. яркость
+Maks. jasność
+Brilho Máximo
+최고 밝기
+最高亮度
+最高亮度
+最低輝度調整
+Min Brightness
+Luminosité minimale
+Luminosità minima
+Minimale Helligkeit
+Brillo mínimo
+Мин. яркость
+Min. jasność
+Brilho Mínimo
+최저 밝기
+最低亮度
+最低亮度
+明るさ調整
+Brightness
+Luminosité
+Luminosità
+Helligkeit
+Brillo
+Яркость
+Jasność
+Brilho
+밝기
+亮度
+亮度
+最高輝度調整（HDR）
+Max Brightness (HDR)
+Luminosité maximale (HDR)
+Luminosità massima (HDR)
+Maximale Helligkeit (HDR)
+Brillo máximo (HDR)
+Макс. яркость (HDR)
+Maks. jasność (HDR)
+Brilho Máximo (HDR)
+최대 밝기(HDR)
+最高亮度（HDR）
+最高亮度（HDR）
+明るさ調整（HDR）
+Brightness (HDR)
+Luminosité (HDR)
+Luminosità (HDR)
+Helligkeit (HDR)
+Brillo (HDR)
+Яркость (HDR)
+Jasność (HDR)
+Brilho (HDR)
+밝기(HDR)
+亮度（HDR）
+亮度（HDR）
+模様が最も薄く表示される明るさに調整してください
+Adjust value until the pattern is just barely visible.*
+Déplacez le curseur jusqu'à ce que l'image soit à peine visible.*
+Regola la luminosità affinché il motivo sia appena visibile.
+Passen Sie den Wert an, bis das Muster gerade so sichtbar ist.*
+Ajusta el valor hasta que el patrón sea difícil de ver.*
+Изменяйте значение, пока узор не станет практически неразличим*.
+Dostosuj wartość tak, aby wzór był ledwo widoczny*.
+Ajuste até o padrão estar quase invisível.*
+패턴이 겨우 보일 정도까지 값을 조정합니다.*
+調整此設定，直到圖案隱約可見。*
+请调整此设置，直到图形隐约可见为止。*
+左の絵が見えなくなる明るさに調整してください</n>※左の絵が常に見えない場合は、「最高/最低輝度調整」を再設定してください
+Adjust value until the picture on the left disappears.</n>*Please check your "Max/Min Brightness" settings</n>if the picture on the left won't disappear.
+Déplacez le curseur jusqu'à ce que ce l'image de gauche disparaisse.</n>*Si l'image ne disparaît pas, vérifiez les réglages de luminosité max/min.
+Regola la luminosità affinché l'immagine sulla sinistra sia appena visibile.</n>(Se ciò non avviene, controlla le impostazioni della luminosità min./max.)
+Passen Sie den Wert an, bis das Bild auf der linken Seite verschwindet.</n>*Überprüfen Sie die Einstellungen unter "Maximale/Minimale Helligkeit",</n> falls das Bild auf der linken Seite nicht verschwindet.
+Ajusta el valor hasta que la imagen de la izquierda desaparezca.</n>Por favor, comprueba tus opciones de "Brillo alto/bajo" si la</n>imagen no desaparece.
+Изменяйте значение, пока изображение слева не исчезнет.</n>* Измените настройки яркости, если</n>изображение остается видимым.
+Dostosuj wartość tak, aby obrazek z lewej strony był niewidoczny.</n>* Jeśli nadal go widzisz, sprawdź ustawienia jasności</n>„Wysoka/niska jasność”.
+Ajuste até a figura à esquerda desaparecer.</n>*Verifique a configuração de Brilho Máximo/Mínimo</n>se a imagem na esquerda não desaparecer.
+왼쪽 사진이 사라질 때까지 값을 조정합니다.</n>*왼쪽 사진이 사라지지 않으면</n>"최고/최저 밝기" 설정을 확인하십시오.
+調整此設定，直到左側的圖片消失為止。</n>*如果左側的圖片並未消失，</n>請檢查您的「最高/最低亮度」設定。
+请调整此设置，直到左方的图片消失为止。</n>*如果左方图片没有消失，</n>请检查您的“最高/最低亮度”设置。
+青色と赤色の範囲が同じ大きさになる明るさに調整してください
+Adjust value until both blue and red areas are the same size.
+Faites en sorte que les zones bleues et rouges soient de la même taille.
+Regola i valori così che le aree rosse e blu abbiano la stessa grandezza.
+Passen Sie den Wert an, bis die blauen und roten Bereiche gleich groß sind.
+Ajusta el valor hasta que las áreas roja y azul sean del mismo tamaño.
+Изменяйте значение, пока синяя и красная области не сравняются.
+Dostosuj wartość tak, aby obszar niebieski i czerwony miały ten sam rozmiar.
+Ajuste até que as áreas azuis e vermelhas estejam do mesmo tamanho.
+파란색 부분과 빨간색 부분의 크기가 같아질 때까지 값을 조정합니다.
+調整此設定，直到藍色與紅色區域大小一致為止。
+请调整此设置，直到蓝色区域与红色区域大小一致为止。
+画面を正面から見て設定してください
+*Adjust while facing the screen head-on.
+*Veuillez effectuer ces réglages en étant bien en face de l'écran.
+Assicurati di avere lo schermo in posizione frontale.
+*Blicken Sie direkt von vorn auf den Bildschirm, wenn Sie die Werte anpassen.
+*Por favor, realiza el ajuste mientras estás en frente de la pantalla.
+* Изменяйте, глядя прямо на экран.
+* Podczas tego procesu musisz znajdować się bezpośrednio przed ekranem.
+*Ajuste a opção olhando diretamente para a tela.
+*화면을 정면으로 보고 조정합니다.
+*請正面面對螢幕進行調整。
+*请在正面注视屏幕的情况下进行此调整。
+暗く
+Darker
+Plus sombre
+Più scuro
+Dunkler
+Oscuro
+Темнее
+Ciemniej
+Escuro
+어둡게
+調暗
+调暗
+明るく
+Brighter
+Plus lumineux
+Più chiaro
+Heller
+Claro
+Ярче
+Jaśniej
+Claro
+밝게
+調亮
+调亮
+見える
+Clearly Visible
+Clairement visible
+Visibile
+Klar sichtbar
+Visible
+Хорошо видно
+Wyraźnie widoczny
+Bem Visível
+선명하게 보임
+清楚可見
+清晰可见
+見えない
+Not Visible
+Invisible
+Non visibile
+Nicht sichtbar
+Invisible
+Не видно
+Niewidoczny
+Invisível
+보이지 않음
+不可見
+不可见
+薄く見える
+Barely Visible
+À peine visible
+Appena visibile
+Kaum sichtbar
+Casi invisible
+Едва видно
+Ledwie widoczny
+Quase Invisível
+겨우 보임
+隱約可見
+隐约可见
+プレイデータ送信設定
+RE NET Play Data Settings
+Envoi des données de jeu
+Dati di gioco RE NET
+RE NET-Datenübertragung
+Opciones de datos de RE NET
+Передача данных в RE NET
+Ustawienia danych dotyczących rozgrywki usługi RE NET
+Configurações de Dados da RE NET
+RE NET 플레이 데이터 설정
+RE NET 遊戲資料設定
+RE NET 游戏数据设置
+RE NETへのプレイデータ送信のオン・オフを切替できます
+Start or stop sending play data to RE NET.
+Activer ou désactiver l'envoi des données de jeu à RE NET.
+Avvia o interrompi l'invio di dati a RE NET.
+Die Übertragung von Spieldaten an RE NET ein- und ausschalten.
+Activa o desactiva el envío de datos de juego a RE NET.
+Разрешите или запретите передачу игровых данных в RE NET.
+Włącz lub wyłącz synchronizację danych dotyczących rozgrywki z usługą RE NET.
+Começar ou parar de mandar dados à RE NET.
+RE NET에 대한 플레이 데이터 전송을 시작 또는 중단합니다.
+開始或停止將遊戲資料傳送至 RE NET。
+开始或停止将游戏数据传送至 RE NET。

@@ -1,0 +1,40 @@
+﻿<TIME 0, 5><FONT 1>薬液を散布します</FONT>
+<TIME 0, 5><FONT 1>Dispensing solution now.</FONT>
+<TIME 0, 5>Pulvérisation de solution en cours...
+<TIME 0, 5>Vaporizzazione in corso.
+<TIME 0, 5>Lösung wird zerstäubt.
+<TIME 0, 5>Tratamiento en proceso.
+<TIME 0, 5><FONT 1>Идет выдача раствора.</FONT>
+<TIME 0, 5><FONT 1>Trwa dozowanie roztworu.</FONT>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5><FONT 1>Dispensando solução.</FONT>
+<TIME 0, 5><FONT 1>용액 주입 중.</FONT>
+<TIME 0, 5><FONT 1>正在配發藥劑。</FONT>
+<TIME 0, 5><FONT 1>正在配发药剂。</FONT>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<TIME 0, 5>
+<FONT 1>薬液を散布します</FONT>
+<FONT 1>Dispensing solution now.</FONT>
+Pulvérisation de solution en cours...
+Vaporizzazione in corso.
+Lösung wird zerstäubt.
+Tratamiento en proceso.
+<FONT 1>Идет выдача раствора.</FONT>
+<FONT 1>Trwa dozowanie roztworu.</FONT>
+<FONT 1>Dispensando solução.</FONT>
+<FONT 1>용액 주입 중.</FONT>
+<FONT 1>正在配發藥劑。</FONT>
+<FONT 1>正在配发药剂。</FONT>

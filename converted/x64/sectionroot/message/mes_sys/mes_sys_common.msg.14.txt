@@ -1,0 +1,3500 @@
+﻿はい
+Yes
+Oui
+Sì
+Ja
+Sí
+Да
+Tak
+Sim
+예
+是
+是
+いいえ
+No
+Non
+No
+Nein
+No
+Нет
+Nie
+Não
+아니요
+否
+否
+START GAME
+START GAME
+COMMENCER
+AVVIA IL GIOCO
+SPIEL STARTEN
+INICIAR
+НАЧАТЬ ИГРУ
+ZACZNIJ GRĘ
+INICIAR JOGO
+게임 시작
+開始遊戲
+开始游戏
+EXIT
+Exit
+Quitter
+Esci
+Verlassen
+Salir
+Выйти
+Wyjdź
+Sair
+나가기
+離開
+退出
+OK
+OK
+OK
+Sì
+OK
+Aceptar
+ОК
+OK
+OK
+확인
+確定
+确定
+キャンセル
+Cancel
+Annuler
+Annulla
+Abbrechen
+Cancelar
+Отменить
+Anuluj
+Cancelar
+취소
+取消
+取消
+{0}%
+{0}%
+{0} %
+{0}%
+{0} %
+{0}%
+{0}%
+{0}%
+{0}%
+{0}%
+{0}%
+{0}%
+SAVE
+SAVE
+SAUVEGARDE
+SALVA
+SPEICHERN
+GUARDAR
+СОХРАНИТЬ
+ZAPISZ
+SALVAR
+저장
+儲存
+保存
+Load Game
+Load Game
+Charger une partie
+Carica
+Spiel laden
+Cargar partida
+Загрузить игру
+Załaduj grę
+Carregar Jogo
+게임 불러오기
+載入遊戲
+加载游戏
+STORY
+STORY
+CAMPAGNE
+STORIA
+KAMPAGNE
+HISTORIA
+ИСТОРИЯ
+ŻYCIORYS
+HISTÓRIA
+STORY
+STORY
+STORY
+GAME MODE
+GAME MODE
+MODE
+MODALITÀ
+SPIELMODUS
+MODO
+РЕЖИМ ИГРЫ
+TRYB GRY
+MODO
+GAME MODE
+GAME MODE
+GAME MODE
+SAVES
+SAVES
+SAUVEGARDES
+SALVATAGGI
+ZÄHLER
+GUARDADOS
+СОХРАНЕНИЯ
+ZAPISY
+SALVOS
+SAVES
+SAVES
+SAVES
+AREA
+AREA
+ZONE
+AREA
+ORT
+ÁREA
+ЗОНА
+OBSZAR
+ÁREA
+AREA
+AREA
+AREA
+LAST DATE
+LAST SAVED
+DERNIÈRE SAUVEGARDE
+ULTIMO SALVATAGGIO
+GESPEICHERT
+ÚLTIMO GUARDADO
+ПОСЛ. СОХР.
+OSTATNI ZAPIS
+SALVO EM
+LAST SAVED
+LAST SAVED
+LAST SAVED
+PLAYER
+PLAYER
+JOUEUR
+GIOCATORE
+SPIELER
+JUGADOR
+ИГРОК
+GRACZ
+JOGADOR
+PLAYER
+PLAYER
+PLAYER
+DATE
+DATE
+DATE
+DATA
+DATUM
+FECHA
+ДАТА
+DATA
+DATA
+날짜
+日期
+日期
+SLOT
+SLOT
+EMPLACEMENT
+SLOT
+PLATZ
+ESPACIO
+ЯЧЕЙКА
+STAN GRY
+ESPAÇO
+슬롯
+欄位
+槽位
+AUTO
+AUTO
+AUTO
+AUTO
+AUTO
+Auto
+АВТО
+AUTO
+AUTO
+자동
+自動
+自动
+作成日時
+DATE CREATED
+DATE DE CRÉATION
+DATA DI CREAZIONE
+ERSTELLUNGSDATUM
+FECHA DE CREACIÓN
+ДАТА СОЗДАНИЯ
+DATA UTWORZENIA
+DATA DE CRIAÇÃO
+생성 날짜
+建立日期
+建立日期
+Leon
+Leon
+Leon
+Leon
+Leon
+Leon
+Леон
+Leon
+Leon
+레온
+里昂
+里昂
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_LeonA_Reserve
+Leon (2nd)
+Leon [2nd]
+Leon (bis)
+Leon (2)
+Leon [2. Mal]
+Leon [2]
+Леон [2]
+Leon [2nd]
+Leon [2ª]
+레온 [두 번째]
+里昂[二周目]
+里昂[第2版本]
+Claire
+Claire
+Claire
+Claire
+Claire
+Claire
+Клэр
+Claire
+Claire
+클레어
+克蕾兒
+克莱尔
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClaireA_Reserve
+Claire (2nd)
+Claire [2nd]
+Claire (bis)
+Claire (2)
+Claire [2. Mal]
+Claire [2]
+Клэр [2]
+Claire [2nd]
+Claire [2ª]
+클레어 [두 번째]
+克蕾兒[二周目]
+克莱尔[第2版本]
+Ada
+Ada
+Ada
+Ada
+Ada
+Ada
+Ада
+Ada
+Ada
+에이다
+艾達
+艾达
+Sherry
+Sherry
+Sherry
+Sherry
+Sherry
+Sherry
+Шерри
+Sherry
+Sherry
+셰리
+雪莉
+雪莉
+ゲームモードの途中変更はできません
+The game mode cannot be changed mid-game.
+Vous ne pouvez pas changer de mode en cours de partie.
+La modalità di gioco non può essere cambiata durante la partita.
+Der Spielmodus kann während des Spiels nicht geändert werden.
+El modo de juego no puede cambiarse durante la partida.
+Сменить режим во время игры невозможно.
+Trybu gry nie można zmienić po jej rozpoczęciu.
+Não é possível trocar o modo depois de começar o jogo.
+게임 중에는 게임 모드를 변경할 수 없습니다.
+遊戲途中無法變更模式。
+游戏进行中无法变更游戏模式。
+ゲームモード選択
+Select a game mode.
+Choix du mode de jeu
+Scegli la modalità di gioco.
+Wählen Sie einen Spielmodus aus.
+Selecciona un modo de juego.
+Выберите режим игры.
+Wybierz tryb gry.
+Escolha um modo de jogo.
+게임 모드를 선택하세요.
+選擇遊戲模式。
+选择游戏模式。
+ASSISTED
+ASSISTED
+FACILE
+ASSISTITA
+Assistiert
+Asistido
+УПРОЩЕННЫЙ
+WSPOMAGANIE
+FACILITADO
+지원
+輔助
+辅助
+STANDARD
+STANDARD
+NORMAL
+STANDARD
+Standard
+Estándar
+СТАНДАРТНЫЙ
+STANDARDOWY
+PADRÃO
+일반
+標準
+标准
+HARDCORE
+HARDCORE
+HARDCORE
+ESTREMA
+Veteran
+Hardcore
+ХАРДКОР
+HARDCORE
+INTENSO
+하드코어
+硬派
+专家
+<ICON DECIDE> 決定
+<ICON DECIDE> Confirm
+<ICON DECIDE> Confirmer
+<ICON DECIDE> Conferma
+<ICON DECIDE> Bestätigen
+<ICON DECIDE> Aceptar
+<ICON DECIDE> Подтвердить
+<ICON DECIDE> Potwierdź
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Confirmar
+<ICON DECIDE> 확인
+<ICON DECIDE> 確定
+<ICON DECIDE> 确定
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 押す
+<ICON DECIDE> Push
+<ICON DECIDE> Appuyer
+<ICON DECIDE> Premi
+<ICON DECIDE> Drücken
+<ICON DECIDE> Pulsar
+<ICON DECIDE> Толкать
+<ICON DECIDE> Pchnij
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Apertar
+<ICON DECIDE> 밀기
+<ICON DECIDE> 按
+<ICON DECIDE> 按
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON CANCEL> 戻る
+<ICON CANCEL> Return
+<ICON CANCEL> Retour
+<ICON CANCEL> Indietro
+<ICON CANCEL> Zurück
+<ICON CANCEL> Volver
+<ICON CANCEL> Назад
+<ICON CANCEL> Wróć
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> Voltar
+<ICON CANCEL> 돌아가기
+<ICON CANCEL> 返回
+<ICON CANCEL> 返回
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 閉じる
+<ICON CANCEL> Close
+<ICON CANCEL> Fermer
+<ICON CANCEL> Chiudi
+<ICON CANCEL> Schließen
+<ICON CANCEL> Cerrar
+<ICON CANCEL> Закрыть
+<ICON CANCEL> Zamknij
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> Fechar
+<ICON CANCEL> 닫기
+<ICON CANCEL> 關閉
+<ICON CANCEL> 关闭
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> キャンセル
+<ICON CANCEL> Cancel
+<ICON CANCEL> Annuler
+<ICON CANCEL> Annulla
+<ICON CANCEL> Abbrechen
+<ICON CANCEL> Cancelar
+<ICON CANCEL> Отменить
+<ICON CANCEL> Anuluj
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> Cancelar
+<ICON CANCEL> 취소
+<ICON CANCEL> 取消
+<ICON CANCEL> 取消
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_LEFT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON TAB_RIGHT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_LEFT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON AREA_RIGHT>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON HOLD_SUB>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON DECIDE_F>
+<ICON ROTATION> 回転
+<ICON ROTATION> Rotate
+<ICON ROTATION> Faire tourner
+<ICON ROTATION> Ruota
+<ICON ROTATION> Drehen
+<ICON ROTATION> Rotar
+<ICON ROTATION> Вращать
+<ICON ROTATION> Obróć
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> Girar
+<ICON ROTATION> 회전
+<ICON ROTATION> 旋轉
+<ICON ROTATION> 旋转
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON ROTATION> 
+<ICON SCALE> 拡大/縮小
+<ICON SCALE> Zoom In/Out
+<ICON SCALE> Zoom +/-
+<ICON SCALE> Zoom +/-
+<ICON SCALE> Zoom +/-
+<ICON SCALE> Acercar/alejar
+<ICON SCALE> Приблизить/отдалить
+<ICON SCALE> Przybliż/oddal
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> Zoom
+<ICON SCALE> 확대/축소
+<ICON SCALE> 放大/縮小
+<ICON SCALE> 放大/缩小
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON SCALE> 
+<ICON CURSOR> 平行移動
+<ICON CURSOR> Move Position
+<ICON CURSOR> Déplacer
+<ICON CURSOR> Muovi
+<ICON CURSOR> Position bewegen
+<ICON CURSOR> Mover posición
+<ICON CURSOR> Переместить
+<ICON CURSOR> Zmień pozycję
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> Mover Posição
+<ICON CURSOR> 위치 이동
+<ICON CURSOR> 移動位置
+<ICON CURSOR> 移动位置
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON CURSOR> 
+<ICON MAPMOVE> 移動
+<ICON MAPMOVE> Move
+<ICON MAPMOVE> Bouger
+<ICON MAPMOVE> Muovi
+<ICON MAPMOVE> Bewegen
+<ICON MAPMOVE> Mover
+<ICON MAPMOVE> Переместить
+<ICON MAPMOVE> Poruszanie się
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> Mover
+<ICON MAPMOVE> 이동
+<ICON MAPMOVE> 移動
+<ICON MAPMOVE> 移动
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON MAPMOVE> 
+<ICON CURSOR_LS> 移動
+<ICON CURSOR_LS> Move
+<ICON CURSOR_LS> Bouger
+<ICON CURSOR_LS> Muovi
+<ICON CURSOR_LS> Bewegen
+<ICON CURSOR_LS> Mover
+<ICON CURSOR_LS> Переместить
+<ICON CURSOR_LS> Poruszanie się
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> Mover
+<ICON CURSOR_LS> 이동
+<ICON CURSOR_LS> 移動
+<ICON CURSOR_LS> 移动
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LR> 移動
+<ICON CURSOR_LR> Move
+<ICON CURSOR_LR> Bouger
+<ICON CURSOR_LR> Muovi
+<ICON CURSOR_LR> Bewegen
+<ICON CURSOR_LR> Mover
+<ICON CURSOR_LR> Переместить
+<ICON CURSOR_LR> Poruszanie się
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> Mover
+<ICON CURSOR_LR> 이동
+<ICON CURSOR_LR> 移動
+<ICON CURSOR_LR> 移动
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON FLOOR> フロア切り替え
+<ICON FLOOR> Change Floor
+<ICON FLOOR> Changer de niveau
+<ICON FLOOR> Cambia piano
+<ICON FLOOR> Ebene wechseln
+<ICON FLOOR> Cambiar planta
+<ICON FLOOR> Сменить этаж
+<ICON FLOOR> Zmień piętro
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> Mudar Andar
+<ICON FLOOR> 층 변경
+<ICON FLOOR> 變更樓層
+<ICON FLOOR> 变更楼层
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON FLOOR> 
+<ICON DECIDE> 再生
+<ICON DECIDE> Play
+<ICON DECIDE> Animation
+<ICON DECIDE> Animazione
+<ICON DECIDE> Abspielen
+<ICON DECIDE> Animación
+<ICON DECIDE> Играть
+<ICON DECIDE> Odtwórz
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Reproduzir
+<ICON DECIDE> 플레이
+<ICON DECIDE> 播放
+<ICON DECIDE> 播放
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomIn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideZoomOut
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideCharChange
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_BGuideDefRturn
+<ICON DISPLAY> 操作説明を表示
+<ICON DISPLAY> Show Controls
+<ICON DISPLAY> Afficher les commandes
+<ICON DISPLAY> Mostra comandi
+<ICON DISPLAY> Steuerung anzeigen
+<ICON DISPLAY> Mostrar controles
+<ICON DISPLAY> Показать управление
+<ICON DISPLAY> Pokaż sterow.
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> Exibir Contr.
+<ICON DISPLAY> 컨트롤 보기
+<ICON DISPLAY> 顯示控制
+<ICON DISPLAY> 显示控制说明
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 操作説明を非表示
+<ICON DISPLAY> Hide Controls
+<ICON DISPLAY> Cacher l'interface
+<ICON DISPLAY> Nascondi interfaccia
+<ICON DISPLAY> Steuerung ausblenden
+<ICON DISPLAY> Ocultar controles
+<ICON DISPLAY> Скрыть управление
+<ICON DISPLAY> Ukryj sterow.
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> Ocultar Ctrls.
+<ICON DISPLAY> 컨트롤 숨기기
+<ICON DISPLAY> 隱藏控制
+<ICON DISPLAY> 隐藏控制说明
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DISPLAY> 
+<ICON DEFAULT> リセット
+<ICON DEFAULT> Reset
+<ICON DEFAULT> Par défaut
+<ICON DEFAULT> Predefinito
+<ICON DEFAULT> Zurücksetzen
+<ICON DEFAULT> Reiniciar
+<ICON DEFAULT> Сбросить
+<ICON DEFAULT> Resetuj
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Redefinir
+<ICON DEFAULT> 재설정
+<ICON DEFAULT> 重設
+<ICON DEFAULT> 重置
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 現在位置へ
+<ICON DEFAULT> Reset
+<ICON DEFAULT> Repositionner
+<ICON DEFAULT> Riposiziona
+<ICON DEFAULT> Zurücksetzen
+<ICON DEFAULT> Reiniciar
+<ICON DEFAULT> Сбросить
+<ICON DEFAULT> Resetuj
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Redefinir
+<ICON DEFAULT> 재설정
+<ICON DEFAULT> 重設
+<ICON DEFAULT> 重置
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> エリア切り替え
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Change Area
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Changer de zone
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Cambia area
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Ort wechseln
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Cambiar área
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Сменить зону
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Zmień obszar
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Mudar Área
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 구역 변경
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 變更區域
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 变更区域
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> カテゴリ切り替え
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Change File Group
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Changer de catégorie
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Cambia gruppo
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Aktenreiter wechseln
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Cambiar grupo de archivos
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Сменить группу файлов
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Zmień grupę plików
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> Mudar Arquivos
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 파일 그룹 변경
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 變更檔案群組
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 变更文件组
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON AREA_LEFT> <ICON AREA_RIGHT> 
+<ICON ITEMNUM> ページ切り替え
+<ICON ITEMNUM> Flip Pages
+<ICON ITEMNUM> Tourner les pages
+<ICON ITEMNUM> Sfoglia
+<ICON ITEMNUM> Seite umblättern
+<ICON ITEMNUM> Pasar páginas
+<ICON ITEMNUM> Листать
+<ICON ITEMNUM> Zmień stronę
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> Folhear
+<ICON ITEMNUM> 페이지 넘기기
+<ICON ITEMNUM> 翻頁
+<ICON ITEMNUM> 翻页
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON PAGE> ページ送り
+<ICON PAGE> Next Page
+<ICON PAGE> Faire défiler
+<ICON PAGE> Pagina successiva
+<ICON PAGE> Nächste Seite
+<ICON PAGE> Siguiente página
+<ICON PAGE> След. страница
+<ICON PAGE> Kolejna strona
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> Próxima Página
+<ICON PAGE> 다음 페이지
+<ICON PAGE> 下一頁
+<ICON PAGE> 下一页
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON PAGE> 
+<ICON DECIDE> 進む
+<ICON DECIDE> Next
+<ICON DECIDE> Suivant
+<ICON DECIDE> Successivo
+<ICON DECIDE> Weiter
+<ICON DECIDE> Siguiente
+<ICON DECIDE> Далее
+<ICON DECIDE> Dalej
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Próximo
+<ICON DECIDE> 다음
+<ICON DECIDE> 繼續
+<ICON DECIDE> 继续
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DEFAULT> デフォルト
+<ICON DEFAULT> Default
+<ICON DEFAULT> Par défaut
+<ICON DEFAULT> Predefiniti
+<ICON DEFAULT> Standard
+<ICON DEFAULT> Por defecto
+<ICON DEFAULT> По умолчанию
+<ICON DEFAULT> Domyślne
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Padrão
+<ICON DEFAULT> 기본
+<ICON DEFAULT> 預設
+<ICON DEFAULT> 默认
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 1つリセット
+<ICON DEFAULT> Reset Selected
+<ICON DEFAULT> Réinitialiser sélection
+<ICON DEFAULT> Ripristina selezionato
+<ICON DEFAULT> Auswahl zurücksetzen
+<ICON DEFAULT> Reinicio seleccionado
+<ICON DEFAULT> Сбросить выбранное
+<ICON DEFAULT> Resetuj wybrane
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Redefinir Selecionado(s)
+<ICON DEFAULT> 선택 항목 재설정
+<ICON DEFAULT> 重設所選項目
+<ICON DEFAULT> 重置所选项目
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON STATUS> 全てリセット
+<ICON STATUS> Reset All
+<ICON STATUS> Tout réinitialiser
+<ICON STATUS> Ripristina tutto
+<ICON STATUS> Alle zurücksetzen
+<ICON STATUS> Reiniciar todo
+<ICON STATUS> Сбросить все
+<ICON STATUS> Resetuj wszystko
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> Redefinir Tudo
+<ICON STATUS> 모두 재설정
+<ICON STATUS> 重設全部
+<ICON STATUS> 重置全部
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON ITEMMOVE> アイテムの移動
+<ICON ITEMMOVE> Move
+<ICON ITEMMOVE> Déplacer
+<ICON ITEMMOVE> Muovi
+<ICON ITEMMOVE> Bewegen
+<ICON ITEMMOVE> Mover
+<ICON ITEMMOVE> Переместить
+<ICON ITEMMOVE> Poruszanie się
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> Mover
+<ICON ITEMMOVE> 이동
+<ICON ITEMMOVE> 移動
+<ICON ITEMMOVE> 移动
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON ITEMMOVE> 
+<ICON STATUS> 閉じる
+<ICON STATUS> Close
+<ICON STATUS> Fermer
+<ICON STATUS> Chiudi
+<ICON STATUS> Schließen
+<ICON STATUS> Cerrar
+<ICON STATUS> Закрыть
+<ICON STATUS> Zamknij
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> Fechar
+<ICON STATUS> 닫기
+<ICON STATUS> 關閉
+<ICON STATUS> 关闭
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON DECIDE> 調べる
+<ICON DECIDE> Examine
+<ICON DECIDE> Examiner
+<ICON DECIDE> Esamina
+<ICON DECIDE> Untersuchen
+<ICON DECIDE> Examinar
+<ICON DECIDE> Изучить
+<ICON DECIDE> Obejrzyj
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Examinar
+<ICON DECIDE> 검사
+<ICON DECIDE> 檢查
+<ICON DECIDE> 检查
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON SORT> ソート
+<ICON SORT> Sort
+<ICON SORT> Trier
+<ICON SORT> Ordina per
+<ICON SORT> Sortieren
+<ICON SORT> Ordenar
+<ICON SORT> Сортировка
+<ICON SORT> Sortuj
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> Organizar
+<ICON SORT> 분류
+<ICON SORT> 排序
+<ICON SORT> 排序
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON SORT> 
+<ICON ITEMNUM> 個数変更
+<ICON ITEMNUM> Change Number
+<ICON ITEMNUM> Quantité
+<ICON ITEMNUM> Quantità
+<ICON ITEMNUM> Anzahl
+<ICON ITEMNUM> Cambiar número
+<ICON ITEMNUM> Сменить номер
+<ICON ITEMNUM> Zmień numer
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> Mudar Número
+<ICON ITEMNUM> 번호 변경
+<ICON ITEMNUM> 變更數量
+<ICON ITEMNUM> 变更数量
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON ITEMNUM> 
+<ICON CANCEL> 閉じる
+<ICON CANCEL> Close
+<ICON CANCEL> Fermer
+<ICON CANCEL> Chiudi
+<ICON CANCEL> Schließen
+<ICON CANCEL> Cerrar
+<ICON CANCEL> Закрыть
+<ICON CANCEL> Zamknij
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> Fechar
+<ICON CANCEL> 닫기
+<ICON CANCEL> 關閉
+<ICON CANCEL> 关闭
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CANCEL> 
+<ICON CURSOR_LR> 回転
+<ICON CURSOR_LR> Rotate
+<ICON CURSOR_LR> Tourner
+<ICON CURSOR_LR> Ruota
+<ICON CURSOR_LR> Drehen
+<ICON CURSOR_LR> Girar
+<ICON CURSOR_LR> Вращать
+<ICON CURSOR_LR> Obróć
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> Girar
+<ICON CURSOR_LR> 회전
+<ICON CURSOR_LR> 旋轉
+<ICON CURSOR_LR> 旋转
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> シリンダー選択
+<ICON CURSOR_LR> Select Dial
+<ICON CURSOR_LR> Sélectionner
+<ICON CURSOR_LR> Seleziona
+<ICON CURSOR_LR> Wählen
+<ICON CURSOR_LR> Seleccionar cilindro
+<ICON CURSOR_LR> Выбрать диск
+<ICON CURSOR_LR> Wybierz tarczę
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> Selec. Botão
+<ICON CURSOR_LR> 다이얼 선택
+<ICON CURSOR_LR> 選擇轉盤
+<ICON CURSOR_LR> 选择转盘
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_UD> 回転
+<ICON CURSOR_UD> Rotate
+<ICON CURSOR_UD> Faire tourner
+<ICON CURSOR_UD> Ruota
+<ICON CURSOR_UD> Drehen
+<ICON CURSOR_UD> Rotar
+<ICON CURSOR_UD> Вращать
+<ICON CURSOR_UD> Obróć
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> Girar
+<ICON CURSOR_UD> 회전
+<ICON CURSOR_UD> 旋轉
+<ICON CURSOR_UD> 旋转
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_UD> 
+<ICON CURSOR_LR> ブロック選択/移動
+<ICON CURSOR_LR> Select/Move Block
+<ICON CURSOR_LR> Sélectionner/Déplacer
+<ICON CURSOR_LR> Seleziona / Muovi blocco
+<ICON CURSOR_LR> Block auswählen/bewegen
+<ICON CURSOR_LR> Seleccionar/mover bloque
+<ICON CURSOR_LR> Выбрать/двигать блок
+<ICON CURSOR_LR> Wybierz/przesuń klocek
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> Selec./Mov. Bloco
+<ICON CURSOR_LR> 블록 선택/이동
+<ICON CURSOR_LR> 選擇/移動積木
+<ICON CURSOR_LR> 选择/移动积木
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LS> パネル選択
+<ICON CURSOR_LS> Select Panel
+<ICON CURSOR_LS> Sélectionner
+<ICON CURSOR_LS> Seleziona pannello
+<ICON CURSOR_LS> Platine wählen
+<ICON CURSOR_LS> Seleccionar panel
+<ICON CURSOR_LS> Выбрать панель
+<ICON CURSOR_LS> Wybierz panel
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> Selec. Painel
+<ICON CURSOR_LS> 패널 선택
+<ICON CURSOR_LS> 選擇面板
+<ICON CURSOR_LS> 选择面板
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON DECIDE> 回転
+<ICON DECIDE> Rotate
+<ICON DECIDE> Faire tourner
+<ICON DECIDE> Ruota
+<ICON DECIDE> Drehen
+<ICON DECIDE> Rotar
+<ICON DECIDE> Вращать
+<ICON DECIDE> Obróć
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Girar
+<ICON DECIDE> 회전
+<ICON DECIDE> 旋轉
+<ICON DECIDE> 旋转
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON CURSOR_LS> ボタン選択
+<ICON CURSOR_LS> Button Select
+<ICON CURSOR_LS> Choix de la touche
+<ICON CURSOR_LS> Selezione tasto
+<ICON CURSOR_LS> Taste wählen
+<ICON CURSOR_LS> Selección de botón
+<ICON CURSOR_LS> Выбор кнопок
+<ICON CURSOR_LS> Wybór przycisk.
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> Selec. Botão
+<ICON CURSOR_LS> 버튼 선택
+<ICON CURSOR_LS> 選擇按鈕
+<ICON CURSOR_LS> 选择按钮
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LS> 
+<ICON CURSOR_LR> 左ダイヤル回転
+<ICON CURSOR_LR> Turn Left Dial
+<ICON CURSOR_LR> Tourner la molette de gauche
+<ICON CURSOR_LR> Ruota manopola di sinistra
+<ICON CURSOR_LR> Linken Regler drehen
+<ICON CURSOR_LR> Girar dial izquierdo
+<ICON CURSOR_LR> Пов. левый диск
+<ICON CURSOR_LR> Obr. lewą tar.
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> Girar Bot. Esq.
+<ICON CURSOR_LR> 좌측 다이얼 돌리기
+<ICON CURSOR_LR> 轉動左邊的轉盤
+<ICON CURSOR_LR> 转动左转盘
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR2> 右ダイヤル回転
+<ICON CURSOR_LR2> Turn Right Dial
+<ICON CURSOR_LR2> Tourner la molette de droite
+<ICON CURSOR_LR2> Ruota manopola di destra
+<ICON CURSOR_LR2> Rechten Regler drehen
+<ICON CURSOR_LR2> Girar dial derecho
+<ICON CURSOR_LR2> Пов. правый диск
+<ICON CURSOR_LR2> Obr. prawą tar.
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> Girar Bot. Dir.
+<ICON CURSOR_LR2> 우측 다이얼 돌리기
+<ICON CURSOR_LR2> 轉動右邊的轉盤
+<ICON CURSOR_LR2> 转动右转盘
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON CURSOR_LR2> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 切替
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Switch
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Changer
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Scambia
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Wechseln
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Alternar
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Переключить
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Przełącz
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> Trocar
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 전환
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 切換
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 切换
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON TAB_LEFT> <ICON TAB_RIGHT> 
+<ICON DECIDE> 注入
+<ICON DECIDE> Fill
+<ICON DECIDE> Remplir
+<ICON DECIDE> Riempi
+<ICON DECIDE> Füllen
+<ICON DECIDE> Llenar
+<ICON DECIDE> Заполнить
+<ICON DECIDE> Uzupełnij
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Encher
+<ICON DECIDE> 채우기
+<ICON DECIDE> 注入
+<ICON DECIDE> 注入
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> シリンダー回転
+<ICON DECIDE> Rotate Cylinder
+<ICON DECIDE> Faire tourner
+<ICON DECIDE> Ruota cilindro
+<ICON DECIDE> Drehen
+<ICON DECIDE> Girar dial
+<ICON DECIDE> Вращать цилиндр
+<ICON DECIDE> Obróć pojemnik
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Girar Cilindro
+<ICON DECIDE> 실린더 회전
+<ICON DECIDE> 旋轉藥劑筒
+<ICON DECIDE> 旋转药剂筒
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 注入 / シリンダー回転
+<ICON DECIDE> Fill / Rotate
+<ICON DECIDE> Remplir / Tourner
+<ICON DECIDE> Riempi / Ruota
+<ICON DECIDE> Füllen / Drehen
+<ICON DECIDE> Llenar / Girar
+<ICON DECIDE> Заполнить / Вращать
+<ICON DECIDE> Uzupełnij / Obróć
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Encher / Girar
+<ICON DECIDE> 주입/회전
+<ICON DECIDE> 注入/旋轉
+<ICON DECIDE> 注入/旋转
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON PAUSE> ポーズメニュー
+<ICON PAUSE> Pause Menu
+<ICON PAUSE> Pause
+<ICON PAUSE> Pausa
+<ICON PAUSE> Pause
+<ICON PAUSE> Menú de pausa
+<ICON PAUSE> Пауза
+<ICON PAUSE> Menu pauzy
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> Menu de Pausa
+<ICON PAUSE> 일시 정지 메뉴
+<ICON PAUSE> 暫停選單
+<ICON PAUSE> 暂停菜单
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON PAUSE> 
+<ICON DEFAULT> ゲームモード変更
+<ICON DEFAULT> Change Game Mode
+<ICON DEFAULT> Changer de mode
+<ICON DEFAULT> Cambia la difficoltà
+<ICON DEFAULT> Spielmodus ändern
+<ICON DEFAULT> Cambiar modo de juego
+<ICON DEFAULT> Сменить режим игры
+<ICON DEFAULT> Zmień tryb gry
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Alterar Modo
+<ICON DEFAULT> 게임 모드 변경
+<ICON DEFAULT> 變更遊戲模式
+<ICON DEFAULT> 变更游戏模式
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON CURSOR_LR> キャラクター変更
+<ICON CURSOR_LR> Change Character
+<ICON CURSOR_LR> Changer de personnage
+<ICON CURSOR_LR> Cambia personaggio
+<ICON CURSOR_LR> Charakter wechseln
+<ICON CURSOR_LR> Cambio de personaje
+<ICON CURSOR_LR> Сменить персонажа
+<ICON CURSOR_LR> Zmień postać
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> Mudar Personagem
+<ICON CURSOR_LR> 캐릭터 변경
+<ICON CURSOR_LR> 變更角色
+<ICON CURSOR_LR> 变更角色
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+<ICON CURSOR_LR> 
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{0:D4}/{1:D2}/{2:D2}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{1:D2}/{2:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}.{1:D2}.{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+{2:D2}/{1:D2}/{0:D4}</n>{3:D2}:{4:D2}:{5:D2}
+Record
+Records
+Défis
+Sfide
+Herausforderungen
+Méritos
+Рекорды
+Rekordy
+Registros
+기록
+記錄
+记录
+Option
+Options
+Options
+Opzioni
+Optionen
+Opciones
+Настройки
+Opcje
+Opções
+옵션
+選項
+选项
+四角いエリアが画面にぴったり合うように、大きさを調整してください
+Please adjust the rectangular area to match the size of your screen.
+Faites correspondre la zone rectangulaire avec la taille de votre écran.
+Regola l'area rettangolare in modo che</n>combaci con la grandezza dello schermo.
+Passen Sie die Größe des rechteckigen Bereichs so an,</n>dass er den Bildschirm genau ausfüllt.
+Por favor, ajusta el área rectangular para</n>que sea igual al tamaño de tu pantalla.
+Совместите прямоугольную область с границами экрана.
+Dopasuj prostokątny obszar do wielkości swojego ekranu.
+Ajuste a área retangular até ficar alinhada à tela.
+화면 크기에 맞게 직사각형 영역을 조정합니다.
+請調整矩形區域，以符合您螢幕的大小。
+请调整长方形区域，以符合屏幕大小。
+<ICON CURSOR_UP> 大きく
+<ICON CURSOR_UP> Increase
+<ICON CURSOR_UP> Agrandir
+<ICON CURSOR_UP> Aumenta
+<ICON CURSOR_UP> Vergrößern
+<ICON CURSOR_UP> Aumentar
+<ICON CURSOR_UP> Увеличить
+<ICON CURSOR_UP> Zwiększ
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> Aumentar
+<ICON CURSOR_UP> 증가
+<ICON CURSOR_UP> 提高
+<ICON CURSOR_UP> 提高
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_UP> 
+<ICON CURSOR_DOWN> 小さく
+<ICON CURSOR_DOWN> Decrease
+<ICON CURSOR_DOWN> Réduire
+<ICON CURSOR_DOWN> Diminuisci
+<ICON CURSOR_DOWN> Verkleinern
+<ICON CURSOR_DOWN> Disminuir
+<ICON CURSOR_DOWN> Уменьшить
+<ICON CURSOR_DOWN> Zmniejsz
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> Reduzir
+<ICON CURSOR_DOWN> 감소
+<ICON CURSOR_DOWN> 降低
+<ICON CURSOR_DOWN> 降低
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON CURSOR_DOWN> 
+<ICON STATUS> プロフィール切り替え
+<ICON STATUS> Switch Profiles
+<ICON STATUS> Changer de profil
+<ICON STATUS> Cambia profilo
+<ICON STATUS> Profil wechseln
+<ICON STATUS> Cambiar de perfil
+<ICON STATUS> Сменить профиль
+<ICON STATUS> Przełącz profil
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> Trocar Perfis
+<ICON STATUS> 프로필 전환
+<ICON STATUS> 切換設定檔
+<ICON STATUS> 切换档案
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+<ICON STATUS> 
+セーブデータを選択してロードします
+Load a previously saved game.
+Charger une partie sauvegardée.
+Carica una partita salvata.
+Ein zuvor gespeichertes Spiel laden.
+Carga una partida guardada.
+Загрузить сохраненную игру.
+Załaduj poprzednio zapisaną grę.
+Carregar um jogo salvo.
+이전에 저장된 게임을 불러옵니다.
+載入先前的存檔。
+加载先前保存的游戏。
+プレイ記録と達成状況を確認します
+View records and unlockables progress.
+Voir les défis et les bonus débloqués.
+Controlla le sfide e i contenuti sbloccabili.
+Herausforderungen und Freischaltfortschritt ansehen.
+Comprueba tus méritos y su progreso.
+Смотреть рекорды и прогресс разблокируемых наград.
+Wyświetl rekordy i postępy związane z odblokowywaniem elementów.
+Visualizar registros e progresso dos desbloqueáveis.
+기록과 잠금 해제 가능한 진행 상태를 봅니다.
+查看記錄和可供解鎖的進度。
+查看记录及可解锁的进度。
+最新のセーブデータからやり直します
+Continue playing from your most recent save.
+Continuer la partie depuis votre dernière sauvegarde.
+Continua la partita dal salvataggio più recente.
+Das Spiel mit den letzten Speicherdaten fortsetzen.
+Continúa jugando desde el guardado más reciente.
+Продолжить игру с последнего сохранения.
+Kontynuuj od najnowszego zapisu.
+Continuar do jogo salvo mais recente.
+최근 저장된 내용부터 플레이를 시작합니다.
+從您最近的存檔繼續進行遊戲。
+从您最近的存档继续进行游戏。
+各種設定を変更します
+Adjust various game settings.
+Ajuster différents paramètres.
+Regola le varie impostazioni di gioco.
+Verschiedene Spieleinstellungen anpassen.
+Ajusta varias opciones del juego.
+Различные настройки игры.
+Zmień różne ustawienia gry.
+Ajuste diferentes configurações do jogo.
+다양한 게임 설정을 조정합니다.
+調整各項遊戲設定。
+调整各项游戏设置。
+START GAME
+START GAME
+COMMENCER
+AVVIA IL GIOCO
+SPIEL STARTEN
+INICIAR
+НАЧАТЬ ИГРУ
+ZACZNIJ GRĘ
+INICIAR JOGO
+게임 시작
+開始遊戲
+开始游戏
+RE NETへのプレイデータ送信
+Connect to RE NET
+Connexion à RE NET
+Connessione a RE NET
+Mit RE NET verbinden
+Conectar a RE NET
+Подключиться к RE NET
+Połącz się z usługą RE NET
+Conecte-se à RE NET
+RE NET 연결
+連線至 RE NET
+连接至 RE NET
+RE NETとは BIOHAZARD の世界をより深く体験できる、完全無料のサービスです。</n>プレイデータ、IPアドレス（以下「プレイデータ」）を送信することで、</n>自分のプレイ戦歴を振り返ったり、チャレンジに挑んだりできます。</n>また、送信されたプレイデータは、今後の製品開発の参考にさせていただきます。</n></n>下記の利用規約を読んでから同意してください。</n>RE NETへプレイデータを送信しますか？ </n></n>※プレイデータ送信の設定は、オプションからいつでも変更できます
+RE NET is a completely free service that gives you a deeper look into the BIOHAZARD universe.</n></n>Send your play data (game progress and IP address) to gain access to a variety of services, including your play history and unique challenges.</n>Play data sent to RE NET may be used for future development.</n></n>One click is all it takes to link your game to RE NET.</n>Would you like to send your play data to RE NET after reading and agreeing to the terms of service below?</n></n>*RE NET settings can be changed at any time from the Options menu.
+RE NET est un service entièrement gratuit destiné à enrichir encore plus votre</n>expérience dans l'univers de BIOHAZARD.</n>Envoyez vos données de jeu (progression et adresse IP) pour accéder à divers</n>services tels que votre historique de jeu et des défis uniques. Les données de jeu</n>envoyées à RE NET pourront être utilisées pour des développements futurs.</n>Il vous suffit d'un clic pour connecter votre jeu à RE NET.</n>Souhaitez-vous envoyer vos données de jeu à RE NET après avoir lu et accepté</n>les conditions d'utilisation ci-dessous ?</n></n>* Les paramètres RE NET peuvent être modifiés à tout moment dans le menu Options.
+RE NET è un servizio completamente gratuito che offre un'esperienza</n>ancora più ricca dell'universo di BIOHAZARD. </n></n>Invia i tuoi dati di gioco (progressi di gioco e indirizzo IP) per avere accesso</n>a una varietà di servizi come la cronologia di gioco e sfide uniche.</n>I dati di gioco inviati a RE NET potranno essere usati in futuro per altri prodotti.</n></n>Basta solo un click per accedere a RE NET.</n>Vuoi inviare i tuoi dati di gioco dopo aver letto e accettato i termini del servizio?</n></n>*Le impostazioni di RE NET possono essere cambiate in qualsiasi momento dal menu delle opzioni.
+RE NET ist ein komplett kostenloser Service, der Ihnen tiefere Einblicke in die Welt von BIOHAZARD</n>ermöglicht. Übertragen Sie Ihre Spieldaten (Spielfortschritt und IP-Adresse), um Zugang zu</n>verschiedenen Funktionen zu erhalten, inklusive ihrem Spielverlauf und exklusiven Herausforderungen.</n>An RE NET gesendete Spieldaten dürfen für künftige Entwicklungen verwendet werden.</n></n>Es genügt ein Klick, um Ihr Spiel mit RE NET zu verbinden.</n>Möchten Sie, nachdem Sie die Nutzungsbedingungen gelesen und ihnen zugestimmt haben,</n>Ihre Spieldaten zu RE NET übertragen?</n></n>*Die RE NET-Einstellungen können jederzeit in den Optionen geändert werden.
+RE NET es un servicio gratuito que te ofrece una experiencia más profunda del universo de BIOHAZARD.</n></n>Envía tus datos de juego (progreso del juego y dirección IP) para acceder a una gran variedad de servicios,</n>incluyendo tu historial de juego y desafíos únicos. Los datos de juego enviados a RE NET pueden ser usados</n>para futuros proyectos.</n></n>Con un solo clic podrás vincular tu juego con RE NET.</n>¿Quieres enviar tus datos de juego a RE NET después de leer los términos de servicio?</n></n>*Puedes cambiar esta opción en cualquier momento en Opciones.
+RE NET — это совершенно бесплатный сервис, помогающий еще глубже окунуться в мир BIOHAZARD.</n></n>Отправьте свои игровые данные (прогресс в игре и IP-адрес), чтобы получить доступ</n>к различным возможностям, в том числе к истории вашей игры и уникальным испытаниям.</n>Игровые данные, отправленные в RE NET, могут быть использованы в дальнейшей разработке.</n></n>Достаточно одного нажатия, чтобы привязать игру к RE NET.</n>Вы хотите отправить свои игровые данные в RE NET после прочтения и принятия условий использования?</n></n>* Параметры RE NET можно в любое время изменить в меню «Настройки».
+RE NET to całkowicie bezpłatna usługa, która pozwala dowiedzieć się więcej o uniwersum BIOHAZARD.</n></n>Aby uzyskać dostęp do różnych usług, w tym historii rozgrywek i wyjątkowych wyzwań, prześlij do niej swoje dane z gry (postępy i adres IP).</n>Mogą one zostać wykorzystane w przyszłych pracach nad grą.</n></n>Aby połączyć się z RE NET, wystarczy jedno kliknięcie.</n>Czy chcesz zsynchronizować swoje dane z gry z RE NET po przeczytaniu i zaakceptowaniu poniższych warunków korzystania?</n></n>* Ustawienia RE NET możesz zmienić w dowolnym momencie w menu Opcje.
+RE NET é um serviço grátis que permite ao jogador se aprofundar no universo de BIOHAZARD.</n></n>Envie seus dados de jogo (progresso e endereço de IP) para acessar diversos serviços, como o seu histórico de jogo e desafios únicos.</n>Os dados enviados à RE NET podem ser usados para desenvolvimento futuro.</n></n>Basta um clique para conectar o seu jogo à RE NET.</n>Quer enviar seus dados salvos à RE NET após ler e aceitar os termos de serviço abaixo?</n></n>*É possível alterar as configurações da RE NET a qualquer momento no menu de Opções.
+RE NET은 BIOHAZARD 세계를 더욱 깊이 있게 들여다볼 수 있게 도와주는 무료 사이트입니다.</n></n>플레이 데이터(게임 진행 상태 및 IP 주소)를 보내 플레이 히스토리 및 고유 도전 과제 등을 비롯한 다양한 서비스를 이용하십시오.</n>RE NET에 보낸 플레이 데이터는 향후 개발에 사용될 수 있습니다.</n></n>클릭 한 번이면 게임을 RE NET에 연결할 수 있습니다.</n>아래 서비스 약관을 읽고 동의한 후 플레이 데이터를 RE NET에 보내시겠습니까?</n></n>*RE NET 설정은 옵션 메뉴에서 언제든지 변경할 수 있습니다.
+RE NET 是一項能讓您深入體驗 Biohazard 世界觀的免費服務。</n></n>將您的遊戲資料（遊戲進度與 IP 位址）傳送出去，即可</n>取得一系列的服務，包括您的遊戲歷程與獨特的挑戰。</n>傳送到 RE NET 的遊戲資料將會用於未來的開發。</n></n>只要按一下，就能將您的遊戲連結至 RE NET。</n>您要在閱讀並同意以下的服務條款後，將您的遊戲資料傳送至 RE NET 嗎？</n></n>* 您可以隨時在選項選單中變更 RE NET 設定。
+RE NET 是一项能让您深入体验 BIOHAZARD 世界观的免费服务。</n></n>将您的游戏资料（游戏进度与 IP 位址）传送出去，即可</n>取得一系列的服务，包括您的游戏历程与独特的挑战。</n>传送到 RE NET 的游戏资料将会用于未来的开发。</n></n>只要按一下，就能将您的游戏连结至 RE NET。</n>您要在阅读并同意以下的服务条款后，将您的游戏资料传送至 RE NET 吗？</n></n>* 您可以随时在选项选单中变更 RE NET 设定。
+RE NETとは Resident Evil の世界をより深く体験できる、完全無料のサービスです。</n>プレイデータ、IPアドレス（以下「プレイデータ」）を送信することで、</n>自分のプレイ戦歴を振り返ったり、チャレンジに挑んだりできます。</n>また、送信されたプレイデータは、今後の製品開発の参考にさせていただきます。</n></n>下記の利用規約を読んでから同意してください。</n>RE NETへプレイデータを送信しますか？ </n></n>※プレイデータ送信の設定は、オプションからいつでも変更できます
+RE NET is a completely free service that gives you a deeper look into the Resident Evil universe.</n></n>Send your play data (game progress and IP address) to gain access to a variety of services, including your play history and unique challenges.</n>Play data sent to RE NET may be used for future development.</n></n>One click is all it takes to link your game to RE NET.</n>Would you like to send your play data to RE NET after reading and agreeing to the terms of service below?</n></n>*RE NET settings can be changed at any time from the Options menu.
+RE NET est un service entièrement gratuit destiné à enrichir encore plus votre</n>expérience dans l'univers de Resident Evil.</n>Envoyez vos données de jeu (progression et adresse IP) pour accéder à divers</n>services tels que votre historique de jeu et des défis uniques. Les données de jeu</n>envoyées à RE NET pourront être utilisées pour des développements futurs.</n>Il vous suffit d'un clic pour connecter votre jeu à RE NET.</n>Souhaitez-vous envoyer vos données de jeu à RE NET après avoir lu et accepté</n>les conditions d'utilisation ci-dessous ?</n></n>* Les paramètres RE NET peuvent être modifiés à tout moment dans le menu Options.
+RE NET è un servizio completamente gratuito che offre un'esperienza</n>ancora più ricca dell'universo di Resident Evil. </n></n>Invia i tuoi dati di gioco (progressi di gioco e indirizzo IP) per avere accesso</n>a una varietà di servizi come la cronologia di gioco e sfide uniche.</n>I dati di gioco inviati a RE NET potranno essere usati in futuro per altri prodotti.</n></n>Basta solo un click per accedere a RE NET.</n>Vuoi inviare i tuoi dati di gioco dopo aver letto e accettato i termini del servizio?</n></n>*Le impostazioni di RE NET possono essere cambiate in qualsiasi momento dal menu delle opzioni.
+RE NET ist ein komplett kostenloser Service, der Ihnen tiefere Einblicke in die Welt von Resident Evil</n>ermöglicht. Übertragen Sie Ihre Spieldaten (Spielfortschritt und IP-Adresse), um Zugang zu</n>verschiedenen Funktionen zu erhalten, inklusive ihrem Spielverlauf und exklusiven Herausforderungen.</n>An RE NET gesendete Spieldaten dürfen für künftige Entwicklungen verwendet werden.</n></n>Es genügt ein Klick, um Ihr Spiel mit RE NET zu verbinden.</n>Möchten Sie, nachdem Sie die Nutzungsbedingungen gelesen und ihnen zugestimmt haben,</n></n>Ihre Spieldaten zu RE NET übertragen?</n>*Die RE NET-Einstellungen können jederzeit in den Optionen geändert werden.
+RE NET es un servicio gratuito que te ofrece una experiencia más profunda del universo de Resident Evil.</n></n>Envía tus datos de juego (progreso del juego y dirección IP) para acceder a una gran variedad de servicios,</n>incluyendo tu historial de juego y desafíos únicos. Los datos de juego enviados a RE NET pueden ser usados</n>para futuros proyectos.</n></n>Con un solo clic podrás vincular tu juego con RE NET.</n>¿Quieres enviar tus datos de juego a RE NET después de leer los términos de servicio?</n></n>*Puedes cambiar esta opción en cualquier momento en Opciones.
+RE NET — это совершенно бесплатный сервис, помогающий еще глубже окунуться в мир Resident Evil.</n></n>Отправьте свои игровые данные (прогресс в игре и IP-адрес), чтобы получить доступ</n>к различным возможностям, в том числе к истории вашей игры и уникальным испытаниям.</n>Игровые данные, отправленные в RE NET, могут быть использованы в дальнейшей разработке.</n></n>Достаточно одного нажатия, чтобы привязать игру к RE NET.</n>Вы хотите отправить свои игровые данные в RE NET после прочтения и принятия условий использования?</n></n>* Параметры RE NET можно в любое время изменить в меню «Настройки».
+RE NET to całkowicie bezpłatna usługa, która pozwala dowiedzieć się więcej o uniwersum Resident Evil.</n></n>Aby uzyskać dostęp do różnych usług, w tym historii rozgrywek i wyjątkowych wyzwań, prześlij do niej swoje dane z gry (postępy i adres IP).</n>Mogą one zostać wykorzystane w przyszłych pracach nad grą.</n></n>Aby połączyć się z RE NET, wystarczy jedno kliknięcie.</n>Czy chcesz zsynchronizować swoje dane z gry z RE NET po przeczytaniu i zaakceptowaniu poniższych warunków korzystania?</n></n>* Ustawienia RE NET możesz zmienić w dowolnym momencie w menu Opcje.
+RE NET é um serviço grátis que permite ao jogador se aprofundar no universo de Resident Evil.</n></n>Envie seus dados de jogo (progresso e endereço de IP) para acessar diversos serviços, como o seu histórico de jogo e desafios únicos.</n>Os dados enviados à RE NET podem ser usados para desenvolvimento futuro.</n></n>Basta um clique para conectar o seu jogo à RE NET.</n>Quer enviar seus dados salvos à RE NET após ler e aceitar os termos de serviço abaixo?</n></n>*É possível alterar as configurações da RE NET a qualquer momento no menu de Opções.
+RE NET은 Resident Evil 세계를 더욱 깊이 있게 들여다볼 수 있게 도와주는 무료 사이트입니다.</n></n>플레이 데이터(게임 진행 상태 및 IP 주소)를 보내 플레이 히스토리 및 고유 도전 과제 등을 비롯한 다양한 서비스를 이용하십시오.</n>RE NET에 보낸 플레이 데이터는 향후 개발에 사용될 수 있습니다.</n></n>클릭 한 번이면 게임을 RE NET에 연결할 수 있습니다.</n>아래 서비스 약관을 읽고 동의한 후 플레이 데이터를 RE NET에 보내시겠습니까?</n></n>*RE NET 설정은 옵션 메뉴에서 언제든지 변경할 수 있습니다.
+RE NET 是一項能讓您深入體驗 Resident Evil 世界的免費服務。</n></n>將您的遊戲資料（遊戲進度與 IP 位址）傳送出去，即可</n>取得一系列的服務，包括您的遊戲歷程與獨特的挑戰。</n>傳送到 RE NET 的遊戲資料將會用於未來的開發。</n></n>只要按一下，就能將您的遊戲連結至 RE NET。</n>您要在閱讀並同意以下的服務條款後，將您的遊戲資料傳送至 RE NET 嗎？</n></n>* 您可以隨時在選項選單中變更 RE NET 設定。
+RE NET 是一项能让您深入体验 Resident Evil 世界的免费服务。</n></n>将您的游戏资料（游戏进度与 IP 位址）传送出去，即可</n>取得一系列的服务，包括您的游戏历程与独特的挑战。</n>传送到 RE NET 的游戏资料将会用于未来的开发。</n></n>只要按一下，就能将您的游戏连结至 RE NET。</n>您要在阅读并同意以下的服务条款后，将您的游戏资料传送至 RE NET 吗？</n></n>* 您可以随时在选项选单中变更 RE NET 设定。
+このゲームには、株式会社カプコンが運営するウェブサービス「RESIDENT EVIL.NET（RE NET）」</n>（https://www.residentevil.net） と、ゲームのプレイデータを共有する機能があります。</n>「RE NET」のウェブサイト上でのご利用には、別途定める「RE NET」の利用規約及びプライバシーポリシーに同意していただく必要があります。</n></n>プレイデータの送信設定をオンにした場合、ユーザーの居住国にかかわらず、株式会社カプコンが運営する日本国内のサーバーにプレイデータ、IPアドレス（以下「プレイデータ」）を送信します。</n>また、当社はユーザーが使用するゲームのプラットフォーム提供者より、ユーザーのアカウントに関連した情報を取得し、プレイデータと紐づけて保管する場合があります。</n></n>プレイデータの送信設定を途中でオフに変更しても、それまでに送信されたデータは削除されず、継続して公開されます。</n>送信頂く情報は、RE NETでのサービス利用の目的のほか、今後のBIOHAZARD / RESIDENT EVILシリーズの製品開発の参考にさせて頂きます。</n></n>当社は、上記で特定した利用目的の達成のために、ユーザーのプレイデータを、当社子会社や関連会社、クラウドベンダーやサービス運営会社等の当社業務委託先会社をはじめとする第三者に対して提供します。 </n>当社がユーザーのプレイデータを提供する第三者の中には、EEA域外の国（日本、米国を含みますがそれに限りません。以下同じ。）に所在するものも含まれるところ、ユーザーは、本利用規約への同意をもって、以下の事項について同意するものとします。</n></n>-EEA域外にある第三者が所在する国においては、EEA地域と同じデータ保護法が整備されておらず、EEA地域においてデータ主体に与えられる権利の多くが与えられないこと</n>-ユーザーのプレイデータを、EEA域外の国にある第三者に提供すること</n>-上記で特定された利用目的のため、当社のみならず、当社が提供を行うEEA域外にある第三者に対してユーザーのプレイデータが提供され、当該第三者によっても処理されること。</n> </n></n>ユーザーは、本利用規約および下記のプライバシーポリシーを読み、プレイデータ送信を行うことによって、当社によるプレイデータの処理について同意したこととなり、当社は、ユーザーのかかる同意に基づいて、ユーザーのプレイデータを処理します。ただし、ユーザーはかかる同意をいつでも撤回することができます。</n> </n>プレイデータの送信への同意は義務ではなく、ユーザーが任意で受け入れるかどうかを決定することができます。ご送信頂けない場合はRE NETでのプレイデータ閲覧はできませんが、ゲームプレイに影響することはありません。</n></n>この機能の設定は、オプションから「RE NET」を選択すれば、いつでも変更できます。設定を変更してもそれまでに送信されたプレイデータは削除されず、継続して公開されます。</n></n>プライバシーポリシー (http://www.capcom.co.jp/privacy/game/)
+This game provides you a function to share your play data with the RESIDENT EVIL.NET (RE NET) Web service (https://www.residentevil.net) operated by Capcom Co., Ltd. To use the RE NET Web site, you need to consent to the RE NET Terms of Use (the “Terms of Use”), as well as the Privacy Policy provided separately. </n></n>If you enable the play data transmission setting, your play data and IP address (collectively called the "Play Data") will be transmitted to the server in Japan operated by Capcom, regardless of your country of residence.</n>Capcom may also acquire information associated with your account from the game platform provider you use and link such information to your Play Data.</n></n>You may disable the Play Data transmission setting later, however, the data which had already been transmitted to the server up to that point will not be deleted and remain accessible.</n>The information we obtained will be used only for the purposes of making the RE NET service available for you and helping develop future RESIDENT EVIL / BIOHAZARD series products (the “Purposes”).</n></n>Capcom may disclose your Play Data to third parties including its subsidiaries, affiliates, contracted cloud vendors and service providers, and other contracted companies (the “Third Parties”) in order to achieve the Purposes specified above.</n>Some of the Third Parties for which Capcom may provide your Play Data are located in countries outside the European Economic Area called the “EEA” (such outside countries includes, but are not limited to, Japan and the United States of America), so, by giving your consent to the Terms of Use, you are deemed to have agreed and understood the following:</n></n>- Countries where the Third Parties are located may be outside the EEA and may not have data protection laws of the same level as those in the EEA, and may not grant many of the data rights granted in the EEA.</n>- Capcom may provide your Play Data to the Third Parties in countries outside the EEA. </n>- Your Play Data may be processed not only by Capcom but also by any of the Third Parties outside the EEA for the Purposes specified above.</n></n>By reading the Terms of Use and the Privacy Policy below, as well as enabling your Play Data transmission setting, you are deemed to consent to Capcom's processing of your Play Data, and Capcom may process your Play Data based on your consent. However, you may withdraw your consent later at any time.</n></n>Whether or not you enable your Play Data transmission is solely at your own discretion. If you do not wish to transmit your Play Data, you will not be able to view it in RE NET, but this will not affect your game play.</n></n>The setting of this function may be changed at any time by selecting RE NET from the list of options. Even if you disable the setting, the data which had already been transmitted to the server up to that point will not be deleted and remain accessible.</n></n>Privacy Policy (http://www.capcom.co.jp/privacy/game/)
+Ce jeu offre une fonction qui vous permet de partager vos données de jeu avec le service web RESIDENT EVIL.NET (RE NET) (https://www.residentevil.net), qui est exploité par Capcom Co., Ltd. Pour utiliser le site web RE NET, on vous demande de donner votre consentement pour les Conditions d’Utilisation de RE NET (les «Conditions d’Utilisation»), ainsi que pour la Politique de Confidentialité, qui est fournie séparément.</n></n>Si vous autorisez la transmission de données de jeu dans vos réglages, vos données de jeu et votre adresse IP (collectivement nommées «Données de Jeu») seront transmises au serveur situé au Japon et supervisé par Capcom, quel que soit votre pays de résidence.</n>Capcom peut aussi acquérir certaines informations liées à votre compte chez le fournisseur de plateforme que vous utilisez et relier ces informations à vos Données de Jeu.</n></n>Vous pouvez désactiver votre permission pour la transmission de Données de Jeu plus tard, mais les données qui ont déjà été transmises au serveur ne seront pas supprimées et resteront accessibles.</n>Les informations que nous avons obtenues seront uniquement utilisées pour mettre le service RE NET à votre disposition et pour faciliter le développement des futurs produits de la série RESIDENT EVIL / BIOHAZARD (les «Raisons»).</n></n>Capcom a le droit de révéler vos Données de Jeu à des partis tiers, y compris ses filiales, des sociétés affiliées, des vendeurs de cloud et des fournisseurs de service contractés, et à d’autres compagnies contractées (les «Partis Tiers») afin d’atteindre les Raisons précisés ci-dessus.</n>Certains des partis tiers à qui Capcom peut révéler vos Données de Jeu, sont situés dans des pays au dehors de l’espace économique européen, nommé «EEE» (ces pays incluent mais ne se limitent pas au Japon et aux Etats-Unis d’Amérique), donc, en donnant votre consentement aux Conditions d’Utilisation, nous considérons que vous êtes d’accord avec, et que vous acceptez le suivant :</n></n>- Des pays où ces tiers partis sont situés peuvent se trouver au dehors de l’EEE et il est possible que la loi de protection des données personnelles ne soit pas au niveau de celle dans l’EEE, et n’accorde pas la même protection de données que celle dans l’EEE.</n>- Capcom a le droit de révéler vos Données de Jeu à des partis tiers en dehors de l’EEE.</n>- Vos Données de Jeu peuvent être traitées, non uniquement par Capcom, mais également par un des tiers partis au dehors de l’EEE, pour les Raisons précisées ci-dessus.</n></n>En lisant ces Conditions d’Utilisation et la Politique de Confidentialité, ci-dessous, ainsi qu’en donnant votre consentement à la transmission de vos Données de Jeu, nous considérons que vous êtes d’accord avec le traitement de vos Données de Jeu par Capcom, et Capcom a le droit de traiter vos Données de Jeu, suivant votre accord. Toutefois, vous pouvez toujours retirer votre consentement plus tard, à tout instant.</n></n>Donner ou ne pas donner votre consentement à la transmission de vos Données de Jeu, est à votre seule discrétion. Si vous ne désirez pas transmettre vos Données de Jeu, il vous sera impossible de les voir sur RE NET, mais ceci n’affectera pas votre gameplay.</n></n>Les paramètres de cette fonction peuvent être modifiés à tout instant en choisissant RE NET dans la liste des options. Même si vous désactivez l’option, les données qui ont déjà été transmises au serveur avant ce moment, ne seront pas supprimées et seront toujours accessibles.</n></n>Politique de confidentialité (http://www.capcom.co.jp/privacy/game/)
+Questo gioco fornisce all’utente una funzione per condividere i dati di gioco con il servizio Web RESIDENT EVIL.NET (RE NET) (https://www.residentevil.net) operato da Capcom Co., Ltd. Per usare il sito Web di RE NET, è necessario acconsentire ai Termini di utilizzo di RE NET (“Termini di utilizzo”), oltre che all’Informativa sulla privacy fornita separatamente. </n></n>Abilitando l’impostazione di trasmissione dei dati di gioco, i dati di gioco dell’utente e l’indirizzo IP (chiamati collettivamente "Dati di gioco") verranno trasmessi al server in Giappone operato da Capcom, indipendentemente dal Paese di residenza dell’utente.</n>Capcom può inoltre acquisire informazioni associate all’account dell’utente dal provider della piattaforma di gioco utilizzato e collegare tali informazioni ai Dati di gioco dell’utente.</n></n>L’utente può disattivare le impostazioni di trasmissione dei Dati di gioco successivamente; tuttavia, i dati già trasmessi al server fino a quel momento non verranno eliminati e rimarranno accessibili.</n>Le informazioni da noi ottenute verranno usate solo al fine di rendere disponibile il servizio di RE NET all’utente e di aiutare lo sviluppo dei prodotti futuri della serie RESIDENT EVIL / BIOHAZARD (“Fini”).</n></n>Capcom può divulgare i Dati di gioco dell’utente a terze parti, incluse le sue imprese controllate, affiliate, fornitori di servizi cloud contrattati e provider di servizi, e altre aziende contrattate (“Terze parti”) in modo da raggiungere i Fini precedentemente specificati.</n>Alcune delle Terze parti cui Capcom potrebbe fornire i Dati di gioco dell’utente si trovano in Paesi esterni all’Area economica europea chiamata “AEE” (tali Paesi esterni includono, ma non si limitano a Giappone e Stati Uniti d’America); quindi, acconsentendo ai Termini di utilizzo, si ritiene che l’utente abbia accettato e compreso quanto segue:</n></n>- i Paesi in cui siano localizzate le Terze parti potrebbero essere al di fuori dell’AEE, potrebbero non avere leggi di protezione dei dati al pari di quelle presenti nell’AEE e potrebbero non garantire molti dei diritti garantiti nell’AEE;</n>- Capcom può fornire i Dati di gioco dell’utente a Terze parti in Paesi al di fuori dell’AEE;</n>- i Dati di gioco dell’utente possono essere elaborati non solo da Capcom, ma anche da qualsiasi Terza parte al di fuori dell’AEE per i Fini precedentemente specificati.</n></n>Leggendo i Termini di utilizzo e l’Informativa sulla privacy, così come abilitando le impostazioni di trasmissione dei Dati di gioco, si ritiene che l’utente acconsenta all’elaborazione da parte di Capcom dei Dati di gioco dell’utente e che Capcom possa elaborare tali Dati di gioco in base al consenso da parte dell’utente. Tuttavia, l’utente può ritirare il proprio consenso successivamente in qualsiasi momento.</n></n>L’abilitazione della trasmissione dei Dati di gioco è a pura discrezione dell’utente. Qualora l’utente non intenda trasmettere i Dati di gioco, non sarà in grado di vederli in RE NET. Ciò non avrà comunque alcun impatto sul gioco.</n></n>L’impostazione di questa funzione può essere modificata in qualsiasi momento selezionando RE NET dalla lista delle opzioni. Anche se si disabilita l’impostazione, i dati già trasmessi al server fino a quel momento non verranno eliminati e rimarranno accessibili.</n></n>Informativa sulla privacy (http://www.capcom.co.jp/privacy/game/)
+Dieses Spiel bietet Ihnen eine Funktion, um Ihre Spieldaten mit dem RESIDENT EVIL.NET (RE NET)-Webdienst (https://www.residentevil.net), der von Capcom Co., Ltd. betrieben wird, zu teilen. Um die RE NET-Website zu nutzen, müssen Sie den Nutzungsbedingungen von RE NET (den „Nutzungsbedingungen“) sowie der separat bereitgestellten Datenschutzrichtlinie zustimmen. </n></n>Wenn Sie die Einstellung für die Übertragung von Spieldaten aktivieren, werden Ihre Spieldaten und Ihre IP-Adresse (zusammen als „Spieldaten“ bezeichnet) an den von Capcom betriebenen Server in Japan übertragen, unabhängig von Ihrem Wohnsitzland.</n>Capcom kann außerdem Informationen, die auf Ihr Konto bezogen sind, von dem von Ihnen verwendeten Spielplattformanbieter beziehen und diese Informationen mit Ihren Spieldaten verknüpfen.</n></n>Sie können die Einstellung für die Übertragung von Spieldaten später deaktivieren; die Daten, die bis zu diesem Zeitpunkt bereits an den Server übertragen wurden, werden jedoch nicht gelöscht und bleiben weiterhin verfügbar.</n>Die Informationen, die wir erhalten, werden nur dazu verwendet, den RE NET-Dienst für Sie verfügbar zu machen und die Entwicklung zukünftiger Produkte der RESIDENT EVIL / BIOHAZARD-Serie (der „Zweck“) zu unterstützen.</n></n>Capcom darf Ihre Spieldaten an Dritte weitergeben, einschließlich seiner Tochtergesellschaften, verbundenen Unternehmen, Vertrags-Cloud-Anbieter und Diensteanbieter sowie anderer Vertragsunternehmen (den „Dritten“), um die oben genannten Zwecke zu erreichen.</n>Einige der Dritten, für die Capcom Ihre Spieldaten zur Verfügung stellen kann, befinden sich in Ländern außerhalb des Europäischen Wirtschaftsraums, abgekürzt als „EWR“ (solche außerhalb liegenden Ländern umfassen, sind aber nicht beschränkt, auf Japan und die USA). Mit der Zustimmung zu den Nutzungsbedingungen erklären Sie, dass Sie Folgendes verstanden haben und akzeptieren:</n></n>- Länder, in denen sich die Drittanbieter befinden, können außerhalb des EWR liegen und verfügen möglicherweise nicht über Datenschutzgesetze auf demselben Niveau wie im EWR, und bieten deshalb möglicherweise viele der im EWR gewährten Datenrechte nicht.</n>- Capcom kann Ihre Spieldaten Dritten in Ländern außerhalb des EWR zur Verfügung stellen. </n>- Ihre Spieldaten werden möglicherweise nicht nur von Capcom, sondern auch von Dritten außerhalb des EWR zu den oben genannten Zwecken verarbeitet.</n></n>Durch das Lesen der Nutzungsbedingungen und der unten gegebenen Datenschutzrichtlinie sowie der Aktivierung Ihrer Einstellungen für die Übertragung von Spieldaten stimmen Sie der Verarbeitung Ihrer Spieldaten durch Capcom zu, und Capcom darf Ihre Spieldaten auf der Grundlage Ihrer Zustimmung verarbeiten. Sie können Ihre Zustimmung jedoch später jederzeit widerrufen.</n></n>Ob Sie die Übertragung Ihrer Spieldaten aktivieren oder nicht, liegt ausschließlich in Ihrem eigenen Ermessen. Wenn Sie Ihre Spieldaten nicht übertragen möchten, können Sie diese nicht in RE NET betrachten, aber dies wirkt sich nicht auf Ihr Spiel aus.</n></n>Die Einstellung dieser Funktion kann jederzeit geändert werden, indem RE NET aus der Liste der Optionen ausgewählt wird. Auch wenn Sie die Einstellung deaktivieren, werden jedoch diejenigen Daten, die bis zu diesem Zeitpunkt bereits an den Server übertragen wurden, nicht gelöscht und bleiben weiterhin verfügbar.</n></n>Datenschutzregelung (http://www.capcom.co.jp/privacy/game/)
+Este juego tiene una función que permite que usted comparta sus datos de juego con el servicio de portal RESIDENT EVIL.NET (RE NET) (https://www.residentevil.net) operado por Capcom Co., Ltd. Para usar el portal RE NET, usted debe aceptar los Términos de Uso RE NET (de aquí en adelante denominados, "Términos de Uso") así como la Política de Privacidad suministrada separadamente.</n></n>Si usted activa la configuración para transmisión de datos de juego, sus datos de juego y su dirección IP (en conjunto, "Datos de Juego") serán transmitidos al servidor operado por Capcom en Japón, independientemente de su país de residencia.</n>Capcom también adquiere información asociada con su cuenta desde el proveedor de la plataforma de juego que usted utiliza, y vincula tal información a su Datos de Juego.</n></n>Usted puede desactivar la configuración para transmisión de datos de juego posteriormente; no obstante, los datos que ya fueron transmitidos al servidor hasta entonces no serán borrados y permanecerán accesibles.</n>La información que obtengamos será utilizada solamente con la finalidad de dar acceso al servicio RE NET y ayudar a desarrollar futuros productos de la serie RESIDENT EVIL / BIOHAZARD (de aquí en adelante denominados, "Propósitos").</n></n>Capcom puede revelar sus Datos de Juego a terceros, tales como sus subsidiarias, afiliadas, vendedores en la nube contratados, proveedores de servicios y otras empresas contratistas (de aquí en adelante denominadas, "Terceros") para llevar a cabo los Propósitos arriba mencionados.</n>Algunos de los Terceros a los cuales Capcom puede divulgar sus Datos de Juego se encuentran en países fuera del Espacio Económico Europeo o "EEE" (tales países externos incluyen a Japón y los Estados Unidos de América, sin limitarse a ellos) y con su aceptación de los Términos de Uso, se considera que usted comprendió y aceptó lo siguiente:</n></n>-	Los países donde se encuentran los Terceros pueden estar fuera de EEE y no tener leyes para la protección de datos del mismo nivel que en EEE, y pueden no garantizar muchos de los derechos de datos concedidos por el EEE.</n>-	Capcom puede entregar sus Datos de Juego a Terceros en países fuera del EEE.</n>-	Sus Datos de Juego pueden ser procesados no solamente por Capcom, sino que también por Terceros fuera del EEE para los Propósitos arriba especificados.</n></n>Con la lectura de los Términos de Uso y la Política de Privacidad abajo, y con la activación de la configuración para la transmisión de sus Datos de Juego, usted consiente en que Capcom procese sus Datos de Juego, y que Capcom efectúe tal procesamiento de sus Datos de Juego basado en su consentimiento. No obstante, usted puede revocar su consentimiento posteriormente, en cualquier momento.</n></n>La activación o no de la transmisión de sus Datos de Juego depende solamente de usted. Si usted no quisiera transmitir sus Datos de Juego, usted no podrá verlos en RE NET, pero eso no afectará a su juego.</n></n>La configuración de esta función puede ser alterada en cualquier momento a través de la selección de RE NET en la lista de opciones. Incluso si usted desactiva esta configuración, los datos que ya fueron transmitidos al servidor hasta entonces no serán borrados y permanecerán accesibles.</n></n>Política de privacidad (http://www.capcom.co.jp/privacy/game/)
+Данная игра предоставляет вам возможность совместно использовать игровые данные с помощью веб-сервиса RESIDENT EVIL.NET (RE NET) (https://www.residentevil.net), которым управляет Capcom Co., Ltd. Чтобы использовать веб-сайт RE NET, вам необходимо согласиться с Условиями использования RE NET (“Условия использования”), а также с предоставляемой отдельно Политикой конфиденциальности. </n></n>При включении настройки передачи игровых данных ваши игровые данные и IP-адрес (собирательно именуемые как "Игровые данные") будут передаваться на сервер в Японии, управляемый Capcom, независимо от страны вашего пребывания.</n>Capcom также может получать информацию, относящуюся к вашей учетной записи, от используемого вами провайдера игровой платформы, и связывать эту информацию с вашими Игровыми данными.</n></n>Позже вы можете отключить настройку передачи Игровых данных, однако, данные, которые уже были переданы на сервер до этого момента, не будут удалены и останутся доступными.</n>Полученная нами информация будет использоваться только в целях обеспечения доступности для вас сервиса RE NET и помощи в разработке будущих продуктов серии RESIDENT EVIL / BIOHAZARD (“Цели”).</n></n>Для достижения вышеуказанных Целей Capcom может раскрывать ваши Игровые данные третьим сторонам, включая свои дочерние компании, филиалы, законтрактованных поставщиков решений для облачных вычислений и провайдеров услуг, а также другие законтрактованные компании (“Третьи стороны”).</n>Некоторые из Третьих сторон, для которых Capcom может предоставить ваши Игровые данные, расположены в странах за пределами Европейского экономического пространства, именуемого “EEA” (к таким внешним странам относятся Япония и Соединенные Штаты Америки, но не ограничиваются ими), поэтому ваше согласие с Условиями использования расценивается как согласие и понимание следующего:</n></n>- Страны, в которых расположены Третьи стороны, могут не входить в EEA и могут не иметь законов по защите данных на том же уровне, что и в EEA, и могут не предоставлять многих прав доступа к данным, предоставляемых в EEA.</n>- Capcom может предоставлять ваши Игровые данные Третьим сторонам в странах за пределами EEA. </n>- Ваши Игровые данные могут обрабатываться не только компанией Capcom, но и любыми Третьими сторонами за пределами EEA в указанных выше Целях.</n></n>Прочтение вами приведенных ниже Условий использования и Политики конфиденциальности, а также включение вами настройки передачи Игровых данных расценивается как согласие на обработку компанией Capcom ваших Игровых данных, а также как то, что Capcom может обрабатывать ваши Игровые данные на основании вашего согласия. Тем не менее, вы можете аннулировать свое согласие позже в любой момент.</n></n>Будут ваши Игровые данные передаваться или нет, зависит только от вашего решения. Если вы не хотите передавать свои Игровые данные, вы не сможете просматривать их в RE NET, однако это не повлияет на ваше участие в игре.</n></n>Настройку данной функции можно изменить в любой момент, выбрав RE NET в списке параметров. Даже в случае отключения данной настройки данные, которые уже были переданы на сервер до этого момента, не будут удалены и останутся доступными.</n></n>Политика конфиденциальности (http://www.capcom.co.jp/privacy/game/)
+Poniższa gra oferuje funkcję udostępniania danych gry usłudze internetowej RESIDENT EVIL.NET (RE NET (https://www.residentevil.net) świadczonej przez firmę Capcom Co., Ltd. W celu korzystania ze strony internetowej RE NET Web należy wyrazić zgodę na warunki użytkowania RE NET („Warunki użytkowania”), a także zasady Polityki prywatności zapewniane oddzielnie. </n></n>Włączenie ustawienia transmisji danych gry spowoduje przesłanie danych gry i adresu IP (zbiorczo nazywanych „Danymi gry”) na serwer w Japonii, obsługiwany przez firmę Capcom, niezależnie od kraju zamieszkania użytkownika.</n>Firma Capcom może także poprosić dostawcę platformy gier, z której użytkownik korzysta, o przesłanie informacji związanych z kontem użytkownika, a następnie może powiązać takie informacje z Danymi gry użytkownika.</n></n>Ustawienie transmisji Danych gry można w późniejszym czasie wyłączyć, jednak dane przesłane do tej pory na serwer nie zostaną usunięte i będą nadal dostępne.</n>Uzyskane przez nas informacje będą wykorzystywane wyłącznie w celach udostępniania usługi RE NET użytkownikowi, a w przyszłości także usprawniania produktów serii RESIDENT EVIL / BIOHAZARD („Cele”).</n></n>Firma Capcom może ujawniać Dane gry użytkownika stronom trzecim, w tym swoim spółkom zależnym, podmiotom powiązanym, zakontraktowanym sprzedawcom usług w chmurze oraz dostawcom usług, a także innym firmom objętym umową („Strony trzecie”), dzięki czemu firma będzie mogła realizować wyżej określone Cele.</n>Niektóre Strony trzecie, którym firma Capcom może udostępniać Dane gry użytkownika, znajdują się w krajach poza Europejskim Obszarem Gospodarczym, zwanym „EOG”(takie kraje to między innymi Japonia i Stany Zjednoczone), więc wyrażając zgodę na Warunki użytkowania, użytkownik rozumie zgadza się także na następujące warunki:</n></n>- Strony trzecie mogą być zlokalizowane poza obszarem EOG, i mogą nie dysponować ustawami o ochronie danych na tym samym poziomie, co ustawy obowiązujące na obszarze EOG, a także mogą nie gwarantować różnych praw dotyczących danych, zapewnianych na obszarze EOG.</n>- Firma Capcom może udostępniać Dane gry użytkownika Stronom trzecim w krajach poza obszarem EOG. </n>- Dane gry użytkownika mogą być przetwarzane nie tylko przez firmę Capcom, ale także przez dowolną Stronę trzecią spoza obszaru EOG, w celach opisanych powyżej.</n></n>Zapoznanie się z poniższymi Warunkami użytkowania i zasadami Polityki prywatności, oraz włączenie ustawienia transmisji Danych gry, oznacza równocześnie zgodę na przetwarzanie Danych gry użytkownika przez firmę Capcom, a w oparciu o wyrażoną przez użytkownika zgodę firma Capcom może przetwarzać Dane gry. Zgodę można jednak w dowolnym czasie anulować.</n></n>Decyzja o aktywowaniu opcji transmisji Danych gry należy wyłącznie do użytkownika. Jeśli użytkownik nie wyrazi zgody na przesyłanie swoich Danych gry, nie będą one wyświetlane na stronie RE NET, jednak nie wpłynie to na samą grę.</n></n>Ustawienie tej funkcji można zmienić w dowolnym czasie, wybierając opcję RE NET na liście opcji. Nawet jeśli ustawienie zostanie wyłączone, dane przesłane do tej pory na serwer nie zostaną usunięte i będą nadal dostępne.</n></n>Polityka prywatności (http://www.capcom.co.jp/privacy/game/)
+Este jogo tem uma função que permite que você compartilhe os seus dados de jogo com o serviço do portal RESIDENT EVIL.NET (RE NET) (https://www.residentevil.net) operado pela Capcom Co., Ltd. Para usar o portal RE NET, você precisa aceitar os Termos de Uso RE NET (doravante, "Termos de Uso") bem como a Política de Privacidade provida separadamente.</n></n>Se você ativar a configuração para transmissão de dados de jogo, os seus dados de jogo e o seu endereço IP (coletivamente, "Dados de Jogo") serão transmitidos ao servidor operado pela Capcom no Japão, independentemente do seu país de residência.</n>A Capcom também adquire informações associadas com a sua conta a partir do provedor da plataforma de jogo que você utiliza, e vincula tais informações com os seus Dados de Jogo.</n></n>Você pode desativar a configuração para transmissão de dados de jogo posteriormente, mas os dados que já foram transmitidos ao servidor até então não serão apagados e permanecerão acessíveis.</n>As informações que obtivermos serão utilizadas somente para os propósitos de dar-lhe acesso ao serviço RE NET e ajudar a desenvolver futuros produtos da série RESIDENT EVIL / BIOHAZARD (doravante, "Propósitos).</n></n>A Capcom pode revelar os seus Dados de Jogo a terceiros, tais como as suas subsidiárias, afiliadas, vendedores nas nuvens, provedores de serviços e outras companhias contratadas (doravante, "Terceiros") para realizar os Propósitos acima mencionados.</n>Alguns dos Terceiros aos quais a Capcom pode divulgar os seus Dados de Jogo encontram-se em países fora do Espaço Econômico Europeu ou "EEE" (tais países externos incluem o Japão e os Estados Unidos da América sem a eles limitar-se) e com a sua aceitação dos Termos de Uso, considera-se que você entendeu e aceitou o seguinte:</n></n>-	Os países onde Terceiros se encontram podem estar fora do EEE e não ter leis de proteção de dados do mesmo nível que o EEE, e podem não conferir muitos dos direitos de dados concedidos pelo EEE.</n>-	A Capcom pode fornecer os seus Dados de Jogo a Terceiros em países fora do EEE.</n>-	Os seus Dados de Jogo podem ser processados não somente pela Capcom, mas também por quaisquer Terceiros fora do EEE para os Propósitos acima especificados.</n></n>Com a leitura dos Termos de Uso e da Política de Privacidade abaixo e com a ativação da configuração para transmissão de seus Dados de Jogo, você consente que a Capcom processe os seus Dados de Jogo e a Capcom pode processar os seus Dados de Jogo com base no seu consentimento. Contudo, você pode revocar o seu consentimento posteriormente a qualquer momento.</n></n>A ativação ou não da transmissão de seus Dados de Jogo depende somente de você. Se você não quiser transmitir os seus Dados de Jogo, você não poderá vê-los no RE NET, mas isto não afetará o seu jogo.</n></n>A configuração desta função pode ser alterada a qualquer momento através da seleção de RE NET na lista de opções. Mesmo que você desative esta configuração, os dados que já foram transmitidos ao servidor até então não serão apagados e permanecerão acessíveis.</n></n>Pol. de Privacidade (http://www.capcom.co.jp/privacy/game/)
+이 게임에는 주식회사 캡콤이 운영하는 웹서비스 「RESIDENT EVIL.NET(RE NET)」(https://www.residentevil.net)와 게임의 플레이 데이터를 공유하는 기능이 있습니다. 「RE NET」 웹사이트 상에서의 이용에는 별도로 정하는 「RE NET」 이용규약 및 프라이버시 정책에 동의하실 필요가 있습니다.</n></n>플레이 데이터의 송신 설정을 ON으로 했을 경우 사용자의 거주국에 관계 없이 주식회사 캡콤이 운영하는 일본 국내 서버에 플레이 데이터, IP 주소(이하 「플레이 데이터」)를 송신합니다.</n>또한 당사는 사용자가 사용하는 게임 플랫폼 제공자로부터 사용자 어카운트에 관련된 정보를 취득하고, 플레이 데이터와 연결하여 보관하는 경우가 있습니다.</n></n>플레이 데이터의 송신 설정을 도중에 OFF로 변경해도 그때까지 송신된 데이터는 삭제되지 않고 계속해서 공개됩니다.</n>송신 받는 정보는 RE NET에서의 서비스 이용목적 외에 앞으로의 RESIDENT EVIL / BIOHAZARD 시리즈의 제품개발에 참고합니다.</n></n>당사는 상기에서 특정한 이용목적 달성을 위해 사용자의 플레이 데이터를 당사 자회사나 관련 회사, 클라우드 벤더나 서비스 운영회사 등 당사 업무위탁처 회사를 비롯한 제삼자에게 제공합니다.</n>당사가 사용자의 플레이 데이터를 제공하는 제삼자 중에는 EEA（유럽 경제 지역） 역외 국가(일본, 미국을 포함합니다만 그에 한하지 않습니다. 이하 같음.)에 소재하는 곳도 포함되므로 사용자는 본 이용규약에 동의하면 이하의 사항에 대해 동의하는 것으로 합니다.</n></n>-EEA 역외에 있는 제삼자가 소재하는 국가에서는 EEA 지역과 같은 데이터 보호법이 정비되어 있지 않으므로 EEA 지역에서 데이터 주체에게 부여되는 권리의 대부분이 부여되지 않는 것</n>-사용자의 플레이 데이터를 EEA 역외 국가에 있는 제삼자에게 제공하는 것</n>-상기에서 특정된 이용목적을 위해 당사뿐만 아니라 당사가 제공을 하는 EEA 역외에 있는 제삼자에게 사용자의 플레이 데이터가 제공되고, 해당 제삼자에 의해서도 처리되는 것.</n></n>사용자는 본 이용규약 및 다음의 프라이버시 정책을 읽고 플레이 데이터 송신을 함으로써 당사에 의한 플레이 데이터의 처리에 대해 동의한 것이 되고, 당사는 사용자의 이 동의에 의거하여 사용자의 플레이 데이터를 처리합니다. 단, 사용자는 이 동의를 언제든지 철회할 수 있습니다.</n></n>플레이 데이터의 송신에 대한 동의는 의무가 아니라 사용자가 임의로 받아들일지 여부를 결정할 수 있습니다. 송신하지 않을 경우는 RE NET에서의 플레이 데이터 열람은 할 수 없습니다만 게임 플레이에 영향을 주는 것은 아닙니다.</n></n>이 기능의 설정은 옵션 항목에서 「RE NET」를 선택하면 언제든지 변경할 수 있습니다. 설정을 변경해도 그때까지 송신된 플레이 데이터는 삭제되지 않고 계속해서 공개됩니다.</n></n>개인정보 보호정책 (http://www.capcom.co.jp/privacy/game/)
+在本遊戲中備有共享由喀普康有限公司(CAPCOM CO．，LTD)運營的網絡服務“RESIDENT EVIL.NET（RE NET）”（https://www.residentevil.net）和遊戲的遊戲數據的功能。</n>在 “RE NET”的網站上使用時，必須同意另行規定的“RE NET”的使用規章及隱私政策。</n></n>將遊戲數據的發送設定於ON時，無論用戶的所在國如何，均將遊戲數據、IP地址</n>（以下簡稱為“遊戲數據”）發送至喀普康有限公司(CAPCOM CO．，LTD)運營的日本國內的服務器。</n>另外，本公司能夠從用戶使用的遊戲的平台提供者獲取與用戶賬戶相關的資訊，並且有時將其與遊戲數據相關地進行保管。</n></n>即使在中途變更遊戲數據的發送設定，到那時為止所發送的數據不予刪除，繼續予以公開。</n>所發送的資訊除了用於RE NET的服務使用的目的之外，亦將其用作為今後的RESIDENT EVIL / BIOHAZARD系列產品開發的參考。</n></n>為了達到上述特定目的，本公司將用戶的遊戲數據提供給以本公司的子公司、相關公司、雲供應商、服務運營公司等業務承包公司為首的第三方。</n>在本公司所提供的用户的遊戲數據的第三方中， 包括位於EEA(歐洲經濟區)境外的國家（包括日本、美國，但不受此限。以下相同）, 用户同意本使用規章即表示同意下列事項。</n></n>-在EEA(歐洲經濟區)境外的第三方所在國家未完備與EEA(歐洲經濟區)地區相同的數據保護法，尚未獲得在EEA(歐洲經濟區)對數據主體所給予的許多權利。</n>-將用戶的遊戲數據向位於EEA(歐洲經濟區)境外的第三方提供。</n>-見於上述特定的使用目的，不僅對本公司，並且對本公司所提供的EEA(歐洲經濟區)境外第三方提供用户的遊戲數據，由第三方進行處理。</n></n>用户透過閱讀本使用規章和下列隱私政策，發送遊戲數據，便表示用户同意本公司處理遊戲數據，並且本公司基於用户的同意而處理用户的遊戲數據。 但是，用户能夠隨時撤回此類同意。</n></n>對同意發送遊戲數據並非應履行的義務，用户能够任意決定接受與否。雖然不同意發送而不能在RE NET上閱覽遊戲數據，但不影響玩遊戲。</n></n>如果從選項項目選擇“RE NET”，便能夠隨時變更該功能的設定。即使變更設定，到那時為止所發送的數據不予刪除，繼續予以公開。</n></n>隱私權政策 (http://www.capcom.co.jp/privacy/game/)
+在本游戏中备有共享由喀普康有限公司(CAPCOM CO．，LTD)运营的网络服务“RESIDENT EVIL.NET（RE NET）”（https://www.residentevil.net）和游戏的游戏数据的功能。</n>在 “RE NET”的网站上使用时，必须同意另行规定的“RE NET”的使用规章及隐私政策。</n></n>将游戏数据的发送设定置于ON时，无论用户的所在国如何，均将游戏数据、IP地址</n>（以下简称为“游戏数据”）发送至喀普康有限公司(CAPCOM CO．，LTD)运营的日本国内的服务器。</n>另外，本公司能够从用户使用的游戏的平台提供者获取与用户帐户相关的信息，并且有时将其与游戏数据相关联地进行保管。</n></n>即使在中途变更游戏数据的发送设定，到那时为止所发送的数据不予删除，继续予以公开。</n>所发送的信息除了用于RE NET的服务使用的目的之外，亦将其用作为今后的RESIDENT EVIL / BIOHAZARD系列产品开发的参考。</n></n>为了达到上述特定目的，本公司将用户的游戏数据提供给以本公司的子公司、相关公司、云供应商、服务运营公司等业务承包公司为首的第三方。</n>在本公司所提供的用户的游戏数据的第三方中， 包括位于EEA(欧洲经济区)境外的国家（包括日本、美国，但不受此限。以下相同。）, 用户同意本使用规章即表示同意下列事项。</n></n>-在EEA(欧洲经济区)境外的第三方所在国家未完备与EEA(欧洲经济区)地区相同的数据保护法，尚未获得在EEA(欧洲经济区)对数据主体所给予的许多权利。</n>-将用户的游戏数据向位于EEA(欧洲经济区)境外的第三方提供。</n>-鉴于上述特定的使用目的，不仅对本公司，并且对本公司所提供的EEA(欧洲经济区)境外第三方提供用户的游戏数据，由第三方进行处理。</n></n>用户通过阅读本使用规章和下列隐私政策，发送游戏数据，便表示用户同意本公司处理游戏数据，并且本公司基于用户的同意而处理用户的游戏数据。 但是，用户能够随时撤回此类同意。</n></n>对同意发送游戏数据并非应履行的义务，用户能够任意决定接受与否。虽然不同意发送而不能在RE NET上阅览游戏数据，但不影响玩游戏。</n></n>如果从选项项目选择“RE NET”，便能够随时变更该功能的设定。即使变更设定，到那时为止所发送的数据不予删除，继续予以公开。</n></n>隐私政策 (http://www.capcom.co.jp/privacy/game/)
+プライバシーポリシー確認のため</n>WEBページを開きますか？
+Jump to the RE NET homepage to read our privacy policy?
+Accéder à la page de RE NET pour en savoir plus</n>sur notre politique de confidentialité ?
+Andare alla pagina iniziale di RE NET per avere maggiori</n>informazioni riguardo l'informativa sulla privacy?
+Zur Homepage von RE NET wechseln,</n>um die Datenschutzregelung zu lesen?
+¿Quieres ir a la web oficial de RE NET</n>para leer la política de privacidad?
+Перейти на страницу RE NET, чтобы узнать подробнее о политике конфиденциальности?
+Przejść do strony głównej usługi RE NET w celu przeczytania polityki prywatności?
+Ir para a página inicial da RE NET e ler nossa política de privacidade?
+RE NET 홈페이지로 이동하여 개인정보 보호정책을 읽어보시겠습니까?
+您要前往 RE NET 首頁閱讀我們的隱私權政策嗎？
+要前往 RE NET 主页阅读我们的隐私策略吗？
+利用規約
+Terms of Service
+Conditions d'utilisation
+Termini del servizio
+Nutzungsbedingungen
+Términos de servicio
+Условия обслуживания
+Warunki korzystania
+Termos de Serviço
+서비스 약관
+服務條款
+服务条款
+RE NETの利用規約を確認します
+View the RE NET terms of services.
+Voir les conditions d'utilisation du service RE NET.
+Visualizza i termini del servizio di RE NET.
+Die Nutzungsbedingungen von RE NET ansehen.
+Ver los términos de servicio de RE NET.
+Узнать условия обслуживания RE NET.
+Wyświetl warunki korzystania z RE NET.
+Leia os termos de serviço da RE NET.
+RE NET 서비스 약관을 봅니다.
+查看 RE NET 的服務條款。
+查看 RE NET 的服务条款。
+閉じる
+Close
+Fermer
+Chiudi
+Schließen
+Cerrar
+Закрыть
+Zamknij
+Fechar
+닫기
+關閉
+关闭
+プライバシーポリシー
+Privacy Policy
+Politique de confidentialité
+Informativa sulla privacy
+Datenschutzregelung
+Política de privacidad
+Политика конфиденциальности
+Polityka prywatności
+Pol. de Privacidade
+개인정보 보호정책
+隱私權政策
+隐私政策
+プレイデータの送信を開始します。</n>送信はセーブ時などに行われます。
+Now sending play data to RE NET.</n>Data will be sent whenever you save to a save slot.
+Envoi des données de jeu à RE NET.</n>Les données seront envoyées à chaque fois que vous</n>sauvegarderez la partie sur un emplacement de sauvegarde.
+Invio dati di gioco a RE NET...</n>I dati saranno inviati ogni volta che effettuerai un salvataggio.
+Spieldaten werden jetzt zu RE NET übertragen.</n>Daten werden jedes Mal gesendet,</n>wenn Sie in einem Speicherplatz speichern.
+Enviando datos de juego a RE NET.</n>Los datos se enviarán cuando guardes en un espacio de guardado.
+Передача игровых данных в RE NET.</n>Данные будут отправляться каждый раз после сохранения игры.
+Teraz dane dotyczące rozgrywki będą synchronizowane z usługą RE NET.</n>Nastąpi to po każdym zapisaniu gry w punkcie zapisu.
+Enviando dados de jogo à RE NET.</n>Os dados serão enviados sempre que você salvar o jogo.
+플레이 데이터를 RE NET에 보내는 중입니다.</n>저장 슬롯에 게임을 저장할 때마다 데이터가 전송됩니다.
+正在將遊戲資料傳送至 RE NET。</n>系統會在您每次儲存至存檔欄位時傳送遊戲資料。
+正在将您的游戏数据传送至 RE NET。</n>系统会在您每次将游戏保存至保存位置时传送游戏数据。
+ネットワークに接続できない状態では</n>プレイデータの送信を開始できません。
+Play data cannot be sent without a network connection.
+L'envoi des données de jeu nécessite une connexion au réseau.
+I dati di gioco non possono essere</n>inviati senza una connessione di rete.
+Ohne eine Netzwerkverbindung können</n>die Spieldaten nicht übertragen werden.
+No se pueden enviar los datos de juego sin conexión.
+Невозможно передать игровые данные без подключения к сети.
+Dane dotyczące rozgrywki nie mogą być synchronizowane bez połączenia z Internetem.
+Não é possível enviar dados de jogo sem uma conexão de rede.
+네트워크에 연결되어 있지 않으면 플레이 데이터를 전송할 수 없습니다.
+沒有網路連線時，便會無法傳送遊戲資料。
+游戏数据需要网络连线才可传送。
+プレイデータの送信をやめますか？
+Stop sending play data to RE NET?
+Désactiver l'envoi des données de jeu à RE NET ?
+Interrompere l'invio dei dati a RE NET?
+Die Übertragung von Spieldaten zu RE NET deaktivieren?
+¿Quieres dejar de enviar datos de juego a RE NET?
+Прекратить передачу игровых данных в RE NET?
+Przestać synchronizować dane dotyczące rozgrywki z usługą RE NET?
+Parar de enviar dados de jogo à RE NET?
+RE NET에 대한 플레이 데이터 전송을 중단하시겠습니까?
+您要停止將遊戲資料傳送至 RE NET 嗎？
+要停止将您的游戏数据传送至 RE NET 吗？
+RE NETとは BIOHAZARD の世界をより深く体験できる、完全無料のサービスです。</n>プレイデータ、IPアドレス（以下「プレイデータ」）を送信することで、</n>自分のプレイ戦歴を振り返ったり、チャレンジに挑んだりできます。</n>また、送信されたプレイデータは、今後の製品開発の参考にさせていただきます。</n></n>※下記の利用規約を読んでから同意してください
+RE NET is a completely free service that gives you a deeper</n>look into the BIOHAZARD universe.</n></n>Send your play data (game progress and IP address) to gain access to</n>a variety of services, including your play history and unique challenges.</n>Play data sent to RE NET may be used for future development.</n></n>*Please read and agree to the terms of service below.
+RE NET est un service entièrement gratuit destiné à enrichir encore plus</n>votre expérience dans l'univers de BIOHAZARD.</n></n>Envoyez vos données de jeu (progression et adresse IP) pour avoir accès</n>à divers services tels que votre historique de jeu et des défis uniques.</n>Les données de jeu envoyées à RE NET pourront être utilisées pour des</n>développements futurs.</n></n>* Veuillez lire et accepter les conditions d'utilisation ci-dessous.
+RE NET è un servizio completamente gratuito che offre un'esperienza</n>ancora più ricca dell'universo di BIOHAZARD. </n></n>Invia i tuoi dati di gioco (progressi di gioco e indirizzo IP) per avere accesso</n>a una varietà di servizi come la cronologia di gioco e sfide uniche.</n>I dati di gioco inviati a RE NET potranno essere usati in futuro per altri prodotti.</n></n>*Si prega di leggere e accettare i seguenti termini del servizio.
+RE NET ist ein kostenloser Service, der Ihnen tiefere Einblicke in die Welt von BIOHAZARD</n>ermöglicht.</n></n>Übertragen Sie Ihre Spieldaten (Spielfortschritt und IP-Adresse), um Zugang zu verschiedenen</n>Funktionen zu erhalten, inklusive ihrem Spielverlauf und exklusiven Herausforderungen.</n>An RE NET gesendete Spieldaten dürfen für künftige Entwicklungen verwendet werden.</n></n>*Bitte lesen Sie die Nutzungsbedingungen unten und stimmen Sie ihnen zu.
+RE NET es un servicio completamente gratuito que te ofrece</n>una experiencia más profunda del universo de BIOHAZARD.</n></n>Envía tus datos de juego (progreso del juego y dirección IP)</n>para acceder a una gran cantidad de servicios, incluyendo historial</n>de juego y desafíos únicos. Los datos de juego enviados a RE NET</n>podrán ser usados para el desarrollo de futuros proyectos.</n></n>*Por favor, lee y acepta los términos de servicio a continuación.
+RE NET — это совершенно бесплатный сервис, помогающий еще глубже окунуться в мир BIOHAZARD.</n></n>Отправьте свои игровые данные (прогресс в игре и IP-адрес), чтобы получить доступ</n>к различным возможностям, в том числе к истории вашей игры и уникальным испытаниям.</n>Игровые данные, отправленные в RE NET, могут быть использованы в дальнейшей разработке.</n></n>* Требуется ознакомление и согласие с приведенными ниже условиями использования.
+RE NET to całkowicie bezpłatna usługa, która pozwala</n>dowiedzieć się więcej o uniwersum BIOHAZARD.</n></n>Aby uzyskać dostęp do różnych usług, w tym historii rozgrywek</n>oraz wyjątkowych wyzwań, prześlij do niej swoje dane z gry (postępy i adres IP).</n>Mogą one zostać wykorzystane w przyszłych pracach nad grą.</n></n>* Przeczytaj i zaakceptuj poniższe warunki korzystania.
+RE NET é um serviço grátis que permite ao</n>jogador se aprofundar no universo de BIOHAZARD.</n></n>Envie seus dados de jogo (progresso e endereço de IP) para acessar</n>diversos serviços, como o seu histórico de jogo e desafios únicos.</n>Os dados enviados à RE NET podem ser usados para desenvolvimento futuro.</n></n>*Leia e aceite os termos de serviço abaixo.
+RE NET은 BIOHAZARD 세계를 더욱 깊이 있게</n>들여다볼 수 있게 도와주는 무료 사이트입니다.</n></n>플레이 데이터(게임 진행 상태 및 IP 주소)를 보내 플레이 내역 및</n>고유 도전 과제 등을 비롯한 다양한 서비스를 이용할 수 있습니다.</n>RE NET에 보낸 플레이 데이터는 향후 개발에 사용될 수 있습니다.</n></n>*아래 서비스 약관을 읽고 동의해 주십시오.
+RE NET 是一項能讓您深入體驗 Biohazard 世界觀的免費服務。</n></n>將您的遊戲資料（遊戲進度與 IP 位址）傳送出去，</n>即可取得一系列的服務，包括您的遊戲歷程與獨特的挑戰。</n>傳送到 RE NET 的遊戲資料將會用於未來的開發。</n></n>* 請閱讀並同意以下的服務條款。</n>
+RE NET 是一项能让您深入体验 BIOHAZARD 世界观的免费服务。</n></n>将您的游戏资料（游戏进度与 IP 位址）传送出去，</n>即可取得一系列的服务，包括您的游戏历程与独特的挑战。</n>传送到 RE NET 的游戏资料将会用于未来的开发。</n></n>* 请阅读并同意以下的服务条款。
+RE NETとは Resident Evil の世界をより深く体験できる、完全無料のサービスです。</n>プレイデータ、IPアドレス（以下「プレイデータ」）を送信することで、</n>自分のプレイ戦歴を振り返ったり、チャレンジに挑んだりできます。</n>また、送信されたプレイデータは、今後の製品開発の参考にさせていただきます。</n></n>※下記の利用規約を読んでから同意してください
+RE NET is a completely free service that gives you a deeper look into the Resident Evil universe.</n></n>Send your play data (game progress and IP address) to gain access to a variety of services, including your play history and unique challenges.</n>Play data sent to RE NET may be used for future development.</n></n>*Please read and agree to the terms of services below.
+RE NET est un service entièrement gratuit destiné à enrichir encore plus votre expérience dans l'univers de Resident Evil.</n></n>Envoyez vos données de jeu (progression et adresse IP) pour avoir accès à divers services tels que votre historique de jeu</n>et des défis uniques. Les données de jeu envoyées à RE NET pourront être utilisées pour des développements futurs.</n></n>* Veuillez lire et accepter les conditions d'utilisation ci-dessous.
+RE NET è un servizio completamente gratuito che offre un'esperienza</n>ancora più ricca dell'universo di Resident Evil. </n></n>Invia i tuoi dati di gioco (progressi di gioco e indirizzo IP) per avere accesso</n>a una varietà di servizi come la cronologia di gioco e sfide uniche.</n>I dati di gioco inviati a RE NET potranno essere usati in futuro per altri prodotti.</n></n>*Si prega di leggere e accettare i seguenti termini del servizio.
+RE NET ist ein kostenloser Service, der Ihnen tiefere Einblicke in die Welt von Resident Evil</n>ermöglicht.</n></n>Übertragen Sie Ihre Spieldaten (Spielfortschritt und IP-Adresse), um Zugang zu verschiedenen</n>Funktionen zu erhalten, inklusive ihrem Spielverlauf und exklusiven Herausforderungen.</n>An RE NET gesendete Spieldaten dürfen für künftige Entwicklungen verwendet werden.</n></n>*Bitte lesen Sie die Nutzungsbedingungen unten und stimmen Sie ihnen zu.
+RE NET es un servicio completamente gratuito que te ofrece una experiencia</n>más profunda del universo de RESIDENT EVIL.</n></n>Envía tus datos de juego (progreso del juego y dirección IP) para acceder a una gran cantidad</n>de servicios, incluyendo historial de juego y desafíos únicos. Los datos de juego enviados a</n>RE NET podrán ser usados para el desarrollo de futuros proyectos.</n></n></n>*Por favor, lee y acepta los términos de servicio a continuación.
+RE NET — это совершенно бесплатный сервис, помогающий еще глубже окунуться в мир Resident Evil.</n></n>Отправьте свои игровые данные (прогресс в игре и IP-адрес), чтобы получить доступ</n>к различным возможностям, в том числе к истории вашей игры и уникальным испытаниям.</n>Игровые данные, отправленные в RE NET, могут быть использованы в дальнейшей разработке.</n></n>* Требуется ознакомление и согласие с приведенными ниже условиями использования.
+RE NET to całkowicie bezpłatna usługa, która pozwala dowiedzieć się więcej o uniwersum Resident Evil.</n></n>Aby uzyskać dostęp do różnych usług, w tym historii rozgrywek oraz wyjątkowych wyzwań, prześlij do niej swoje dane z gry (postępy i adres IP).</n>Mogą one zostać wykorzystane w przyszłych pracach nad grą.</n></n>* Przeczytaj i zaakceptuj poniższe warunki korzystania.
+RE NET é um serviço grátis que permite ao jogador se aprofundar no universo de Resident Evil.</n></n>Envie seus dados de jogo (progresso e endereço de IP) para acessar diversos serviços, como o seu histórico de jogo e desafios únicos.</n>Os dados enviados à RE NET podem ser usados para desenvolvimento futuro.</n></n>*Leia e aceite os termos de serviço abaixo.
+RE NET은 Resident Evil 세계를 더욱 깊이 있게 들여다볼 수 있게 도와주는 무료 사이트입니다.</n></n>플레이 데이터(게임 진행 상태 및 IP 주소)를 보내 플레이 내역 및 고유 도전 과제 등을 비롯한 다양한 서비스를 이용할 수 있습니다.</n>RE NET에 보낸 플레이 데이터는 향후 개발에 사용될 수 있습니다.</n></n>*아래 서비스 약관을 읽고 동의해 주십시오.
+RE NET 是一項能讓您深入體驗 Resident Evil 世界觀的免費服務。</n></n>將您的遊戲資料（遊戲進度與 IP 位址）傳送出去，即可取得一系列的服務，包括您的遊戲歷程與獨特的挑戰。</n>傳送到 RE NET 的遊戲資料將會用於未來的開發。</n></n>* 請閱讀並同意以下的服務條款。
+RE NET 是一项能让您深入体验 Resident Evil 世界观的免费服务。</n></n>将您的游戏资料（游戏进度与 IP 位址）传送出去，即可取得一系列的服务，包括您的游戏历程与独特的挑战。</n>传送到 RE NET 的游戏资料将会用于未来的开发。</n></n>* 请阅读并同意以下的服务条款。
+RE NETページへ（https://www.residentevil.net/2/）
+RE NET Homepage (https://www.residentevil.net/2/)
+Page d'accueil RE NET (https://www.residentevil.net/2/)
+Pagina iniziale RE NET (https://www.residentevil.net/2/)
+RE NET Homepage (https://www.residentevil.net/2/)
+Web oficial de RE NET(https://www.residentevil.net/2/)
+Домашняя страница RE NET (https://www.residentevil.net/2/)
+Strona główna usługi RE NET (https://www.residentevil.net/2/)
+Página Inicial da RE NET (https://www.residentevil.net/2/)
+RE NET 홈페이지(https://www.residentevil.net/2/)
+RE NET 首頁 (https://www.residentevil.net/2/)
+RE NET 主页 (https://www.residentevil.net/2/)
+RE NETのWEBサイトにアクセスします
+Jump to the RE NET homepage.
+Accéder à la page de RE NET.
+Vai alla pagina iniziale di RE NET.
+Zur Homepage von RE NET wechseln.
+Ir a la web oficial de RE NET.
+Перейти на страницу RE NET.
+Przejdź do strony głównej usług RE NET.
+Ir para a página inicial da RE NET.
+RE NET 홈페이지로 이동합니다.
+前往 RE NET 首頁。
+前往 RE NET 主页。
+RE NETのWEBサイトを開きますか？
+Jump to the RE NET homepage?
+Accéder à la page de RE NET ?
+Andare alla pagina iniziale di RE NET?
+Zur Homepage von RE NET wechseln?
+¿Quieres ir a la web oficial de RE NET?
+Перейти на страницу RE NET?
+Przejść do strony głównej usługi RE NET?
+Ir para a página inicial da RE NET?
+RE NET 홈페이지로 이동하시겠습니까?
+要前往 RE NET 首頁嗎？
+前往 RE NET 主页。
+ウィークリーチャレンジ開催中
+Weekly Challenge Available
+Défi hebdomadaire disponible
+È disponibile una nuova sfida settimanale
+Wöchentliche Herausforderung verfügbar
+Desafío semanal disponible
+Доступно еженедельное испытание
+Dostępne jest cotygodniowe wyzwanie
+Desafio Semanal Disponível
+주간 도전 과제 사용 가능
+有可進行的每週挑戰
+可进行的每周挑战
+<ICON DEFAULT> チャレンジの確認
+<ICON DEFAULT> Check out the weekly challenge
+<ICON DEFAULT> Voir le défi
+<ICON DEFAULT> Guarda le sfide
+<ICON DEFAULT> Wöchentliche Herausforderung ansehen
+<ICON DEFAULT> Comprobar
+<ICON DEFAULT> Взгляните на еженедельное испытание
+<ICON DEFAULT> Zobacz cotygodniowe wyzwanie
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> Veja o desafio semanal
+<ICON DEFAULT> 주간 도전 과제를 확인하세요
+<ICON DEFAULT> 查看每週挑戰
+<ICON DEFAULT> 查看每周挑战
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+<ICON DEFAULT> 
+初回設定
+Initial Settings
+Paramètres initiaux
+Impostazioni iniziali
+Einstellungen
+Opciones iniciales
+Исходные настройки
+Ustawienia początkowe
+Configurações Iniciais
+최초 설정
+初始設定
+初始设置
+達成数
+Number Unlocked
+Débloqués :
+Sbloccati
+Freigeschaltet:
+Desbloqueados
+Открыто
+Liczba odblokowanych
+Desbloqueados
+잠금 해제 수
+解除鎖定數
+解锁数
+達成条件
+Conditions
+Conditions
+Condizioni
+Bedingung
+Condiciones
+Условия
+Warunki
+Condições
+조건
+條件
+条件
+報酬
+Rewards
+Récompenses
+Ricompense
+Belohnungen
+Recompensas
+Награды
+Nagrody
+Recompensas
+보상
+獎勵
+奖励
+進捗
+Completed:
+Progression :
+Completati
+Abgeschlossen:
+Progreso:
+Завершено:
+Ukończone:
+Concluídos:
+완료:
+已完成：
+已完成：
+現在
+Current:
+Actuel :
+Attuale:
+Aktuell:
+Actual: 
+Текущий:
+Aktualne:
+Atuais:
+현재:
+目前：
+当前：
+{0}回
+{0} Time(s)
+{0} fois
+{0}
+{0} Mal
+{0} vez/veces
+{0} раз(-а)
+Liczba użyć: {0}
+{0} Vez(es)
+{0}회
+{0} 次
+{0} 次
+{0}回
+{0} Time(s)
+{0} fois
+{0}
+{0} Mal
+{0} vez/veces
+{0} раз(-а)
+Liczba użyć: {0}
+{0} Vez(es)
+{0}회
+{0} 次
+{0} 次
+{0}歩
+{0} Steps
+{0} pas
+{0} passi
+{0} Schritte
+{0} pasos
+{0} шаг.
+Liczba kroków: {0}
+{0} Passos
+{0} 발걸음
+{0} 步
+{0} 步
+達成したレコード
+Unlockables Obtained 
+Bonus débloqués
+Hai ottenuto
+Abgeschlossene Herausforderungen
+Méritos obtenidos
+Получено наград 
+Odblokowane elementy 
+Desbloqueáveis Obtidos 
+잠금 해제 성공 수 
+已取得可解除鎖定的物品 
+已取得的可解锁物品 
+レコード項目
+Challenge
+Défi
+Sfida
+Herausforderung
+Récord
+Испытание
+Wyzwanie
+Desafio
+도전 과제
+挑戰
+挑战
+報酬
+Rewards
+Récompenses
+Ricompense
+Belohnungen
+Recompensas
+Награды
+Nagrody
+Recompensas
+보상
+獎勵
+奖励
+CLEAR GAME
+STORY COMPLETED
+CAMPAGNE COMPLÉTÉE
+STORIA COMPLETATA
+KAMPAGNE ABGESCHLOSSEN
+JUEGO COMPLETADO
+СЮЖЕТНЫЙ РЕЖИМ ПРОЙДЕН
+HISTORIA UKOŃCZONA
+HISTÓRIA CONCLUÍDA
+스토리 완료
+劇情完成
+已完成剧情
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Леон С. Кеннеди
+Leon S. Kennedy
+Leon S. Kennedy
+레온 S. 케네디
+里昂·S·甘迺迪
+里昂·S·肯尼迪
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Клэр Редфилд
+Claire Redfield
+Claire Redfield
+클레어 레드필드
+克蕾兒·雷德菲爾
+克莱尔·雷德菲尔德
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Leon01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Claire01
+Leon S. Kennedy (2nd)
+Leon S. Kennedy [2nd]
+Leon S. Kennedy (bis)
+Leon S. Kennedy (2)
+Leon S. Kennedy [2.]
+Leon S. Kennedy [2]
+Леон С. Кеннеди [2]
+Leon S. Kennedy [2nd]
+Leon S. Kennedy [2ª]
+레온 S. 케네디 [두 번째]
+里昂 [二周目]
+里昂 [第 2 版本]
+Claire Redfield (2nd)
+Claire Redfield [2nd]
+Claire Redfield (bis)
+Claire Redfield (2)
+Claire Redfield [2.]
+Claire Redfield [2]
+Клэр Редфилд [2]
+Claire Redfield [2nd]
+Claire Redfield [2ª]
+클레어 레드필드 [두 번째]
+克蕾兒 [二周目]
+克莱尔 [第 2 版本]
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Aside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_ClearGame_Bside
+GAME MODE
+Game Mode
+Mode
+Modalità
+Spielmodus
+Modo de juego
+Режим игры
+Tryb gry
+Modo de Jogo
+게임 모드
+遊戲模式
+游戏模式
+TOTAL TIME
+TOTAL TIME
+TEMPS TOTAL
+TEMPO IMPIEGATO
+GESAMTZEIT
+TIEMPO TOTAL
+ОБЩЕЕ ВРЕМЯ
+CAŁKOWITY CZAS
+TEMPO TOTAL
+총 시간
+總時間
+总时间
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0:D2}:{1:D2}:{2:D2}
+{0} / {1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+{0}/{1}
+S+
+S+
+S+
+S+
+S+
+S+
+S+
+S+
+S+
+S+
+S+
+S+
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+ファイルを記録した
+File obtained.
+Fichier obtenu.
+Hai ottenuto un documento.
+Dokument erhalten.
+Archivo obtenido.
+Получен файл.
+Uzyskano plik.
+Arquivo obtido.
+파일 획득.
+已取得檔案。
+已取得文件。
+RESULT
+RESULTS
+RÉSULTATS
+RISULTATI
+ERGEBNIS
+RESULTADOS
+РЕЗУЛЬТАТЫ
+WYNIKI
+RESULTADOS
+결과
+遊戲成果
+游戏成果
+SAVES
+SAVES
+SAUVEGARDES
+SALVATAGGI
+SPEICHERZÄHLER
+GUARDADOS
+СОХРАНЕНИЯ
+ZAPISY
+SALVOS
+저장
+儲存次數
+保存次数
+<ICON DECIDE> 次へ
+<ICON DECIDE> Next
+<ICON DECIDE> Suivant
+<ICON DECIDE> Successivo
+<ICON DECIDE> Weiter
+<ICON DECIDE> Siguiente
+<ICON DECIDE> Далее
+<ICON DECIDE> Dalej
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> Próximo
+<ICON DECIDE> 다음
+<ICON DECIDE> 繼續
+<ICON DECIDE> 继续
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+<ICON DECIDE> 
+YOU ARE DEAD
+YOU ARE DEAD
+VOUS ÊTES MORT
+SEI MORTO
+SIE SIND TOT
+HAS MUERTO
+ВЫ ПОГИБЛИ
+NIE ŻYJESZ
+VOCÊ MORREU
+YOU ARE DEAD
+YOU ARE DEAD
+YOU ARE DEAD
+YOU ARE TRAPPED
+YOU ARE TRAPPED
+VOUS ÊTES PRIS AU PIÈGE
+SEI IN TRAPPOLA
+SIE SIND IN DER FALLE
+ESTÁS ATRAPADA
+ВЫ В ЗАПАДНЕ
+JESTEŚ W POTRZASKU
+VOCÊ ESTÁ PRESA
+YOU ARE TRAPPED
+YOU ARE TRAPPED
+YOU ARE TRAPPED
+ラクーン市警の新人警官レオン・S・ケネディは、</n>立ち寄ったガソリンスタンドで、ゾンビの群れに襲われる。</n></n>その際、出会ったクレア・レッドフィールドと共に</n>ラクーンシティを目指すも、</n>乗り込んだパトカーの事故により、2人は分断されてしまう。</n></n></n>危険に満ちた街を走り抜け、</n>なんとかラクーン警察署にたどり着いたレオンだったが……
+It was supposed to be a short break for Leon S. Kennedy—just</n>one last pit stop at a gas station on the outskirts of town—when</n>the rookie cop found himself surrounded in a sea of zombies.</n></n>Along with a newfound friend, Claire Redfield, Leon managed to</n>escape to Raccoon City, only for an accident to split them apart.</n></n>Deftly navigating through the perilous streets, Leon has made his</n>way to the city's police station, but has he really made it to safety?
+En voulant faire une courte pause dans une station service aux</n>abords de la ville, Leon S. Kennedy, jeune recrue de la police</n>de Raccoon City, était loin d'imaginer qu'il se retrouverait au</n>beau milieu d'une marée de zombies.</n></n>Accompagné de Claire Redfield dont il vient de faire la rencontre,</n>Leon roule jusqu'à Raccoon City à bord d'un véhicule de police,</n>mais un accident vient séparer les deux compagnons d'infortune.</n></n>Se frayant un chemin parmi les dangers qui l'entourent, Leon</n>parvient à rejoindre le commissariat de la ville.</n>Est-il en sécurité pour autant ?
+Per Leon S. Kennedy doveva essere soltanto una breve sosta,</n>l'ultima fermata a una stazione di servizio appena fuori città.</n>Non avrebbe mai immaginato di rimanere circondato da</n>un'orda di zombi.</n></n>Assieme Claire Redfield, una ragazza da poco incontrata,</n>Leon riesce a raggiungere Raccoon City, ma è subito</n>costretto a separarsene a causa di un incidente.</n></n>Dopo aver evitato innumerevoli pericoli, Leon riesce</n>a raggiungere la centrale di polizia di Raccoon City.</n>Potrà ora considerarsi al sicuro?
+Es sollte nur ein kurzer Zwischenstopp für Leon S. Kennedy an</n>einer einsamen Tankstelle am Rande der Stadt sein, als sich der</n>frischgebackene Polizist plötzlich in einem Meer von Zombies</n>wiederfindet.</n></n>Er schafft es, mit einer neuen Bekannten, Claire Redfield, nach</n>Raccoon City zu fliehen. Allerdings werden die beiden durch</n>einen Unfall voneinander getrennt.</n></n>Leon schlägt sich durch die gefährlichen Straßen und erreicht</n>schließlich die Polizeistation der Stadt.</n>Aber hat er sich wirklich in Sicherheit gebracht?
+Lo que se supone que iba a ser un breve descanso para Leon S. Kennedy, una simple pausa en una gasolinera a las afueras de la ciudad, de pronto se convierte en un mar de zombis a su alrededor.</n></n>Junto a su nueva amiga, Claire Redfield, Leon consigue escapar hasta Raccoon City, aunque la mala suerte hace que un accidente les vuelva a separar.</n></n>Abriéndose paso hábilmente por las peligrosas calles, Leon consigue llegar hasta la comisaría de policía, pero... ¿le dará la comisaría la seguridad que busca?
+Для Леона С. Кеннеди это должна была быть лишь короткая</n>остановка на заправке сразу за городом. Именно тогда</n>молодого полицейского окружили волны зомби.</n></n>Вместе с новой знакомой, Клэр Редфилд, Леону удалось</n>добраться до Раккун-Сити, где судьба тут же разделила их.</n></n>Пробираясь по улицам города, Леон смог добраться</n>до полицейского участка. Но так ли там безопасно?
+Dla początkującego policjanta, Leona S. Kennedy'ego, to miała</n>być tylko krótka przerwa — ostatni przystanek na położonej na</n>obrzeżach stacji benzynowej, jednak podczas niej zostaje</n>otoczony przez chmarę zombie.</n></n>Wraz z dopiero co poznaną Claire Redfield uciekają do Raccoon</n>City, gdzie rozdzielają się w wyniku wypadku.</n></n>Przemykając po pełnych niebezpieczeństw ulicach, Leon</n>dociera na posterunek, ale czy jest już bezpieczny?
+Leon S. Kennedy, um policial em seu primeiro dia, só queria</n>fazer uma última parada em um posto de gasolina, nos arredores</n>da cidade, quando se viu cercado por uma multidão de zumbis.</n></n>Com Claire Redfield, uma nova amiga, ele fugiu para</n>Raccoon City, mas um acidente acabou os separando.</n></n>Abrindo caminho pelo caos das ruas da cidade, Leon</n>conseguiu chegar à delegacia... mas será que lá é seguro?
+잠깐의 휴식을 위해 도시 외곽에 위치한 주유소에 들른</n>신입 경찰관 레온 S. 케네디는 어느새 좀비에게</n>둘러싸인 자신을 발견합니다.</n></n>새로운 친구 클레어 레드필드와 함께 라쿤 시티로 피신하는 데</n>성공한 레온은 어떤 사건으로 인해 클레어와 헤어지게 됩니다.</n></n>이후 도심 속 위험을 교묘히 피해가며 경찰서에 도달하지만,</n>과연 그곳이 레온의 안전을 보장해줄 수 있을까요?
+里昂·S·甘迺迪原本只是想在市郊的加油站</n>最後加一次油，稍事休息而已，但這位新人</n>馬上就發現自己被殭屍大軍團團包圍。</n></n>里昂和他的新朋友克蕾兒·雷德菲爾勉強逃往</n>拉昆市，卻因一個意外事件而分開。</n></n>里昂敏捷地穿越危險的街道，終於抵達了該市</n>的警察局，不過這樣他就安全了嗎？
+新人警察里昂·S·肯尼迪原本只是打算在市郊的加油站</n>加最后一次油，稍微休息一下，结果他就发现自己被一大群</n>丧尸团团包围。</n></n>里昂和刚认识的朋友克莱尔·雷德菲尔德携手合作，总算抵</n>达了浣熊市，不过一场突如其来的意外又将两人分开了。</n></n>里昂灵活地穿过危机四伏的街头，终于抵达浣熊市警察局，</n>不过这样他就安全了吗？
+連絡の途絶えた兄を捜すため、ラクーンシティに向かって</n>バイクを走らせていたクレア・レッドフィールドは、</n>立ち寄ったガソリンスタンドで、ゾンビの群れに襲われる。</n></n>その際、出会ったレオン・S・ケネディと共に</n>ラクーンシティを目指すも、</n>乗り込んだパトカーの事故により、2人は分断されてしまう。</n></n></n>危険に満ちた街を走り抜け、</n>なんとかラクーン警察署にたどり着いたクレアだったが……
+Claire Redfield was on a mission to find her missing brother—a</n>mission that brought her here to Raccoon City. As she turned</n>her bike into a lonely gas station at the edge of town, she found</n>not her brother, but a hoard of zombies instead.</n></n>Luckily, she also found a new ally in Leon S. Kennedy. Together,</n>they escaped the gas station, only for an accident to separate</n>them on their arrival in the city.</n></n>Dodging dangers left and right, Claire has made her way to the</n>Raccoon City police station, but will she find what she seeks</n>here?
+Sans nouvelle de son frère, Claire Redfield se rend à Raccoon</n>City dans le but de le retrouver. En arrêtant sa moto dans une</n>station service isolée aux abords de la ville, ce n'est pas son</n>frère qu'elle trouve, mais une horde de zombies.</n></n>Claire fait également la rencontre de Leon S. Kennedy avec qui</n>elle s'échappe de la station service, mais un accident les</n>contraint à se séparer dès leur arrivée en ville.</n></n>Malgré les dangers sur sa route, Claire parvient à rejoindre le</n>commissariat de Raccoon City.</n>Y trouvera-t-elle ce qu'elle est venue chercher ?
+Le ricerche sul fratello scomparso portano Claire Redfield a</n>Raccoon City. Poco prima di entrare in città, Claire decide</n>di fare una sosta alla stazione di servizio, ma il fato vuole</n>che ad attenderla ci sia un'orda di zombi.</n></n>Fortunatamente riesce a fuggire assieme a colui che</n>a breve diventerà il suo alleato: Leon S. Kennedy.</n>I due raggiungono la città ma sono costretti a separarsi</n>dopo essere rimasti coinvolti in un incidente.</n></n>Evitando innumerevoli pericoli, Claire raggiunge</n>finalmente la centrale di polizia di Raccoon City.</n>Cosa ci sarà ad attenderla?
+Da sie jeden Kontakt zu ihrem Bruder verloren hat, macht sich</n>Claire Redfield auf die Suche nach ihm und erreicht dabei eine</n>einsame Tankstelle am Rande von Raccoon City.</n>Aber statt ihres Bruders findet sie nur eine Horde Zombies –</n>und einen neuen Verbündeten: Leon S. Kennedy.</n></n>Claire entkommt mit Leon von der Tankstelle, wird aber bei der</n>Ankunft in der Stadt durch einen Unfall wieder von ihm getrennt.</n></n>Gefahren von allen Seiten entgehend, erreicht sie</n>schließlich die Polizeistation von Raccoon City.</n>Aber wird sie dort finden, wonach sie sucht...?
+Tras haber perdido el contacto con su hermano, Claire Redfield se dirige</n>en su búsqueda hacia Raccoon City, empezando por una solitaria gasolinera</n>a las afueras de la ciudad. Pero en vez de encontrar a su hermano,</n>Claire se encuentra con una horda de zombis y con un nuevo aliado.</n></n>Claire consigue escapar de la gasolinera con Leon S. Kennedy, pero un accidente</n>los separa nada más llegar a Raccoon City.</n></n>Esquivando a zombis y diversos peligros, Claire se abre paso hasta la comisaría</n>de Raccoon City, pero... ¿encontrará allí lo que busca?
+Клэр Редфилд отправилась на поиски пропавшего брата, которые</n>привели ее в Раккун-Сити. Заехав</n>на своем мотоцикле на одинокую заправку за городом, она</n>обнаружила не своего брата, а толпы плотоядных зомби.</n></n>К счастью, она нашла там и нового союзника, Леона С. Кеннеди.</n>Вместе им удалось сбежать с заправки, но по прибытии в город</n>они тут же оказались разлучены.</n></n>Умело скрываясь от опасностей, Клэр удалось добраться до</n>полицейского участка Раккун-Сити, но найдет ли она там то, что</n>ищет?
+Claire Redfield trafiła do Raccoon City w poszukiwaniu swojego</n>zaginionego brata. Wjeżdżając motorem na odludną stację</n>benzynową, zamiast niego znalazła jednak hordę zombie.</n></n>Na szczęście spotkała również nowego sprzymierzeńca, Leona</n>S. Kennedy'ego. Wspólnie udaje im się uciec do miasta, tylko</n>po to, by rozdzielić się w wyniku wypadku.</n></n>Unikając zagrożeń czyhających na każdym kroku, Claire dociera</n>na posterunek policji w Raccoon City, ale czy znajdzie tu to,</n>czego szuka?
+Claire Redfield estava à procura do irmão desaparecido — uma</n>busca que a levou para Raccoon City. No entanto, ao virar com</n>sua moto para um posto de gasolina esquecido nos arredores da</n>cidade, ela encontrou não o irmão, mas uma hora de zumbis.</n></n>Felizmente, encontrou também um aliado: Leon</n>S. Kennedy. Os dois escaparam, mas logo foram</n>separados por um acidente ao entrar na cidade.</n></n>Escapando dos perigos, Claire conseguiu chegar à delegacia de</n>Raccoon City, mas será que encontrará o que procura por lá?
+클레어 레드필드는 사라진 오빠를 찾기 위해 라쿤 시티로</n>왔습니다. 하지만 오토바이를 타고 도시 외곽의 외딴</n>주유소에 도착한 클레어가 발견한 건 오빠가 아니라</n>엄청난 수의 좀비 무리였습니다.</n></n>다행히 새로운 친구 레온 S. 케네디를 만나 주유소를</n>탈출하는 데 성공하지만, 도시에 도착한 후 어떤 사건으로</n>인해 레온과 헤어지게 됩니다.</n></n>위험을 피해 라쿤 시티 경찰서에 도달한 클레어는 과연</n>자신의 목적을 이룰 수 있을까요?
+克蕾兒·雷德菲爾為了尋找她失蹤的哥哥而來到拉昆市。</n>在她騎著車進入城市外圍的一處荒涼加油站時，她沒有</n>發現她哥哥，反而是碰上了一大群殭屍。</n></n>幸運的是，她在這也碰上一個新夥伴：里昂·S·甘迺迪。</n>他們兩人一起逃出了加油站，卻在抵達城市前因一場意外</n>事件而分開。</n></n>克蕾兒四處躲避危險，總算到達了拉昆市警察局，但她能</n>在這裡找到她哥哥嗎？</n></n>
+克莱尔·雷德菲尔德为了寻找失踪的哥哥而来到浣熊市。</n>当她骑着摩托车进入城市边缘一间荒凉的加油站时，</n>她没有看见哥哥，而是碰上了一大群的丧尸。</n></n>幸好，她也遇见一名新战友里昂·S·肯尼迪，</n>他们两人携手逃出了加油站，却在抵达城市时被</n>一场意外拆散。</n></n>克莱尔躲避着环境中的各种危险，终于抵达浣熊市</n>警察局，不过她能在这里找到她哥哥吗？</n></n>
+R.P.D
+R.P.D.
+R.P.D.
+R.P.D.
+R.P.D.
+R.P.D.
+УЧАСТОК
+R.P.D.
+R.P.D.
+R.P.D.
+拉昆市警局
+浣熊市警察局
+日本語 [ja]
+Japanese [ja]
+Japonais [ja]
+Giapponese [ja]
+Japanisch [ja]
+Japonés [ja]
+Японский [ja]
+Japoński [ja]
+Japonês [ja]
+일본어 [ja]
+日文 [ja]
+日文 [ja]
+英語 [en]
+English [en]
+Anglais [en]
+Inglese [en]
+Englisch [en]
+Inglés [en]
+Английский [en]
+Angielski [en]
+Inglês [en]
+영어 [en]
+英文 [en]
+英文 [en]
+フランス語 [fr]
+French [fr]
+Français [fr]
+Francese [fr]
+Französisch [fr]
+Francés [fr]
+Французский [fr]
+Francuski [fr]
+Francês [fr]
+프랑스어 [fr]
+法文 [fr]
+法文 [fr]
+ドイツ語 [de]
+German [de]
+Allemand [de]
+Tedesco [de]
+Deutsch [de]
+Alemán [de]
+Немецкий [de]
+Niemiecki [de]
+Alemão [de]
+독일어 [de]
+德文 [de]
+德文 [de]
+イタリア語 [it]
+Italian [it]
+Italien [it]
+Italiano [it]
+Italienisch [it]
+Italiano [it]
+Итальянский [it]
+Włoski [it]
+Italiano [it]
+이탈리아어 [it]
+義大利文 [it]
+意大利文 [it]
+スペイン語 [es]
+Spanish [es]
+Espagnol [es]
+Spagnolo [es]
+Spanisch [es]
+Español [es]
+Испанский [es]
+Hiszpański [es]
+Espanhol [es]
+스페인어 [es]
+西班牙文 [es]
+西班牙文 [es]
+中国語（繁体字） [zh-TW]
+Chinese (Traditional) [zh-TW]
+Chinois (traditionnel) [zh-TW]
+Cinese tradizionale [zh-TW]
+Chinesisch (traditionell) [zh-TW]
+Chino (tradicional) [zh-TW]
+Китайский (трад.) [zh-TW]
+Chiński (tradycyjny) [zh-TW]
+Chinês (Tradicional) [zh-TW]
+중국어(번체) [zh-TW]
+繁體中文 [zh-TW]
+繁体中文 [zh-TW]
+中国語（簡体字） [zh-CN]
+Chinese (Simplified) [zh-CN]
+Chinois (simplifié) [zh-CN]
+Cinese semplificato [zh-CN]
+Chinesisch (vereinfacht) [zh-CN]
+Chino (simplificado) [zh-CN]
+Китайский (упр.) [zh-CN]
+Chiński (uproszczony) [zh-CN]
+Chinês (Simplificado) [zh-CN]
+중국어(간체) [zh-CN]
+簡體中文 [zh-CN]
+简体中文 [zh-CN]
+韓国語 [ko]
+Korean [ko]
+Coréen [ko]
+Coreano [ko]
+Koreanisch [ko]
+Coreano [ko]
+Корейский [ko]
+Koreański [ko]
+Coreano [ko]
+한국어 [ko]
+韓文 [ko]
+韩文 [ko]
+ロシア語 [ru]
+Russian [ru]
+Russe [ru]
+Russo [ru]
+Russisch [ru]
+Ruso [ru]
+Русский [ru]
+Rosyjski [ru]
+Russo [ru]
+러시아어 [ru]
+俄文 [ru]
+俄文 [ru]
+ポーランド語 [pl]
+Polish [pl]
+Polonais [pl]
+Polacco [pl]
+Polnisch [pl]
+Polaco [pl]
+Польский [pl]
+Polski [pl]
+Polonês [pl]
+폴란드어 [pl]
+波蘭文 [pl]
+波兰文 [pl]
+ブラジルポルトガル語 [pt-BR]
+Brazilian Portuguese [pt-BR]
+Portugais (Brésil) [pt-BR]
+Portoghese brasiliano [pt-BR]
+Brasilianisches Portugiesisch [pt-BR]
+Portugués de Brasil [pt-BR]
+Португальский (Бразилия) [pt-BR]
+Brazylijski (Portugalia) [pt-BR]
+Português Brasileiro [pt-BR]
+포르투갈어(브라질) [pt-BR]
+巴西葡萄牙文 [pt-BR]
+巴西葡萄牙文 [pt-BR]
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+∞
+∞
+∞
+∞
+∞
+∞
+∞
+∞
+∞
+∞
+∞
+∞
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PS4
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_Xone
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_Hard_PC
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_GameTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveTitle
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Leon S. Kennedy
+Леон С. Кеннеди
+Leon S. Kennedy
+Leon S. Kennedy
+레온 S. 케네디
+里昂·S·甘迺迪
+里昂·S·肯尼迪
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+<COLOR FF0000>#Rejected#</COLOR> Mes_Sys_Common_SystemSaveDetail
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Claire Redfield
+Клэр Редфилд
+Claire Redfield
+Claire Redfield
+클레어 레드필드
+克蕾兒·雷德菲爾
+克莱尔·雷德菲尔德
+Ada Wong
+Ada Wong
+Ada Wong
+Ada Wong
+Ada Wong
+Ada Wong
+Ада Вонг
+Ada Wong
+Ada Wong
+에이다 웡
+艾達·王
+王艾达
+Sherry Birkin
+Sherry Birkin
+Sherry Birkin
+Sherry Birkin
+Sherry Birkin
+Sherry Birkin
+Шерри Биркин
+Sherry Birkin
+Sherry Birkin
+셰리 버킨
+雪莉·柏金
+雪莉·柏金
+Thank you for playing.
+Thank you for playing.
+Merci d'avoir joué !
+Grazie per aver giocato!
+Danke fürs Spielen!
+¡Gracias por jugar!
+Благодарим за игру.
+Dziękujemy za grę.
+Obrigado por jogar.
+플레이해주셔서 감사합니다.
+感謝您的遊玩。
+感谢您的游玩。
+Jan. 25, 2019
+Jan. 25, 2019
+25 janvier 2019
+25 Gennaio 2019
+25. Januar 2019
+25 de enero de 2019
+25 января 2019 г.
+25 stycznia 2019 r.
+25 de janeiro de 2019
+2019년 1월 25일
+2019 年 1 月 25 日
+2019 年 1 月 25 日
+Pre-order Now
+Pre-order Now
+Disponible en précommande !
+Preordina ora
+Jetzt vorbestellen
+Haz ya tu pedido anticipado.
+Оформите предзаказ
+Zamów w przedsprzedaży jeszcze dzisiaj
+Peça já na pré-venda
+지금 예약주문
+立即預購
+立即预购
+Pre-order Now
+Pre-order Now
+Disponible en précommande !
+Preordina ora
+Jetzt vorbestellen
+Haz ya tu pedido anticipado.
+Оформите предзаказ
+Zamów w przedsprzedaży jeszcze dzisiaj
+Compre já na pré-venda
+지금 예약주문
+立即預購
+立即预购
+#re2 / #バイオ2
+#re2
+#re2
+#re2
+#re2
+#re2
+#re2
+#re2
+#re2
+#re2
+#re2
+#re2
+※地域およびプラットフォームによって異なります。
+*Availability subject to regions and platforms.
+*La disponibilité varie selon la région et la plateforme.
+*Disponibilità soggetta alla regione e alla piattaforma.
+*Die Verfügbarkeit hängt von Region und Plattform ab.
+* Disponibilidad según región y plataforma.
+* Доступность зависит от региона и платформы.
+* Dostępność zależy o regionu i platformy.
+*A disponibilidade depende de cada região e plataforma.
+*지역 및 기기에 따라 출시일이 다를 수 있습니다.
+*實際狀況可能依地區和平台而有所不同。
+*实际状况可能因地区和平台而有所不同。
+ランクタイム
+Rank Time
+Temps requis
+TEMPI RICHIESTI
+Benötigte Zeit
+Rango por tiempo
+Ранг (время прохождения)
+Czas zdobycia rangi
+Tempo da Nota
+등급 달성 시간
+獲得評價時間
+获得评分时间

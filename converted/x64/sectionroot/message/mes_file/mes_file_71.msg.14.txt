@@ -1,0 +1,36 @@
+﻿レオンの書き置き
+Leon's Note
+Mot de Leon
+Nota di Leon
+Leons Notiz
+Nota de Leon
+Письмо Леона
+Notatka Leona
+Bilhete do Leon
+레온의 쪽지
+里昂的紙條
+里昂的便笺
+クレア</n></n>ここに辿り着いたのなら、あと少しで街の外だ。</n>俺はある用事を片付けてから脱出する。</n>クレア、もし俺が戻れなかったら、君に頼みたい。</n>街がこうなったのはアンブレラのせいだ。</n>アンブレラの正体を多くの人に伝えてくれ。</n><RIGHT>レオン
+Claire,</n></n>If you've made it this far, you're almost out of</n>the city. I've got to take care of something</n>before I leave, but I need to tell you something</n>in case I don't make it: this was all Umbrella's</n>doing. Let the people know.</n><RIGHT>Leon
+Claire,</n></n>Si tu es arrivée jusqu'ici, alors tu es presque</n>sortie de la ville. J'ai quelque chose à régler</n>avant de partir, mais je voulais te dire ceci</n>au cas où je ne m'en sors pas : Umbrella est</n>derrière tout ça. Il faut que tu le dises à tout</n>le monde.</n></n><RIGHT>Leon
+Claire,</n></n>se stai leggendo questa nota, vuol dire che</n>sei riuscita a scappare dalla città. Io devo</n>ancora risolvere una questione che ho</n>in sospeso, prima di potermene andare.</n>Nel caso in cui non dovessi farcela, devi</n>sapere che tutto questo è opera della Umbrella.</n>Ti prego, fallo sapere al mondo intero.</n></n><RIGHT>Leon
+Claire,</n></n>wenn du es bis hier geschafft hast, bist du</n>fast aus der Stadt raus. Ich muss noch etwas</n>erledigen, bevor ich hier weg kann. Aber falls</n>ich es nicht schaffe: Das war alles Umbrellas</n>Schuld. Lass es die Öffentlichkeit wissen.</n><RIGHT>Leon
+Claire,</n></n>Si has llegado hasta aquí, ya casi estarás</n>fuera de la ciudad. Tengo que ocuparme de</n>algo antes de irme, pero debo decirte algo</n>en caso de que no lo consiga: Todo esto</n>es culpa de Umbrella. Díselo a todo el mundo.</n></n><RIGHT>Leon
+Клэр!</n></n>Раз ты добралась сюда, то скоро сможешь</n>покинуть этот город. Мне еще нужно разобраться</n>с одним делом, но хочу, чтобы ты знала: за всем</n>этим стоит Umbrella. Если я не выберусь,</n>расскажи всем сама.</n><RIGHT>Леон
+Claire,</n></n>jeśli dotarłaś aż tutaj, już prawie</n>udało Ci się wydostać z miasta. Muszę się jeszcze</n>czymś zająć, zanim do Ciebie dołączę, ale na</n>wypadek, gdyby miało mi się nie udać, muszę</n>Ci coś przekazać: za wszystkim stoi Umbrella.</n>Powiadom o tym, kogo trzeba.</n><RIGHT>Leon
+Claire,</n></n>se chegou até aqui, você já está quase fora</n>da cidade. Tive que resolver um problema</n>antes de sair. Caso eu não sobreviva, você</n>precisa saber de uma coisa: é tudo culpa da Umbrella.</n>As pessoas precisam saber.</n><RIGHT>Leon
+클레어,</n></n>여기까지 왔다면, 도시를 거의 다</n>빠져나온 겁니다. 난 떠나기 전에 처리할 일이</n>좀 있어요. 하지만 내가 살아 나가지 못할 수도</n>있으니, 클레어에게 말해둘게요. 이 모든 일은</n>엄브렐러 짓이에요. 사람들에게 알려요.</n><RIGHT>레온
+克蕾兒，</n></n>如果妳已經到了這裡，妳就幾乎要離開</n>這座城市了。我還有些事需要處理完才</n>能離開，但以防我沒能成功逃出去，我</n>得先跟妳說一件事：這一切全是保護傘</n>公司的傑作。把真相告訴世人吧。</n><RIGHT>里昂
+克莱尔，</n></n>如果你已经抵达这里，表示你就快离开</n>这个城市了。我在离开前还有点事要处</n>理，我有可能无法成功逃离，所以我得</n>先告诉你一件事：这一切都是保护伞公</n>司搞的鬼。告诉世人真相吧。</n><RIGHT>里昂
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>

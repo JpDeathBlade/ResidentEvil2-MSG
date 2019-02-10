@@ -1,0 +1,48 @@
+﻿修理業者からの手紙
+Repair Shop Letter
+Lettre du réparateur
+Lettera negozio di riparazioni
+Brief des Reparaturservice
+Carta del taller
+Письмо из ремонтной мастерской
+List z warsztatu
+Carta da Assistência Técnica
+수리점의 편지
+修理廠的信
+修理店信件
+お問い合わせ頂いた署長室の電子ドアの故障について</n>ご連絡します。</n>お伝え頂いた状況から考えるに、使用されている部品の</n>交換が必要なようです。</n></n>規格の問題で<COL FILE_EMP>特注部品</COLOR>にしか対応しておりませんが、</n>幸いなことに、当社系列店の者が時計台の修繕に</n>伺っており、同型の品を市警に納品しております。
+From your description regarding the electronic</n>lock on the door in the police chief's office,</n>it sounds like something needs replacing.</n></n>You will need some <COL FILE_EMP>power panel parts</COLOR> to</n>fix the issue. Fortunately, a repairman from</n>one of our stores is at the station to repair</n>the bell in the clock tower.
+D'après ce que vous nous dites concernant</n>le système de verrouillage électronique</n>de la porte à barreaux dans le bureau du</n>chef de la police, il semble que quelque</n>chose doive être remplacé.</n></n>Il vous faut des <COL FILE_EMP>pièces de panneau électrique</COLOR></n>pour résoudre ce problème. Justement, un</n>réparateur d'une de nos boutiques est au</n>commissariat pour réparer la cloche de</n>l'horloge.
+Dalla vostra descrizione della serratura</n>elettronica situata nella collezione privata,</n>pare sia necessario sostituire qualcosa.</n></n>Per ripararla vi serviranno dei <COL FILE_EMP>componenti</n>per quadri elettrici</COLOR>. Per fortuna, un nostro</n>addetto si trova alla centrale per riparare</n>la campana della torre dell'orologio.
+Ihrer Beschreibung des elektronischen Tür-</n>schlosses im Polizeichefbüro nach muss</n>wahrscheinlich etwas ausgetauscht werden.</n></n>Sie brauchen <COL FILE_EMP>Schaltschrankteile</COLOR>, um das</n>Problem zu beheben. Zum Glück ist gerade einer</n>unserer Mitarbeiter in der Polizeistation, um die</n>Glocke des Uhrenturms zu reparieren.
+Por su descripción del problema con</n>el cerrojo electrónico de la oficina</n>del jefe de policía, me parece que hay</n>que cambiar alguna cosa.</n></n>Necesitará una <COL FILE_EMP>pieza de panel eléctrico</COLOR></n>para arreglarlo. Por suerte, uno de los técnicos</n>de la tienda está en la comisaría arreglando la</n>campana de la torre del reloj.
+Судя по описанию проблемы с электронным</n>замком на двери в офис шефа полиции,</n>нам придется кое-что заменить.</n></n>Для ремонта потребуются <COL FILE_EMP>детали электрощитка</COLOR>.</n>К счастью, в участке должен быть ремонтник</n>из одного из наших магазинов. Он должен был</n>решить проблемы с часовой башней.
+Z opisu elektronicznego zamka w biurze</n>komendanta policji wynika, że jakaś część</n>wymaga wymiany.</n></n>Do naprawy potrzebna będzie <COL FILE_EMP>kostka z obwodami</COLOR>.</n>Na szczęście na posterunku jest akurat</n>serwisant z jednego z naszych warsztatów.</n>Zajmuje się naprawą dzwonu na wieży zegarowej.
+Considerando sua descrição da trava eletrônica</n>na porta do escritório do chefe de polícia,</n>me parece que ela precisa ser substituída.</n></n>O senhor vai precisar de um <COL FILE_EMP>componente de</n>painel</COLOR> para resolver o problema. Por acaso, tem</n>um técnico de uma loja nossa na delegacia,</n>consertando o sino da torre do relógio.
+경찰서장 사무실 문의 도어락에 대한</n>내용을 확인해 보니 교체가 필요할 듯 합니다.</n></n><COL FILE_EMP>전력 패널 부품</COLOR>이 필요합니다.</n>다행히도 우리 매장 수리공이</n>시계탑의 종을 수리하기 위해 경찰서에</n>있다고 하더군요.
+根據你對警局辦公室門上電子鎖的描述，</n>它需要更換零件。</n>你需要一些<COL FILE_EMP>電力面板零件</COLOR>才能把它修好。</n></n>幸好，我們其中一間店的修理工正在警局修理</n>鐘樓裡的鐘。
+根据你对警察局长办公室门上电子锁的描述，</n>感觉某些东西需要更换。</n></n>要修好这东西，你得准备一些<COL FILE_EMP>电源板零件</COLOR>。</n>幸运的是，我们某间店的修理工正好在警察局</n>修理钟楼内的钟。</n></n>
+担当者が申しますには、3階の<COL FILE_EMP>東倉庫</COLOR>に運び入れたとの</n>ことです。</n>もし、不具合が起きたり、数が足りないといったことが</n>ございましたら、<COL FILE_EMP>時計台</COLOR>におります当社の者に</n>お声がけくださいませ。</n></n>それでは、今後とも当社をよろしくお願いいたします。
+We sent a few spare parts with him, and he</n>reported that he left one in the 3rd floor <COL FILE_EMP>east</n>storage room</COLOR>. If something goes wrong or you</n>need more than one, please don't hesitate to</n>seek him out in the <COL FILE_EMP>clock tower</COLOR>.</n></n>We look forward to serving you again.
+Il a emporté quelques pièces, et il a dit</n>en avoir laissé une dans la <COL FILE_EMP>salle de stockage</n>est</COLOR> du niveau 3F. En cas de problème,</n>ou s'il vous en faut d'autres, n'hésitez</n>pas à aller le voir dans la <COL FILE_EMP>tour de l'horloge</COLOR>.</n></n>Cordialement.
+Gli abbiamo affidato alcuni pezzi di ricambio</n>e ci ha riferito di averne lasciato uno</n>al piano 3F, nel <COL FILE_EMP>magazzino dell'ala est</COLOR>.</n>Se qualcosa andasse storto o vi servisse</n>un altro componente speciale, non esitate</n>a chiedere all'addetto nella <COL FILE_EMP>torre dell'orologio</COLOR>.</n></n>Restiamo a vostra disposizione.
+Wir haben ihm ein paar Ersatzteile mitgegeben</n>und er sagt, er habe eins im <COL FILE_EMP>Lagerraum Ost</COLOR></n>im Stockwerk 3F gelassen. Sollte etwas</n>schiefgehen oder Sie mehr benötigen, suchen</n>Sie ihn einfach im <COL FILE_EMP>Uhrenturm</COLOR> auf.</n></n>Wir sind Ihnen stets gerne behilflich.
+Lleva varias piezas de repuesto y ha</n>dejado una en el tercer piso, en el</n><COL FILE_EMP>almacén este</COLOR>. Si algo va mal o necesita</n>más de una, no lo dude y búsquelo en la</n><COL FILE_EMP>torre del reloj</COLOR>.</n></n>Encantados de atenderle.
+У него должно быть несколько запасных деталей,</n>и он сообщил, что оставил одну из них</n>в <COL FILE_EMP>восточной кладовой</COLOR> на третьем этаже. Если</n>что-то пойдет не так или вам потребуется больше</n>деталей, поищите его в <COL FILE_EMP>часовой башне</COLOR>.</n></n>Будем рады помочь вам в будущем.
+Ma z sobą kilka części zamiennych i zgłaszał,</n>że jedną z nich zostawił na drugim piętrze</n>we <COL FILE_EMP>wschodnim magazynie</COLOR>. W razie awarii lub</n>jeśli potrzebnych będzie więcej części, proszę</n>zwrócić się do serwisanta w <COL FILE_EMP>wieży zegarowej</COLOR>.</n></n>Cieszymy się, że skorzystali Państwo z naszych</n>usług.
+Mandamos alguns componentes sobressalentes</n>com ele, que disse que deixou um no</n><COL FILE_EMP>almoxarifado leste</COLOR> do 3º andar. Se alguma</n>coisa der errado ou se você precisar de mais</n>de um, pode procurá-lo na <COL FILE_EMP>torre do relógio</COLOR>.</n></n>Esperamos poder ajudá-los novamente em breve.
+예비 부품을 몇 개 가지고 갔는데,</n>3층 <COL FILE_EMP>동쪽 저장실</COLOR>에 하나를 두고 왔다고</n>보고해 왔습니다. 뭔가 잘못되거나 부품이</n>두 개 이상 필요하면 걱정 말고</n><COL FILE_EMP>시계탑</COLOR>에서 그 직원을 찾아주십시오.</n></n>또 필요한 일이 있다면 연락 주시기 바랍니다.
+我們讓他帶了幾個備用零件，</n>他說他把其中一個留在<COL FILE_EMP>東倉庫</COLOR>的三樓了。</n>如果發生問題或是一個不夠，請別猶豫，</n>儘管去<COL FILE_EMP>鐘樓</COLOR>找他。</n>期待能再次為您服務。
+我们给他送去了几个零件，</n>他说自己在三楼的<COL FILE_EMP>东侧储藏室</COLOR></n>留了一个。要是出了问题或者你</n>需要不止一个零件，请随时到</n><COL FILE_EMP>钟楼</COLOR>找他要。</n></n>我们期待能再次为你服务。
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
+<END>
